@@ -1,0 +1,10 @@
+# BnF, fr 3641 n°58, f.124r (vue 265), 3 passages chiffrés — duc de Feria → don Juan de Idiáquez, Paris, 7/4/1593 (résultat n°37). Licence CC BY 4.0.
+# Notation : N. = point après (-n) ; N: = « : » après (-r) ; N^ = ^ (-s) ; ~N = crochet au-dessus (-r-) ; °N = ° au-dessus (-h-) ; ¨N = tréma (consonne double) ; ṅ = el ; lettres latines = signes-lettres ou codes de mots.
+# Transcription de l'équipe sur les images Gallica pleine résolution ; 17 lignes relues à l'aveugle par le vérificateur (≈ 97 % d'accord au groupe).
+P1L1	se 88 62: 4 90. 22 2 62^ 73 n^ 80 89 68 16 gom 68: ni 4 47 87 2 73 91 24 77 z
+P1L2	z n^ 80 87 ¨45 73 72 n. 23 66. 23 83 21 ni tis
+P2L1	66 78 vur
+P2L2	30 °88 36. 21 16. 92 31 4̇ no 23 90. d 23 15 35 xol 91 4 ~68 88 °19 ni pal xor
+P2L3	48 73 72 f 76
+P3L1	16. ni xel 4 90. 22 2 62^ z 21. 23 46 4 87 z 4 87 90 21 45 mo+ far 73 4 87 z
+P3L2	55^ 73 4 73 ¨48 f 75 35 fal 41 °19

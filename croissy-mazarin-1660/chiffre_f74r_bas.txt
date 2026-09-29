@@ -1,0 +1,20 @@
+# BnF, Baluze 178, f.74r, bas (vue 180) — Colbert de Croissy → Mazarin, Danzig, 9/5/1660, copie (résultat n°22). Transcription de l'équipe sur l'image Gallica pleine résolution. Licence CC BY 4.0.
+# Conventions : nombre nu = 21 ; macron = 101- ; circonflexe = 67^ ; tréma = 99: ; aigu = 12' ; ? = douteux ; ?? = illisible ; 'mot' = mot en clair.
+# Signes graphiques (noms de travail) : PSI (Ψ = r), PHI (φ = a), THETA / TH2 (θ à barre interne = g / débordante = t), M7 (ɱ barré, a ou e), B (ɓ = l), BT (ƀ, t ou et), FC (ǂ = c), FP, FF, XX, OMEGA, R, X, S, DEL (ꝺ), 4P, 4F, LAM2, QN, V (ʋ = l), 8G, M2B.
+# Annotations de mesure : JETON=val = valeur retenue par le sens (signe ambigu ou hors table) ; JETON! = non compris.
+B01: 'Mr' 39 27 M7 34 FF TH2 21 40 34 66=ma 101- PSI 50^ 81: FF 158- 'dans' 50^ 67^ FF 67^ 157-
+B02: 34 FF 'et' 77^ 49:! 66=ma 'de' 'plus' 38 PSI XX M7 41=da FF 157- 41 144- 40 104- 158- 178- 195-
+B03: 72^ 'V.E.' 136- 178- M7 34 22 6 M XX 26 'tousjours' M7=a 8G N4 2 32 144- 42- 157- 21=co
+B04: 34 75- PSI 67^ 40 'entierement' M7=a 157- FF 42- 44 157- LAMBDA QN=n 7 'qu'il' 'falloit' 132- 54^ Q1 34
+B05: 86^ 68^ FF 'mesme' 'de' 'V.E.' 158- B 42 54- 144- FF 179- XX BT 25 197- 41 5 FF 157- 34 TH2 132- B
+B06: 50^ 67^ 145- 179- XX 26 25 195- 23 36^=ju FF 178- 99: 'toutte' 49^ 30 36 M XX 144- 41=da
+B07: 197- XX PSI 44- 34 86^ 49^ 112-=paix 25 'toutte' 49^ 8C X2 PSI M7 FF 178- M7 177- 132- 109- 'cette'
+B08: 'derniere' XX N4 86^ 44=do 41 179- XX 26 'point' 'que' 'V.E.' 86^ 156- 38 36? XX 131-=qua
+B09: 'doresnavant' 25 54- 144- 99: 41 XX B 51^ PSI 50^ 20 40 1 32 BT 'qui' 'estoit' 41=da FF 157-
+B10: 41 144- PSI 49^ 160- FC 99: FF 158- 39 34 42- 'pologne' 109- 1 QN=n M2B=p PSI XX 34 99: R=q S
+B11: 3 76- BT XX 34 157- 101- 143- 24 B M7 72^ 25 BT 176- FC C M7 M7=a 49^ OMEGA PSI M7=a 34 99: BT=et 38
+B12: PSI M7 195- 87^ PSI 54^ 42- FF 157- XX 34 FF 'qu'avoit' 49^ 66=ma XX 159- 34 41=da 41 FF BT PSI
+B13: XX FC C M7 160- PSI 99: BT 177- 21=co 41 146- 34 86^ 132- 27: M
+B14: OMEGA 20 PSI M XX BT 81: 27 'polonnois' 'Un' 157- 21=co 41 PSI FF 42- XX! 9! 22^ 35 67^ FF
+B15: 21=co 34 BT PSI M7 54^ 69^ FF 21=co 196- 177- FF 'non' 'pas' 109- 50^ 41 PSI 44=do 34 86^ PSI
+B16: 69^ 42 54- 42- 74- 87^ PSI 99: TH2 BT 4 95-=guerre 'mais' 38 53^ FF 179- FF BT 109- 50^ 34 'tre'

@@ -2,15 +2,15 @@
 
 **BnF Français 3414 (pièce 78) et Français 4715 (n°27, 35, 37, 47, 48, 58) — résultats n°4, 5, 9, 10, 11, 12, 13. Étiquette : « première lecture avec clé publiée
 (S. Tomokiyo, chiffre « Vieuville–Nevers ») + nos compléments ».** La table de Tomokiyo n'est **pas** reproduite ici ; nos ajouts (≈ 1-3 % du texte) sont dans `cle/`.
-Les sept lectures sont **confirmées avec réserves** par des vérificateurs indépendants. Deux restent **au seuil ou sous le seuil de 80 %** (n°10 ≈ 75 % ; n°11 ≈ 80 %, 78-79 % au niveau de la phrase).
+Les sept lectures sont **confirmées avec réserves** par des vérificateurs indépendants. Deux restent **sous le seuil de 80 %** (n°10 ≈ 75 % ; n°11 ≈ 80 % annoncé, 78-79 % au niveau de la phrase) : ce sont des **lectures partielles**, non des confirmations pleines.
 
 | n° | pièce | date | taux (vérificateur) | réserves principales | dossier |
 |---|---|---|---|---|---|
 | 4 | fr 3414 p.78, deux billets (f.127, f.126) | 15 et 18/11/1589 | ≈ 85 % du chiffré ; 95,5 % des groupes par la clé publiée | clair survolé ; ~25 non résolu | [fr3414-f127](fr3414-f127/), [fr3414-f126](fr3414-f126/) |
 | 5 | fr 4715 n°58, f.81r, L18-L40 | 8/11/1589 | L18-L28 ≈ 85-90 %, L29-L40 ≈ 90-95 % ; aveugle ≈ 95 % | ~25, ~50, ~85 non identifiés | [fr4715-n58-f81](fr4715-n58-f81/) |
 | 9 | fr 4715 n°37, f.60r | 12/12/1589 | ≈ 86 % ; aveugle ≈ 96 % | '12, '81, '92 ouverts ou HYP | [fr4715-n37-f60](fr4715-n37-f60/) |
-| 10 | fr 4715 n°48, f.71r | s.d. (fin 1589) | **≈ 75 %** | **sous 80 %** ; zone Q restructurée | [fr4715-n48-f71](fr4715-n48-f71/) |
-| 11 | fr 4715 n°35, f.58r | 26/11/1589 | **≈ 80 % (78-79 % phrase)** | **marge nulle** ; clair lu à 35-40 % | [fr4715-n35-f58](fr4715-n35-f58/) |
+| 10 | fr 4715 n°48, f.71r | s.d. (fin 1589) | **≈ 75 %** | **sous le seuil de 80 % — lecture partielle** ; zone Q restructurée | [fr4715-n48-f71](fr4715-n48-f71/) |
+| 11 | fr 4715 n°35, f.58r | 26/11/1589 | **≈ 80 % (78-79 % phrase)** | **sous le seuil de 80 % au niveau de la phrase — lecture partielle** (marge nulle) ; clair lu à 35-40 % | [fr4715-n35-f58](fr4715-n35-f58/) |
 | 12 | fr 4715 n°47, f.70r | s.d. (fin 1589 - déb. 1590) | ≈ 88 % des parties non glosées | « le lega[t] » douteux ; nulle « 3 » contestée | [fr4715-n47-f70](fr4715-n47-f70/) |
 | 13 | fr 4715 n°27, f.50r, L04-L22 | 30/10/1589 | 91,0 % phrase / 88,2 % strict | L13-L14 non comprises ; ''84 = légat (preuve interne) | [fr4715-n27-f50](fr4715-n27-f50/) |
 

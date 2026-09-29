@@ -1,0 +1,17 @@
+# BnF, Clairambault 369, f.2v (Gallica vue 10 gauche) + f.3r l.1 (vue 10 droite) — Baugy → Mangot, Prague, 1er octobre 1616 (résultat n°45). Transcription de l'équipe. Licence CC BY 4.0.
+# Notation : ¨N = chiffre à tréma ; ſ = i long (valeur i) ; ʒ = g à crochet court (valeur m) ≠ g à boucle longue (valeur d) ; ƒ = y barré (valeur u) ; ∂ = d rond (valeur r) ; r¨ = r à tréma (valeur o) ;
+# [G] = groupe(s) perdus dans la reliure (non récupérables sur l'image) ; ? = lecture douteuse ; {clair} = texte en clair. Lignes L0-L11 = f.2v ; F3r = f.3r l.1.
+# Corrections du vérificateur (voir README § 4) : fin de L6 = ʒ ; le 2e « g » de « Piedmont » (L3) = ʒ ; fin de L5 = ∂ ; L9 « co » coupé.
+L0	{ceste procedure et longueur. Mais plus. croyent} 41 COUPE? [G]
+L1	¨13 m S 50 n ¨6 ¨16 h ¨10 & h 2 84 S co 57 49 ¨7 ƒ P 10 ¨4 81 1 n ſ ¨4 h [G]
+L2	& h t ſ Z R ¨19 ρ ¨3 e m o ¨13 51 41 co ρ 51 ¨4 h ρ 51 g n t v ¨7 ¨3 P 10 co 81 51 [G]
+L3	& ſ v ƒ 41 90 ¨27 ¨13 41 ƒ o 51 g ∂ 81 S co y co ¨7 ƒ o ¨4 81 51 ρ o 2 g g 81 ¨4 [G]
+L4	m 9 ʒ e n ∂ g ſ h % 44 e n m & 7 10 n ∂ 41 10 ƒ t ſ б n 68 ƒ r¨ ¨3 m [G]
+L5	t a ∂ n 52 51 g ¨19 ¨13 ¨27 m S ¨10 ¨30 50 & 2 t ¨3 h ¨4 ƒ 10 ρ o 2 g {autant} [G]
+L6	{favoriser les affaires} 42 23 30? & ¨19 ¨4 ¨7 ƒ o ƒ 9 ƒ g ∂ r¨ ſ 52 ¨19 ʒ? [G]
+L7	¨4 ¨3 ¨30 & h 41 R ¨19 & 51 ¨29 41 ʒ 9 t ¨25 S * 49 {pour impescher qu'il[z]}
+L8	{fortifient} 41 co & Z 9 ¨3 ρ 90 h co 41 74 41 ¨23 ¨13 ρ 9 ƒ ∂ S co ρ Z r¨ ρ [G]
+L9	o t & 2 ∂ 50 10 42 ¨27 / {Quoy qu'il en soit, je remarque que} S co [G]
+L10	41 ρ ¨3 ſ co R t 9 ƒ 90 2 m S 41 R 43 h ¨19 & 51 ¨29 R ¨13 m S P 10 ¨4 n ƒ r¨ ¨3 Z [G]
+L11	m r¨ t 63 б r¨ ¨3 co & ¨4 h 29 6 ſ Z ʒ 52 51 R ſ n m r¨ ¨3 ¨4 ſ h ¨7 ƒ P 10 n ƒ r¨ [G]
+F3r	29 ¨27 ƒ a 41 co n m 90 ſ 51 ¨27 co 49 41 R e? h? t h o t & 2 m 90 ſ б 51 ¨27 g 52 ¨19 63 co 69 10 , {comme s'ilz croyoient fermement qu'elles ayent conspiré leur entiere ruine...}

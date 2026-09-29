@@ -1,0 +1,14 @@
+# BnF, Baluze 178, f.74v (vue 181) — Colbert de Croissy → Mazarin, Danzig, 9/5/1660, copie (résultat n°22). Transcription de l'équipe sur l'image Gallica pleine résolution. Licence CC BY 4.0.
+# Conventions : nombre nu = 21 ; macron = 101- ; circonflexe = 67^ ; tréma = 99: ; aigu = 12' ; ? = douteux ; ?? = illisible ; 'mot' = mot en clair.
+# Signes graphiques (noms de travail) : PSI (Ψ = r), PHI (φ = a), THETA / TH2 (θ à barre interne = g / débordante = t), M7 (ɱ barré, a ou e), B (ɓ = l), BT (ƀ, t ou et), FC (ǂ = c), FP, FF, XX, OMEGA, R, X, S, DEL (ꝺ), 4P, 4F, LAM2, QN, V (ʋ = l), 8G, M2B.
+# Annotations de mesure : JETON=val = valeur retenue par le sens (signe ambigu ou hors table) ; JETON! = non compris.
+V01: 177- 87^ PSI THETA! M7! 197-! XX! PSI! 41! QN! 21! PSI! 38! 7! 41! PSI! 69^! 'y' 'considerant' ??! ??!
+V02: FF! 50^! 101-! 42-! FF! 'jusques' M7=a 1 34 XX 34 177- 144- 30 86^ M 41 132- 49^ 24 86:?=ba
+V03: 26 177- 72^ 42- FF 'polonnois' 50^ 41 PSI 'fassent' 38 PSI M7 34 22 PSI M7 49^ 144- 159-
+V04: 53^ 182- 42- 56^ 42- 73- 144- 40 49^ 21=co 1 146- 34 86^ 45- 196- 194- 34 BT 45- 146- 42 'qu'il'
+V05: M7! 'avoit' 'point' 42- 67^ XX B 50^ 41 PSI 69^ 42 54- 42- 146- 35 38 6 21 157- FF 42- FF
+V06: 157- XX 34 FF 'que' 42- 83- 41 86^ M7=a B 51^ 25 34 99: 57-=avec 49^ OMEGA PSI M7=a 34 99: 49^ 160-
+V07: M7 42- BT=et 49^ 104- 52^ 30 86^ ET9 132- 'Vraysemblablement' 54^ 157- 21=co 41 PSI FF 172!
+V08: 'seroient' 179- 41 FF 35^ 41 40 FF 38 53^ FF M7=a 30 PI M7 25 PHI! 29! B M7 FF 81: 27
+V09: 'polonnois' 132- 54^ 81: TH2 PSI XX FC C XX 34 FF 44- 34 TH2 'ilz' M7=a 197- XX M7
+V10: 34 BT 'tant' 42- 160- 33^ TH2 42- 157- 42- OMEGA 74- M7 PSI

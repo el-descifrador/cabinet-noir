@@ -1,0 +1,20 @@
+# BnF, Baluze 178, f.73r (vue 178) — Colbert de Croissy → Mazarin, Danzig, 9/5/1660, copie (résultat n°22). Transcription de l'équipe sur l'image Gallica pleine résolution. Licence CC BY 4.0.
+# Conventions : nombre nu = 21 ; macron = 101- ; circonflexe = 67^ ; tréma = 99: ; aigu = 12' ; ? = douteux ; ?? = illisible ; 'mot' = mot en clair.
+# Signes graphiques (noms de travail) : PSI (Ψ = r), PHI (φ = a), THETA / TH2 (θ à barre interne = g / débordante = t), M7 (ɱ barré, a ou e), B (ɓ = l), BT (ƀ, t ou et), FC (ǂ = c), FP, FF, XX, OMEGA, R, X, S, DEL (ꝺ), 4P, 4F, LAM2, QN, V (ʋ = l), 8G, M2B.
+# Annotations de mesure : JETON=val = valeur retenue par le sens (signe ambigu ou hors table) ; JETON! = non compris.
+L01: 21? 67^ 101- PSI 49^ 42- 51^ Q2 104- PI 176- DEL 99: 136- 56: TH2 M XX BT 25 49^ 10 40 M7a
+L02: 34 99: 42 86^ 'point' 86^ THETA B 32 90- PSI 49^ OMEGA 72- 32 144- 42 49^ 160- FC 99: FP 158-
+L03: 39 34 42- 49^ 104- 52^ 30 86^ 132- 109- 99: R X XX 49^ 144- 89- PSI 44- XX 26 M7
+L04: B 50^ 87^ P7 PI Q1 88^ XX 26 'point' 41- S 26 40 21 42^ 132- 'celuy' 42- 156- 178- FF 72- XX
+L05: 144- 25 51^ 34 8C 51^ 85^ 182- TH2 Z44 200w 132- 144- 50^ M7 109- 156- 101- 26 PI XX Q1 BT
+L06: 25 49^ 144- 21- 34 88^ XX FF 156- 34 99: 42- FF M B 36 XX 89- 182- FF 132- 'toutte'
+L07: 156- 66^ XX 159- 34 25 81: 146- 42 ET9 Q1 B 50^ 54- 'particulier' 25 49^ 21 BT 25 200- EM?
+L08: 132- 'tous' 'les' P8 PSI XX 34 20- 101- 41 27 45-? 146- 42 81: 67^ 49^ 197- XX M7 34 BT
+L09: 159- 41 195- 34 26 25 FF 157- 41 144- 136- FF M P? B XX 90- PSI M XX M7
+L10: 34 TH2 99: 56^ 136- FF M7 FF 51^ PSI M XX M7 34 TH2 109- 'leur' 146- 42 42 FF 104-
+L11: 41 157- PSI S 86^ 42- 157- FF 87^ M7 99: FF 'mais' 132- B 50^ 'leur' 25 197- XX BT 42-
+L12: FC V 25 144- 132- 21- 35 67^ M7 B 50^ 85^ 197- XX BT 145- M7 34 42- 'plus' 25 21- M7
+L13: 41 PI ET9 R S XX 56^ 42 76- FF BT 'plus' 23 X2 4 PSI 132- 50^ 88: M7 34 45- 146- 42
+L14: 81: 67^ M7 B 50^ 54^ 'tendroit' R 41 BT 177- 42 99: TH2 54- 89- 90- 72^ 197- 52^ 34 176-
+L15: XX 144- 'leur' 132- B 50^ FC PSI M XX 146- XX BT 132- 99: BT M7 OMEGA 73- BT 42- 'leur'
+L16: 89: 34 86^ 197- 52^ 34 177- 'pourroit' 89^ XX 144- 54- 'quelque' 72- 21- 34 81: 27 42^ FF

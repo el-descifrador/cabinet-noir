@@ -1,0 +1,31 @@
+# BnF, Baluze 178, f.73v (vue 179) — Colbert de Croissy → Mazarin, Danzig, 9/5/1660, copie (résultat n°22). Transcription de l'équipe sur l'image Gallica pleine résolution. Licence CC BY 4.0.
+# Conventions : nombre nu = 21 ; macron = 101- ; circonflexe = 67^ ; tréma = 99: ; aigu = 12' ; ? = douteux ; ?? = illisible ; 'mot' = mot en clair.
+# Signes graphiques (noms de travail) : PSI (Ψ = r), PHI (φ = a), THETA / TH2 (θ à barre interne = g / débordante = t), M7 (ɱ barré, a ou e), B (ɓ = l), BT (ƀ, t ou et), FC (ǂ = c), FP, FF, XX, OMEGA, R, X, S, DEL (ꝺ), 4P, 4F, LAM2, QN, V (ʋ = l), 8G, M2B.
+# Annotations de mesure : JETON=val = valeur retenue par le sens (signe ambigu ou hors table) ; JETON! = non compris.
+L01: ??! ??! ??! FF! 56^! 21=co 34 THETA=t PSI 25 144- 81: 27 42- FF 157- XX 34 ??! ??!
+L02: 5 34 99: M7 B 50^ 195- 41 BT 'bien' 'que' 'l'on' 86^ 158-! M7! PSI! PI! Q1! FF! ??! ??! XX!
+L03: 34! BT! M7 B 50^ 5 Z4 38^=jo 1 44 176- 132- B 50^ 86^ 44=do X 26 LAM2 XX BT 'point' 132- 27:
+L04: 86^ 197- 41 53^ FF BT 99: TH2 177- 21=co 41 PSI M 34 86^ 109- 'luy' 'plustost' 132- 109- 159- 34
+L05: 4F PSI M7 144- 132- B 50^ 25 197- XX BT 'aussi' P7 40 3 44 159- XX 34 42- 42- FF BT PSI
+L06: M Q2 102- 6 54^ FF 'polonnois' 160- PSI 99: 104- XX FP 26 49^ 132- 99: 'pendant'
+L07: 50^ 146- 42 159- 34 66^ 145- BT=et BT! M7 B 50^ 'estoient' XX 34 99: FF 156- Q2 72^ P8 PSI M7
+L08: FF 157- 44 'par' 'le' 66^ PSI 37 41 32 FF 42- 21! 52^! 24! PSI! 25! TH2! 75:! 42- 27: 42- 157-
+L09: 42- 23 36 PHI 144- 40 42- FF XX 34 177- 34 182- FF 136- 44 39 2! 26 179- 41 8C X2
+L10: M7=a 34 BT 99: BT 177- 160- 8C 99: FF 158- M FP 'qu'en' 'fin' 49^ 66^ XX 159- 34 41=da 41 FF
+L11: TH2 PSI XX 23 31 Q1 67^ TH2 BT PSI M XX BT 'toute' 103- M7 PI 144- 54- 39 M7 S 41 40
+L12: 21 109- 86^ 'point' 49^ XX FF 157- PSI M7 FF FC C M7=a 102- PSI 41 86^ 158- 24 21 36 50^
+L13: M 23 98: 158- LAM2 34 42- 156- THETA PSI 25 34 43 40 132- B 132- 197- 42 M7 136- 'fallut'
+L14: 4P PSI M7 34 Z4 6 Q1 109- 42 101- 6 195- 87^ 40 132- B 50^ 25 197- XX BT 'fait' 'jusques'
+L15: 'à' 'present' 179- 41 26 99: 37 41 XX 25 197- XX BT 56: Q1 54- 159- 34 104- 1 197- 32 6
+L16: 109- XX 34 FF 103- 144- PSI 81: 27 'polonnois' 54^ 157- 34 178- 67^ 34 FF 132- 51^ 34 177-
+L17: 144- 44 BT 42- 49^ OMEGA PSI 25 34 99: 42- 66^ 34 42- 136- FF 25 42 M7 34 BT 'mais'
+L18: 132- 158- 'V.E.' 86^ 157- 42- 23 49^ 144- 88: M7 34 179- 44 26 'et' 86^ 38 40 Q1 34 22
+L19: 49^ 144- 159- 53^ 182- 42- 56^ 'donner' 54^ 5 FF 158- 44 176- 34 99: FF 'necessaires' 109-
+L20: 83- 144- 41 FF SS XX PSI 99: 42=de FF SS M7 XX 34 M7 B 50^ 86^ 157- 143- 'peut' M7 FF
+L21: BT PSI Q1 38 53^ FF 54- 104- 41 197- XX PSI 42- 49^ FC 21=co 35 38 36 32 PSI
+L22: 'Je' 'n'informe' 'point' 'V.E.' 42- 99: 132- B 50^ 66^ 43 TH2 'touchant' 54^ 69^ 42 54- FF 136-
+L23: 'faut' 177- 88^=ni PSI 109- 99: TH2 M7 4F 73- BT ??! ??! X! M7! BT! 54^ FF 160- 33^ TH2 FF 132-
+L24: 49^ 20 PSI 25 34 99: 'peut' 38 PSI M 104- 157- PSI 109- 160- 23 99: FF 157- 41 PSI FF
+L25: 42- 99: TH2 177- 21=co 41 146- 34 86^ 'par' 'ce' 132- B 50^ 66^ 25 157- 41 144- 54- M7=a 197- XX
+L26: PSI XX 34 FF BT 40 S LAMBDA 26 'amplement' 77^ 25 33 M7=a NU 32 PHI 37 41 XX 'l'en' 194-
+L27: TH2 PSI M2B S 195- PSI 101- PSI 159- 34 39 PSI Z4 40 4 'V.E.' 'pour' 'luy' 'en' 'rendre' 'compte'

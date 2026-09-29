@@ -1,0 +1,10 @@
+# BnF, Mélanges de Colbert 138, f.438r (Gallica vue 443), bloc chiffré unique de la lettre f.437r-439v — La Haye-Vantelet → Colbert, Pera, 11/6/1666 (résultat n°48). Licence CC BY 4.0.
+# Notation : NN nombre nu ; NNt = tréma ; NNm = macron ; Ga/Gd/Gn = signes-lettres (valeurs o, a, u) ; ? = lecture douteuse. Transcription de l'équipe, relue à 1:1 puis à l'aveugle par le vérificateur.
+L1: 17 27 19t Ga 17 34 15 28m Gn 44t 34 34m 32 66t 98t 52 16 29 19 25m 33 34
+L2: 99t 59t 28m 32 34m 19t 29m 17 33 76 16 29 15 36 26m 99 34 17m 17 34m
+L3: 32 Gd 43m 21 94 21 15 17 73t 21 15 29 99t 19t 94 63t 36 99t 30t 33 34
+L4: 76t 29 15 21 96 76t 99 74t 29 34 15 43m 21 52 37t 59t 29 34 46t
+L5: 28 74t 25t 38t 24t 99 33 30 19m 34 27m 55t 96t 17 33 Ga 20 34m 83t 32
+L6: 29m 32 60t 33 93 17 37m 59t 35m Ga 29 33 94 98t 55t 63t 36 99 73t 29
+L7: 99 17m 36 55t 29 16 21 20m 36 33 92t 33 99t 27 26m 29 96t 17 33
+L8: 26m 15 45m 17 32 99 30 63t 33 15 20 42m 29 33m 38t Gn 26m 33

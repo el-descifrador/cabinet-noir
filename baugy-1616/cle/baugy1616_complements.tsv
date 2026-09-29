@@ -1,0 +1,15 @@
+# Compléments de l'équipe à la clé du chiffre de Baugy (1616) reconstruite et publiée par S. Tomokiyo (Cryptiana, « De Baugy's Cipher (1616) »). La clé elle-même n'est PAS reproduite.
+# Toutes les valeurs de Tomokiyo comptées comme comprises dans nos mesures ont été retrouvées sous une glose interlinéaire d'époque de la lettre sœur f.109r-v (relue en pleine résolution par le vérificateur).
+# Licence CC BY 4.0.
+signe	valeur	statut	source / remarque
+5	f	AJOUT prouvé	glose d'époque f.109r (« fortifiant », 2e f)
+1	bien | a	DOUBLE VALEUR : non compris	glosé « bien » sur f.109v L5 ; Tomokiyo donne aussi 1 = a ; tranché au sens = non compris (règle sévère)
+7	a	HYP (Tomokiyo) : non compris	un seul contexte (f.2v L4), jamais glosé ; la valeur « 7 = r » (f.109v L17 « trop ») est EXCLUE : ce signe y est un Z
+%	ponctuation ?	hors clé : non compris	f.2v L4
+/	ponctuation	non compris (mesure sévère)	f.2v L9 ; f.59v L4
+g / ʒ	d / m	précision de forme	g à queue longue en boucle = d ; ʒ à crochet court épais = m (12 cas tranchés par la forme sur f.59v)
+ſ	i	précision de forme	« l » haut sans descendante = i
+¨30 / 3̄0	y / tout	précision de forme	tréma (y) ≠ barre suscrite (tout)
+15, 80, #, 34, <, ¨8, 58, 8, 19, ¨9, ¨33, 82, ch	?	hors clé : non compris	f.59 ; sens probables NON comptés : 58 = Espagne, 19 = gouverneur, ¨33 = Vénitiens, 82 = paix, ch = bon, 8 = g
+23, ¨23, ¨25, y	?	hors clé : non compris	f.2
+*, 74, 43, 69, ε, 3	prince, Mr, dit, majesté, h, a	HYP (Tomokiyo, non glosées) : non compris	f.2 et f.59

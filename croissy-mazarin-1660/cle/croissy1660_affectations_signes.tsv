@@ -1,0 +1,41 @@
+# Affectation des signes GRAPHIQUES de la copie aux colonnes de la table de Tomokiyo (travail de l'équipe). Licence CC BY 4.0.
+# FORCÉE = la forme seule désigne une colonne unique ; CHOISIE = signe rangé par Tomokiyo sous plusieurs lettres, valeur retenue par le sens (exclue du taux « aveugle ») ; HORS-T = absent de la table (hypothèse).
+B	l	20	FORCÉE	ɓ = 1er rang de l ; 20/20 cohérents (elle, quelque, belle…)
+FF	s	54	FORCÉE	ff barré = 1er rang de s
+SS	s	3	FORCÉE	ᵽ « Gp » = 2e rang de s (reussir, dessein, sincerement)
+XX	i	45	FORCÉE	xx = 1er rang de i
+LAMBDA	i	1	FORCÉE	λ = 2e rang de i (instruit)
+OMEGA	f	4	FORCÉE	ω = 1er rang de f (France)
+M	o	13	FORCÉE	m simple = 1er rang de o
+C	h	2	FORCÉE	⊏/ı = 1er rang de h (eschaper, charges)
+Z4	d	3	FORCÉE	ʓ4 = 2e rang de d (adjousta, prendre, ordre)
+NU	c	1	FORCÉE	ν = 4e rang de c (Akakia)
+PI	r	7	FORCÉE	π/⋏ = 2e rang de r (pierre, charges)
+S	u	7	FORCÉE	5/S = 1er rang de u ; 1 incohérent (f.74r A7 « creatures »)
+P7	p	1	FORCÉE	f.73r
+P8	p	2	FORCÉE	8 barré ; f.73r « principaux » (corrigé depuis 8C au run 1 = K), f.73v « pressés »
+DEL	n	1	FORCÉE	ꝺ = 2e rang de n
+FP	n	3	FORCÉE	ʆp = 1er rang de n (point)
+Q2	m	3	FORCÉE	9 à deux barres = 1er rang de m (zoom run 1 ; f.73v L6-L7 non zoomés)
+Q1	e	12	FORCÉE	9 à une barre = 3e rang de e (zoom run 1 ; f.73v non zoomés)
+ET9	et	3	FORCÉE	9 sans barre = 1er rang de et (1 cas f.73r L13 corrigé au zoom = K)
+TH2	t	6	FORCÉE	θ barré = 2e rang de t
+THETA	g	FORCÉE	RUN 3 : distinction de FORME trouvée au zoom ×2,2 : θ à barre interne seule = g (s'agrandir f.73v L13, negliger f.73r L2) ; θ à barre DÉBORDANTE = TH2 = t (f.73v L11 ×2, f.74r B01 B05 B16, f.74v V09 ×2 V10). Table T. CONFIRMÉE (pas de correction) : les « THETA=t » du run 2 sont des TH2 lus à 0,65x ; 2 reclassés (zoomés), 10 restent K (non zoomés : f.73v L01 L04 L22 L23×2 L25 L27, f.74r A03×2 A07)
+M7	e	CHOISIE	ɱ à hampe barrée : RUN 3 = polyvalent RÉEL, non départageable à la forme : e (tiendroit, prendre ×2, Suede, prevenir, avoient…), a (à ×3, France ×3, alliance, jusques à un, avoient) ; ɱ à 2 barres (M2B) = p (prince B10) mais o (trouver f.73v). Les deux valeurs a/e sont PROUVÉES-CTX (≥ 2 contextes chacune) mais le CHOIX par jeton reste au sens → reste exclu de l'aveugle
+M7a	a	1	CHOISIE	f.73r L1 « France » (idem M7)
+PSI	r	PROUVÉ-CTX	Ψ = r (1er rang de r chez T.) : 74/79 jetons donnent r dans des mots où seul r convient (France ×6, prendre ×2, prevenir, couronne, secours ×2, donner, leur, Austriche, Autrichiens…) ; 0 contre-exemple ; φ (PHI) = a seulement 2× (declarer, Akakia). Compté dans l'aveugle RÉVISÉ (confirme T.)
+PHI	a	2	CHOISIE	φ = a (declarer, Akakia) ; idem PSI
+BT	t	CHOISIE	ƀ : t 38×, et 3× (mari et ; France et prevenir ; Suede et la Pologne) : les 2 valeurs t / et sont celles de T. (1er rang t, 2e rang et) et sont PROUVÉES-CTX, mais le choix par jeton reste au sens → exclu de l'aveugle
+X	u	3	CHOISIE	N/X = 2e rang de u ; × = 2e rang de h : cursives voisines (f.73v L3 « doutoit » u ; L9 « touchant » lu X2 = h)
+X2	h	2	CHOISIE	× (plus cher, touchant) ; idem X
+FC	c	PROUVÉ-CTX	ǂ = c (2e rang de c chez T.) : 13/13 (accomplir, charges, succession, d'Austriche ×2, attachée, Autrichiens…) ; lecture m (1er rang de m) ne donne aucun mot. Compté dans l'aveugle RÉVISÉ (confirme T.)
+LAM2	o	2	HORS-T	ʌ (≠ λ) : doutoit, occasion
+4P	p	1	HORS-T	4 barré : prendre (peut-être le 1er rang de p chez T., illisible sur la clé)
+M2B	o	1	HORS-T	m à hampe deux fois barrée : trouver
+R	q	3	HORS-T	f.73r (pour ce qui ; 1 X)
+V	l	PROUVÉ-CTX	ʋ (u bouclé) HORS-T : l dans 7 jetons / 6 contextes (declaré ; receuillir, inseparablement, qu'elle ; meilleur, alliance, agreables) ; seule lecture donnant des mots. AJOUT à la table de T. (T. n'a que ν = c). Compté dans l'aveugle RÉVISÉ
+P	b?	1	HORS-T	f.73r L9
+EM	Eminence	1	HORS-T	f.73r L7
+QN	n	HORS-T	« ♀ à tréma sur crochet » : desseins (f.74r B04), un (B10) : 2 contextes (HYP)
+8G	g	FORCÉE	« ϑ/g cursif à queue » : gloire (f.74r B03) ; g aussi pour θ non barré → valeur g quelle que soit la colonne
+66	ma	HORS-T	66 SANS circonflexe (= 66^ ma de T., accent omis) : m'a parlé, m'a de plus prié, maison (f.74r B01 B02 B12) : 3 contextes

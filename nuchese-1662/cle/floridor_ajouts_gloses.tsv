@@ -1,0 +1,8 @@
+# Ajouts de l'équipe à la table « Floridor » (Colbert-Nucheze Cipher, 1662) de S. Tomokiyo, prouvés par la glose interlinéaire d'époque de BnF Mélanges de Colbert 109 f.559r
+# (« description des isles [z]afarines »), relue en pleine résolution par le vérificateur. « - » = nulle. Le signe 8 reste hors clé (non compris). Licence CC BY 4.0.
+code	valeur	source	statut
+9	d	glose d epoque Colbert 109 f.559r L1 (description des) + L3 (d affrique)	valide
+1	f	glose d epoque Colbert 109 f.559r L2-3 (farines, affrique)	valide
+62	-	glose f.559r L1 : nulle apres description	valide
+50	-	glose f.559r L2 : nulle apres farines	valide
+8	?	r2 : UN SEUL vrai 8 (glyphe fermé à 2 boucles) f.557r L12 {16.8.1.44.4.14.16} « a?frica » ; hors table Tomokiyo, non glosé ; les 17 autres « 8 » du r1 = glyphe ʃ = 5 (imprimé l)	inconnu

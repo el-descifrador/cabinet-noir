@@ -1,0 +1,16 @@
+# BnF, Clairambault 369, f.59r (vue 66 droite, lignes R1-R2) et f.59v (vue 67 gauche, L1-L4 en haut, M1-M7 en bas) — Baugy → Mangot, Prague, 8 octobre 1616 (résultat n°46).
+# Transcription ARBITRÉE par le vérificateur (relecture aveugle en natif de 360/360 groupes, puis arbitrage des 5 écarts au zoom). Licence CC BY 4.0.
+# Notation : comme chiffre_f002.txt ; suffixe ~ = signe coupé par la reliure ; ? = douteux. Les mots en clair intercalés ne sont pas repris (voir README § 8.3).
+R1 S 15 g 80 ¨6 n o ¨4 r¨ ſ & e n & 90 ¨19 S & n ʒ e 9 ƒ ∂
+R2 g n t co ¨4 r¨ t ρ n ¨30 10 49 ¨13 S e Z? ¨3 ſ & 50 r¨ ſ & ¨7 ƒ P ¨3 a ¨3 m v n m S Z
+L1 ¨4 h ¨10 r¨ ƒ ∂ ſ Z 51 # S co * co ¨7 ƒ o ¨4 h co 81 ¨19 & ſ ¨19 10 41 R ¨10 r¨ ƒ ∂
+L2 ρ m ¨3 co 2 ʒ ρ a co ¨10 ε h ¨7 ƒ P t a ρ 51 ¨4 h 66 n 3~
+L3 ¨4 r¨ ƒ co & Z n ſ & ¨4 r¨ t ρ ∂ ſ t ¨10 ſ ρ n m 34 ¨7 ƒ o n ƒ t h < a ¨19 ρ ¨3~
+L4 84 ʒ ¨30 R co r¨ m g n & 2 co ¨13 / ¨27 74 ¨6 ƒ ¨10 ¨8 10
+M1 9 t ¨10 Z r¨ ſ & ¨13 ¨27 co 81 30̄ h co ſ t ƒ~
+M2 41 co ʒ o t o co & ¨19 co g 58 ρ 9 ƒ ∂ & 2 ʒ ρ r¨ Z ſ ¨4 h Z ¨7 ƒ~
+M3 81 h ƒ h 41 ¨13 m ¨13 n ƒ 3 t & n б h 8 n б t h 84 S 19 41 ʒ o R t ¨4 ƒ ∂ 3~
+M4 ¨6 n ſ ¨4 n t & 2 co ρ a ¨19 Z ¨7 ¨3 P 10 ¨19 42 ſ Z 81 1 & r¨ co & ¨10 50 ƒ ſ ¨10 ¨30
+M5 ¨10 Z ſ h Z r a ∂ ¨10 ¨30 49 ¨9 ƒ P 10 ρ 9 ƒ ∂ 90 81 ρ ¨3 ſ co n ρ ¨19 10 & 9 ƒ ∂ t
+M6 30̄ h co 63 co ¨6 r¨ Z ¨27 co 29 & ¨19 S co ¨33 49 S co ¨19 t б h Z n & 2 m S~
+M7 29 g ſ ¨29 co 41 82 ¨13 ch 63 ¨4 a ʒ e S Z n

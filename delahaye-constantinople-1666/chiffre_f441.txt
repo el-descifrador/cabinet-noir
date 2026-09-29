@@ -1,0 +1,26 @@
+# BnF, Mélanges de Colbert 138, f.441r-442r (Gallica vues 446-447) — La Haye-Vantelet → Colbert, Pera, 27/5/1666, DUPLICATA (résultat n°49). Licence CC BY 4.0.
+# Transcription ARBITRÉE par le vérificateur : base = relecture 1:1 complète de l'équipe ; corrections du vérificateur au zoom : L0 groupes 1, 2, 5 = 74t, 30t, 15t ; A2 g6 = 19t ; C1 g3 = 36m.
+# Notation : comme chiffre_f438r.txt ; Gc = signe-lettre (valeur i) ; Gb = glyphe b (hors clé) ; X = groupe barré ; ? = douteux ou coupé par la gouttière. Lignes L = f.441r, A/B = f.441v, C = f.442r ; clair omis.
+L0: 74t 30t 33 34 15t 18m 60t
+L1: 75t 83t 33 34 18m 99 59t 18m 96t 20 61t 98t 99 39m 17 27 36 15 34 20m 17
+L2: 33 57t Gn 32 33 74t 74t 34 16 29 93t 36 29 16 98t 52 15 45m 17 34 16
+L3: Gn Ga 32 22 18m 17t 48 99 92t 32 35m 32 22 68 95t Gn 32 15 27 60t 32
+L4: 16 29 83 59t 30 18m 29 22 18m 87t 93t 32 30 18m 25m 34m 33 34m 29m 32 94
+L5: 99t 27 63t 36 19t Ga 17 34 43m 86t 99t 33 15 22 44m 33 98t 27 64 16
+L6: 43m 83 35m 16 29 16 28t 36 28m 17 34 99 36t 33 30 20m 24 18m 33 24t
+A1: 15 45m 17 34 Gd 34 33m 98t 83 29 16 Gn 43m? 24t 59t 21 15
+A2: 29 16 Gb 98t 52 19t 92t 32 35m 22 68 93t 19 99 57t
+A3: Gn 32 33 59 61 60t 33 40m 15 36 16 29 34 18m 28 95t?
+A4: 32 34m 33m 29 34 98 22 42m 29 33m 38t 33 24t 15 43m 21 15t 35 75t
+A5: 27 48t 33 15 34 33m 32 94 33 Gn 35 30 59t 94 33 87t 28m 29 34?
+A6: 36m Gn 34 34m 33 60t 33 31t 32 94 33 17t 48 18t 60t 20m 36 15 26mX Gn 74t
+A7: 22 16 21 15 29 15t Gb 59
+B1: 60 92t 32 60t 33 15t 33 81 33 17t 33 16 21 18m 33m 17 18m 99 59t?
+B2: 18m 96t 20 61t 98t 99 39m 97t 51m 29 34 28t 17 21 34 94 34 34m 15 29?
+B3: 29 16 Gb Gn 29 16 23 31t 32 34 60t 30 63t 33 98t 27 60t
+B4: 15 17 34 54t 73t 17 33 28t 17 21 34 95t Gn 32 18m 30 18m 29 22 18m 94 98t?
+B5: 48 95t 33 26m 99 16 29 83 21 19t Ga 17 34
+B6: 27m 60t 33 64 16 33 99 59t 18m 96t 20 61t 98t 29
+C1: 44m 21 36m 19m 16 Gn 26m 33 94 34 34m 21 15 28 92t 24 29 16
+C2: 27 60t 29t 17m 25m 92t 17 35 27 45t 43m 32
+C3: 15 43m 21 48 27m 60t 33 99 33 27m 29 33 29 16 18m Gn 33 17 26m 29 34 92t 33

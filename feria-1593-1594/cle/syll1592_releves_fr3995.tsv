@@ -1,0 +1,117 @@
+# Relevés de l'équipe sur la CLÉ D'ÉPOQUE BnF fr 3995 f.96v-97r (chiffre syllabique espagnol de 1592 = n°54 de la collection Nevers), et écarts avec la table de S. Tomokiyo.
+# CLE-fr3995 = valeur lue sur la clé d'époque (contrôlée au zoom) ; CLE-fr3995-rapide = relevé rapide (ceux que le vérificateur a revus sont justes, sauf has → hus et xir → xer, corrigés) ;
+# INCONNU = absent de la clé d'époque. Les lignes à valeur Tomokiyo seule ne sont pas reproduites. Licence CC BY 4.0.
+# signe	valeur	statut
+38	yo	TOMOKIYO + CTX ≥ 2 (R23 « de lo que yo quisiera », « su yo ») ; ÉCART clé fr 3995 : colonne y surchargée, 38 = ye
+705	ze	TOMOKIYO + CTX ≥ 4 (hazer, hazerse, hazerlo, hazerle) ; ÉCART clé fr 3995 : « hize — 705 »
+86	vo	CLE-fr3995 (r3, f.96v colonne u : va89 ve88 vi87 vo86 vu85)
+85	vu	CLE-fr3995
+no	cardenal	CLE-fr3995 (« Card.l — no »)
+se	como	CLE-fr3995 (« come — se »)
+xel	exercito	CLE-fr3995 (n°58 P3 « con el exercito a San Dionis »)
+tis	Reyno	CLE-fr3995 (n°58 P1 « depende todo el Reyno »)
+vur	otro	CLE-fr3995
+far	mente	CLE-fr3995 (sens n°58 P3 incertain)
+xor	para	CLE-fr3995-var r5 (clé « para — xur » ; lettre xor ≥ 4 ctx : V13, V24, R2, f.124r ; vérificateur 28/09)
+vos	Roma	CLE-fr3995
+gum	gente	CLE-fr3995
+gam	Francia	CLE-fr3995
+sol	de Bearn	CLE-fr3995
+30+	que	CLE-fr3995
+gom	?	INCONNU (absent de la clé fr 3995)
+xol	?	INCONNU (absent de la clé fr 3995)
+dis	alli	CLE-fr3995-rapide
+gre	aquella	CLE-fr3995-rapide
+fo	antes	CLE-fr3995-rapide
+da	autoridad	CLE-fr3995-rapide
+ge	aqui	CLE-fr3995-rapide
+de	alguna	CLE-fr3995-rapide
+ce	adelante	CLE-fr3995-rapide
+gi	aquellos	CLE-fr3995-rapide
+del	copia	CLE-fr3995-rapide
+ba	carta	CLE-fr3995-rapide
+pe	caso	CLE-fr3995-rapide
+mu	camino	CLE-fr3995-rapide
+zur	cerco	CLE-fr3995-rapide
+gal	cuenta	CLE-fr3995-rapide
+gua	catolicos	CLE-fr3995-rapide
+hor	dicho	CLE-fr3995-rapide
+Jel	despacho	CLE-fr3995 r11
+gul	daño	CLE-fr3995-rapide
+pate	duquesa	CLE-fr3995-rapide
+mel	dinero	CLE-fr3995-rapide
+nol	don	CLE-fr3995-rapide
+pul	duda	CLE-fr3995-rapide
+vul	estados	CLE-fr3995-rapide
+rol	eleccion	CLE-fr3995-rapide
+dam	fin	CLE-fr3995-rapide
+fem	forma	CLE-fr3995-rapide
+gim	fuerza	CLE-fr3995-rapide
+hom+	general	CLE-fr3995-rapide
+Jam	grande	CLE-fr3995-rapide (lu « Jam ») + CTX r4 : n°58 V25 « con prenda tan grande », R20 « en un aprieto tan grande »
+nom	sido	CLE-fr3995-rapide
+sum	instancia	CLE-fr3995-rapide
+tim	intencion	CLE-fr3995-rapide
+tom	intento	CLE-fr3995-rapide
+rem	inconveniente	CLE-fr3995-rapide
+rom^	Infanta	CLE-fr3995-rapide
+sol	despues?	CLE-fr3995-rapide (lu « despues — Sol » : doublon avec de Bearn ?)
+zim	lugar	CLE-fr3995-rapide
+vom	legado	CLE-fr3995-rapide
+jur	muy	CLE-fr3995-rapide
+sur	mucho	CLE-fr3995-rapide
+zum	magestad	CLE-fr3995-rapide
+dox	mas	CLE-fr3995-rapide
+caz	manda	CLE-fr3995-rapide
+cer	manera	CLE-fr3995-rapide
+sir	ministros	CLE-fr3995-rapide
+non^	negocios	CLE-fr3995-rapide
+nur^	necessidades	CLE-fr3995-rapide
+nuo^	ninguna	CLE-fr3995-rapide
+pers	nuestro?	CLE-fr3995-rapide
+pirs	nuestra	CLE-fr3995-rapide
+vur	otro	CLE-fr3995-rapide
+vor	opinion	CLE-fr3995-rapide
+cis	pero?	CLE-fr3995-rapide
+zer	parte	CLE-fr3995-rapide
+cos	personas	CLE-fr3995-rapide
+dis	platas?	CLE-fr3995-rapide (doublon alli ?)
+zir	particular	CLE-fr3995-rapide
+zar	Paris	CLE-fr3995-rapide
+fos	porque	CLE-fr3995-rapide
+xer	passar	CLE-fr3995 r5
+jis	proposito	CLE-fr3995-rapide
+nes	quanto	CLE-fr3995-rapide
+lus	qual	CLE-fr3995-rapide
+nus	quien	CLE-fr3995-rapide
+sas	remedio	CLE-fr3995-rapide
+tas	Rey	CLE-fr3995-rapide
+pos	razon	CLE-fr3995-rapide
+rus	religion	CLE-fr3995-rapide
+pem	reputacion	CLE-fr3995-rapide
+zus	señor	CLE-fr3995-rapide
+yas	satisfaccion	CLE-fr3995-rapide
+pa	tierra?	CLE-fr3995-rapide
+pul+	trabajo	CLE-fr3995-rapide
+gm	yglesia	CLE-fr3995-rapide
+zis	seguir	CLE-fr3995-rapide
+rus	religion	CLE-fr3995-rapide + CTX r4 (V24 « la religion catolica »)
+hus	principe	CLE-fr3995 r5
+61T	tiempo	CLE-fr3995 r5 (zoom : « tiempo — fi ou 61 T » ; n°58 V3 « acercando el tiempo », V14 « llegare el tiempo de tratar »)
+65T	trabajo	CLE-fr3995 r5 (zoom : « trabajo — 65 T » ; n°58 R « tomar este trabajo »)
+86T	voluntad	CLE-fr3995 r5 (zoom : « voluntad — 86 » ; n°58 V1 « de la voluntad y intencion de S.M. »)
+∴86	voluntad	CLE-fr3995 r5 (zoom : « voluntad — 86 » ; n°58 V9 « dexando a voluntad de Su Magestad »)
+55T	tambien	CLE-fr3995 r5 (zoom : « tambien — 55 T ou 555 ») ; n°58 V9 « el dar marido a [55T] » NE convient PAS → compté non compris
+xur	para	CLE-fr3995 (clé « para — xur » ; n°58 V18)
+2	o	CLE-fr3995 r11 (en-tête « o = 7, 2 » ; distinct de ʒ)
+ʒ	a	CLE-fr3995 r11 (en-tête « a = ʒ, 4 » ; distinct de 2)
+17+	cio	CLE-fr3995 r11
+Jo	aunque	CLE-fr3995 r10/r11 (zoom : « aunque — Jo » ; n°88 C8)
+71	quo	CLE-fr3995 r10 (zoom, tache)
+96	xe	CLE-fr3995 r10 (zoom, colonne x 95-99)
+vor	opinion | por cierto	CLE-fr3995 r10/r11 (deux entrées « opinion — vor » et « por cierto — vor », la 2e encre claire)
+he	armas	CLE-fr3995 r12 (kc1 « armas — he » ; n°90 B1 « no son menester alegaciones de derecho sino [armas] y buen … »)
+di	allá	CLE-fr3995 r12 (kc1 « alla — di », distinct de « alli — dis » ; n°90 L5 « mas esto … lo verá [allá] »)
+31T	servicio	CLE-fr3995 r12 (kc1/kc2 « servicio — 31 T » ; n°90 L4 « lo que devo a[l] [servicio] de mi Rey »)
+Jis	proposito	CLE-fr3995 r12 (kc1 « proposito — Jis » ; n°90 B2 « seria bien a [proposito] embiarle a llamar »)
+zus	señor	CLE-fr3995 r12 (kc1/kc2 « seignor — zus » ; n°90 B4 « y al [señor] don Juan de Ydiaquez »)

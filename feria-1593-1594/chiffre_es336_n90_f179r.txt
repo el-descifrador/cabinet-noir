@@ -1,0 +1,15 @@
+# BnF, Espagnol 336 n°90, f.179r (Gallica vue 306) — duc de Feria → don Cristóbal de Mora, Paris, 4/1/1594 (résultat n°38). Licence CC BY 4.0.
+# Notation : ʳ = marque en queue après le nombre ; ̇ = point dessus ; ^ = s ; : = r ; . = n ; ̊ = crochet (r intercalé) ; ᵗ = + dessus (-m) ; après « | » : lecture de l'équipe.
+# Transcription de l'équipe ; relue à l'aveugle par le vérificateur sur 302/302 groupes.
+L0	xor 61 19 57                                  | para no ca mi   (clair précédent : « … de los despachos que he embiado desde 6 de agosto acá »)
+L1	64: 16. 45 9. 18: 82 20ᵗ 11̊ 16. 73 cu 91 89 68: ṅ 23 9̈4 73 91 82ʳ 63 23 61 63 18 92 80: ʒ 50T ʒ
+L2	55^ 73 ʒ 91 30 9: 94 86T f. 73 n^ 56 63^ 81: 88 62: 35 4 48 ʒ̇? 82 58 92. 40 705: pe 23 65 45 10̊^
+L3	23 pos 62 16. 27ʳ: f. n 4̈5^ 55^ 73 f. 45^ 23 hus 23 2 75. 33 / Jo + 9 22 26 76. 81^ 65 76 18 76^ 38
+L4	61 69ʳ. 21 15ᵗ 67ᵛʳ. 21 16. 57 16. 17ʳ. 17ʳ 9 48 73 23 86 ʒ 31T 23 57 tas 91: 23 vur 55^ f^ 83 9̈1 48
+L5	88 75 di ʃ(fioriture de fin de bloc)
+B1	ge 61 93. 56 63^ 81: ʒ 46 34 17ʳ 63^ 23 23 76 16̊ 92 61 he 9 14ʳ. J1 9 69ʳ^ f^ 83 n ho , 9
+B2	73 21. 9 6̈2 31 61 92: 88 92 61 23 ʒ. 24: 40 706ʳ. 21 ge 65: 17ʳ 47 24 23^ 91 77ʳ 12ʳ. ʒ Jis
+B3	f. 12ʳ: 46 ʒ 4̈5 55: / 38 65 90 76 16. n mum 73 91 65 73 91T n^ ʒ 87 90 21 23^ 83 / 55^ 92 65 76
+B4	17ʳ 76 73 73 23 38 61 48 40 76 f. nuo cer 10^ 80 48 23 mum 69ʳ^ 22 96 ʒ 9̈1 9 ʒ̇ zus 21.
+B5	54 ʒ. 23 9 22ʳ 73^ fo 73 56 87 62ʳ 91 57? 65 76 18: / 9 35 73 61 91 72 93 18ʳ: 4 48 73 38 54 ꝺ? 34 89
+B6	23 48 73 n^ 80 89 68: 88 62: f^ 54^ 83 91 40 34 23 48 73 n^ 80 35 68̊ 89 21 9 38 7̈6 17 10 fer [groupe rayé] n. n^ 83

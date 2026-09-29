@@ -1,0 +1,10 @@
+# BnF, Mélanges de Colbert 155, f.133r (Gallica vue 207), 7 dernières lignes de la lettre — Pierre de Bonzi → Colbert, Madrid, 13/8/1670 (résultat n°52). Licence CC BY 4.0.
+# Notation : m = macron ; c = signe suscrit (accent) ; nombre nu = sans signe ; le 5 du scribe est un « ʒ » à tête plate, le 3 est rond. Transcription de l'équipe relue à 1:1, puis à l'aveugle par le vérificateur.
+# Correction du vérificateur intégrée : L6, 14e groupe = 21m. Remarque : L2 233c, dernier chiffre à tête plate possible (235c non exclu).
+L1 : 2 62 14 107 27m 91m 14 20 21m 16 22m 28m 215c 15 12 20
+L2 : 101m 18 233c 15 24 107 13 91m 70 20 85m 72 8 67 10 97m
+L3 : 30 214c 26m 24 17 39m 100m 8 209c 8 13 91m 87m 22m 39m 23m
+L4 : 12 20 27m 8 13 91m 215c 15 12 20 39m 13 91m 107 93m 14
+L5 : 67 20 29m 86m 82m 17 39m 102m 24 20 16 21m 14 30 21m
+L6 : 91m 17 87m 25m 21m 17 16 23m 37 16 39m 17 28 21m 108 —
+L7 : 28m 17
