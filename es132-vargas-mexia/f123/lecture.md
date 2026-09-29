@@ -1,7 +1,7 @@
 # Philippe II → Juan de Vargas Mexía, Madrid, 20/10/1578 — BnF, Espagnol 132, f.123r (résultat n°17)
 
 - **Cote** : Bibliothèque nationale de France, Espagnol 132, f.123r.
-- **Images** (Gallica, lien seulement ; chercher le folio dans la visionneuse) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
+- **Images** (Gallica, lien seulement) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x/f120.item (vues 120-121 ; correspondance folio/vue établie d'après les rapports de vérification) ; manuscrit entier : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
 - **Clé** : Cipher 4 (chiffre d'Antonio Pérez) : reconstruit par Devos (1950, p. 422), complété par S. Tomokiyo (2020). **Étiquette : première lecture (à notre connaissance) avec clé publiée** ; le mérite de la clé revient à ses auteurs.
 - **Taux (vérificateur indépendant, mesure sévère par groupe)** : 97,2 %. Taux par mot : non mesuré.
 - **Nouveauté selon le clair** : A. « Non trouvé » ≠ « inédit » : les minutes de Simancas (AGS Estado K 1544-1558) n'ont pas été consultées.

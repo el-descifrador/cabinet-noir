@@ -13,15 +13,15 @@ NU	c	1	FORCÉE	ν = 4e rang de c (Akakia)
 PI	r	7	FORCÉE	π/⋏ = 2e rang de r (pierre, charges)
 S	u	7	FORCÉE	5/S = 1er rang de u ; 1 incohérent (f.74r A7 « creatures »)
 P7	p	1	FORCÉE	f.73r
-P8	p	2	FORCÉE	8 barré ; f.73r « principaux » (corrigé depuis 8C au run 1 = K), f.73v « pressés »
+P8	p	2	FORCÉE	8 barré ; f.73r « principaux » (corrigé depuis 8C à la passe 1 = K), f.73v « pressés »
 DEL	n	1	FORCÉE	ꝺ = 2e rang de n
 FP	n	3	FORCÉE	ʆp = 1er rang de n (point)
-Q2	m	3	FORCÉE	9 à deux barres = 1er rang de m (zoom run 1 ; f.73v L6-L7 non zoomés)
-Q1	e	12	FORCÉE	9 à une barre = 3e rang de e (zoom run 1 ; f.73v non zoomés)
+Q2	m	3	FORCÉE	9 à deux barres = 1er rang de m (zoom passe 1 ; f.73v L6-L7 non zoomés)
+Q1	e	12	FORCÉE	9 à une barre = 3e rang de e (zoom passe 1 ; f.73v non zoomés)
 ET9	et	3	FORCÉE	9 sans barre = 1er rang de et (1 cas f.73r L13 corrigé au zoom = K)
 TH2	t	6	FORCÉE	θ barré = 2e rang de t
-THETA	g	FORCÉE	RUN 3 : distinction de FORME trouvée au zoom ×2,2 : θ à barre interne seule = g (s'agrandir f.73v L13, negliger f.73r L2) ; θ à barre DÉBORDANTE = TH2 = t (f.73v L11 ×2, f.74r B01 B05 B16, f.74v V09 ×2 V10). Table T. CONFIRMÉE (pas de correction) : les « THETA=t » du run 2 sont des TH2 lus à 0,65x ; 2 reclassés (zoomés), 10 restent K (non zoomés : f.73v L01 L04 L22 L23×2 L25 L27, f.74r A03×2 A07)
-M7	e	CHOISIE	ɱ à hampe barrée : RUN 3 = polyvalent RÉEL, non départageable à la forme : e (tiendroit, prendre ×2, Suede, prevenir, avoient…), a (à ×3, France ×3, alliance, jusques à un, avoient) ; ɱ à 2 barres (M2B) = p (prince B10) mais o (trouver f.73v). Les deux valeurs a/e sont PROUVÉES-CTX (≥ 2 contextes chacune) mais le CHOIX par jeton reste au sens → reste exclu de l'aveugle
+THETA	g	FORCÉE	PASSE 3 : distinction de FORME trouvée au zoom ×2,2 : θ à barre interne seule = g (s'agrandir f.73v L13, negliger f.73r L2) ; θ à barre DÉBORDANTE = TH2 = t (f.73v L11 ×2, f.74r B01 B05 B16, f.74v V09 ×2 V10). Table T. CONFIRMÉE (pas de correction) : les « THETA=t » de la passe 2 sont des TH2 lus à 0,65x ; 2 reclassés (zoomés), 10 restent K (non zoomés : f.73v L01 L04 L22 L23×2 L25 L27, f.74r A03×2 A07)
+M7	e	CHOISIE	ɱ à hampe barrée : PASSE 3 = polyvalent RÉEL, non départageable à la forme : e (tiendroit, prendre ×2, Suede, prevenir, avoient…), a (à ×3, France ×3, alliance, jusques à un, avoient) ; ɱ à 2 barres (M2B) = p (prince B10) mais o (trouver f.73v). Les deux valeurs a/e sont PROUVÉES-CTX (≥ 2 contextes chacune) mais le CHOIX par jeton reste au sens → reste exclu de l'aveugle
 M7a	a	1	CHOISIE	f.73r L1 « France » (idem M7)
 PSI	r	PROUVÉ-CTX	Ψ = r (1er rang de r chez T.) : 74/79 jetons donnent r dans des mots où seul r convient (France ×6, prendre ×2, prevenir, couronne, secours ×2, donner, leur, Austriche, Autrichiens…) ; 0 contre-exemple ; φ (PHI) = a seulement 2× (declarer, Akakia). Compté dans l'aveugle RÉVISÉ (confirme T.)
 PHI	a	2	CHOISIE	φ = a (declarer, Akakia) ; idem PSI

@@ -1,7 +1,7 @@
 # Philippe II → Juan de Vargas Mexía, Madrid, 13/10/1578 — BnF, Espagnol 132, f.113r-v + duplicata f.103r-v (résultat n°28)
 
 - **Cote** : Bibliothèque nationale de France, Espagnol 132, f.113r-v + duplicata f.103r-v.
-- **Images** (Gallica, lien seulement ; chercher le folio dans la visionneuse) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
+- **Images** (Gallica, lien seulement) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x/f110.item (vues 110-111 ; correspondance folio/vue établie d'après les rapports de vérification) ; manuscrit entier : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
 - **Clé** : Cp.30 (« Cipher 3 » de Tomokiyo) : alphabet, syllabes et nomenclature imprimés par Alcocer (1921), puis Devos (1950). **Étiquette : première lecture (à notre connaissance) avec clé publiée** ; le mérite de la clé revient à ses auteurs.
 - **Taux (vérificateur indépendant, mesure sévère par groupe)** : 92,8 %. Taux par mot : non mesuré.
 - **Nouveauté selon le clair** : A. « Non trouvé » ≠ « inédit » : les minutes de Simancas (AGS Estado K 1544-1558) n'ont pas été consultées.

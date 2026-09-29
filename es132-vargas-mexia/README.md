@@ -48,8 +48,8 @@ Images : Gallica, https://gallica.bnf.fr/ark:/12148/btv1b10032556x (liens seulem
 
 ## Cadrage
 
-**Vocabulaire (décision de l'utilisateur).** Pour ces lettres, on ne parle plus de « découverte ». Ce sont des **premières lectures avec clé publiée**
-(« à notre connaissance » ; « non trouvé » ≠ « inédit »). Motif : l'audit sceptique (agent l'audit, deux runs).
+**Vocabulaire (décision de l'équipe).** Pour ces lettres, on ne parle pas de « découverte ». Ce sont des **premières lectures avec clé publiée**
+(« à notre connaissance » ; « non trouvé » ≠ « inédit »). Motif : un audit sceptique interne, en deux passes.
 Il conclut que les déchiffrements sont **réels et reproduits** : scripts relancés au chiffre près, 6 lettres contrôlées sur l'image, aucun écart significatif, aucun signe de texte
 fabriqué. Mais **aucune clé n'a été cassée par nous**. Les formules employées plus bas, lettre par lettre (« premier clair publié à notre connaissance », « lecture intégrale apparemment
 inédite »), se lisent désormais dans ce cadre : **première lecture, à notre connaissance, d'une lettre dont aucun clair n'a été trouvé, faite avec une clé publiée par d'autres**.

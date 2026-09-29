@@ -29,11 +29,11 @@
 ### Verdict détaillé du vérificateur
 
 - **La lecture est juste et non forcée.** Ma relecture à l'aveugle (≈ 205 groupes sur L.g, L.h, bloc 2 y1487, début L.k) s'accorde à ≈ 96 % avec le casseur ; aucun écart ne change le sens.
-- **Elle sort de la clé publiée.** Sur 1 231 groupes chiffrés (bloc 1 run 11 + bloc 2 run 10), **96,3 %** se lisent avec la seule table de Tomokiyo (lettres 80,7 %, codes pointés 15,3 %, ~7 0,3 %). Les ajouts des runs 9-11 ne pèsent que **≈ 2 %** (≈ 24 groupes).
-- **Les trois passages-clés** (« pensant arracher le mauvais grain on arrache le bon », « plus expédient que le royaume soit divisé », « le Roy a seu que … voyois ~15 dont il est entré en jalousie ») se lisent lettre à lettre avec la clé d'origine ; seuls y interviennent '29 (on, run 2), '30 dans un mot (usage attesté pour '16 chez Tomokiyo), ▽ (x) et '12.
+- **Elle sort de la clé publiée.** Sur 1 231 groupes chiffrés (bloc 1 passe 11 + bloc 2 passe 10), **96,3 %** se lisent avec la seule table de Tomokiyo (lettres 80,7 %, codes pointés 15,3 %, ~7 0,3 %). Les ajouts des passes 9-11 ne pèsent que **≈ 2 %** (≈ 24 groupes).
+- **Les trois passages-clés** (« pensant arracher le mauvais grain on arrache le bon », « plus expédient que le royaume soit divisé », « le Roy a seu que … voyois ~15 dont il est entré en jalousie ») se lisent lettre à lettre avec la clé d'origine ; seuls y interviennent '29 (on, passe 2), '30 dans un mot (usage attesté pour '16 chez Tomokiyo), ▽ (x) et '12.
 - **Cohérence historique forte** (édit d'Union, Henri de Navarre non catholique, légat, jalousie envers Vendôme) et français de 1589 continu.
 - **Nouveauté probable** : n°37 absent de la liste de Tomokiyo ; cyphersolver « listed without a reading » ; cipher-lab ne travaille que sur f.81.
-- **Réserves** : '12 ≠ « je » par l'ordre du répertoire (voir 2c) ; '87, '92, '81, '17 hypothétiques ; groupes omis au run 11 en L.g et L.h (1c) ; L.a encore faible ; qui parle dans le bloc 1 (3b) ; *Mémoires de Nevers* contrôlés seulement par OCR sur le nom.
+- **Réserves** : '12 ≠ « je » par l'ordre du répertoire (voir 2c) ; '87, '92, '81, '17 hypothétiques ; groupes omis à la passe 11 en L.g et L.h (1c) ; L.a encore faible ; qui parle dans le bloc 1 (3b) ; *Mémoires de Nevers* contrôlés seulement par OCR sur le nom.
 
 ### Réserves et corrections du vérificateur
 

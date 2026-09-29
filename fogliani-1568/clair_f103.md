@@ -1,6 +1,6 @@
 # BnF fr. 3234, pièce 61, f.103r-v : texte clair complet de la lettre de Gasparo Fogliani (Paris, 20 oct. 1568)
 
-_Transcription du casseur, run 2 (27/09/2026), lue sur l'image Gallica (vue 104) (f.103r, page de droite) et
+_Transcription du casseur, passe 2 (27/09/2026), lue sur l'image Gallica (vue 104) (f.103r, page de droite) et
 l'image Gallica (vue 105) (f.103v, page de gauche), recadrages de 3 400 à 3 700 px ramenés à 1 400 px._
 
 **Conventions.**

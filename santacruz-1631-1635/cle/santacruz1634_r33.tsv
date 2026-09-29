@@ -306,7 +306,7 @@ bru⊣	dicha	HYP	1	r31 nouveau (D.148 seule) : D148:L35#5:dicha
 ád	ña	HYP	1	r31 nouveau (D.148 seule) : D148:L51#18:ña
 17ᵖ	vu	HYP	1	r31 nouveau (D.148 seule) : D148:L52#4:vu
 5̃0	obligacion	HYP	1	r31 nouveau (D.148 seule) : D148:L53#6:obligacion
-9@S	y	PROUVE	23	r33:F:3:D150:L4#1:y,D150:L20#4:y,D150:L20#15:y || r32 MAIN SERRÉE SANS POINTS (D.103/D.114) : 9/g à queue (barrée dans D.114, non barrée dans D.103, zoom r36/z103a + r23/z31a) = y ×19 + j ×1 (juzgare ; j≡y) dans 2 lettres, 0 e ; le DOUBLE e|y global vient des autres mains (D.108 g = e, D.126 9 simple = e)
+9@S	y	PROUVE	23	r33:F:3:D150:L4#1:y,D150:L20#4:y,D150:L20#15:y || r32 MAIN SERRÉE SANS POINTS (D.103/D.114) : 9/g à queue (barrée dans D.114, non barrée dans D.103, zoom) = y ×19 + j ×1 (juzgare ; j≡y) dans 2 lettres, 0 e ; le DOUBLE e|y global vient des autres mains (D.108 g = e, D.126 9 simple = e)
 6@S	g	PROUVE	2	r32 MAIN SERRÉE : 6 = g ×1 D.103 + ×1 D.114 (2 lettres) ; CONTRADICTION g|a globale vient d une autre main
 a@S	e	PROUVE	7	r33 promu : 2e lettre (D.150) || r33:F:2:D150:L13#4:e,D150:L13#16:e || r32 MAIN SERRÉE : a isolé = e ×5 dans D.114 seule (CONTRADICTION_FAIBLE globale : i ×1 D.108)
 8@S	b	PROUVE	7	r33 promu : 2e lettre (D.150) || r33:F:2:D150:L15#8:b,D150:L23#4:b || r32 MAIN SERRÉE : 8 = b ×5 dans D.103 seule (CONTRADICTION b|g globale)

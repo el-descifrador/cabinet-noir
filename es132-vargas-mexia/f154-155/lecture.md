@@ -1,7 +1,7 @@
 # Philippe II → Juan de Vargas Mexía, El Pardo, 04/12/1578 — BnF, Espagnol 132, f.154r-155v (résultat n°19)
 
 - **Cote** : Bibliothèque nationale de France, Espagnol 132, f.154r-155v.
-- **Images** (Gallica, lien seulement ; chercher le folio dans la visionneuse) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
+- **Images** (Gallica, lien seulement) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x/f151.item (vues 151-153 ; correspondance folio/vue établie d'après les rapports de vérification) ; manuscrit entier : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
 - **Clé** : Cipher 4 (chiffre d'Antonio Pérez) : reconstruit par Devos (1950, p. 422), complété par S. Tomokiyo (2020). **Étiquette : première lecture (à notre connaissance) avec clé publiée** ; le mérite de la clé revient à ses auteurs.
 - **Taux (vérificateur indépendant, mesure sévère par groupe)** : 87,6 %. Taux par mot : non mesuré.
 - **Nouveauté selon le clair** : A. « Non trouvé » ≠ « inédit » : les minutes de Simancas (AGS Estado K 1544-1558) n'ont pas été consultées.

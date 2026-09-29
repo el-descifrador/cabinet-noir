@@ -1,4 +1,4 @@
-# Table de glyphes PAR MAIN — clé Santa Cruz 1634 (casseur-santacruz r25, 29/09 ~01:20-01:28 UTC)
+# Table de glyphes PAR MAIN — clé Santa Cruz 1634 (casseur, passe r25, 29/09 ~01:20-01:28 UTC)
 Règle générale : on décide la FORME à l'image avant toute clé ; forme douteuse → noter « ? » → compté N. Zooms : (z2 = ∓/≠/ꝑ ×2,5 ; z3 = ν, H, tt ×2 ; z4 = D.114 ×1,2 ; z5/z6 = D.103 L1-L23 ×1,2 ; d101z = D.101 ×1,5).
 
 | paire confusable | forme A → valeur | forme B → valeur | règle de décision (à l'image) | vu dans |

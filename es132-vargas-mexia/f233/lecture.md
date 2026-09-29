@@ -1,7 +1,7 @@
 # Alexandre Farnèse, prince de Parme → Juan de Vargas Mexía, Maastricht, 01/11/1579 — BnF, Espagnol 132, f.233r-v (sans duplicata) (résultat n°43)
 
 - **Cote** : Bibliothèque nationale de France, Espagnol 132, f.233r-v (sans duplicata).
-- **Images** (Gallica, lien seulement ; chercher le folio dans la visionneuse) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
+- **Images** (Gallica, lien seulement) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x/f230.item (vues 230-231 ; correspondance folio/vue établie d'après les rapports de vérification) ; manuscrit entier : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
 - **Clé** : Cp.30 (« Cipher 3 » de Tomokiyo) : alphabet, syllabes et nomenclature imprimés par Alcocer (1921), puis Devos (1950). **Étiquette : première lecture (à notre connaissance) avec clé publiée** ; le mérite de la clé revient à ses auteurs.
 - **Taux (vérificateur indépendant, mesure sévère par groupe)** : 87,9 %. Taux par mot : non mesuré.
 - **Nouveauté selon le clair** : non établie (A fragile : correspondance Vargas ↔ Farnèse de Naples non vue). « Non trouvé » ≠ « inédit » : les minutes de Simancas (AGS Estado K 1544-1558) n'ont pas été consultées.

@@ -13,7 +13,8 @@ et pris toutes les décisions de publication. Les rôles sont séparés :
   avec son propre script sur une **copie figée** de la clé. Seul le verdict du vérificateur fait d'une lecture un résultat.
 
 Chaque agent travaille par sessions courtes, avec un journal et des fichiers horodatés ; les clés sont **figées** (empreinte SHA + heure) avant
-chaque test de généralisation.
+chaque test de généralisation. Les étiquettes « r1, r2… » (ou « passe N ») qui figurent dans les clés et les tableaux désignent ces sessions numérotées
+d'un agent : elles servent seulement à dater la provenance d'une valeur ou d'une version de clé.
 
 ## 2. Transcription
 

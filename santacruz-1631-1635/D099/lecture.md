@@ -22,7 +22,7 @@
  > de Milan, pero llegando los que [alli] [h]u-vi[e]re a pasar de seis mil, se podran [i]r enviando a Napoles [h]asta los [1500] … ; porque este [6 tun] eso lo uno [y] lo [otro]
  > desta bien, vos os comunicareis con mi hermano, a [qui]en escribo diciendole esta [116], o con la [persona] que governare el estado de Milan, [para que] alli se e[xe]cute esto
  > como mas convenga en caso que vos no lo podais [tit V]. »
-- **Vérification (verif-santacruz-d99, 29/09 02:42-02:58)** : ✅ **avec réserves** — **87,5 % strict (231/264) / 76,6 % par mot (105/137)** ; pessimiste 82,6 % ; plancher justifié
+- **Vérification (vérificateur indépendant, 29/09 02:42-02:58)** : ✅ **avec réserves** — **87,5 % strict (231/264) / 76,6 % par mot (105/137)** ; pessimiste 82,6 % ; plancher justifié
  81,1 % ; mesure officielle du casseur (84,1 / 69,9) reproduite (son 79,2 % pessimiste vient d'une faute de sa transcription : 3 points de « ib » omis). **0 valeur fausse.**
  Transcription aveugle 259/264. 40 valeurs contrôlées sur D.128/D.129 (même main) : **0 discordance**.
 - **Réserve de fond** : « 1500 / 500 / 1500 » sont des **nombres marqués** (signes suscrits), lus comme nombres et **non décodés par la clé** (comptés N) ; plausible (« seis mil »,

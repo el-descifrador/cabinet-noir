@@ -14,7 +14,7 @@
 
 ### Protocole, lecture et vérification
 
-- **Chronologie** : clé r31 figée 04:01:06Z → première vue lisible 04:01:17Z (11 s après) → transcription figée 04:10:10Z → SOLUTION? 04:13. Le diff r30 → r31 ne contient que des
+- **Chronologie** : clé r31 figée 04:01:06Z → première vue lisible 04:01:17Z (11 s après) → transcription figée 04:10:10Z → proposition de solution 04:13. Le diff r30 → r31 ne contient que des
  valeurs issues de D.148 ; aucune valeur de D.145.
 - **Lecture (vérificateur, début)** :
  > « [♀ V] (Del Conde de Monterrey he entendido) la forma en que estava prevenida la armada para nave[ga]r [y] e[xe]cutar co[n] [e]lla lo que estava resuelto [y] que [despues] por
@@ -22,7 +22,7 @@
  > desta gente de la armada para soco[rre]r el estado de Milan ; … no solo le [h]e aprovado lo que [h]a obrado en esta parte, sino que ten[go] por [necesario] que la armada se
  > arrime a la dere[ce]ra de Milan porque este pronta en caso de [h]averle de socorrer. [Y] [asi] sin [yn]terponer [dilacion] es mi [voluntad] que os encamineis co[n] la armada
  > a [aquella] parte … »
-- **Vérification (verif-santacruz-d145, 29/09 04:14-04:40)** : ✅ **avec réserves** — **84,4 % strict (318/377) / 69,1 % par mot (130/188)** ; pessimiste 83,3 % ; sans valeur à
+- **Vérification (vérificateur indépendant, 29/09 04:14-04:40)** : ✅ **avec réserves** — **84,4 % strict (318/377) / 69,1 % par mot (130/188)** ; pessimiste 83,3 % ; sans valeur à
  une paire 83,3 % ; les deux cumulées 82,2 % ; seule borne < 80 % (78,5 %) = convention non justifiée (m barré = N). **1 seule valeur fausse.** Transcription aveugle 367/377.
  ≈ 40 valeurs contrôlées sur D.128/D.129 : **0 discordance**.
 - **« Valtelina »** (code 192) n'est lu que par le contexte : **NON prouvé, non compté** (de même « Cardenal », « Rey », « Conde »). Cohérence : Monterrey vice-roi de Naples,

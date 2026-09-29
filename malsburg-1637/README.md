@@ -70,11 +70,11 @@ codes (tous HYP) `cle/malsburg1637_codes_HYP.tsv`. Historique des versions :
 - **v5** (19:47) : 2 valeurs corrigées, **78 = l** (et non e) et **40 = z** (et non w), erreurs signalées par le vérificateur de f.18 ; validées par celui de f.25
  comme **justifiées et non circulaires** (sur f.25, jamais vue auparavant : 40 = z 5/5, 78 = l 7/8).
 - **v6** : majuscules A = t et M = nn passées PROUVÉES.
-- **v7** (r11, 21:45-21:55) : run de clé documenté sur 78 ; **78 = l confirmé** par 17 contextes dans 5 lettres, h réfuté (les 3 contextes « contraires » étaient des fautes de lecture
+- **v7** (r11, 21:45-21:55) : passe de clé documenté sur 78 ; **78 = l confirmé** par 17 contextes dans 5 lettres, h réfuté (les 3 contextes « contraires » étaient des fautes de lecture
  de 18, 48 et 28, vérifiées au zoom) ; 85 = r passé PROUVÉ ; 53 = b ajouté en HYP. **Aucune valeur changée** par rapport à v6.
  Restent HYP : 17, 33, 34, 64, 75, et les majuscules B, Q, C, V, GG.
 - **v8** (`cle/malsburg1637_v8.tsv`, sha256 8d185d6c…, figée 23:33:02 avant la transcription de f.23-24). f.28-29 a été lue avec la **v7 figée** (7dd87ba2, gel 22:20:04,
- 1er dérivé d'image 22:20:11). À corriger par un run documenté (vérificateur de f.23-24) : **12 = c → HYP** (ses 3 contextes cités sont dans des mots opaques ; −1 groupe sur f.18) ;
+ 1er dérivé d'image 22:20:11). À corriger par une passe de clé documentée (vérificateur de f.23-24) : **12 = c → HYP** (ses 3 contextes cités sont dans des mots opaques ; −1 groupe sur f.18) ;
  85 = r n'a qu'un appui entièrement compris hors f.23-24 (*nunmer*, f.12).
 
 ## 3. Résultats par lettre
@@ -146,7 +146,7 @@ Les lectures complètes (allemand normalisé et traduction) sont dans (f.3, f.18
 3. **Valeurs rares fragiles** (1 à 4 occurrences), sous-déterminées malgré la marge globale d'unicité.
 4. **f.14** : 16 groupes cachés au bord droit (nombre estimé ; le mode pessimiste en compte 19) ; majuscules A = t et M = nn fragiles (effet : 2 groupes).
 5. **f.3, L7** : 41 ou 71 non tranché sur l'image (compté non compris).
-6. **Les deux premières versions de la clé contenaient deux erreurs** (78, 40), trouvées par un vérificateur et corrigées par un run documenté ; les mesures de référence
+6. **Les deux premières versions de la clé contenaient deux erreurs** (78, 40), trouvées par un vérificateur et corrigées par une passe de clé documentée ; les mesures de référence
  de f.3 et f.18 ont été faites en comptant ces groupes comme non compris.
 7. **Nouveauté A provisoire** : « non trouvé » ≠ « inédit ». Un déchiffrement ou une glose d'époque peut exister à Marbourg (glose marginale de f.15 à examiner) ;
  aucune édition n'a été consultée (Rommel, *Geschichte von Hessen*, t. VIII ; recueils d'*Urkunden*).

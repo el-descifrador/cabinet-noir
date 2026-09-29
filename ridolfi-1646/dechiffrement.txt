@@ -1,0 +1,96 @@
+# Dechiffrement signe a signe de chiffre.txt avec la cle figee (cle/ridolfi1646_syllabique.tsv), ligne par ligne.
+# | = separateur F ; [nnn] = code du nomenclateur non resolu ; <..> = jeton sans valeur dans la cle.
+# u et v, i et j ne sont pas distingues (u, i). Les syllabes sont ecrites en minuscules comme les lettres.
+ 1 |giachequestamattinailpa
+ 2 pahanegatoalsignordona
+ 3 ntonioronchillo|ilpas
+ 4 operlicinquecetoca
+ 5 ualli|che[126]uolmandarei
+ 6 nsocorsodel[107]|mahade
+ 7 ttocheloconcederebbeper
+ 8 lostatomilano|iohoprop
+ 9 ostoalsignordonantoni
+10 o|cheacettiilpasonel
+11 laformache[101]uolconceder
+12 lo|perchequandoquesta
+13 caualleriasaranella
+14 cittadiforlinellaromagna
+15 |toerdoueeilcaminodir
+16 ittouersobologna|se
+17 iu[107]sarastatoataia
+18 ttodai[121]|ethauerabi
+19 sognodiquestosoco
+20 rso|potrannoentr
+21 arenellostatodel[107]|non
+22 esendoilconfinopiu
+23 lontanodidodicimiglia|ma
+24 quandoil[107]nonhabbia
+25 bisogno|seguiterannoi
+26 lcaminouersobologlieue
+27 rsolostatodimilali|ilpa
+28 rtitoepiaciutoadona
+29 ntonio|ethauolutochei
+30 oneparlial[110]di[107]|chelh
+31 alodatograndemente|eneh
+32 adispaciatocorie
+33 roal[107]|ecredoanco
+34 racheinognicasosia
+35 perpiacerea[101]|ne
+36 rchenondubiteracheli[121]sido
+37 lghinochehabbiafattauna
+38 nouita|dellaarmata[121]non
+39 ciealtroauiso|di
+40 cebeneunafelucaariu
+41 atainromadihauers
+42 entitoperquestespia
+43 ggiechefusegiuntanelgo
+44 lfodellespetie|maquan
+45 do
+46 lauisofuseuero|[126]ne
+47 hauerebbericeutoco
+48 rieroda[116]|maiosentoche
+49 nonsiaposibilechelagente
+50 siconducaperlacarfa
+51 gnanaa[136]|pereseran
+52 coraquellemontagnepie
+53 nedineue|echeperoquandu
+54 debbaandarenellostatodimila
+55 noparepiuuerisimile
+56 chesbarchilasoldatescaa
+57 ufiumedellalenza|echeper
+58 laualditarosiconduc
+59 anelparmigiano|dichefama
+60 ggiormentesospettare
+61 cheil[115]disouresias
+62 tatolungamenteanegotiare
+63 conquel[114]innomedei[121]
+64 |il[114]iuandomomiscriu
+65 elarisolutiinedelliugo
+66 nottidi[103]disolleuarsi
+67 |elasuadifarsicapo
+68 loso|etiohofattoue
+69 derelelettereoriginali
+70 adusognoramirante|il
+71 qualeuorebbedareadude
+72 tto[114]|lidodicimiladucati
+73 che[100]comandogiacheglifuse
+74 ropagati|poichesene
+75 uorebbepreualerepe
+76 rfarlisborsareaica
+77 pidelliugonotti|qua
+78 ndoiohabbiaunpoco
+79 ditenpomanderolaiop
+80 iadelladettaletteradiu
+81 andomoa[126]|allaqualeno
+82 nposodiraltrodelne
+83 gotiodibuglione|stanos
+84 enpreneimedesimitermi
+85 ni|maconlemedesimepato
+86 lechemisaradatasubitola
+87 scritturarichiesta|
+88 etiononuoreichecon
+89 lalunghezza|dispera
+90 tobuglionesiacordasec
+91 onli[121]|poicheil[108]maza
+92 rinosenpreglifarado
+93 piarleoferte

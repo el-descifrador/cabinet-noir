@@ -115,7 +115,7 @@ la première présidence de Toulouse (Vic se récusant, Saint-Félix soutenu par
 
 **Réserves** : date non écrite ; identifications de Clermont, du comte de Montgomery et de Saint-Félix probables, non prouvées ; Mondon inconnu ;
 l'_Histoire générale de Languedoc_ (t. XI-XII, texte intégral) ne cite pas cette pièce, mais nous n'avons pas vérifié les autres éditions de sources
-(Dubédat, _Histoire du parlement de Toulouse_ ; correspondance de Montmorency). À ne pas publier sans l'accord de l'utilisateur.
+(Dubédat, _Histoire du parlement de Toulouse_ ; correspondance de Montmorency).
 
 ## Sources et fichiers
 

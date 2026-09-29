@@ -21,7 +21,7 @@
  > [y] el peli[g]ro [g]rande con que estari[a] si no se acude a lo que [alli] es menester con [·] ; de que [h]e querido advertiros [y] encargaros [y] mandaros procureis en[·]r el
  > pasa[j]e de las levas con la ma[yo]r puntualidad que [os?] fu[ere] [posible?] [y] que [socorr]ais aquel estado en aprieto en la me[j][o]r [forma] que pudi[ere]des, poniendo [·]
  > [Conde] en todo, [y] [avisa]reisme del rrecibo deste [despacho]. »
-- **Vérification (verif-santacruz-d113, 29/09 01:51-02:05)** : ✅ **avec réserves** — **85,7 % strict par groupe (186/217) / 68,1 % par mot (64/94)** ; convention du casseur
+- **Vérification (vérificateur indépendant, 29/09 01:51-02:05)** : ✅ **avec réserves** — **85,7 % strict par groupe (186/217) / 68,1 % par mot (64/94)** ; convention du casseur
  84,8 / 67,0 reproduite ; pessimiste 82,9 % ; sans la seule valeur à une paire (ur = fu) 82,5 % ; borne extrême non justifiée 77,0 %. Transcription aveugle 215/217
  (les 2 écarts tranchés en faveur du casseur : m barré = forme normale de m). ≈ 45 valeurs employées contrôlées à l'image sur D.114/D.115 et D.121/D.122 : **0 discordance**.
 - Cohérence : le cardinal Gil Carrillo de Albornoz gouverne le Milanais par intérim après le départ du cardinal-infant (été 1634, vers Nördlingen, 6/9/1634) ; même formule

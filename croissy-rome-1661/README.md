@@ -62,11 +62,11 @@ ou signature « Colbert »). Aucune ne figure dans les déchiffrements inédits 
 ### Correction de la table publiée : 57 = m (et non o) — PROUVÉ
 - Tomokiyo donne **57 = o**. Deux contextes glosés, dans **deux lettres sœurs**, exigent **m** et excluent o et y :
  f.115r (v278) « … 201 **57** » glosé « ad melius consultu**m** » ; v261 (f.106v) « 136 85 **57** 164 23 153 189 » glosé « laccompagnasse » (la-co-**m**-pa-g-na-se).
-- Le contexte de v261 a été **relu au zoom par un vérificateur indépendant** (verif-croissy-f138, 28/09 23:14) : chiffre net, ni 45, ni 51. Statut : **PROUVÉ**.
+- Le contexte de v261 a été **relu au zoom par un vérificateur indépendant** (28/09 23:14) : chiffre net, ni 45, ni 51. Statut : **PROUVÉ**.
 - Contexte discordant connu : f.114v « 128 1457… » glosé « Je luy ay dit » (un seul contexte, mal segmenté ou mal chiffré ; n'annule pas la preuve).
 
 ### 65 = y — PROUVÉ (depuis la vérification de f.138)
-- 65 porte « - » chez Tomokiyo. Rétrogradé en HYP par le vérificateur de f.162 (une seule lettre), il est **PROUVÉ** par verif-croissy-f138 : contexte f.114r (v276)
+- 65 porte « - » chez Tomokiyo. Rétrogradé en HYP par le vérificateur de f.162 (une seule lettre), il est **PROUVÉ** par un vérificateur indépendant : contexte f.114r (v276)
  « 137 60 30 **65** 197 162 » glosé « les ay tenu », relu au zoom, s'ajoute aux « luy », « moy » de f.106 ; sur 7 contextes dans 2 lettres, 65 tombe toujours là où il faut un y
  → l'alternative « nulle » est exclue. Écrit par le casseur dans (journal, l. 47).
 
@@ -129,7 +129,7 @@ personnages codés non identifiés [323] (« connestable ? »), [426], [431], [3
 
 | n° | Vérificateur (UTC) | **Sévère : groupe / mot hors nulles** | Pessimiste | Autres variantes | Relecture aveugle |
 |---|---|---|---|---|---|
-| 59 | verif-croissy-rome | **95,5 % (276/289) / 91,2 % (93/102)** | 94,8 / 89,2 | casseur 95,8 | 289/289, 0 écart |
+| 59 | vérificateur indépendant | **95,5 % (276/289) / 91,2 % (93/102)** | 94,8 / 89,2 | casseur 95,8 | 289/289, 0 écart |
 | 64 | verif-croissy-f138 (28/09 23:14) | **86,5 % (467/540) / 89,7 % (174/194)** | 85,6 / 87,6 | clé publiée seule 84,8 / 85,6 ; grappes comptées 83,7 | 536/540 ; 3 erreurs du casseur, toutes à son détriment |
 | 66 | verif-croissy-f135 (23:56) | **86,7 % (520/600) / 85,4 % (199/233)** | 84,8 / 81,1 | clé publiée seule 85,5 / 82,4 ; min. conventions justes 80,4 | 596/600 |
 | 68 | verif-croissy-f166 (29/09 00:59) + addendum | **88,6 % (613/692) / 86,3 % (234/271)** (mesure initiale 88,4 / 86,0) | 85,4 / 82,3 | très sévère 86,3 / 83,8 ; clé publiée seule 86,3 / 81,2 | 336 jetons, 1 écart (contre le casseur) |
@@ -143,7 +143,7 @@ combinaisons extrêmes) : par arbitrage de la coordination (cohérent n°64/66/6
 
 ### Addendum n°61 (f.162) — 65 = y devenu PROUVÉ
 - La mesure de référence de n°61 (88,4 % / 84,8 %) comptait 65 = y ×2 (« moy », « luy ») **non compris** (HYP à l'époque).
-- Depuis la preuve de 65 = y (verif-croissy-f138, clé v5), l'effet **indicatif** est 213 → **215/241 = 89,2 %** par groupe (journal de clé, l. 42).
+- Depuis la preuve de 65 = y (vérificateur indépendant, clé v5), l'effet **indicatif** est 213 → **215/241 = 89,2 %** par groupe (journal de clé, l. 42).
  **Non recompté officiellement par un vérificateur** : le chiffre de référence reste **88,4 % / 84,8 %**.
 
 ### Addendum n°68 (f.166) — f.167v L4 « 189 » = 183

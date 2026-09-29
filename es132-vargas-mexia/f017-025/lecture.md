@@ -1,7 +1,7 @@
 # Philippe II → Juan de Vargas Mexía, Madrid, 08/03/1578 — BnF, Espagnol 132, f.17r-20v + duplicata f.22r-25r (résultat n°16)
 
 - **Cote** : Bibliothèque nationale de France, Espagnol 132, f.17r-20v + duplicata f.22r-25r.
-- **Images** (Gallica, lien seulement ; chercher le folio dans la visionneuse) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
+- **Images** (Gallica, lien seulement) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x/f19.item (vues 19-28 ; correspondance folio/vue établie d'après les rapports de vérification) ; manuscrit entier : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
 - **Clé** : Cipher 2 : clé cassée et publiée par S. Tomokiyo (2020), sur la lettre du 24/1/1578 elle-même. **Étiquette : première lecture (à notre connaissance) avec clé publiée** ; le mérite de la clé revient à ses auteurs.
 - **Taux (vérificateur indépendant, mesure sévère par groupe)** : 83,5 % (P = 0,25 ; 88,5 % à P = 0,5 ; 81,6 % au dénominateur prudent) ; **variante stricte 79,9 %** — mesure en équivalents-lignes, ± 3 points. Taux par mot : non mesuré.
 - **Nouveauté selon le clair** : B (deux passages, ≈ 80 mots, imprimés par Mignet 1846). « Non trouvé » ≠ « inédit » : les minutes de Simancas (AGS Estado K 1544-1558) n'ont pas été consultées.

@@ -1,5 +1,5 @@
 /* hs.c — solveur homophonique (recuit) avec terme d'entropie/KL anti-dégénérescence
- * casseur-malsburg r1, 2026-09-28 ; r2 : option -f plancher par fenêtre (robustesse au bruit).
+ * casseur, passe r1, 2026-09-28 ; r2 : option -f plancher par fenêtre (robustesse au bruit).
  * Modèle : 5-grammes lissés récursivement (Dirichlet, k=KD) sur un corpus a-z continu (i/j, u/v fusionnés).
  * Score = somme ln P(x_j | x_{j-4..j-1})  -  LAMBDA * N * KL(freq_clair || freq_langue)
  * Entrée : jetons séparés par des blancs ; un jeton "|" coupe le contexte (mot codé, nom, clair).

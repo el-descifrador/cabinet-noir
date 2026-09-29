@@ -2,13 +2,13 @@
 
 **Lettres chiffrées historiques : lectures vérifiées (XVIᵉ-XIXᵉ siècle)** · *Historical cipher letters: verified readings (16th-19th century)*
 
-> **FR.** Ce dépôt réunit 74 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg),
+> **FR.** Ce dépôt réunit 75 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg),
 > toutes **confirmées par un vérificateur indépendant**, presque toutes **« avec réserves »** ; quatre d'entre elles (n°10, 11, 16, 22) restent **sous le seuil de 80 %**
 > selon au moins une mesure et ne sont présentées que comme des lectures partielles (voir § 3). Pour chaque lettre : transcription du chiffré, clé utilisée
 > (nos clés ; pour une clé publiée par un tiers, seulement la référence et nos compléments), lecture, taux mesurés par le vérificateur, réserves, sources (liens, aucune image).
 > Le travail a été fait par une équipe d'agents d'IA (Claude, Anthropic) coordonnée par un humain ; les lectures sont des **propositions argumentées**, pas des éditions critiques.
 >
-> **EN.** This repository gathers 74 readings of cipher letters kept in European archives (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg),
+> **EN.** This repository gathers 75 readings of cipher letters kept in European archives (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg),
 > each **confirmed by an independent verifier**, most of them **"with reservations"**; four of them (nos. 10, 11, 16, 22) fall **below the 80 % threshold**
 > under at least one measure and are presented only as partial readings (see § 3). For each letter: ciphertext transcription, key used (our own keys;
 > for keys published by third parties, only the reference and our additions/corrections), reading, verifier's scores, reservations, sources (links only, no images).
@@ -27,7 +27,7 @@
    Les taux sont ceux du **vérificateur** (sa transcription, son script), selon une **mesure sévère** : tout signe à deux valeurs, toute hypothèse, tout code à un seul contexte,
    tout groupe caché dans la reliure compte comme **non compris**.
 3. **Deux sortes de résultats**, à ne pas confondre :
-   - **clé cassée / reconstruite / retrouvée par nous** (vraies percées : Malsburg 1637, Santa Cruz 1631-1635, Fogliani 1568, Ventadour 1595, Brèves 1610) ;
+   - **clé cassée / reconstruite / retrouvée par nous** (vraies percées : Malsburg 1637, Santa Cruz 1631-1635, Ridolfi 1646, Fogliani 1568, Ventadour 1595, Brèves 1610) ;
    - **première lecture avec une clé publiée ou d'époque** (Tomokiyo, Devos 1950, table du Grand Chiffre, clé notée par le déchiffreur d'époque…) : le mérite de la clé revient à son auteur.
 4. **Malsburg 1637 et Hesse 1824** ont été lus **indépendamment et en parallèle** d'un autre projet public, qui les a **publiés le premier** (dbourdeau/cyphersolver, 29/09/2026).
    Nous ne revendiquons **aucune priorité** : nos lectures valent confirmation indépendante (pour Malsburg, les deux clés cassées à l'aveugle concordent sur 81 des 88 valeurs communes).
@@ -142,6 +142,7 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 | 72 | Croissy → Mazarin | BnF Baluze 178 f.213-217 | 07/02/1661 | P (Tomokiyo) + compléments | 93,9 % / 90,6 % | atteint | | A prov. | [croissy-rome-1661](croissy-rome-1661/) |
 | 73 | Croissy → J.-B. Colbert | BnF Baluze 178 f.223-226 | 07/02/1661 | P (Tomokiyo) + compléments | 94,1 % / 93,1 % | atteint | | A prov. | [croissy-rome-1661](croissy-rome-1661/) |
 | 74 | Philippe IV → marqués de Santa Cruz | AHNOB Santa Cruz D.145 | 26/05/1635 | **R** (lecture à l'aveugle) | 84,4 % / **69,1 %** | atteint au groupe ; **mot < 80 %** (réserve) | réserve au mot | A prov. | [santacruz-1631-1635](santacruz-1631-1635/) |
+| 75 | Ludovico Ridolfi → duc d'Arcos | AHNOB OSUNA C.3456 D.107 | 08/05/1646 | **C** (clé non publiée) | 89,6 % / 89,9 % (pessimiste) ; très pessimiste 84,6 % / 86,3 % | atteint | lettre unique (pas de test de généralisation) ; valeurs rares à 1-2 contextes ; 12 codes non prouvés | A prov. | [ridolfi-1646](ridolfi-1646/) |
 
 Les numéros suivent l'ordre de confirmation par les vérificateurs. **Non inclus** (retirés ou douteux) : Espagnol 336 n°88 (retiré : 79,3 % sous le seuil sévère) ;
 Espagnol 132 f.26r (étendue douteuse : ni date ni signature visibles) ; Espagnol 336 n°89 (partiel) ; lectures mineures ou partielles non comptées.

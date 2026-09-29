@@ -94,7 +94,7 @@ Statut avant ce travail : PARES « Sin descifrar » ; les concurrents (cipher-la
 (enclitique soudé dans « remitiros », séparé dans « decir me »). En soudant les enclitiques comme le font les *descifrados* de la même série, on obtient **63/79 = 79,7 %** ;
 sur 16 conventions plausibles, le taux va de 79,2 à 80,2 %, dont 11 sous 80 %. **La lettre est comprise à environ 80 % des mots ; on ne peut pas l'affirmer de façon robuste.**
 Il manquait un mot.
-**3ᵉ examen (verif-santacruz-d6-r15, 28/09 23:07-23:15)** : le glyphe noté « k » dans D.6 (L06, « Necola[k]de ») est, **trait pour trait**, le « K » de la même main
+**3ᵉ examen (vérificateur indépendant, 28/09 23:07-23:15)** : le glyphe noté « k » dans D.6 (L06, « Necola[k]de ») est, **trait pour trait**, le « K » de la même main
 (« Rozas » : D.44, D.48), où **K = l est PROUVÉ** (3 contextes, 2 lettres), et la même lettre que le « k » de D.58 (algun, el zelo, relus par le vérificateur dans le *descifrado* D.59) :
 l est prouvé par 5 contextes dans 3 lettres. « Necolalde » devient compris → **63/78 = 80,8 %** (convention A) ; les 8 conventions encore plausibles donnent 80,5-81,2 % ;
 les 4 variantes < 80 % de la grille r12 coupent « necolal | de », qui n'est plus un mot. Contre-épreuve : clé r15 sans k = 79,5 %. **Réserve levée, avec une marge d'exactement
@@ -195,7 +195,7 @@ il n'est pas traité ici.
 - Règle anti-duplicado : un duplicado aux mêmes homophones ne prouve que la transcription (D.105 = duplicado de D.103, ni paire ni cible).
 - **Aucune valeur tirée d'une cible** (D.99, D.107, D.113, D.117, D.143, D.145) : contrôlé par grep et diff de clés par chaque vérificateur.
 
-#### Vérificateur de clé (verif-cle-santacruz1634, 29/09 00:38-00:58, clé r21 662689f8)
+#### Vérificateur de clé (vérificateur indépendant, 29/09 00:38-00:58, clé r21 662689f8)
 - Verdict : **clé utilisable sur une cible aveugle, avec rétrogradations** : g / 9 → **DOUBLE e|y** (NON compris : même glyphe pour e et y dans deux mains ; « de **y**r a divertir »
  dans deux chiffrements indépendants ; le glossateur d'époque lui-même en donne 3 lectures) ; hu = du et ud = nu → HYP (leurs deux « contextes » sont le même lieu chiffré deux fois).
 - 11 valeurs « PROUVE_J » (cul, pen, tas, sel, ten, xer, p, ed, 44, 14, K) acceptées PROUVÉES après contrôle à l'image ; les « splits » de glyphes (44 / 4̃4 = bien, 14 / 1̃4 = Milan,
@@ -216,7 +216,7 @@ il n'est pas traité ici.
 ### 2. Tests de généralisation (prédiction figée AVANT lecture du *descifrado*)
 
 Chiffres du **casseur** (protocole figé, empreintes horodatées ; chiffrés et « or » alignés des paires dans `paires/1634/`) ; ils ne sont pas re-mesurés par un vérificateur, mais leur rôle est
-seulement de **conditionner** l'ouverture des cibles (règle du coordinateur : ≥ 80 % strict sur une paire de la même main).
+seulement de **conditionner** l'ouverture des cibles (règle de la coordination : ≥ 80 % strict sur une paire de la même main).
 
 | test | paire | main | clé | groupe strict | mot | faux | décision |
 |---|---|---|---|---|---|---|---|
@@ -247,7 +247,7 @@ chiffrée, 29/9/1634) 67,9 %.
  > [y] el peli[g]ro [g]rande con que estari[a] si no se acude a lo que [alli] es menester con [·] ; de que [h]e querido advertiros [y] encargaros [y] mandaros procureis en[·]r el
  > pasa[j]e de las levas con la ma[yo]r puntualidad que [os?] fu[ere] [posible?] [y] que [socorr]ais aquel estado en aprieto en la me[j][o]r [forma] que pudi[ere]des, poniendo [·]
  > [Conde] en todo, [y] [avisa]reisme del rrecibo deste [despacho]. »
-- **Vérification (verif-santacruz-d113, 29/09 01:51-02:05)** : ✅ **avec réserves** — **85,7 % strict par groupe (186/217) / 68,1 % par mot (64/94)** ; convention du casseur
+- **Vérification (vérificateur indépendant, 29/09 01:51-02:05)** : ✅ **avec réserves** — **85,7 % strict par groupe (186/217) / 68,1 % par mot (64/94)** ; convention du casseur
  84,8 / 67,0 reproduite ; pessimiste 82,9 % ; sans la seule valeur à une paire (ur = fu) 82,5 % ; borne extrême non justifiée 77,0 %. Transcription aveugle 215/217
  (les 2 écarts tranchés en faveur du casseur : m barré = forme normale de m). ≈ 45 valeurs employées contrôlées à l'image sur D.114/D.115 et D.121/D.122 : **0 discordance**.
 - Cohérence : le cardinal Gil Carrillo de Albornoz gouverne le Milanais par intérim après le départ du cardinal-infant (été 1634, vers Nördlingen, 6/9/1634) ; même formule
@@ -262,14 +262,14 @@ chiffrée, 29/9/1634) 67,9 %.
  > de Milan, pero llegando los que [alli] [h]u-vi[e]re a pasar de seis mil, se podran [i]r enviando a Napoles [h]asta los [1500] … ; porque este [6 tun] eso lo uno [y] lo [otro]
  > desta bien, vos os comunicareis con mi hermano, a [qui]en escribo diciendole esta [116], o con la [persona] que governare el estado de Milan, [para que] alli se e[xe]cute esto
  > como mas convenga en caso que vos no lo podais [tit V]. »
-- **Vérification (verif-santacruz-d99, 29/09 02:42-02:58)** : ✅ **avec réserves** — **87,5 % strict (231/264) / 76,6 % par mot (105/137)** ; pessimiste 82,6 % ; plancher justifié
+- **Vérification (vérificateur indépendant, 29/09 02:42-02:58)** : ✅ **avec réserves** — **87,5 % strict (231/264) / 76,6 % par mot (105/137)** ; pessimiste 82,6 % ; plancher justifié
  81,1 % ; mesure officielle du casseur (84,1 / 69,9) reproduite (son 79,2 % pessimiste vient d'une faute de sa transcription : 3 points de « ib » omis). **0 valeur fausse.**
  Transcription aveugle 259/264. 40 valeurs contrôlées sur D.128/D.129 (même main) : **0 discordance**.
 - **Réserve de fond** : « 1500 / 500 / 1500 » sont des **nombres marqués** (signes suscrits), lus comme nombres et **non décodés par la clé** (comptés N) ; plausible (« seis mil »,
  lui, est déchiffré), non prouvé.
 
 #### n°74 — D.145, Madrid 26/5/1635 (PARES 12878118 img 41-42, dos img 43 ; ENTIÈRE : Yo el Rey + Geronimo Villanueva ; main à points ; 377 groupes)
-- **Chronologie** : clé r31 figée 04:01:06Z → première vue lisible 04:01:17Z (11 s après) → transcription figée 04:10:10Z → SOLUTION? 04:13. Le diff r30 → r31 ne contient que des
+- **Chronologie** : clé r31 figée 04:01:06Z → première vue lisible 04:01:17Z (11 s après) → transcription figée 04:10:10Z → proposition de solution 04:13. Le diff r30 → r31 ne contient que des
  valeurs issues de D.148 ; aucune valeur de D.145.
 - **Lecture (vérificateur, début)** :
  > « [♀ V] (Del Conde de Monterrey he entendido) la forma en que estava prevenida la armada para nave[ga]r [y] e[xe]cutar co[n] [e]lla lo que estava resuelto [y] que [despues] por
@@ -277,7 +277,7 @@ chiffrée, 29/9/1634) 67,9 %.
  > desta gente de la armada para soco[rre]r el estado de Milan ; … no solo le [h]e aprovado lo que [h]a obrado en esta parte, sino que ten[go] por [necesario] que la armada se
  > arrime a la dere[ce]ra de Milan porque este pronta en caso de [h]averle de socorrer. [Y] [asi] sin [yn]terponer [dilacion] es mi [voluntad] que os encamineis co[n] la armada
  > a [aquella] parte … »
-- **Vérification (verif-santacruz-d145, 29/09 04:14-04:40)** : ✅ **avec réserves** — **84,4 % strict (318/377) / 69,1 % par mot (130/188)** ; pessimiste 83,3 % ; sans valeur à
+- **Vérification (vérificateur indépendant, 29/09 04:14-04:40)** : ✅ **avec réserves** — **84,4 % strict (318/377) / 69,1 % par mot (130/188)** ; pessimiste 83,3 % ; sans valeur à
  une paire 83,3 % ; les deux cumulées 82,2 % ; seule borne < 80 % (78,5 %) = convention non justifiée (m barré = N). **1 seule valeur fausse.** Transcription aveugle 367/377.
  ≈ 40 valeurs contrôlées sur D.128/D.129 : **0 discordance**.
 - **« Valtelina »** (code 192) n'est lu que par le contexte : **NON prouvé, non compté** (de même « Cardenal », « Rey », « Conde »). Cohérence : Monterrey vice-roi de Naples,

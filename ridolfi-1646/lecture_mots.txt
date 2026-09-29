@@ -1,0 +1,45 @@
+# Lecture mot a mot du verificateur (segmentation independante ; son script verifie qu'elle reproduit exactement le dechiffrement).
+# Un segment par ligne (segments separes par F dans le chiffre). ?mot = mot NON compris (compte non compris) ; [nnn] = code non resolu (compte non compris).
+# Orthographe du chiffreur conservee (geminees reduites : paso, socorso ; n devant p : tenpo, senpre ; u pour v).
+gia che questa mattina il papa ha negato al signor don antonio ronchillo
+il paso per li ?cinquecetoca ualli
+che [126] uol mandare in socorso del [107]
+ma ha detto che lo concederebbe per lo stato milano
+io ho proposto al signor don antonio
+che acetti il paso nella forma che [101] uol concederlo
+perche quando questa caualleria sara nella citta di forli nella romagna
+?toer doue e il camino diritto uerso bologna
+se ?iu [107] sara stato ?ataiatto dai [121]
+et hauera bisogno di questo socorso
+potranno entrare nello stato del [107]
+non esendo il confino piu lontano di dodici miglia
+ma quando il [107] non habbia bisogno
+seguiteranno il camino uerso ?bologlie uerso lo stato di ?milali
+il partito e piaciuto a don antonio
+et ha uoluto che io ne parli al [110] di [107]
+che lha lodato grandemente
+e ne ha dispaciato coriero al [107]
+e credo ancora che in ogni caso sia per piacere a [101]
+?nerche non dubitera che li [121] si dolghino che habbia fatta una nouita
+della armata [121] non ci e altro auiso
+dice bene una feluca ariuata in roma di hauer sentito per queste spiaggie che fuse giunta nel golfo delle spetie
+ma quando lauiso fuse uero
+[126] ne hauerebbe riceuto coriero da [116]
+ma io sento che non sia posibile che la gente si conduca per la carfagnana a [136]
+per eser ancora quelle montagne piene di neue
+e che pero ?quandu debba andare nello stato di milano pare piu uerisimile che sbarchi la soldatesca ?au fiume della lenza
+e che per la ual di taro si conduca nel parmigiano
+di che fa maggiormente sospettare che il [115] di soure sia stato lungamente a negotiare con quel [114] in nome dei [121]
+il [114] ?iuandomo mi scriue la ?risolutiine delli ugonotti di [103] di solleuarsi
+e la sua di farsi capo ?loso
+et io ho fatto uedere le lettere originali a ?du ?sognora mirante
+il quale uorebbe dare a ?dudetto [114]
+li dodici mila ducati che [100] comando gia che gli fusero pagati
+poiche se ne uorebbe preualere per farli sborsare ai capi delli ugonotti
+quando io habbia un poco di tenpo mandero la ?iopia della detta lettera di uandomo a [126]
+alla quale non poso dir altro del negotio di buglione
+stano senpre nei medesimi termini
+ma con le medesime ?patole che mi sara data subito la scrittura richiesta
+et io non uorei che con la lunghezza
+disperato buglione si acordase con li [121]
+poiche il [108] mazarino senpre gli fara dopiarle oferte

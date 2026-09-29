@@ -14,7 +14,7 @@
 
 ### Lecture (note de synthèse)
 
-Lecture du casseur (runs 5-9), vérifiée par un vérificateur indépendant (28/09/2026, **confirmé avec réserves**). Notice BnF : « Lettre, avec chiffre, en partie déchiffrée, du Sr DE MONTHOLON. Tours, 26 novembre 1589 ». Sur le recto, une seule glose d'époque sûre : « legat » au-dessus de `'26 '26 30 25 95` (T1), qui concorde avec la valeur déjà publiée par Tomokiyo. Un bloc chiffré continu (R0t-R6, ≈ 590 groupes) et une dizaine de passages chiffrés insérés dans le clair (≈ 300 groupes) ; la clé s'applique **sans ajustement** (93 % des 887 groupes = table publiée).
+Lecture du casseur (passes 5-9), vérifiée par un vérificateur indépendant (28/09/2026, **confirmé avec réserves**). Notice BnF : « Lettre, avec chiffre, en partie déchiffrée, du Sr DE MONTHOLON. Tours, 26 novembre 1589 ». Sur le recto, une seule glose d'époque sûre : « legat » au-dessus de `'26 '26 30 25 95` (T1), qui concorde avec la valeur déjà publiée par Tomokiyo. Un bloc chiffré continu (R0t-R6, ≈ 590 groupes) et une dizaine de passages chiffrés insérés dans le clair (≈ 300 groupes) ; la clé s'applique **sans ajustement** (93 % des 887 groupes = table publiée).
 
 > (bloc R0t-R6) « … il abandonnera, et lors … advis … ce qu'il aura … sur cest espoir … soit venant à l'effect, il l'auroit pour [son] ennemy et ceulx qui les suyvent, et sans apparence de pouvoir resister, pour n'avoir asseurance de … que ~35 … declare qu'il … (?) ; de sorte qu'est retenu pour ne sçavoir la volonté du legat … pour l'importance de l'affaire ; **que si le Roy se faict catholique, il est du tout resolu de le suivre, et si le legat n'y consentira et qu'il vouldra, à cause de son heresie et excommunication**, en favoriser d'aultre ; mais ce ~35 … il [ve]ult (?) **estre catholique sans [l']absolution precedente, qui ne se peult legitimement** … que par … qui l'a excommunié ; et toutesfois ils s'[y] arresteront … et mespriseront …, **dont s'ensuivra l'introduction du schisme** et les maux qu'amene. »
 > (passages insérés) « [de] 64 qui abandonneront le Roy, voyans la vanité de leurs espoirs » ; « … a ce ne pouvant … il veult abuser le m[onde] » ; « **attendant les estrangers que Casimir doit amener en mars**, pendant lequel (?) temps il s'establira (?) » ; « … **mais vostre but est de complaire à Dieu plus qu'aux hommes**, aussi … » ; « … a declaré (?) que vous disposez ».
@@ -29,11 +29,11 @@ Lecture du casseur (runs 5-9), vérifiée par un vérificateur indépendant (28/
 - La pièce se lit avec la clé Vieuville–Nevers, sans aucun ajustement.
   - 93,0 % des 887 groupes sont des lettres ou des codes publiés par Tomokiyo.
   - le script de décodage restitue les phrases annoncées : « que si ~7 se faict catholique, il est du tout resolu de le suivre », « si le legat n'y consentira », « a cause de son heresie et excommunication », « estre catholique sans absolution precedente, qui ne se peult legitimement », « dont s'ensuivra l'introduction du schisme », « qui abandonneront ~7 voyans la vanité de leurs espoirs », « attendant les estrangers que Casimir doit amener en mars ».
-- Ma relecture à l'aveugle de R4 et R5 reproduit la transcription du run 8 à 88-96 % par groupe (voir § 1).
+- Ma relecture à l'aveugle de R4 et R5 reproduit la transcription de la passe 8 à 88-96 % par groupe (voir § 1).
 
 **Réserves**
 - **Le taux de 87,3 % n'est pas un taux de compréhension.** C'est un taux de groupes « dans un mot reconnu ».
-  - Le saut de ≈ 65 % à 87 % vient surtout d'un **changement de définition** : les ≈ 60-65 % des runs 6-7 étaient des estimations « compris », pas des mesures.
+  - Le saut de ≈ 65 % à 87 % vient surtout d'un **changement de définition** : les ≈ 60-65 % des passes 6-7 étaient des estimations « compris », pas des mesures.
   - Une petite part vient des relectures de R1, R2, R4 et R5, qui, elles, sont réelles et reproduites.
   - **Taux « chiffré compris » (au niveau de la phrase) recalculé : ≈ 78-79 %.** Le seuil de 80 % est frôlé, pas atteint au sens strict.
 - **Erreur de structure dans F8.** La « fin de F » (Ft, x1960-3110) est en réalité la **suite du rang E**. Le vrai rang F se poursuit sur la ligne du dessous et n'est pas transcrit (voir § 1c). « il veult abuser le m[onde] » appartient donc à la phrase de E, pas à celle de Casimir.

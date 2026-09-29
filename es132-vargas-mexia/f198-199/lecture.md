@@ -1,7 +1,7 @@
 # Antonio Pérez → Juan de Vargas Mexía, Madrid, 15/04/1579 — BnF, Espagnol 132, f.198r-199r (résultat n°7)
 
 - **Cote** : Bibliothèque nationale de France, Espagnol 132, f.198r-199r.
-- **Images** (Gallica, lien seulement ; chercher le folio dans la visionneuse) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
+- **Images** (Gallica, lien seulement) : https://gallica.bnf.fr/ark:/12148/btv1b10032556x/f195.item (vues 195-197 ; correspondance folio/vue établie d'après les rapports de vérification) ; manuscrit entier : https://gallica.bnf.fr/ark:/12148/btv1b10032556x
 - **Clé** : Cipher 4 (chiffre d'Antonio Pérez) : reconstruit par Devos (1950, p. 422), complété par S. Tomokiyo (2020). **Étiquette : première lecture (à notre connaissance) avec clé publiée** ; le mérite de la clé revient à ses auteurs.
 - **Taux (vérificateur indépendant, mesure sévère par groupe)** : 85,5-89,6 % (pessimiste 84,6 % ; plancher ≈ 80 %). Taux par mot : non mesuré.
 - **Nouveauté selon le clair** : B faible (mots lus par Tomokiyo ; parties claires Gachard 1875, Rubino 2012 ; chiffré déclaré non lu par les deux). « Non trouvé » ≠ « inédit » : les minutes de Simancas (AGS Estado K 1544-1558) n'ont pas été consultées.
