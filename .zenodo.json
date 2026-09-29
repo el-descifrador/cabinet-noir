@@ -1,9 +1,11 @@
 {
   "title": "Cabinet Noir : lectures vérifiées de lettres chiffrées historiques (XVIe-XIXe siècle)",
   "upload_type": "dataset",
-  "description": "<p>75 lectures de lettres chiffrées conservées à la BnF (Gallica), à l'Archivo Histórico de la Nobleza (PARES) et au Hessisches Staatsarchiv Marburg (HCPortal), 1568-1824. Chaque lecture a été confirmée par un vérificateur indépendant (transcription à l'aveugle, reproduction de la méthode, taux sévère scripté par groupe chiffré et par mot) ; la plupart restent « avec réserves ».</p><p>Deux catégories sont distinguées : clés cassées à l'aveugle, reconstruites depuis des paires chiffré/déchiffré d'époque ou retrouvées dans les archives (Malsburg 1637, Santa Cruz 1631-1635, Ridolfi 1646, Fogliani 1568, Ventadour 1595, Brèves 1610) ; premières lectures avec des clés publiées par des tiers (S. Tomokiyo, J.-P. Devos) ou d'époque, qui sont citées et non redistribuées. Malsburg 1637 et Hesse 1824 ont été lus indépendamment et en parallèle d'un autre projet public qui les a publiés le premier ; aucune priorité n'est revendiquée.</p><p>« Non trouvé » ne veut pas dire « inédit ». Aucune image d'archives n'est reproduite. Travail réalisé avec une équipe d'agents d'IA (Claude, Anthropic) coordonnée par un humain.</p>",
+  "description": "<p>75 lectures (71 confirmées + 4 partielles sous le seuil de 80 %) de lettres chiffrées conservées à la BnF (Gallica), à l'Archivo Histórico de la Nobleza (PARES) et au Hessisches Staatsarchiv Marburg (HCPortal), 1568-1824. Chaque lecture a été examinée par un vérificateur indépendant (transcription à l'aveugle, reproduction de la méthode, taux sévère scripté par groupe chiffré et par mot) ; la plupart restent « avec réserves ».</p><p>Deux catégories sont distinguées : clés cassées à l'aveugle, reconstruites depuis des paires chiffré/déchiffré d'époque ou retrouvées dans les archives (Malsburg 1637, Santa Cruz 1631-1635, Ridolfi 1646, Fogliani 1568, Ventadour 1595, Brèves 1610) ; premières lectures avec des clés publiées par des tiers (S. Tomokiyo, J.-P. Devos) ou d'époque, qui sont citées et non redistribuées. Malsburg 1637 et Hesse 1824 ont été lus indépendamment et en parallèle d'un autre projet public qui les a publiés le premier ; aucune priorité n'est revendiquée.</p><p>« Non trouvé » ne veut pas dire « inédit ». Aucune image d'archives n'est reproduite. Travail réalisé avec une équipe d'agents d'IA (Claude, Anthropic) coordonnée par un humain.</p>",
   "creators": [
-    {"name": "Descifrado"}
+    {
+      "name": "Descifrado"
+    }
   ],
   "license": "cc-by-4.0",
   "access_right": "open",
@@ -27,7 +29,11 @@
     "AI agents"
   ],
   "related_identifiers": [
-    {"identifier": "https://github.com/el-descifrador/cabinet-noir", "relation": "isSupplementTo", "scheme": "url"}
+    {
+      "identifier": "https://github.com/el-descifrador/cabinet-noir",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
   ],
   "notes": "Clés de tiers citées, non redistribuées. Données et textes sous CC BY 4.0 ; scripts éventuels sous MIT."
 }

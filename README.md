@@ -2,15 +2,15 @@
 
 **Lettres chiffrées historiques : lectures vérifiées (XVIᵉ-XIXᵉ siècle)** · *Historical cipher letters: verified readings (16th-19th century)*
 
-> **FR.** Ce dépôt réunit 75 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg),
-> toutes **confirmées par un vérificateur indépendant**, presque toutes **« avec réserves »** ; quatre d'entre elles (n°10, 11, 16, 22) restent **sous le seuil de 80 %**
-> selon au moins une mesure et ne sont présentées que comme des lectures partielles (voir § 3). Pour chaque lettre : transcription du chiffré, clé utilisée
+> **FR.** Ce dépôt réunit 75 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg) :
+> **71 lectures confirmées** par un vérificateur indépendant (presque toutes **« avec réserves »**) **+ 4 lectures partielles** (n°10, 11, 16, 22), qui restent **sous le seuil de 80 %**
+> selon au moins une mesure et ne sont pas comptées comme confirmées (voir § 3). Pour chaque lettre : transcription du chiffré, clé utilisée
 > (nos clés ; pour une clé publiée par un tiers, seulement la référence et nos compléments), lecture, taux mesurés par le vérificateur, réserves, sources (liens, aucune image).
 > Le travail a été fait par une équipe d'agents d'IA (Claude, Anthropic) coordonnée par un humain ; les lectures sont des **propositions argumentées**, pas des éditions critiques.
 >
-> **EN.** This repository gathers 75 readings of cipher letters kept in European archives (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg),
-> each **confirmed by an independent verifier**, most of them **"with reservations"**; four of them (nos. 10, 11, 16, 22) fall **below the 80 % threshold**
-> under at least one measure and are presented only as partial readings (see § 3). For each letter: ciphertext transcription, key used (our own keys;
+> **EN.** This repository gathers 75 readings of cipher letters kept in European archives (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg):
+> **71 confirmed readings** by an independent verifier (most of them **"with reservations"**) **+ 4 partial readings** (nos. 10, 11, 16, 22) that fall **below the 80 % threshold**
+> under at least one measure and are not counted as confirmed (see § 3). For each letter: ciphertext transcription, key used (our own keys;
 > for keys published by third parties, only the reference and our additions/corrections), reading, verifier's scores, reservations, sources (links only, no images).
 > The work was done by a team of AI agents (Claude, Anthropic) coordinated by a human; readings are **argued proposals**, not critical editions.
 > Documentation is in French; the table below is self-explanatory (n°, shelfmark, date, key origin, verified rates per cipher group / per word).
