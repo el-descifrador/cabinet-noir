@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces lectures ou ces clés, merci de citer ce dépôt. / If you use these readings or keys, please cite this repository."
+title: "Cabinet Noir : lectures vérifiées de lettres chiffrées historiques (XVIe-XIXe siècle)"
+type: dataset
+version: "1.0.0"
+date-released: "2026-09-29"
+authors:
+  - name: "Descifrado"
+license: CC-BY-4.0
+repository-code: "https://github.com/el-descifrado/cabinet-noir"
+abstract: >-
+  74 lectures de lettres chiffrées (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg), 1568-1824, chacune confirmée
+  par un vérificateur indépendant avec un taux sévère par groupe et par mot. Comprend des clés cassées à l'aveugle
+  (Malsburg 1637), reconstruites depuis des déchiffrements d'époque (Santa Cruz 1631-1635) ou retrouvées (Brèves 1610),
+  et des premières lectures avec des clés publiées par des tiers (citées, non redistribuées). Travail réalisé avec
+  une équipe d'agents d'IA (Claude, Anthropic).
+keywords:
+  - cryptography
+  - historical cryptology
+  - cipher
+  - nomenclator
+  - homophonic cipher
+  - diplomatic history
+  - Philip II
+  - Philip IV
+  - Thirty Years' War
+  - Colbert
+  - paleography
+  - AI agents

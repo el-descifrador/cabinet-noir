@@ -1,0 +1,82 @@
+# HStAM 4 h Nr. 1411, f.28-29 — déchiffrement brut signe à signe avec la clé figée (n°65)
+# Formes brutes de la clé : minuscules = lettres ; {X} = majuscule (polygramme) ; <n> = code non résolu ; * devant un mot = mot NON compris ;
+# ! devant un groupe = groupe non compris ; ? = hypothèse. Orthographe du XVIIe s. conservée (u/v, i/j). Texte normalisé et traduction : lecture.md.
+f28.1: wolte mi{D} nun zwar wohl sobalt mi{A} *<‡>tr{Q}n uon hier {S}f ma{N}en zu la
+f28.2: nt w{Y}{H} <f> dunkercker uor etlc{N} tagen {F}f *zen wa{L}en a{M}o{D} gelegen dur
+f28.3: {N} <235> an *we<7>imter ort mit go{A}es hul{B}e anlangen *w<j>li{N} aber <193> <212> {O}u
+f28.4: ck <197> mi{L} brinen so{K} der f{G}t aber <> wel{N}er no{D} zwi{X}en <149> ruhr an di
+f28.5: e <6> <273> <193> <e> <n> <273> <200> <1> <273> tragons ligen ha{A} {S}{D} no{N} {K} <253> <212> {F}{W} lo{A}ringen *ltwa{M}n
+f28.6: pfert {O}arck dazu ko{R}en <> izo zusa{E}en *gwhe{A} zu felt *wrlso i{O} uber
+f28.7: *lani zu gehen ni{L} tunli{N} zu wa{W}er aber langw{Y}lig kan so <j>l{G}ni
+f28.8: g ni{A} zu werck geri{D}tet werden dan es erfor!wert <1> uie{H} z{Y}t ehe
+f28.9: man *{X}oe{T}e so zur *sehe gehen alhir nit zu beko{E}en s{G}n be{Z}e
+f28.10: lt wohl an *dii<e>wen{L} <273> <200> so notwendig uon hier abgefurt werd
+f28.11: en mu{P}en zwol{B} <273> <213> *{M} canons mi{A} gehoriger <208> *{X}{X} tr{Q}n dar
+f28.12: *{S}i geladen mi{L} no{A}ur{B}tigen <194> fu{A}erungen uersehen wer
+f28.13: d!bn solten <> s{Y}n mu{O}en des gro{W}en unko{Z}ens gentzli{N}en zu g
+f28.14: e{X}w{Y}gen kan contrari wint ko{R}en da{P} !nan in <f> {K} wo{N}en ni{A}
+f28.15: {G}nen {X}rit w{Y}t hinder oder uor si{N} ko{E}en kan zu dem *e so mu{Z}en
+f28.16: die <168> umb {Y}nen fr{G}en pa{W} ersu{N}t werden dan k{G}n garnison on
+f28.17: e *e<20>cre{W}en befel{D} {Y}n !iol{N} anzal {X}ie{T}e wurde pa{W}iren la{W}en
+f28.18: uors dri{A}e wurde der !g{Y}nt <129> !rntention dar{S}{P} l{Y}{N}t abnem
+f28.19: en zu uorko{R}en uiertens so kan {F}{D} uber dieses {S}s disen
+f28.20: !ruartiren k{G}n <193> <> w{Y}{H} di alten <273> {X}wa{N} s{Y}n die newen ni
+f28.21: {A} {S}{B}ko{R}en <> wi {F}{D} {O}ucke ge!eo{E}en werden da{C} die co{R}endan
+f28.22: ten tagli{N} deren b{Y}derl{G} mehr begeren e{W} s{Y}nt zwar di
+f28.23: <o> newe zwolf!bfundige {Z}ucke uon <220> alhir aber no{N} ni{A} la
+f28.24: ue{A}iret so ha{L} man {S}{N} k{Y}ne kugel <197> wagen con{O}abels
+f28.25: *a{A}ilagei *{Z}wartenberg abgedancket wirt {F}{N} nunmer
+f28.26: *mr{L}rantzosi{N} wider {Y}nla{W}en daher {S}f ihn oder s{Y}n <253>
+f28.27: unt die obri{O}en u{B}el karpf {S}{W} iren po{Z}en <> w
+f28.28: {Y}{H} der f{G}nt feur morse{H} {O}ucke {S}{P}m <181> na{N} warendor{B} ge
+f28.29: f!wret s{Y}ne intent!ron aber man a{M}o{N} ni{L} w{G}{P} <> nit zu nem
+f28.30: en s{G}n so *aegert {S}{N} u{B}e{H} w{Y}l *sin <260> izo so <j>le{N}t {Z}ehet nit
+f28.31: abzuzancken {S}{D} wirt er ungern in <215> unter *gunteroten
+f28.32: {O}ehen wo{V}en wegen {S}{W}nemung
+f28.33: der uolcker wider be{Z}e{H}!eng der co{R}en!banten wen u{B}e{H} *{Z}
+f28.34: car!bf b{G} *de mi{A} gehen solten mi{L} dem <▽> a{H}es er{Z} uberlegt abge
+f28.35: redet werden unt resolu
+f28.36: tion uon dem concluso wa{W} <126> <153> disen so{R}er thun wie bal
+f28.37: t sie zu felt gehen werden <2> ob sie <188> mi{A} in ihre a{H}iance
+f28.38: nemen <3> mu{Z}er!blatz *eim cleui{X}en uer{O}a{L}e!e{A} *{X}{X} b{G} leh
+f28.39: rohrt den pa{W} re!ba{W} uber <174> geben darzu {Y}ne bruck
+f28.40: e herl{G}hen wo<‡>en mi{A}bringen wi<‡> do{N} ohna<‡>es
+f28.41: ma{W}geben <> wen es nur de{P} obigen f{Y}nts halber i{Z} er ge{X}
+f28.42: ehen kan si{N} ni{A} zu uber{Y}len sondern er{Z} des <122> wider
+f28.43: kunft {F}{W}m <214> der dan sobalt er alhir wider angelangt i{Z}
+f28.44: die <200> nemen zu <188> gehen wi{H} wohin si{N} der f{Y}nt wel{D}e
+f28.45: r b{Y}sa{E}n *iandwert so zum {S}fbru{N} si{D} zwi{X}en ruhr
+f28.46: <268> gefa{Z} ma{D}et si{N} wenden werden er{O} zu sehen zu war
+f28.47: ten he{A}en <j> da{C} die coniuction
+f28.48: nirgents eher fugli{N}er
+f28.49: als b{Y} <251> clop!qenburg oder ue{N}te ge<j>ehen dan sie eher
+f28.50: uon minden zu ru!acken briege<‡> als zu !uerden *ande
+f28.51: *ra{H}ers {Y}n konen haben sie o{W}nabruck anders{Y}ten
+f28.52: kan {S}{N} uom f{G}nt ihr k{Y}n {X}ade ge<j>ehen dan clop!benburg
+f29.1: ue{N}te wiltzh{S}sen unt dep!kolt {X}le{N}t besetz s{Y}n f
+f29.2: or{Z}en{S}w aber i{O} mi{A} <∞> *{S}ml{M} <193> <o> <273> <212> belegt e{W} i{Z} abe
+f29.3: r die hase dazwi{X}en da{P} sie also uon dem f{Y}nt der
+f29.4: da in guarnison f{O} si{N}er *{Z}f <216> wohl gehen !za{W}
+f29.5: r{Y}derlant zu er{Z} wieder man{P}felter getahn {G}ngen
+f29.6: o{R}en werden kan dan die frie{W}en i!fzo <1> <273> <193> uon *<o>t
+f29.7: *ko!b{B}en werben {S}{N} {Y}ne <j>antze zwi{X}en {O}uckh{S}{W}en
+f29.8: *bo{P}em an dem pa{W} da man uber gehen kan {S}f wer{B}en
+f29.9: *ser{T}en so{H}en {S}{D} s{G}nt die wege a{M}!q{N} so bos da{W} ma
+f29.10: n mi{L} wagen !bferden no{D} ni{A} darin fort ko{R}en
+f29.11: kan *{Q}dw{P}i{N} wegen de{W} f{Y}nts zusa{R}e
+f29.12: {M} *gehende{D} <160> abwesenh{G}t k{Y}n <193> <212> {Z}ucke {S}{W} den g
+f29.13: arnisonen nehmen {S}{N} da{P} co{E}endo uerendern kan {X}l{Y}
+f29.14: nig so balt aber der <122> kombt so{H} <188> {S}{T} a{H}e
+f29.15: puncten *unterth {F}{W}furli{N} bea!lntwortet der
+f29.16: <▽> si{D} <j>l{Y}nig dur{N} {G}nen den andern weg zu <129> zu e
+f29.17: rheben pu{W}iret werden ob i{D} aber *ml{Y}{N} <14>ohl
+f29.18: no{N} uors <122> widerkunft mi{A} <188> trt{Q}n a{H}{Y}n {S}f <147> gehe
+f29.19: n so{H} dar{S}f erwarte i{D} befel{N} wi{H} mi{N} {S}f sol{N}en f
+f29.20: al alz{Y}t gefa{Z} halten
+f29.21: obri{Z}er hohendorf i{O} ko{E}en beri{D}tet
+f29.22: da{W} er den r!z{Z} uon s{Y}nem <191> etwa{M} *n man wider h
+f29.23: olten in den fegesack ge<j>icket he{L}e wel{N}er
+f29.24: uerm{Y}nte mi{A} s{G}nen uolckern nunmehr da{W}
+f29.25: lant uo{C} hadelnn so sa{D}senl{S}enburg zu{O}en
+f29.26: dig i{O} *{G}nzu <122> *emen daselb{Z} !ruartier zu su{N}
+f29.27: en i{Z} {S}{D} na{N}m <123> zu radt *zogezhogen

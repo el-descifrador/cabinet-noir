@@ -1,0 +1,90 @@
+# Clé Malsburg 1637, v8 (figée avant la lecture de f.23-24, n°67) : 53 = p prouvé (était b HYP), 64 = u prouvé, 14 = w HYP ajouté ; autres valeurs = v7. CC BY 4.0.
+# colonnes : nombre, lettre, occurrences dans le flux du solveur, statut, contextes.
+10	b	22	PROUVÉ	f3.U4 ndehaBwn | f3.L2 i{D}B{G}mkon | f3.L8 Be{L}age
+11	i	64	PROUVÉ	f3.U1 {D}no{N}nItw{G}sw | f3.U4 olalhIralsi | f3.U6 ca{W}elI{X}euir
+12	c	4	PROUVÉ	f23.6 wegenCf | f23.35 retinCiccar | f23.38 dasConsde
+13	s	35	PROUVÉ	f3.U1 daSi{N}{F}{D}n | f3.U1 garniSon | f3.U2 ltherSoinfl
+14	w	0	HYP(1 occ. ; v8 r19)	f29.17 {D}aberml{Y}{N}Wohl
+15	l	43	PROUVÉ	f3.U2 terhaLthers | f3.U4 ompLa{L}enl | f3.U4 la{L}enLandes
+16	e	97	PROUVÉ	f3.U3 utionEsu | f3.U4 {G}nendEhabwn | f3.U6 euirtEe<18t>{G}{H}d
+17	q	1	HYP(1 occ. ; r19 : ctx f28.49 rejeté, glyphe « iz » = 12 ?)	f24.27 s{G}nenQuar
+18	w	29	PROUVÉ	f3.U1 itw{G}sWoheru | f3.U3 no{R}enWerden | f3.U4 ndesoWolalh
+19	c	8	PROUVÉ	f3.U7 hpeltCo{R}isb | f3.L3 nctraCtaten | f3.L4 conduCtumuo
+21	h	13	PROUVÉ	f3.U2 unterHalthe | f3.U8 Haben<j> | f3.L8 e{L}ageHo{N}n<7>t
+22	n	64	PROUVÉ	f3.U4 ehabwN | f3.U5 a{H}emoNat{S}f<4> | f3.L1 esi<7>No{N}z{Y}t
+23	f	19	PROUVÉ	f3.U2 rsoinFlu{N}t<201> | f3.U5 onat{S}F<4>tman | f3.L6 iren{S}Fdisem
+24	u	12	PROUVÉ	f3.U3 ntribUtione | f3.L4 uctumUor<¤>ge | f23.4 urdieUergel
+25	r	43	PROUVÉ	f3.U1 lregaRnison | f3.U2 enhiRnw{D}{Z}d | f3.U3 econtRibuti
+26	t	36	PROUVÉ	f3.U6 {X}euirTee<18t>{G}{H} | f3.U7 uhpelTco{R}is | f3.L4 gesanTen
+27	d	56	PROUVÉ	f3.U1 Dasi{N}{F} | f3.U3 enwerDenso{H} | f3.U4 enlanDesowo
+28	a	15	PROUVÉ	f3.U4 sowolAlhira | f23.2 hermAn{O}{Y}nn | f23.9 Andieb
+29	g	37	PROUVÉ	f3.U1 n{P}lreGarnis | f3.L3 anGebewe | f3.L3 ebeweGender
+30	r	69	PROUVÉ	f3.U1 heruoRun{P}lr | f3.U1 run{P}lRegarn | f3.U3 {R}enweRdenso
+31	n	35	PROUVÉ	f3.U2 eNhirnw | f3.U3 eno{R}eNwerde | f3.U5 mannuNmera{H}
+32	d	24	PROUVÉ	f3.L4 umconDuctum | f3.L6 ren{S}fDisemi | f3.L7 ruielDerowe
+33	h	1	HYP(1 occ.)	f23.30 nmartHder{S}t
+34	q	1	HYP(CONTRADICTOIRE r19 : q/g f12.B2, f23.38 vs o f29.9 annoch)	f23.38 sdelaQuar<>e | f12.B2 {Y}bQuarde | f29.9 a{M}Q{N} (= annoch -> o ?)
+35	o	36	PROUVÉ	f3.U1 tw{G}swOheruo | f3.U1 arnisOn | f3.U4 Ompla{L}
+36	i	23	PROUVÉ	f3.U2 enhIrnw{D}{Z} | f3.U2 hersoInflu{N} | f3.U4 iralsIn<239>{G}ne
+37	w	18	PROUVÉ	f3.U1 o{N}nitW{G}swoh | f3.U5 Wirtma | f3.L5 tire<176>Wirton
+38	c	10	PROUVÉ	f3.U6 irtelCa{W}eli | f3.L3 ridenCtract | f3.L5 <128>so{H}iCitire
+39	a	39	PROUVÉ	f3.U1 dAsi{N}{F}{D} | f3.U2 nterhAlther | f3.U4 omplA{L}enla
+40	z	7	PROUVÉ(v5 ; était w en v4)	f23.7 zubeZalen | f24.21 franZosi{X}en | f24.27 anZusetzen | f18.16 dur{N}Zuko{E}n
+41	t	12	PROUVÉ	f3.U1 no{N}niTw{G}swo | f3.U2 derunTerhal | f3.U6 f<411t>uirTelca{W}
+42	m	25	PROUVÉ	f3.U4 oMpla{L}e | f3.U5 era{H}eMonat{S} | f3.L2 i{D}b{G}Mkonig
+43	g	25	PROUVÉ	f3.U3 hetGeno{R}e | f3.L2 mkoniGuonun | f3.L2 uonunGern
+44	n	52	PROUVÉ	f3.U1 si{N}{F}{D}No{N}nit | f3.U1 ruoruN{P}lreg | f3.U2 {Z}deruNterha
+45	o	6	PROUVÉ	f3.U3 ibutiOnesu | f24.3 abensOlte | f24.4 arnisOnens{G}
+46	d	21	PROUVÉ	f3.U2 rnw{D}{Z}Derunt | f3.U3 enso{H}Diecon | f3.U4 <239>{G}nenDehabw
+47	u	5	PROUVÉ	f23.3 raberUerm{Y}n | f23.4 tungeUordie | f23.39 {T}sigmUntenu
+48	e	49	PROUVÉ	f3.U1 {G}swohEruoru | f3.U2 halthErsoin | f3.U3 geno{R}Enwerd
+49	e	52	PROUVÉ	f3.U2 u{N}t<201>bE{O}<> | f3.L2 onungErn | f3.L7 derowEgen
+50	f	16	PROUVÉ	f3.U6 <210>zwolF<411t>uirt | f3.L3 enderFriden | f3.L6 anFangen
+51	k	8	PROUVÉ	f23.13 igdieKo{O}enn | f23.18 s{G}{O}ecKenals | f23.24 rhantKrieks
+52	z	15	PROUVÉ	f3.L1 i<7>no{N}Z{Y}tdas | f3.L7 wigemZug{O}e<7> | f23.8 ngeneZulose
+53	p	0	PROUVÉ(v8 r19 ; était b HYP)	f28.23 zwolfPfundige | f28.34 carPf | f28.38 mu{Z}erPlatz | f28.39 rePa{W} | f28.52 cloPPenburg (81 53) | f12.C1 regensPurg
+54	g	19	PROUVÉ	f3.L6 anfanGenzu<9> | f3.L7 wiGemzug | f3.L7 gemzuG{O}e<7>et
+55	a	40	PROUVÉ	f3.U4 a{L}enlAndeso | f3.U5 wirtmAnnunm | f3.U5 an<193>{F}<273>An
+56	m	18	PROUVÉ	f3.U5 annunMera{H}e | f3.L4 ductuMuor<¤>g | f3.L6 fdiseMit
+57	m	13	PROUVÉ	f3.U5 wirtMannun | f3.U5 t{S}f<4>tMan<193>{F}<273> | f3.L1 {Y}tdasMans
+58	u	41	PROUVÉ	f3.U2 {D}{Z}derUnterh | f3.U5 tmannUnmera | f3.U6 eli{X}eUirtee
+60	t	40	PROUVÉ	f3.U2 nflu{N}T<201>be{O}<> | f3.U3 ieconTribut | f3.U3 tribuTiones
+61	e	69	PROUVÉ	f3.U1 un{P}lrEgarni | f3.U4 mpla{L}Enland | f3.L3 angebEwegen
+62	a	8	PROUVÉ	f3.U5 {H}emonAt{S}f<4>t | f23.5 haberAngehe | f23.8 <?0>A{H}egef
+63	n	42	PROUVÉ	f3.U1 rnisoN | f3.U3 hetgeNo{R}enw | f3.U3 butioNesu
+64	u	1	PROUVÉ(v8 r19 ; était HYP)	f12.C2 zUert{G}len (zu erteilen) | f28.50 zuUerden (Verden, copie f.30 = 64) | f23.2 {G}dispUwi (opaque)
+65	r	11	PROUVÉ	f3.U2 altheRsoinf | f3.L2 nungeRn | f3.L4 tumuoR<¤>gesa
+66	i	31	PROUVÉ	f3.U3 nso{H}dIecont | f3.U7 tero{T}Icirer | f3.L5 {N}<128>so{H}Icitir
+67	d	11	PROUVÉ	f23.14 dananDener{X} | f23.21 b{Y}<120>Dur{N}de | f23.25 Denobr
+68	s	5	PROUVÉ	f3.U1 nitw{G}Swoher | f3.U4 hiralSin<239>{G}n | f24.5 alSouerd
+69	i	9	PROUVÉ	f3.U3 contrIbutio | f3.U3 ributIonesu | f3.U7 ro{T}icIrerdu
+70	a	46	PROUVÉ	f3.U1 {P}lregArniso | f3.U4 endehAbwn | f3.L3 enctrActate
+71	u	25	PROUVÉ	f3.U1 woherUorun{P} | f3.U2 oinflU{N}t<201>be | f3.U3 ionesU
+72	h	21	PROUVÉ	f3.U2 enHirnw{D} | f3.U7 rerduHpeltc | f23.2 Herman
+73	o	41	PROUVÉ	f3.U1 oheruOrun{P}l | f3.U3 etgenO{R}enwe | f3.U3 rdensO{H}diec
+74	s	26	PROUVÉ	f3.U3 tioneSu | f3.L1 eSi<7>no{N} | f3.L4 or<¤>geSanten
+75	l	1	HYP(1 occ. faible ; r19 : f29.15 = signe intrus, absent de la copie)	f3.U2 soinfLu{N}t<201>b
+76	b	17	PROUVÉ	f3.U3 ontriBution | f3.U8 haBen<j> | f23.7 henzuBewale
+77	s	27	PROUVÉ	f3.U3 erdenSo{H}die | f3.U7 tco{R}iSbeko{R} | f3.L1 asmanS
+78	l	6	PROUVÉ(v5 ; v7 r11 : 17 ctx, 0 contraire)	f3.U6 uirteL (Viertel) | f24.29 soL{N}er (solcher) | f18.4 La{P}en (lassen) | f18.B2 gluckLi{N}en | f25.15 wohL | f12.C1 ge{X}Lo{W}en
+79	e	47	PROUVÉ	f3.U2 Enhirn | f3.U3 hetgEno{R}en | f3.U4 in<239>{G}nEndeha
+80	c	9	PROUVÉ	f3.U3 o{H}dieContri | f3.U7 ero{T}iCirerd | f3.L4 aluumConduc
+81	p	4	PROUVÉ	f3.U4 omPla{L}en | f3.U7 erduhPeltco | f23.2 ementProuia
+82	h	18	PROUVÉ	f3.U1 w{G}swoHeruor | f3.U2 rhaltHersoi | f3.U3 Hetgen
+83	n	99	PROUVÉ	f3.U1 {F}{D}no{N}Nitw{G}s | f3.U1 regarNison | f3.U2 enhirNw{D}{Z}de
+84	e	76	PROUVÉ	f3.U2 nw{D}{Z}dErunte | f3.U2 eruntErhalt | f3.U3 hEtgeno
+85	r	1	PROUVÉ(v7 r11 ; était HYP)	f23.10 sondeRnw | f12.C6 nunmeR aber
+86	f	4	PROUVÉ	f23.9 rige{S}Fderr{Y} | f23.29 an{F}{D}{S}Fdenku | f24.2 <177>{Y}nenFriede
+87	a	5	PROUVÉ	f3.U5 {S}f<4>tmAn<193>{F}<273>a | f3.L3 tractAten | f23.38 {O}e{A}inAnko{R}e
+88	u	9	PROUVÉ	f3.U1 eruorUn{P}lre | f3.L2 iguonUngern | f23.2 ntproUiandi
+89	o	7	PROUVÉ	f3.U1 i{N}{F}{D}nO{N}nitw | f3.U2 thersOinflu | f23.4 ungeuOrdiea
+90	z	18	PROUVÉ	f3.U6 <210>Zwolf<411t> | f3.L6 angenZu<9>cac | f23.7 inherZihend
+91	b	11	PROUVÉ	f3.U2 lu{N}t<201>Be{O}<> | f3.U7 co{R}isBeko{R}e | f3.L3 angeBewege
+92	k	15	PROUVÉ	f3.U7 {R}isbeKo{R}en<144> | f3.L2 i{D}b{G}mKonigu | f23.13 enderKonigd
+93	o	10	PROUVÉ	f3.U4 desowOlalhi | f3.L2 oniguOnunge | f23.9 abersOdasir
+94	t	33	PROUVÉ	f3.U5 wirTmannu | f3.U5 emonaT{S}f<4>tm | f3.U7 Tero{T}i
+95	i	19	PROUVÉ	f3.U1 dasI{N}{F}{D}no | f3.U1 egarnIson | f3.U6 olf<411t>uIrtelc
+96	t	9	PROUVÉ	f3.U2 erhalTherso | f23.4 {L}e{T}ecTiueme | f23.36 ntrocTirens
+97	r	52	PROUVÉ	f3.U1 swoheRuorun | f3.U2 w{D}{Z}deRunter | f3.U2 runteRhalth
+98	w	13	PROUVÉ	f23.1 Wee{N}ee | f23.2 dispuWi | f23.3 enwilWirabe
+99	l	22	PROUVÉ	f3.U4 esowoLalhir | f3.U4 lhiraLsin<239>{G} | f3.U6 <210>zwoLf<411t>uir

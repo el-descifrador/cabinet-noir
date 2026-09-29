@@ -1,0 +1,63 @@
+# HStAM 4 h Nr. 1411, f.23-24 — déchiffrement brut signe à signe avec la clé figée (n°67)
+# Formes brutes de la clé : minuscules = lettres ; {X} = majuscule (polygramme) ; <n> = code non résolu ; * devant un mot = mot NON compris ;
+# ! devant un groupe = groupe non compris ; ? = hypothèse. Orthographe du XVIIe s. conservée (u/v, i/j). Texte normalisé et traduction : lecture.md.
+f23.1: wel{N}e er aber nun mer {S}s dem fundament <,> das
+f23.2: her man{O}{Y}n nit e{B}ectiuement prouiandiret s{G} disputi
+f23.3: ret ni{D}t *see{O}ehen wil wir aber uerm{Y}nen da{W} das wo
+f23.4: r{L}e {T}ectiuement nur die uergeltunge uor die !aef
+f23.5: elshaber angehe w{Y}l s{G}ne hant<>rift <f> *gelid der he{A}e
+f23.6: dan<ß> uer!cfli{N}tet er si{D} a{H}e so wol r{Y}t als *<?37>lgencf
+f23.7: *erte so im hin her zihen dr{F}f gehen zu bezalen
+f23.8: <?0> a{H}e gefangene zu losen <f> uerehrungen zu geben
+f23.9: an die befelshaber so das irige <?S>f der r{Y}se thun *wu
+f23.10: *rnen er i{Z} aber nirgents zuzubringen sondern w
+f23.11: {Y}set die unge{Z}ime furl{G}te zu bezalen uns an<?7>{Y}m er
+f23.12: b{Y}t si{N} zwar <> *tr{Y}{D}st <:> {F}f rechnung herzugeben <?3>
+f23.13: *o{N} derge{Z}alt das wen der konig die ko{O}en nit be
+f23.14: zalen wolte !eelbige als dan an den *er{X}ienenten
+f23.15: *{S}tr{G}{N}st abgekurtzet werden solten *wur<?10>ber uf die
+f23.16: w{Y}se sol{N}e nit annemen doffen sondern halten dauor
+f23.17: das er *uer euer <?j>r{Y}bung a{H}en {X}aden zu zalen {X}u
+f23.18: ldig s{G} {O}ecken also i<?44> der bruhe wi{P}en nit womit wir
+f23.19: ihn zwingen wo{H}en befinden nun in der that das wir
+f23.20: mit {G}nem frantzosen gehan<?4>elt haben <;>
+f23.21: b{Y} <120> dur{N} den <122> <j>e{B}er *numb erlegung der
+f23.22: im uerflo{W}enen decemb fe{H}ig gewesenen *tr{Y}{D}st <:>
+f23.23: damit man die *angenenewe werbungen mo{N}ten {S}{P}fu
+f23.24: ren a{H}er hant kri<?16>ks no{L}urft in z{Y}ten herb{G}{X}aen
+f23.25: den obri{O}en wardenberg mit s{Y}nem <191> {F}{N} nemen k
+f23.26: onte dan <188> e<?4>at {S}f die gelder gema{N}t <j>on ordre
+f23.27: wozu sie angewenddt werden solten gegeben he
+f23.28: <?A>en der a{W}ignat<?6>on uon
+f23.29: *l<6> ihn fragt ob man dan {F}{D} {S}f den kunf
+f23.30: <?41>igan er{O}en *mart!h der *{S}tr{Y}{N}st gewis mechtig
+f23.31: s{Y}n konte so zihet man die *{X}uldern sorge al<>o
+f23.32: man {S}f die gelder k{G}n gewi{P}en e{O}at zu ma{N}en ha
+f23.33: be als *wae <?LL>{Y}nen <?Z>i
+f23.34: *{H}{O}ant {S}f <?n> monat gema{N}t he{L}e das *{F}{F} <189> zu
+f23.35: *artretinciccardi zusa{R}en ko{E}en daselb{O} fr
+f23.36: ieden tr!octiren solten dan zu <128> horet man uon
+f23.37: k{Y}nem gesanten der deswegen dahin ko{R}en solte <?60>
+f23.38: das *cons de la !quar<>e zu {O}e{A}in anko{R}en s
+f23.39: {G}n co<?E>i{W}ion {F}f marggra{T} sigmunten uon branden
+f24.1: burg wegen der <140> mit den k{Q}{W}erli{N}en co{R}i{P}a
+f24.2: rien als dem <137> <163> <177> {Y}nen frieden *acart z
+f24.3: u tractiren mi{A}bra{N}t haben solte
+f24.4: un{W}ere garnisonen s{G}nt
+f24.5: also uerderbet das die <200> notwentig wegge
+f24.6: hen man den sold<?29>ten co{R}ishalb <202> hin
+f24.7: *frogeben mus darzu aber {Y}n gro{P}er uerlag
+f24.8: gehoret
+f24.9:
+f24.10: w{Y}l es mit dem r{G}derlant
+f24.11: nit angehen wirt <> nit acco{E}odiren ko{M}en
+f24.20: er w{Y}s nit wie er one <j>aden mi{A}
+f24.21: guten reden {S}s frant!dosi{X}en dien{O}en ko{R}en wil
+f24.24: die {X}weden <?P> <?0> <191> ander <269>
+f24.25: in meckelburg unterhalten wolten <?80>
+f24.26: alhie einzu<j>i{B}en zu winsen
+f24.27: wider an das lant zu setzen na{N} s{G}nen !quar
+f24.28: tiren oder der {X}wedi<j>en armee gehen zu la{V}e
+f24.29: n sol{N}er ge<7>alt konte man {S}{D} die <212> na{N} der <269>
+f24.30: wen sie {S}f newenburg dur{N} das <231> wegen der
+f24.31: l{Y}ne a{H}er nit ko{R}en konten bringen

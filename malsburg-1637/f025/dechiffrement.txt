@@ -1,0 +1,24 @@
+# HStAM 4 h Nr. 1411, f.25 — déchiffrement brut signe à signe avec la clé figée (n°57)
+# Formes brutes de la clé : minuscules = lettres ; {X} = majuscule (polygramme) ; <n> = code non résolu ; * devant un mot = mot NON compris ;
+# ! devant un groupe = groupe non compris ; ? = hypothèse. Orthographe du XVIIe s. conservée (u/v, i/j). Texte normalisé et traduction : lecture.md.
+f25.1: <120> ha{A} si{N} nu
+f25.2: nmer resoluiret die furl{Y}te zu contenti
+f25.3: ren was aber das furlohn rancion uor die
+f25.4: gefangene andere unko{Z}en angehet dar
+f25.5: zu wi{H} er si{N} no{D} nit uer{O}ehen sondern w{Y}{W}
+f25.6: et uns {S}f die embfangene <9> *tr{G}{D}ut so <143> *{Z}s
+f25.7: zelen la!{D}en <#> {X}r{Y}ben an <∇> uom <j> *ianua i{O}
+f25.8: nunmer zum uierten mal dem <122> zuko{R}en
+f25.9: pu{W}ire i{N} ihn tegli{D} das er na{N} s{G}nem brud
+f25.10: er in den <123> gehen s{Y}ne priuatsa{N}en
+f25.11: in {Y}nen {O}ant ri{D}ten wolte damit wen si{N} gel
+f25.12: egenh{G}t dur{D} na{N} <148> zuko{E}en angebe er
+f25.13: alsdan nit a{H}{Y}n <j>l{G}nig fortgehen
+f25.14: {G}n z{Y}t lang si{N} in !i!n he{W}en {S}fhalten ko
+f25.15: nte wil dar{S}f zwar wohl zu <188> ko{R}en aber
+f25.16: das er zu <148> uerbl{Y}ben solte da duncke
+f25.17: t mi{N} habe er wenig lu{Z} zu wirt *{X}{X} dar{F}f
+f25.18: si{D} wohl ni!{Z} zu uerla{W}en haben
+f25.B1: !{M}er{X}ienenen ter
+f25.B2: minen wi{H} <128> no{D} k{Y}ne we{N}sel brie{T}e beko
+f25.B3: {R}en haben

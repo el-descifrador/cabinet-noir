@@ -1,0 +1,19 @@
+# HStAM 4 h Nr. 1411, f.3 — déchiffrement brut signe à signe avec la clé figée (n°53)
+# Formes brutes de la clé : minuscules = lettres ; {X} = majuscule (polygramme) ; <n> = code non résolu ; * devant un mot = mot NON compris ;
+# ! devant un groupe = groupe non compris ; ? = hypothèse. Orthographe du XVIIe s. conservée (u/v, i/j). Texte normalisé et traduction : lecture.md.
+f3.U1: das i{N} {F}{D} no{N} nit w{G}s wo her uor un{P}ere garnison
+f3.U2: en hirne{D}{Z} der unterhalt *hersoinflu{N}t <201> *be{O}<>
+f3.U3: *het geno{R}en werden so{H} die contributiones u
+f3.U4: om pla{L}en lande so wol alhir als in <239> {G}n ende haben
+f3.U5: wirt man nunmer a{H}e monat {S}f <4> *tman <193> *{F}<273>an
+f3.U6: <210> zwolf <411t> uirtel ca{W}eli{X}e uirtel *<18t>{G}{H} die un
+f3.U7: tero{T}icirer du!hpelt co{R}is beko{R}en <144> *{C}r{Y}{X} <4>
+f3.U8: haben <j>
+f3.L1: es i{Z} no{N} z{Y}t das man s
+f3.L2: i{D} b{G}m konig uon ungern
+f3.L3: angebe wegen der friden!c tractaten
+f3.L4: saluum conductum uor <¤> gesanten
+f3.L5: na{N} <128> so{H}icitire <176> wirt one <140> nit
+f3.L6: anfangen zu <9>!cactiren {S}f dise mit
+f3.L7: *zigemzug{O}e <7> *et gar !uiel derowegen
+f3.L8: be{L}age ho{N}n<7>tig s{Y}n

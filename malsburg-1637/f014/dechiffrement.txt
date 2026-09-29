@@ -1,0 +1,29 @@
+# HStAM 4 h Nr. 1411, f.14 — déchiffrement brut signe à signe avec la clé figée (n°60)
+# Formes brutes de la clé : minuscules = lettres ; {X} = majuscule (polygramme) ; <n> = code non résolu ; * devant un mot = mot NON compris ;
+# ! devant un groupe = groupe non compris ; ? = hypothèse. Orthographe du XVIIe s. conservée (u/v, i/j). Texte normalisé et traduction : lecture.md.
+f14.0: so
+f14.1: aber do{N} no{D} am ende dises monats wofern mir das *we{A}e<6>
+f14.2: der weg <145> newe werbungen in <235> daran nit uerhind<#>
+f14.3: rli{N} s{Y}n mi{D} an be{O}imtem or{L} neben *{X}{X} ho{T}{Z}at {G}n<9><#>
+f14.4: {O}e{H}en i{Z} die prouiandirung herman{O}{G}n *su<#>
+f14.5: *roeno{R}en furet obri{Z}l ho{B}man das uolck deme<#>
+f14.6: wolbram *cact{Q}n helwig {X}mit uom !roten adria<#>
+f14.7: uon carpens <191> mi{A} <f.> <s.> man <193> neben <0> <253> {Z}ucken mi<#>
+f14.8: gegeben der <200> s{Y}nt etwa {K} <m> gewesen ko{M}en i<#>
+f14.9: <262> tagen <j>werli{N} dahin ko{E}en haben iren weg <#>
+f14.10: molh{G}m uber die <266> {S}f siburg die re{N}te {O}ra<#>
+f14.11: e uon <128> {F}f <169> geno{K}en nit mer als <4><5> ca{P}e{H}i{K}
+f14.12: uirtel <210> b{Y} si{D}
+f14.13: wirt ihnen one zw{Y}{T}el na{D}gehen wen das <2><#>
+f14.14: {X}i{N}t so wirt obri{Z}l ho{B}man die *lohngerathin *{S}c
+f14.15: {F}f mar!curg <215> oder corba{N} brilen <138> so wide<#>
+f14.16: s{Y}ne garnison gehen das es so wol als <5><#>
+f14.17: han{S} a!bgehe
+f14.18: {SS} hat mit {Y}gen handen an s{G}ner geh{Y}mbten rahte <8>
+f14.19: *en ge{X}rieben
+f14.A20: er und s{Y}<4>
+f14.20: her b!duder
+f14.21: {S}f die unko{Z}en na{N} herman{C}{Y}
+f14.22: gehen
+f14.23: wie es denen {F}f der <#><#><#><#>
+f14.24: *e na{D} herman{O}{G}n gehet

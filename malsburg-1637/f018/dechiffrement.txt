@@ -1,0 +1,24 @@
+# HStAM 4 h Nr. 1411, f.18 — déchiffrement brut signe à signe avec la clé figée (n°55)
+# Formes brutes de la clé : minuscules = lettres ; {X} = majuscule (polygramme) ; <n> = code non résolu ; * devant un mot = mot NON compris ;
+# ! devant un groupe = groupe non compris ; ? = hypothèse. Orthographe du XVIIe s. conservée (u/v, i/j). Texte normalisé et traduction : lecture.md.
+f18.1: es s{Y}nt
+f18.2: aber die !n {G}n{Z}{Y}ls so erfroren das {S}{N} etli{D}e !au krop
+f18.3: !celn worden etli{N}e glidder haben mu{W}en ablose
+f18.4: n la{P}en so s{G}nt {F}{N} uiel herna{N} ge{O}orben <f>
+f18.5: zu rehe worden das die r{Y}ter{G} no{N} wol so balt k{Y}nen
+f18.6: din{O} wirt thun ko{M}en so uer{O}ercken si{N} {F}{D} die <273>
+f18.7: zu fus no{N} <j>le{N}t wie {S}{N} die newen werbers wie {F}{D} b{Y}
+f18.8: ligent zu sehen *ser <122> ha{A} wegen de{W}en das
+f18.9: <120> die obligation so er wegen des uerlu{O} so si{N} et
+f18.10: wa {S}f der r{Y}se na{D} herman{Z}{Y}n zutragen mo{N}te
+f18.11: uon si{N} gegeben discutiret nit na{N} dem <123> ko{R}en
+f18.12: ko{C}en
+f18.13: na{N} <148> zu gehen anregen wi{H} wiwo{H} er
+f18.14: gewaltige argumenta disuasoria in <260> zu *u
+f18.15: *ebherren uorbringet were ihme do{N} itzo
+f18.16: dur{N} zu ko{E}!n unmogli{N}
+f18.B1: das uberige w!rl i{N} a<44_> go
+f18.B2: lt zu m{Y}ner gluckli{N}en uberkunft m
+f18.B3: i{L}bringen i{N} sorge <#> haben si{D} des <∇> an b
+f18.B4: ewu{Z}em ort nit zu uersi{N}er<44_> dan er si{N} <j>we
+f18.B5: rli{D} wirt {Y}n{X}lie{W}en la{P}en
