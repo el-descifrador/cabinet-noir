@@ -54,16 +54,16 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 | 1 | Roi Joseph → Napoléon (planche dite « Berthier ») | voir dossier | ~22/12/1812 | P (Grand Chiffre) | lettre entière lue | déjà déchiffrée par Scovell (TNA WO 37/2/21) | C | [joseph-napoleon-1812](joseph-napoleon-1812/) |
 | 2 | Fogliani → Renée de France | BnF fr 3234 p. 61 f.103 | 20/10/1568 | C (substitution simple) | lettre entière ; solveur reproduit à l'aveugle | code « IR » non prouvé | A prov. | [fogliani-1568](fogliani-1568/) |
 | 3 | Marie de Médicis → Brèves (2 passages) | BnF fr 3789 f.19 (et f.17) | 10/11 (et 15/09) 1610 | E (clé retrouvée dans fr 3462) | 38/38 et 59/59 signes | 2 valeurs de contexte ; faute du chiffreur | A prov. | [breves-1610](breves-1610/) |
-| 4 | Montholon → Nevers | BnF fr 3414 p. 78 | 15 et 18/11/1589 | P (Tomokiyo) | ≈85 % / ≈75 % (2 lettres) | clair partiellement non transcrit ; codes ~15/~25 | A prov. | [montholon-1589](montholon-1589/) |
-| 5 | Montholon → Nevers | BnF fr 4715 n°58 f.81 | 8/11/1589 | P (Tomokiyo) | l.18-28 ≈85 % ; l.29-40 ≈55 % | fin mal comprise | A prov. | [montholon-1589](montholon-1589/) |
+| 4 | Montholon → Nevers (2 billets) | BnF fr 3414 p. 78 (f.126-127) | 15 et 18/11/1589 | P (Tomokiyo) | ≈85 % du chiffré (95,5 % des groupes par la clé publiée) / — | clair partiellement non transcrit ; ~25 non résolu | A prov. | [montholon-1589](montholon-1589/) |
+| 5 | Montholon → Nevers | BnF fr 4715 n°58 f.81 (l.18-40) | 8/11/1589 | P (Tomokiyo) | l.18-28 ≈85-90 % ; l.29-40 ≈90-95 % (aveugle ≈95 %) / — | ~25, ~50, ~85 non identifiés | A prov. | [montholon-1589](montholon-1589/) |
 | 6 | Philippe II → Vargas Mexía | BnF Esp. 132 f.11-12v | 24/01/1578 | P (Tomokiyo, Cipher 2) | 95,4 % (pess. 90,4 %) / — | | B | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 7 | A. Pérez → Vargas Mexía | BnF Esp. 132 f.198-199r | 15/04/1579 | P (Devos/Tomokiyo, Cipher 4) | 85,5-89,6 % (pess. 84,6 %) / — | perte en reliure | B faible | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 8 | Ventadour → connétable de Montmorency | BnF fr 3575 f.56 | fin 1595 | C (par la structure) | ≈96 % / — | Mondon non identifié | A prov. | [ventadour-1595](ventadour-1595/) |
 | 9 | Montholon → Nevers | BnF fr 4715 n°37 f.60 | 12/12/1589 | P (Tomokiyo) | ≈86 % / — | 4 codes HYP | A prov. | [montholon-1589](montholon-1589/) |
-| 10 | Montholon → Nevers | BnF fr 4715 n°48 f.71 | fin 1589 | P (Tomokiyo) | ≈75 % compris / — | **< 80 % compris** | A prov. | [montholon-1589](montholon-1589/) |
-| 11 | Montholon → Nevers | BnF fr 4715 n°35 f.58 | 26/11/1589 | P (Tomokiyo) | ≈80 % / — | marge mince | A prov. | [montholon-1589](montholon-1589/) |
+| 10 | Montholon → Nevers | BnF fr 4715 n°48 f.71 | fin 1589 | P (Tomokiyo) | **≈75 %** compris / — | **< 80 % compris** ; zone Q restructurée | A prov. | [montholon-1589](montholon-1589/) |
+| 11 | Montholon → Nevers | BnF fr 4715 n°35 f.58 | 26/11/1589 | P (Tomokiyo) | ≈80 % (vérif. 78-79 % au niveau de la phrase) / — | **marge nulle** | A prov. | [montholon-1589](montholon-1589/) |
 | 12 | Montholon → Nevers | BnF fr 4715 n°47 f.70 | fin 1589-déb. 1590 | P (Tomokiyo) | ≈88 % (parties non glosées) / — | | A prov. | [montholon-1589](montholon-1589/) |
-| 13 | Montholon → Nevers | BnF fr 4715 n°27 f.50 | 30/10/1589 | P (Tomokiyo) | 88,2 % strict / — | codes ''84, ~8 HYP | A prov. | [montholon-1589](montholon-1589/) |
+| 13 | Montholon → Nevers | BnF fr 4715 n°27 f.50 | 30/10/1589 | P (Tomokiyo) | 91,0 % phrase ; 88,2 % strict / — | L13-L14 non comprises ; ''84, ~8 HYP | A prov. | [montholon-1589](montholon-1589/) |
 | 14 | Philippe II → Vargas Mexía | BnF Esp. 132 n°15 f.32 | 17/03/1578 | P (Devos, Cp.30) | 92,6 % / — | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 15 | Philippe II → Vargas Mexía | BnF Esp. 132 f.34 | 16/03/1578 | P (Tomokiyo, Cipher 2) | ≈93-95 % / — | codes ouverts | A | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 16 | Philippe II → Vargas Mexía | BnF Esp. 132 f.17-25 | 08/03/1578 | P (Tomokiyo, Cipher 2) | strict ≈80-82 % / — | marge mince | B | [es132-vargas-mexia](es132-vargas-mexia/) |

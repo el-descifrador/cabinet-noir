@@ -1,0 +1,69 @@
+# Compléments de l'équipe au chiffre « Vieuville–Nevers » (1589) reconstitué et publié par S. Tomokiyo (cryptiana, pages « BnF fr 4715 » et « Nevers »).
+# LA TABLE DE TOMOKIYO N'EST PAS REPRODUITE (25 valeurs de lettres et 27 codes pointés, recontrôlés un à un par un vérificateur contre sa page) : seules figurent ici nos valeurs
+# ajoutées, avec leur statut et leur preuve. Des gloses d'époque confirment en outre plusieurs valeurs publiées ('26 = le, '99 = vous, ~7 = le Roy). Licence CC BY 4.0.
+# Colonnes : type, code, valeur, statut, preuve. Statuts : SÛR-G = glose d'époque ; SÛR = ≥ 3 contextes + ordre alphabétique du répertoire ; PROBABLE ; HYP ; OUVERT
+# (seuls SÛR/SÛR-G sont comptés compris sans réserve ; HYP et OUVERT = non compris). « n°NN » = pièce de BnF fr 4715 ; v263/v265 = billets de fr 3414 p.78 (vues Gallica).
+# Certaines preuves citent des pièces de fr 4715 lues partiellement et NON confirmées (n°39, n°54, n°55, n°28) : ce sont des indices, pas des résultats.
+# Conventions : 'NN pointé ; ''NN à deux points ; ~NN surligné (nom) ; nombre nu dans un passage chiffré = lettre, dans un passage en clair = nom.
+lettre	▽	x	SÛR	signe triangulaire ; fr 3414 v265 « eu▽ », « ceu▽ », « cheuaul▽ » ; n°37 L.h « e▽pedient » (runs 4, 11)
+lettre	z	z	SÛR	« o souligné » ; n°37 soyez/avez/deussiez/veoyez (vérificateur : sûr) ; n°48 L14 « hazard » ; glyphe « ʒ » ISOLÉ = z aussi : n°54 Y1556 « de la zyzanye »
+lettre	19	et	SÛR	« 19 » apparemment non pointé = '19 (point confondu avec le i du 1) ; fr 3414 v265 ×3 (run 4)
+lettre	16	de?	SÛR-G	16 sans point visible = '16 (point omis) ; n°48 L02 « opinion 16 ~49 », L06 ; RUN 15 : n°55 L02 glose d'époque « qu'il ne debvoit rien effectuer » = '48 '35 16 10 93 85 63 95 '97 … → 16 = de ; n°47 C2 « 16 10 93 23 83 » = debvés
+nul	67	·	HYP-forte	nulle / séparateur, NON pointé ; n°54 ×6 (« l'abandonner 67 et », « cela 67 empescheroit », « Ch67ailly ») ; jamais vu hors n°54
+code	'12	aussi|car?	OUVERT	≠ « je » (je = '22 ; ordre au'11 < '12 < ce'14, vérificateur) ; 4 ctx n°37 : « le Roy a seu que '12 voyois ~15 », « '12 ne faisant », « 13 '12 le second », « estant '12 »
+code	'13	?	OUVERT	n°37 L.j « … 60 23 83 '13? » (1 ex.) ; entre au et ce
+code	'17	?	OUVERT	n°37 L.h début « '17 '?5 '87? » (vérificateur) ; entre de'16 et et'19 ; inexploitable
+code	'29	on	SÛR (sens)	≥ 4 ctx n°37 (« laquelle on peult manquer », « on arrache le bon », « on pourra aussi », « lesquels on doit ») + fr 3414 v263 + n°48 ; ANOMALIE d'ordre (luy'28 < '29 < ma'30) : « l'on » ?
+code	'49	sa	SÛR	fr 3414 v265 « de sa venue », « sa maison », v263 « sa necessité » (run 4) ; aussi dans un mot : n°37 L.a « '49 30 23 83 » = sages (vérificateur)
+code	'51	ses	SÛR	Tomokiyo n°58 « ~15 '51 affaires » ; f.81 L36 « de '51 deportemens » (run 6)
+code	'72	la depesche?	HYP	n°54 L10 « la '72 par laquelle il mande que » ; ordre comme'65 < d… < faict'74 ; 1 contexte
+code	'74	faict	SÛR-G	n°37 bloc 2 ×2 (« qui faict que je regarde », « qu'il ne soit faict catholique ») + f.81 L35 « ce qui aura esté faict » ; ordre comme < faict < faire (vérificateur : sûr) ; RUN 15 : n°55 L02 glose « s'il ne se faict Catholique » = '52 50 73 23 '50 '74 '64 ; n°47 C0 « '52 50 '50 '74 '64 » = s'il se faict catholique
+code	'81	guerre?	HYP	n°37 L.d « faire la '81 » (1 ctx) ; ordre faire'75 < guerre < heretiques'82
+code	'82	heretiques	PROBABLE	n°37 bloc 2 « ceulx qui ont favorisé les '82, lesquels on doit apprehender » ; fr 3414 v265 L13 « fauteurs de '82 … incapables d'estre roy » ; ordre g < h < j
+code	'84	jour	SÛR	Tomokiyo n°60 « dans deux '84 » ; fr 3414 v265 « de '84 a aultre »
+code	''84	legat	PROBABLE (preuve interne n°27)	code à DEUX points, distinct de '84 jour (Tomokiyo n°27 L03 le note ''84) ; n°27 L04 « et vient ''84 Caietan pour favoriser '87 », L08 « que le dit ''84 doibt faire … declaration », L18 « avec le dit ''84 il vous pourra beaucoup servir » ; ordre : jour'84 < legat < Ligue'87 (même rang que '84, 2e point = mot voisin) ; 3 ctx, 1 seule pièce → PROBABLE ; « legat » s'écrit aussi en lettres ('26 30 25 95, 75 93 50 23 30 25 95) ; RUN 17 : preuve INTERNE à n°27 seule (3 ctx + distinction '/'' du DUMP Tomokiyo ; les 2 points non confirmés visuellement à ×3 par le vérificateur) → ne PAS passer SÛR sans une autre pièce
+code	'87	Ligue?	PROBABLE	n°37 bloc 2 « que avec '87 » ; n°54 L10 « nullement de la '87 », « affectionné a '87 » : 3 ctx ; ordre jour'84 < l… < monsieur'93 (Mayenne non exclu) ; RUN 16 : n°27 L04 « et vient ''84 Caietan pour favoriser '87 », L10 « '87 qui a receu trois cent mille escus et dix mille hommes », Tomokiyo n°27 L02 « ~1 se bande avec '87 » → 6 ctx dans 4 pièces ; ordre jour'84 < legat''84 < Ligue'87 < monsieur'93 ; reste PROBABLE (valeur jamais glosée)
+code	'92	mesmes?	HYP	n°37 L.b « que '92 il le seroit », L.j « '92 au premier » ; n°39 L02 ; ordre jour < m… < monsieur ; « mais », « lors » possibles
+code	'93	monsieur	SÛR (+G ?)	n°47 bloc A L1 glose « de Mr de Chailly » au-dessus de « '16 93 16 65 40 25 63 50 90 » (point de 93 non vu, run 12) ; f.81 L34 « chés '93 de Lorme », Tomokiyo n°60 « '93 de Sainct Germain », n°48 L15 « pour '93 Gillot » ; ordre (run 7)
+code	'94	quoy	SÛR	Tomokiyo n°58 « pour '94 » ; f.81 L36 « sur '94 ~50 resouldra » (run 6)
+code	'96	?re…	HYP	n°27 L18 « ou vostre conservation ou vostre '96 », L09 « les '96 sont mutinés », Tomokiyo n°27 L03 « pour '96 ~7 » ; ordre quoy'94 < '96 < rien'97 → r(a/e)… ; « ruine » EXCLU par l'ordre (ru > ri) ; « reistres » (L09) / « recognoistre » (L03) : aucune valeur unique ; OUVERT dans les faits
+code	'97	rien	SÛR	n°37 bloc 2 « ne voulés '97 '75 contre vostre ame » + Tomokiyo ; ordre quoy < rien < vous (vérificateur : sûr)
+nom	~9	la reine Louise ?	HYP	fr 3414 v263 (prieur Bourgoing, douaire)
+nom	~13	Henri de Bourbon, le roi de Navarre (Henri IV)	SÛR-G	n°37 ≥ 6 ctx (« ~13 n'est catholique ny ne dit le vouloir estre », « la pretension de ~13 de regner », « servir ~13 qu'il ne soit faict catholique ») ; n°48 L09 « ~13 n'a point d'affection de se faire catholique » ; n°39 L03 « ~13 prince du sang » compatible ; ≠ 14 et ≠ ~7 ; RUN 15 : n°39 L17 glose d'époque « Navarre » au-dessus du 13 surligné
+nom	~14 / 14	le cardinal de Bourbon	SÛR-G	gloses « Cal de Bourbon » (v263), « Cal » (v265)
+nom	~15 / 15	le cardinal de Vendôme	SÛR-G	gloses « Vendosme » : v263 (« si 6 15 »), n°54 (« ny ne suict 15 », -c r3) ; f.81 et v265 (Gillot au légat, sceaux)
+nom	~25	prince de la maison de Bourbon ?	OUVERT	f.81 « plus proche prince du sang » ; v263, v265, n°39 L02 ; non résolu (L02 f.81 « avoir veu ~25 » à Tours)
+nom	~27 / 27	Nevers	SÛR-G	gloses « Nevers » : fr 3414 v263 L16-17, n°37 en-tête, n°54
+nom	~37 / 37	Langres	SÛR-G	glose « Langres » ×3 (n°54 clair « hors de 37 ») ; n°54 chiffré « plusieurs voiages vers ~37 »
+nom	~49	?	OUVERT	n°48 L02 « fort mauvaise opinion de ~49 » 
+nom	~50	?	OUVERT	f.81 L36 « sur quoy ~50 resouldra » (tiers, pas Montholon)
+nom	~71	Montholon	SÛR-G	glose « Montholon » fr 3414 v263 (run 2) et n°37 en-tête
+nom	~75	?	OUVERT	n°48 L02 « mesmes ~75 qui m'a asseuré » 
+nom	~85	?	OUVERT	f.81 « avec ~85 pour les mauvais offices » ; v263
+nom	~8	roi de Navarre?	HYP	RUN 17 : n°27 (vérifiée avec réserves, vérificateur) L04 « arest declarant ~8 incapable de succeder », L11 « ~8 ne se pouvoir opposer pour le peu de forces qu'il a » ; ≠ ~13 (Henri de Bourbon, SÛR-G) → autre titre (prince de Béarn ?) ou autre personne : HYP
+nom	~5	Savoie?	HYP	RUN 17 : n°27 L08 « declaration pour ~5, lequel a envoyé au parlement de Grenoble » (+ Aix L09 ?) ; appui : table glosée n°54 « 5 Savoye » (nombre NU en clair) ; ~5 surligné ≠ 5 nu → à recouper 
+nom	~19	?	OUVERT	f.81 L18 ; n°54 (distinct de 19 = et non surligné)
+nom	~35	?	OUVERT	surligné DANS le chiffre, barre nette ×3 (n°35 f.58r R2 « que ~35 … declare qu'il », R3 « la volonté du legat ~35 », R4 « mais ce ~35 ») ; ≠ 35 nu du clair (Paris? HYP-faible) ; clair du haut de n°35 « a ~35 de Bell… » (surligné) → un PERSONNAGE (Bellièvre ? OUVERT), pas Paris ; vérificateur : compté « lu » comme nom pour la couverture, pas pour la compréhension
+nom	45	Biron?	PROBABLE	glose « Biron » nette au-dessus de « a 45 » ; CONFLIT : « quand a 45 46 47 » glosé « … a la Charité et Desize » (n°54) ; « 45 46 47 » aussi dans n°47 (glose « Negoc…? »)
+nom	'46 (pointé, dans le clair)	la Charité	PROBABLE	n°54 C668 « prendre garde a '45 '46 '47 », glose d'époque « P…? la Charité et Desize » ; série POINTÉE de noms dans le CLAIR, à ne pas confondre avec le code '46 = que du chiffre (contexte décide)
+nom	'47 (pointé, dans le clair)	Decize	PROBABLE	même glose n°54 C668 ; ≠ code '47 = qui dans le chiffre
+nom	'45 (pointé, dans le clair)	?	OUVERT	n°54 C668, 1er mot de la glose illisible « P… » ; distinct de 45 nu = Biron?
+nom	5	Savoye	SÛR-G	glose « Savoye » soulignée : « j'ay dit que 5 est en Dauphiné »
+nom	2	Espagne?	HYP	glose « Espagne » au-dessus de « s'asseure 2 de 15 » ; rattachement au 2 non certain
+nom	~43 / 43	Montmorency-Damville?	HYP-renforcée	n°54 glose « Mont… » abrégée, « Dampville » en clair au-dessus, « 43 se declare opposé » (Savoie en Dauphiné) ; n°48 zone Q clair « sa servitude ~7 pouvoit aussi ~43 » + chiffre « l'estat de connestable et » (vérificateur : rattachement corrigé ; Damville connétable 1593) ; aucune glose sur ~43 lui-même
+nom	36	?	HYP-faible	glose « bnalm »? (Beaune ?)
+nom	35	Paris?	HYP	glose « pa?ie » ; 2e glose illisible ; RUN 16 : 35 nu DANS LE CHIFFRÉ de n°27 « le parlement de 35 ayant seu a donné arest declarant ~8 incapable de succeder », « [le legat] doibt aler droit a 35 » → Paris ? compatible ; RUN 17 (vérificateur) : RESTE HYP — rien d'autre que la glose faible « pa?ie » (n°54) et ces 2 contextes ; mise en garde : dans le chiffre Nevers 1587 (cyphersolver ) 35 = Termes, les nus de la trentaine peuvent être des personnes
+nom	77	?	HYP-faible	glose « Febvr… » (Fervaques ? mois de février ?)
+nom	6	Monsieur le?	HYP	clair, devant un nom : v263 « si 6 15 » (glosé Vendosme), n°44 « discouru 6 7 » 
+mot	65 40 25 63 50 90	Chailly	SÛR-G	glose d'époque n°47 f.70r bloc A L1 « par ladvis mesme de Mr de Chailly » (run 12, natif ×3) ; n°37 bloc 2 « l'advis dudit sieur de Chaily » ; n°54 « Ch67ailly » ; identité inconnue
+mot	30 63 50 85 83 95	Gillost	SÛR	Jacques Gillot, envoyé de ~15 au légat (n°48 L15, -b ; Tomokiyo n°58)
+mot	'16 '25 30 93 63 65 40 23	de la Guiche	PROBABLE	n°48 L18
+mot	75 93 50 23 30 25 95	du legat	SÛR	n°54 Y1968 ; cf. '26 30 25 95
+mot	70 23 1 1 85 83 95	Perrost	SÛR-G	glose « Perrost » n°47 (run 11)
+mot	25 20 85 73 95 23 73 73 25 90	a Fontenay	SÛR-G	n°39 L13 : décodage = glose d'époque « Fontenay »
+mot	'93 '16 10 23 25 93 50 63 23 93	Monsieur de Beaulieu	SÛR-G	n°55 L13 glose « Mr de Beaulieu » ; n°39 L19 « '93 de Beaulieu »
+mot	75 93 83 23 25 93	du seau (sceau)	PROBABLE	n°39 L20 « par le moien du seau » ; L23 « les dis seaux »
+nul	3	·	HYP (limitée à n°47 C ; CONTESTÉE)	run 15 : « ʒ » isolé non pointé, ≈ 10 cas dans le seul bloc C de n°47 (« resolu 3 '16 le », « troupes 3 '16 », « ceste 3 '16liberation », « vouliés 3 bien », « debvés 3 amener ») où aucune lettre ne convient. RUN 16, après vérificateur : (1) C1 « 50 23 50 23 3 1 25 95 » ne donne « le legat » qu'en lisant « 3 1 » = 30 (g), ce qui CONTREDIT la nulle ; avec la nulle on a « le le·rat » → « le legat » reste (?) et hors du taux prudent ; (2) n°35 rang I « 75 63 83 70 85 83 23 3 » = disposez : là le ʒ isolé vaut z (comme « zyzanye », n°54) ; (3) jamais vu dans n°37, n°48, f.81, fr 3414, n°27, n°39. DÉCISION : affiché · (neutre, aucun mot n'en dépend), HYP ; le même glyphe ʒ sert de z : transcrire « z » quand z convient, « 3 » sinon ; à ne pas étendre sans nouveau cas hors n°47 ; RUN 17 : C1 relu à ×5 : « ʒ » + blanc + trait mince « 1 » (≠ « 30 » de C0 écrit ʒ+o collé) → « 3 1 » visuel ; « legat » = faute de chiffreur supposée ; la nulle n'y donne pas de sens (« lerat ») : question non tranchée
+mot	65 25 83 63 60 63 1	Casimir	PROBABLE	n°35 rang F « attendant les estrangers que Casimir doit amener en mars » ; Jean-Casimir du Palatinat
+glyphe	ઽ0	80 (qu), non 50	SÛR	n°27 : « 83 | 25 63 73 95 80 23 73 95 63 73 » = Saint Quentin, « a 80 85 90 » = a quoy, « 80 85 90 '48 » = quoy qu'il ; dans cette main « ઽ » = 8, « s/ʃ » = 5 : relire tout « 50 » transcrit d'après « ઽo » ; n°27 NON vérifiée
+glyphe	11 écrit « ii » (2 points)	au ('11) ou « ville » ?	HYP	n°27 L21 « expeditions ii nom du feu roy » (= au nom) MAIS L09 « garnison dans la ii d'Ayx », L12 « surpris la ii de La Fere » (= ville ?) ; transcrit « 11 » (= r) dans ; à trancher en zoom
