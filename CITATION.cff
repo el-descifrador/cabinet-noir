@@ -7,6 +7,14 @@ date-released: "2026-09-29"
 authors:
   - name: "Descifrado"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23039566"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23039566"
+    description: "Concept DOI (toutes versions)"
+  - type: doi
+    value: "10.5281/zenodo.23039567"
+    description: "Version 1.0"
 repository-code: "https://github.com/el-descifrador/cabinet-noir"
 abstract: >-
   75 lectures de lettres chiffrées (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg), 1568-1824 : 71 confirmées

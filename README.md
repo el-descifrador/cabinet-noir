@@ -1,5 +1,7 @@
 # Cabinet Noir
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23039566.svg)](https://doi.org/10.5281/zenodo.23039566)
+
 **Lettres chiffrées historiques : lectures vérifiées (XVIᵉ-XIXᵉ siècle)** · *Historical cipher letters: verified readings (16th-19th century)*
 
 > **FR.** Ce dépôt réunit 75 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg) :
@@ -164,3 +166,7 @@ LICENSE, LICENSE-DONNEES.md, CITATION.cff, .zenodo.json
 - Scripts éventuels : **MIT** (voir [LICENSE](LICENSE)).
 - Les clés publiées par des tiers (S. Tomokiyo, cryptiana ; Devos 1950 ; etc.) **ne sont pas redistribuées** ici : elles restent la propriété de leurs auteurs et sont seulement citées.
 - Citer ce dépôt : voir [CITATION.cff](CITATION.cff).
+
+## Citer / How to cite
+
+Descifrado, *Cabinet Noir : lectures vérifiées de lettres chiffrées historiques (XVIe-XIXe siècle)*, Zenodo, 2026. DOI (toutes versions / all versions) : [10.5281/zenodo.23039566](https://doi.org/10.5281/zenodo.23039566) ; version 1.0 : [10.5281/zenodo.23039567](https://doi.org/10.5281/zenodo.23039567). Voir aussi [CITATION.cff](CITATION.cff).
