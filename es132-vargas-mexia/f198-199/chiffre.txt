@@ -1,0 +1,64 @@
+# BnF, Espagnol 132, f.198r-199r — Antonio Pérez → Juan de Vargas Mexía, Madrid, 15/04/1579 (résultat n°7) — transcription du chiffré (équipe).
+# Clé : Cipher 4 (chiffre d'Antonio Pérez) : reconstruit par Devos (1950, p. 422), complété par S. Tomokiyo (2020) (non reproduite ici ; nos compléments dans ../cle/). Notation de l'équipe : BASE [voyelle après] [@signe au-dessus] ;
+# « ? » = doute ; [ ] = restitution ou clair ; « / » = ponctuation. Transcription faite sur les images Gallica (non redistribuées). Licence CC BY 4.0.
+# Les corrections du vérificateur sont données dans lecture.md (elles ne sont pas toutes reportées ici).
+== f198r_image
+19+  22.  [xe]  24  3o  19  9,  12  19  <<passa>>  9o  19
+<<tuuo por bien>>  vo  [pff]  9+  24  20+  20  2+  9.  20  8  3  <<ra>>
+9+  a.  20  6.  19  <<y el de suyo melo dio a entender>>  15  [σ]
+p  2.  1  9o  21.  8  3  2.  20  24  19  9+  3o  19  a+  3+  14  21,
+20o  6.  15  S^  C¯  1  C¯o  1  <<se juntassen y viessen que orden se podria dar en>>  [pff]
+3o  9+  3.  10.  1  10+  3+  20,  y  9+  y  21.  3  <<ra>>
+S,  14o  19+  15  8  2  11,  y  20o  1  3+  3.  10o  1  19'  3  18.  6+  3o
+<<y delos mismos consultantes se entendio>>  15  9,  16o  22o  20  2'  15  4  8  20  18o  y  21'  15
+8  1  18o  9.  19  22.  20  18+  19  24  19+  2+  9.  a.  8  3  <<ra>>
+8  1  t+  18'  ao  vo  8  3  <<declararlo por entonces con occasion de cierto>>  22.  22+  3
+21.  [9?]  16  6  21.  y  a,  y  18o  22.  6+^  9o  21.  <<dixo q podia ayudar al>>  11,  8  1  y  19,  8  1
+18o  9+  3  1+  6o  10,  Σ  /.  19o  b+  a,  17^  16  3.  9+  2.  1  9.  21.  p  2^  19  10o  a+  9o  24
+22'  19o  15  y  a  1  21.  <<al cabo servio>>  2,  4  16  10+  1  10,  y  ^  15  19+  3+  G^
+<<desengaño>>  y  3.  22.  20  18+  9+  3.  p+  18+  1  19,  Σ  1
+a,  19  18o  19  3o  19  f.  10o  19  <<fundamentos que tenia>>
+10o  1  24  19+  y  10.  11o  8  3  1+  6o  10,  Σ  18o  9.  a,  12
+3+  7'  8  9+  9.  1  9+  7^  9.  1=o  8  1^  3  7.  3  19o  18+  19
+18,  2o  16^  1,  Σ  21.  4  3+  a.  1  18.  20o  1  15  8  3  18
+8  2  22o  21.  2^  19+  6.  19  18o  <<en la averiguacion de la verdad / porque entretanto>>  2'  9o  vo  9+  22.  20+  10[+ 20…]
+8  1  3o  9+  3  Σ  7,  10,  Σ  9+  a.  20  6.  19  15  21,  8  20[…]
+9+  19  2+  2  1^  b.  20  3o  15  20+  22.  20  2^  18,  20  3o  <<en cierta forma / y ha venido a dezir que juntan…>>
+18o  9o  3o  9+  3  <<hu>>  15  24  3o  9.  20o  y  15  21.  7  8  2^  19+ …
+== f198v_image
+L7   10o 1+ 3  <<adonde quiera q fuesse / q esto fuesse>>  22[edge]
+L8   20 3o  6^ 9+ 3  <<ra>>  9+  a. 20 6. 2^ 19  /.  S+  19+ 1 18, 9o  [edge]
+L9   <<?ua>>  8 1+ 19 18.  <<que>>  8 19 18+  6o 3 22+  <<estando tan>>
+L10  <<publico como estaua>>  8 1  18o 9o  8 3  2' 1 9o  8 1^[edge]
+L11  19+ 2+  8 3  <<ra>>  22 [rature] 20.  8 3  9+ 19 5o 1o 20  15  9+ 19 20+[edge]
+L12  22' 18. 10, Σ 1  <<que dello se me sigue />>  8 1 18, 8[edge]
+L13  22o 21.  18. 1  19, 1  10' 3 22.  S+  22. 9+ 10, 9o  18[edge]
+L14  18o  <<q fuera razon>>  5o 1 20=.  20 2+  15  y C+ 10+ 1[edge]
+L15  18. 20 2+  22. 20.  22~ 20+ 22. 20o  9+  2,  5o 1 20'  15  8[edge]
+L16  18+ 19 18, 2o 1, Σ  9+  1~ 2,  4 1o 10+ 1 10, y  /  <<y juntan>>
+L17  <<dose con esto el conocer el>>  19, Go  <<y ser yo de mio>>
+L18  <<filosofo como v.m. sabe he desseado con muchas>>
+L19  <<veras recogerme y viuir una vida sosegada y ch[ristiana]>>
+L20  15  S+  19' P, 10. 9o  y  vo  3o  18 a, 8 19=+  22o 20  11, 8[edge]
+L21  22' 8 19 17^ 18o  8 20.  4' 19 18o  <<viuir en una m[is]>>
+L22  <<ma parte y pueblo>>  15o  15  2, 19  <<Ha>>  19  21.  10o 1[edge]
+L23  <<tanta invidia y rabia y falsedad>>  2+  S^.  1  po 10' 20[edge]
+L24  21, 18 20.  3.  5o 1 20=.  ^  15  1^ 3.  a, 9.  /.  <<de au[edge]>>
+L25  <<reçumado el>>  9+ 19+ y 20  15o  20+ 18, 20 2+  4[edge]
+L26  15  y a+ 20  p+ 10+ 9, So 9o  3.  9+ 2. 1 9.  9+  8 19[edge]
+L27  a+ 9o  19+  S. 1  4 1 a+ 1 18 6o  15  8 19 22. 20 14[edge]
+L28  22o 20+ 3  9, y Bo  15  <<sus ministros>>  3. 19  [edge]
+L29  18 20. 19  9+ 3  9+ 19 18, 8 20=o  <<y lo demas q v.m.>> [edge ; fin de la page, signature non visible]
+== f199r_compl
+L1  <<aura oydo / pero>>  3.  a+ 20 9. 9  8 19  21.  vo  1o  2+  5.
+L2  21. 20, 9o  9. 20  3, 10+ 1 10, y  y 1 18+ 19  9+ 19=+ y  21.  15o
+L3  2+  19o 9^ 19, 8 6+  15  8 19 18+  24 6^ 9o  <<y por el>>  y 20
+L4  10o 11, 19 22o  9+  18o 3+ 9o  <<ha hecho dezir al>>  y  p. 1
+L5  10+ 19.  9+  8 11o 3,  21.  po 10' 20. 19=+  10o 2, 6o  21.  2+
+L6  <<sossegasse y permaneciesse>>  <<y>>  21 8  18**  19'  19+ 20 a, 10'** 2**
+L7  <<debaxo de grandes juramentos>>  21.  8 3  y 20 10o
+L8  11, 2^ 19 22o  5, 14o  9+  21.  vo  <<sentia mucho (q)>>  15o  5'
+L9  a, 8 19=+  9+  7. 3 18. 20  9+  y 21. 15^  15  24  21. 20
+L10  8 1 9o  15o  <<continuar en servir>>  15  9+ 16. 1 9o 1^ 2+
+L11  8 1  2. 1o 19  9+  vo  24  1^ 2  5.** 20o**  y** po**  15  7. ao
+L12  20+ 19  15  5o 1o 20+ 19  9.** 1** 9+** 19**  /  15  8 1  8 19 18o  19+  y 1 9.  9. 1 9o  15  18o 2. 1 9o  y 6o 20.

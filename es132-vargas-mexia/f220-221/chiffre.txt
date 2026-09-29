@@ -1,0 +1,64 @@
+# BnF, Espagnol 132, f.220r-221r + duplicata f.224r-225r — Philippe II → Juan de Vargas Mexía, San Lorenzo, 13/09/1579 (résultat n°26) — transcription du chiffré (équipe).
+# Clé : Cp.30 (« Cipher 3 » de Tomokiyo) : alphabet, syllabes et nomenclature imprimés par Alcocer (1921), puis Devos (1950) (non reproduite ici ; nos compléments dans ../cle/). Notation de l'équipe : BASE [voyelle après] [@signe au-dessus] ;
+# « ? » = doute ; [ ] = restitution ou clair ; « / » = ponctuation. Transcription faite sur les images Gallica (non redistribuées). Licence CC BY 4.0.
+# Les corrections du vérificateur sont données dans lecture.md (elles ne sont pas toutes reportées ici).
+L1: 23. 17+ 15+ d+ {ʃim} 23. 22+ 8i 4@n 21. 23. p+ 13 9 do@n d. 25+ 9 p+ 22+@r 9 15+@n 23o@n 28 15+ 35_+
+L2: 24i 7+ 21. 7o@n 4@l 22. 28 24i 4 17.@n 15o@s 21. 25+@n y 25i 4 17.@n 4@n 36. 10@m 8o@s 6o@n d. 23. 12+ 15+@2 15+
+L3: 22. 28 17+ 16+ 32. 28 23i 12+@n 15.@2 25+ do {bel} 15+ 25i 23 24+@s 7o@n 4@l du 21. d. 23+ 8o 28+
+L4: 28 23i 23. 15+@2? 11u 10@r d+ 23. 12+ 12+ 15+@2 do 9 4 15+@2 y 15o 21. d@l 23. di 29. 21. 2u@n d+ 16.@n 24o
+L5: pu 4 d. 24. 17.@r 4@l 16o 25i 16i 4@n 24o 21. 12+ 37. 13@s 4@n 24.@n 6i 6o 21. 12+ 29. 4@l 35i@n 7i p. d. 8. 10@r
+L6: 17. 9 15+ p+@r 24. d. 2u 4@n 24. 22+ 8i 9 28 21. 23i 4 24. d@s 24o 15+@n 23+ 7 28 4@n 21. 4@n 24i 4@n d.
+L7: 15o@s d. 11u y 23+ 7o@n 15+ 7o@n 31_u 23i 18@n 21. 12+ 37+ 24. 17i do 15+ 13u@n 24+ d@l 31_. 22o 28 d.
+L8: 4@s 24+@n 15+ 35o 25i@n 7i 10 21. 17o 21. 22i 10@n 7o@n 36i 8u 13@r 28 Q 10@l 21i 4@r 18 36+ 17o 25. d+ d 21.
+L9: 18 p+ 22. 29 7+ d. 7o@n 23i d. 22+ 7i 18@n 28 d. 24o do 16. 65+ 22. 13@s di@s 24i@n 24+ {ʃim}
+L10: 10@l 4@s 7o 7.@s 4@n 7o 16.@n 6+ do d. 15+ 16o 24+ 2u 4 8i 4@n 9 7o 11.@r? 13. do do 6. 29i 28 6z 15o
+L11: 23. 22+ 21. 35o 7u 22. 13@s po@r 16. di 18 d. 23. 18 8i@s po 4@m 8+ 27+ do@r d. 4@s 7o 7i 9 21. pu 4@s 15o@s
+L12: 4@s 7o 7. 23. 21. 4 24+@n 4@n 30u 13+ 23. 16u 4@s 36+@n d.@s 7o@n 24.@n 24o@s 23. 9 p+@r 24.@n d@l 23.@r 25i 7i 18
+L13: d@l d. 18 22+@n 11. y 4@n 15o d. 16+ 21. 9 4@s 24. 35o po 23i 24o 16. 4@s 31i 25i@s 18@s 10 d 25.@r 24i 22+
+L14: do@n 13u 10@n d. y di 9 21. 29 d. 15o 21. 4@n 24.@n d. 22. 13@s po@r 7+@r 24+ 23u y+
+L15: Q 10@n 24o 9 15o 21. di 4 11o d. 25i? d.@s? 18 33. 7. {ꝯom} 15+@s 4 35. 23+ d. 33_. 23i@n 11 25 4@n 22.
+L16: 16i 24i 6o 9 16o@s d. 15+ 16o 24+ 65+@n do 15. 13u@n 24+ {ʃim} 9 4@l 21. 16i 22. 4@l 2u@n d+ 16.@n 24o
+L17: 21. 4@l {Sem} pu 4 d. 24. 17.@r {ꝯom} 12u@r 24+@r 15+ 35_+ 29+ 28 17o {ꝯom} 18 30_i 11+@r 23. 23o 30.
+L18: 4 15o@2 17o 9 25.@n 24u 22+@n do 17+ d+ 23i@n 8u 4@n 7i 16i 4@n 24o 23i 16i? 17o do d. 23u 35u d.@n 7i 9
+L19: 23. pu 4 d. 7o@n 2i 10@r
+L20: 15o@s 12o@m 30.@s d. 15+@n 23+ 7 Q. 9 Qi 10@n d+ 25+@n 23. d.@s p+ T+ 22o@n y+ 28 15. 15.@2 25+ 22o@n
+L21: 25 17+ 13o y+ do 12+ 37. 13@s 4@n 24.@n di do /
+L22: d. 15+ y d+ d@l 25i 29 7o@n d. d. 24u 22. 17+ 9 15+ 22o T. 15+ {ꝯom} p+ 23+@r d. 9 15i@2 4@n
+L23: 8u@s 7+ d@l d. 9 15+@n 23o@n y d. 15+ p+ 23+@2 d+ d. 15+ 1729? po@r 15+ 18 36+ 25i 9 d. du@n Q.@r
+L24: 21. 16. 65+ 22. 13@s 23i 2u? 9? 7i 4@r 24+ 18 17o /
+L25: 4@s 6z 21. yo 24.@n 11o 35o 25. y 6+ 4@n 16o@s d. 15+ 16o 24+ 15+ 4@n 7o 16i 4@n d+ d.
+L26: 4@s 24. p+ 4@n 2ui 4@n 4@s 24+ 8i 4@n 4@m 35_. 9 6+ 28 12. y+ 2i@r 16+ do 15+ 7. du 15+ {ꝯum}
+L27: 23. 15. d. 4@l 9 8i 24o d. 23+@n 24i 9 11o 4@n 4@s 24o 25o@s 15. 10 d 25.@r 24i 22. 13@s 15o 2u
+L28: 23. 23u 4 15. 12+ 29.@r {ꝯum} 24o 6o 23. 12+ 11+ do 7o@n 25i 4 17. 9 23u 35o 25. To do
+L29: 18@s 15o 65+ 22+ do@n 13u 10@n d. 28 di 9 21. 29 /
+L30: 7o@n 4@s 24+ 23. 18@s 4@m 8i 9 7o p i 9 d. 25 17+ 7+@r 24+ d.@l du 21. d. 9 15+@n 23o@n 4@s 31i 24+
+L31: 9 15o@s {gil}? 8+? 2? 7o@n? 2u. 15o@s d. 10@n 25. 22. 4@m 8i 9 22o@n 9 23u@s di pu 24+ do 4@n 7o 15o 17i 9
+L32: {ꝯom} 16o@s 36+@r 15+ 9 15o@s 7o 16i 23+ 22i 18@s d.@l {cil}? 28 2u. 23. 4@n 24i 4@n d+ 2u. 17o 15.
+L33: 2+@l 24+ 22+@n 25+ 15. do 22.@s 17o 23. 7o@n 31_u y.@n 6o 15+ p+ 29 28 12+ 25i 4@n 6o 16i 22+?
+L34: do 23o 30. 4@s 24o 28 4@l 9 36. 25i 16i 4@n 24o 28 23o@l 24u? 22+ 7o@n 2u. 9 15+ 33o@n 24. 22+ d?
+L35: 2ui? pu? 29 7o 9 23. 16u 4@s 36+ y 30+ 25. 9 7i 4@r 24+ 11.@n 24. d.@l 35i 7i p. d. 8. 10@r 17. [12+]
+L36: p+ 22. 7i do 17. 7. 23+ 22i 18 2u. 25o@s di 11+ 13@s d. 16i p+@r? 24. 10@l 22. y 31i 24i 9 17i 23i@2
+L37: 16o do 4@l du 2u. d. 9 15+@n 23o@n 23u 12.@r 16+ 17o 7o@n 12o@m 30.@s y 7o@n 7+@r 24+ 23u y+ 10@n [d+]
+L38: 24o d+ 25i 9 23o 15i 7i 24+@n 6o 16i 23u 8 di 24o@s? y 22. 8. d.@l? 28 2u. 15+ 17u? 9 7o@n
+L39: 11.@n 24. d. 11u 4 22+@2 7o 22.@2 p o@n di 4@n do 9 Su d. 23i 11 17o 15o@s 9 yu d+ 28 2u. do? p?
+L40: 34+? 25.@r? po@r 4 23+ 7o p i 9 2u. 23u 12.@r 16+ 17o 12+ 4@s 31i 24o 9 15o@s 2u. 4@s 24+@n 4@n 10@n? 25.?
+L41: 22.@s 15. 18 33. 7. 15+ 9 yu d+ d.@l di To 22. y 23i@n 15+ 2u 10@l 9 15+ 25.@r d+ d 4@l d. 9 15+@n 23o@n
+L42: po? 32i 9 po 7o 28 2u. 15+ 4@s 36. 7+ 9 16i@s 24+ d 2u. 23. 25. 4 28 2u. 15+ 4@s 36. 7+ 9 16i
+L43: 24+ d 2u. 23. 25. 4 2u. 4@n 36. 9? 15o@2? do@s? 10 y 16u 4@s 36+ 31_+ 22o 2u 10@n 24o 4@l di To
+L44: 22. y d. 37i 9 20o d.@r 7o@n 23u 12.@r 16+ 17o {ꝯum} 17o 15. 23+ 15i 4 23. 17i 23. 9 p+@r 24+ S.
+L45: d. 23u 25o 15u@n 24+ d 28 2u. d. 37i 9 4@l di To d. 9 15+@n 23o@n 7o@n 23i d. 22+@r 2u. 8+@s 24+ 2u.
+L46: 25 17+ 25. 29 15. 9 y+@n 4@n 11+? 17+ do y 25+ 15.@r 23. {ꝯom} 17o 23.@r 8u@r 15+ do 15+ 23. 11u@n d+
+L47: d.@l 4 27.@m 35_o 21. 24i 4 17. 35. 23.@n 24. [nul:7o@n] [nul:15+] [nul:16.] [nul:16o] [nul:22i] [nul:9] [nul:4@n] [nul:15+] [nul:16i] [nul:9] [nul:8o] [nul:22] [nul:po] [nul:9] 4@n 15+ 16+ 17. 22+
+L48: 21. 4@l d. 18 22+@n 11.@s 36+ 24+ 10@l 10@r Ti du 2u. 16+ 24i 10@s 28 6z 16i@s 16o 2u. po@r 18 36+ o+@c
+L49: 4@l 35i@n 7i p. d. 8. 10@r 17. d+ 16u 4@s 36+ d. 2u. 22.@r 8u 15i@r@2 9 15+ o+@c d. 2u 4@n 24. 22+ 8i 9 do 25.
+L50: 22. 13@s po@r 15+ 22. 15+ Ti 18@n 21. 7o@n 4@s 24+ 23. 18@s 4@n 8i 9 21. 4@l di To 22. y pu 4 d. To@n
+L51: 23i d. 22+@r 15o 2u. 4@l 16u@n do po 32+? 13u 29 11+@r d. 24o do 4@s 24o 28 d. 15o@s 2i 17. To@n 2u.
+L52: 23. 12+ 29. 28 2u. {108}? 23. 22+ 2o@r 29+ do 9 35o 25. 4@r 23. po@r Su o+@c 15o 16. 13o@r 2u. po
+L53: 32+ {ꝯum} 17i 4@n 15+ 25 17+ 17i 4@n 15+ 18 36+ 15. pu 4 d+@n 12+ 29.@r d+ 17o@2 22. 23i@n 24i 4@n
+L54: do 23. d. 2ui 4@n 35o 7u 22+ 22. 12+ 29.@r 23. 15. po@r 15+ 25i 10@s 2u. di 18@s 15. 13@n@s pi 22+ 22.
+L55: 4@s 24. 18 2i 7i 18 7o@n 25.@r 17+ 21. 25o 12+ 11+ 13@s 15u 4 11o? po@r 4@s 24o 24.@r 16i 17o
+L56: 28 p+ 15+ 30+ 23i@n d+@r 16+ 13@n 24.@r 35. 24+ 7i 18@n 28 23i 9 7+ 23o 18@s 15+ pi di 4
+L57: [nul:22o@n] 22.@n di 22. 13@s 2u. 17o 23+ 8. 13@s 16+ d. 21. 18@s 12. 16+@n 6+ do 21. 15. 22. 2i 22+ 13@s
+L58: 4@s 24o 6z 28 6. do 15o 12+ 37. 13@s 12. To 28 4@l {bel} 2u. 25i 4 22. d. 2u. 12+ 29.
+L59: 28 15o 2u. 9 4 15o@2 23. 18@s 22.@s po@n d. 7o@n 24o 6o? 15o d. 16+ 2u. 23. 18 33. 7i 4 22.
+L60: 16. 65+ 22. 13@s di 24i@n? 24+ {ʃim} 7o@n 15+ 30. 25. d+d 2u. 23. pi di 4 22.

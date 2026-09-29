@@ -3,13 +3,13 @@
 **Lettres chiffrées historiques : lectures vérifiées (XVIᵉ-XIXᵉ siècle)** · *Historical cipher letters: verified readings (16th-19th century)*
 
 > **FR.** Ce dépôt réunit 74 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg),
-> toutes **confirmées par un vérificateur indépendant**, presque toutes **« avec réserves »** ; trois d'entre elles (n°10, 11, 22) restent **sous le seuil de 80 %**
+> toutes **confirmées par un vérificateur indépendant**, presque toutes **« avec réserves »** ; quatre d'entre elles (n°10, 11, 16, 22) restent **sous le seuil de 80 %**
 > selon au moins une mesure et ne sont présentées que comme des lectures partielles (voir § 3). Pour chaque lettre : transcription du chiffré, clé utilisée
 > (nos clés ; pour une clé publiée par un tiers, seulement la référence et nos compléments), lecture, taux mesurés par le vérificateur, réserves, sources (liens, aucune image).
 > Le travail a été fait par une équipe d'agents d'IA (Claude, Anthropic) coordonnée par un humain ; les lectures sont des **propositions argumentées**, pas des éditions critiques.
 >
 > **EN.** This repository gathers 74 readings of cipher letters kept in European archives (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg),
-> each **confirmed by an independent verifier**, most of them **"with reservations"**; three of them (nos. 10, 11, 22) fall **below the 80 % threshold**
+> each **confirmed by an independent verifier**, most of them **"with reservations"**; four of them (nos. 10, 11, 16, 22) fall **below the 80 % threshold**
 > under at least one measure and are presented only as partial readings (see § 3). For each letter: ciphertext transcription, key used (our own keys;
 > for keys published by third parties, only the reference and our additions/corrections), reading, verifier's scores, reservations, sources (links only, no images).
 > The work was done by a team of AI agents (Claude, Anthropic) coordinated by a human; readings are **argued proposals**, not critical editions.
@@ -52,12 +52,17 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 (notre apport = lecture de l'exemplaire chiffré). « prov. » = provisoire. Taux = vérificateur, mesure sévère ; « — » = non mesuré à l'époque de la vérification.
 
 > **Résultats sous le seuil de 80 % : à lire comme des lectures partielles, pas comme des confirmations pleines.** Le critère d'acceptation est ≥ 80 % des groupes
-> chiffrés compris, selon la mesure du vérificateur. Les trois lignes suivantes ne l'atteignent pas, ou ne l'atteignent pas selon la mesure la plus prudente. Leur vérificateur a conclu
+> chiffrés compris, selon la mesure du vérificateur. Les quatre lignes suivantes ne l'atteignent pas, ou ne l'atteignent pas selon la mesure la plus prudente. Leur vérificateur a conclu
 > « confirmé avec réserves », mais elles **ne sont pas présentées ici comme pleinement confirmées** (colonne « Seuil 80 % ») :
 > - **n°10** (Montholon → Nevers, BnF fr 4715 n°48 f.71) : **≈ 75 %** compris ;
 > - **n°11** (Montholon → Nevers, BnF fr 4715 n°35 f.58) : **78-79 %** au niveau de la phrase (≈ 80 % annoncé ; marge nulle) ;
 > - **n°22** (Croissy → Mazarin, BnF Baluze 178 f.73-74) : 85,7 % en mesure stricte, mais **79,8 %** (≈ 80,3 % après contrôle) en « aveugle révisé », la seule mesure proche de la règle sévère
->   (≈ 8 % des jetons sont des signes à deux valeurs tranchés au sens).
+>   (≈ 8 % des jetons sont des signes à deux valeurs tranchés au sens) ;
+> - **n°16** (Philippe II → Vargas Mexía, BnF Espagnol 132 f.17-25) : 83,5 % (81,6 % au dénominateur prudent), mais **79,9 %** dans la variante stricte du vérificateur
+>   (mesure en équivalents-lignes, ± 3 points ; « seuil atteint, de peu »).
+>
+> **Bornes extrêmes sous 80 %, non retenues par leur vérificateur** (à connaître) : n°27 (63,5 % si l'on compte non compris les 29 % de la lettre qu'aucun vérificateur n'a relus) ;
+> n°40 (79,8 % en mode ultra-sévère en comptant le passage biffé par la chancellerie) ; n°7 (plancher théorique ≈ 80 % dans le pire cas combiné).
 >
 > En outre, **14 lignes** atteignent le seuil par groupe mais **pas par mot** (taux par mot < 80 %, en gras : n°48, 49, 51, 52, 53, 54, 56, 58, 60, 63, 65, 70, 71, 74) : réserve explicite, lecture à prendre avec prudence.
 
@@ -68,45 +73,45 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 | 3 | Marie de Médicis → Brèves (2 passages) | BnF fr 3789 f.19 (et f.17) | 10/11 (et 15/09) 1610 | E (clé retrouvée dans fr 3462) | 38/38 et 59/59 signes | atteint | 2 valeurs de contexte ; faute du chiffreur | A prov. | [breves-1610](breves-1610/) |
 | 4 | Montholon → Nevers (2 billets) | BnF fr 3414 p. 78 (f.126-127) | 15 et 18/11/1589 | P (Tomokiyo) | ≈85 % du chiffré (95,5 % des groupes par la clé publiée) / — | atteint | clair partiellement non transcrit ; ~25 non résolu | A prov. | [montholon-1589](montholon-1589/) |
 | 5 | Montholon → Nevers | BnF fr 4715 n°58 f.81 (l.18-40) | 8/11/1589 | P (Tomokiyo) | l.18-28 ≈85-90 % ; l.29-40 ≈90-95 % (aveugle ≈95 %) / — | atteint | ~25, ~50, ~85 non identifiés | A prov. | [montholon-1589](montholon-1589/) |
-| 6 | Philippe II → Vargas Mexía | BnF Esp. 132 f.11-12v | 24/01/1578 | P (Tomokiyo, Cipher 2) | 95,4 % (pess. 90,4 %) / — | atteint | | B | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 7 | A. Pérez → Vargas Mexía | BnF Esp. 132 f.198-199r | 15/04/1579 | P (Devos/Tomokiyo, Cipher 4) | 85,5-89,6 % (pess. 84,6 %) / — | atteint | perte en reliure | B faible | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 6 | Philippe II → Vargas Mexía | BnF Esp. 132 f.11-12v | 24/01/1578 | P (Tomokiyo, Cipher 2) | 95,4 % (pess. 90,4 %) / — | atteint | clé cassée par Tomokiyo sur cette lettre ; partie en clair éditée (Gachard 1875) | B | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 7 | A. Pérez → Vargas Mexía | BnF Esp. 132 f.198-199r | 15/04/1579 | P (Devos/Tomokiyo, Cipher 4) | 85,5-89,6 % (pess. 84,6 %) / — | atteint | perte en reliure ; plancher ≈ 80 % (pire cas combiné) | B faible | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 8 | Ventadour → connétable de Montmorency | BnF fr 3575 f.56 | fin 1595 | C (par la structure) | ≈96 % / — | atteint | Mondon non identifié | A prov. | [ventadour-1595](ventadour-1595/) |
 | 9 | Montholon → Nevers | BnF fr 4715 n°37 f.60 | 12/12/1589 | P (Tomokiyo) | ≈86 % / — | atteint | 4 codes HYP | A prov. | [montholon-1589](montholon-1589/) |
 | 10 | Montholon → Nevers | BnF fr 4715 n°48 f.71 | fin 1589 | P (Tomokiyo) | **≈75 %** compris / — | **sous le seuil de 80 % — lecture partielle** | **< 80 % compris** ; zone Q restructurée | A prov. | [montholon-1589](montholon-1589/) |
 | 11 | Montholon → Nevers | BnF fr 4715 n°35 f.58 | 26/11/1589 | P (Tomokiyo) | ≈80 % (vérif. 78-79 % au niveau de la phrase) / — | **sous le seuil de 80 % — lecture partielle** (78-79 % au niveau de la phrase, marge nulle) | **marge nulle** | A prov. | [montholon-1589](montholon-1589/) |
 | 12 | Montholon → Nevers | BnF fr 4715 n°47 f.70 | fin 1589-déb. 1590 | P (Tomokiyo) | ≈88 % (parties non glosées) / — | atteint | | A prov. | [montholon-1589](montholon-1589/) |
 | 13 | Montholon → Nevers | BnF fr 4715 n°27 f.50 | 30/10/1589 | P (Tomokiyo) | 91,0 % phrase ; 88,2 % strict / — | atteint | L13-L14 non comprises ; ''84, ~8 HYP | A prov. | [montholon-1589](montholon-1589/) |
-| 14 | Philippe II → Vargas Mexía | BnF Esp. 132 n°15 f.32 | 17/03/1578 | P (Devos, Cp.30) | 92,6 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 14 | Philippe II → Vargas Mexía | BnF Esp. 132 n°15 f.32 | 17/03/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 92,6 % / — | atteint | sans duplicata ; xal non compris ; recalcul avec la nomenclature Alcocer (non vérifié) 93,8 % | A | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 15 | Philippe II → Vargas Mexía | BnF Esp. 132 f.34 | 16/03/1578 | P (Tomokiyo, Cipher 2) | ≈93-95 % / — | atteint | codes ouverts | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 16 | Philippe II → Vargas Mexía | BnF Esp. 132 f.17-25 | 08/03/1578 | P (Tomokiyo, Cipher 2) | strict ≈80-82 % / — | atteint, marge mince (≈ 80-82 %) | marge mince | B | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 16 | Philippe II → Vargas Mexía | BnF Esp. 132 f.17-25 | 08/03/1578 | P (Tomokiyo, Cipher 2) | 83,5 % (P = 0,25 ; 81,6 % dénominateur prudent) ; variante stricte **79,9 %** / — | atteint de peu ; **variante stricte 79,9 %** (marge nulle) | mesure en équivalents-lignes (± 3 pts) ; 2 passages imprimés (Mignet 1846) | B | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 17 | Philippe II → Vargas Mexía | BnF Esp. 132 f.123 | 20/10/1578 | P (Devos/Tomokiyo, Cipher 4) | 97,2 % / — | atteint | 4 codes HYP | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 18 | Philippe II → Vargas Mexía | BnF Esp. 132 f.245 | 29/11/1579 | P (Devos, Cp.30) | 90 % strict / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 18 | Philippe II → Vargas Mexía | BnF Esp. 132 f.245 | 29/11/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 90,0 % (strict, reproduit ; échantillon aveugle 91,3 %) / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 19 | Philippe II → Vargas Mexía | BnF Esp. 132 f.154-155 | 04/12/1578 | P (Devos/Tomokiyo, Cipher 4) | 87,6 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 20 | Philippe II → Vargas Mexía | BnF Esp. 132 f.142 | 12/11/1578 | P (Devos, Cp.30) | 96,0 % / — | atteint | 4 codes, personnages non identifiés | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 21 | Philippe II → Vargas Mexía | BnF Esp. 132 f.138 | 12/11/1578 | P (Devos, Cp.30) | 94,7 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 20 | Philippe II → Vargas Mexía | BnF Esp. 132 f.142 | 12/11/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 96,0 % / — | atteint | 4 codes, personnages non identifiés | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 21 | Philippe II → Vargas Mexía | BnF Esp. 132 f.138 | 12/11/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 94,7 % / — | atteint | codes 118 et « bam » non résolus ; « Ruan » HYP | A | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 22 | Colbert de Croissy → Mazarin | BnF Baluze 178 f.73-74 | 09/05/1660 | P (Tomokiyo) | 85,7 % strict ; aveugle révisé **79,8 %** (≈ 80,3 %) / — | **sous le seuil de 80 % selon la mesure la plus prudente (79,8 %) — lecture partielle, marge nulle** | ≈ 8 % de jetons choisis au sens (signes à deux valeurs) ; copie | A prov. | [croissy-mazarin-1660](croissy-mazarin-1660/) |
-| 23 | Philippe II → Vargas Mexía | BnF Esp. 132 f.222 | 13/09/1579 | P (Devos, Cp.30) | 93,0 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 24 | Philippe II → Vargas Mexía | BnF Esp. 132 f.165 (+ f.167) | 10/01/1579 | P (Devos, Cp.30) | 96,3 % / — | atteint | | B faible | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 25 | Philippe II → Vargas Mexía | BnF Esp. 132 f.81-82 | 18/08/1578 | P (Devos, Cp.30) | 91,0 % / — | atteint | | B | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 26 | Philippe II → Vargas Mexía | BnF Esp. 132 f.220-221 | 13/09/1579 | P (Devos, Cp.30) | 95,8 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 27 | Philippe II → Vargas Mexía | BnF Esp. 132 f.228-229 | 13/10/1579 | P (Devos, Cp.30) | 90,3 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 28 | Philippe II → Vargas Mexía | BnF Esp. 132 f.113 | 13/10/1578 | P (Devos, Cp.30) | 92,8 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 29 | Philippe II → Vargas Mexía | BnF Esp. 132 f.73-74 | 31/07/1578 | P (Devos, Cp.30) | 92,0 % / — | atteint | code {107} non prouvé | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 30 | Philippe II → Vargas Mexía | BnF Esp. 132 n°88 f.195 | 18/03/1579 | P (Devos, Cp.30) | 92,8 % / — | atteint | lettre courte | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 31 | Philippe II → Vargas Mexía | BnF Esp. 132 n°74 f.161 | 12/12/1578 | P (Devos, Cp.30) | 95,1 % (sévère 92,4 %) / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 32 | A. Pérez → Vargas Mexía | BnF Esp. 132 n°48 f.105 | 13/10/1578 | P (Devos, Cp.30) | 94,3 % (sévère 92,6 %) / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 33 | Philippe II → Vargas Mexía | BnF Esp. 132 n°117 f.255 | 28/03/1580 | P (Devos, Cp.30) | 89,6 % / — | atteint | minute en clair imprimée (Teulet) | **C** | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 34 | Philippe II → Vargas Mexía | BnF Esp. 132 n°27 f.58 | 07/06/1578 | P (Devos, Cp.30) | 93,0 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 35 | Philippe II → Vargas Mexía | BnF Esp. 132 n°97 f.215 | 13/07/1579 | P (Devos, Cp.30) | 91,8 % / — | atteint | lettre courte ; « Portugal » HYP | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 36 | Philippe II → Vargas Mexía | BnF Esp. 132 n°62 f.134 | 02/11/1578 | P (Devos, Cp.30) | 84,4 % / — | atteint | | B | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 23 | Philippe II → Vargas Mexía | BnF Esp. 132 f.222 | 13/09/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 93,0 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 24 | Philippe II → Vargas Mexía | BnF Esp. 132 f.165 (+ f.167) | 10/01/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 96,3 % / — | atteint | fragment lu par Tomokiyo | B faible | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 25 | Philippe II → Vargas Mexía | BnF Esp. 132 f.81-82 | 18/08/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 91,0 % / — | atteint | Tomokiyo a publié le déchiffrement interlinéaire des ≈ 4 premières lignes | B | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 26 | Philippe II → Vargas Mexía | BnF Esp. 132 f.220-221 | 13/09/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 95,8 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 27 | Philippe II → Vargas Mexía | BnF Esp. 132 f.228-229 | 13/10/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 90,3 % / — | atteint | 29 % des groupes (f.229r) relus par aucun vérificateur (borne basse 63,5 %) | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 28 | Philippe II → Vargas Mexía | BnF Esp. 132 f.113 | 13/10/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 92,8 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 29 | Philippe II → Vargas Mexía | BnF Esp. 132 f.73-74 | 31/07/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 92,0 % / — | atteint | code {107} non prouvé | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 30 | Philippe II → Vargas Mexía | BnF Esp. 132 n°88 f.195 | 18/03/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 92,8 % / — | atteint | lettre courte | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 31 | Philippe II → Vargas Mexía | BnF Esp. 132 n°74 f.161 | 12/12/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 92,4 % (sévère ; casseur 94,8 % reproduit) / — | atteint | sans duplicata ; L11 non comprise | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 32 | A. Pérez → Vargas Mexía | BnF Esp. 132 n°48 f.105 | 13/10/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 94,3 % (sévère 92,6 %) / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 33 | Philippe II → Vargas Mexía | BnF Esp. 132 n°117 f.255 | 28/03/1580 | P (Alcocer 1921 / Devos 1950, Cp.30) | 89,6 % / — | atteint | minute en clair imprimée (Teulet) | **C** | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 34 | Philippe II → Vargas Mexía | BnF Esp. 132 n°27 f.58 | 07/06/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 92,2 % (sévère ; casseur 93,0 % reproduit) / — | atteint | 14+ écrit pour 144+ (non compris) | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 35 | Philippe II → Vargas Mexía | BnF Esp. 132 n°97 f.215 | 13/07/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 91,8 % / — | atteint | lettre courte ; « Portugal » HYP | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 36 | Philippe II → Vargas Mexía | BnF Esp. 132 n°62 f.134 | 02/11/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 84,4 % / — | atteint | sans duplicata ; 9 lignes non relues à l'aveugle (≈ 83 % estimé) ; recalcul Alcocer (non vérifié) 88,1 % | B (§ 1 : CSP II n°536) | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 37 | Duc de Feria → Idiáquez | BnF fr 3641 n°58 f.124-125 | 07/04/1593 | P (Tomokiyo) validée par clé d'époque | ≈88,7 % (84-92 %) / — | atteint | « Infanta [Reyna] » : code à 1 contexte | A | [feria-1593-1594](feria-1593-1594/) |
 | 38 | Duc de Feria → Cristóbal de Mora | BnF Esp. 336 n°90 f.179 | 04/01/1594 | P (Tomokiyo) + clé d'époque | 82,8 % / — | atteint, **marge faible** (76,8 % sous une extension non retenue) | **marge faible** | B faible | [feria-1593-1594](feria-1593-1594/) |
-| 39 | Philippe II → Vargas Mexía | BnF Esp. 132 n°33 f.71 | 19/07/1578 | P (Devos, Cp.30) | 89,4 % / — | atteint | codes HYP | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 40 | Philippe II → Vargas Mexía | BnF Esp. 132 n°22 f.44 | 29/04/1578 | P (Devos, Cp.30) | 87,2 % / — | atteint | 30 % non relu à l'aveugle | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 41 | Philippe II → Vargas Mexía | BnF Esp. 132 n°23 f.46 | 29/04/1578 | P (Devos, Cp.30) | 90,1 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 42 | Philippe II → Vargas Mexía | BnF Esp. 132 n°90 f.200 | 21/04/1579 | P (Devos, Cp.30) | 90,1 % / — | atteint | « Portugal » HYP | A | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 43 | Alexandre Farnèse → Vargas Mexía | BnF Esp. 132 n°106 f.233 | 01/11/1579 | P (Devos, Cp.30) | 87,9 % / — | atteint | 10 l. non relues à l'aveugle | A fragile | [es132-vargas-mexia](es132-vargas-mexia/) |
-| 44 | Philippe II → Vargas Mexía | BnF Esp. 132 n°95 f.211 | 03/07/1579 | P (Devos, Cp.30) | 85,4 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 39 | Philippe II → Vargas Mexía | BnF Esp. 132 n°33 f.71 | 19/07/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 89,4 % / — | atteint | codes HYP | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 40 | Philippe II → Vargas Mexía | BnF Esp. 132 n°22 f.44 | 29/04/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 87,2 % / — | atteint ; biffure comptée 82,0 % ; borne extrême 79,8 % | ≈ 28 % (L10-L24) non relu à l'aveugle ; sans duplicata | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 41 | Philippe II → Vargas Mexía | BnF Esp. 132 n°23 f.46 | 29/04/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 90,1 % / — | atteint | | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 42 | Philippe II → Vargas Mexía | BnF Esp. 132 n°90 f.200 | 21/04/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 90,1 % / — | atteint | « Portugal » HYP | A | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 43 | Alexandre Farnèse → Vargas Mexía | BnF Esp. 132 n°106 f.233 | 01/11/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 87,9 % / — | atteint | 10 l. non relues à l'aveugle ; sans duplicata | non établie (A fragile : archives Farnèse non vues) | [es132-vargas-mexia](es132-vargas-mexia/) |
+| 44 | Philippe II → Vargas Mexía | BnF Esp. 132 n°95 f.211 | 03/07/1579 | P (Alcocer 1921 / Devos 1950, Cp.30) | 85,4 % (borne basse 82,7 %) / — | atteint | sans duplicata ; {ta} = Duque | A | [es132-vargas-mexia](es132-vargas-mexia/) |
 | 45 | Baugy → Mangot | BnF Clairambault 369 f.2-3 | 01/10/1616 | P (Tomokiyo), prouvée sur gloses d'époque | 87,1 % / — | atteint | reliure (pire cas 83,2 %) | faible | [baugy-1616](baugy-1616/) |
 | 46 | Baugy → Mangot | BnF Clairambault 369 f.59-60 | 08/10/1616 | P (Tomokiyo), prouvée sur gloses d'époque | 88,6 % / — | atteint | 13 codes hors clé | faible | [baugy-1616](baugy-1616/) |
 | 47 | Commandeur de Nuchèze → « grand maistre » | BnF Mél. Colbert 109 f.556-557 | 1662 | P (Tomokiyo) | 98,9 % (symboles) / 91,0 % | atteint | | faible | [nuchese-1662](nuchese-1662/) |

@@ -1,0 +1,41 @@
+# BnF, Espagnol 132, f.58r-v + duplicata f.60r-v — Philippe II → Juan de Vargas Mexía, Bosque de Segovia, 07/06/1578 (résultat n°34) — transcription du chiffré (équipe).
+# Clé : Cp.30 (« Cipher 3 » de Tomokiyo) : alphabet, syllabes et nomenclature imprimés par Alcocer (1921), puis Devos (1950) (non reproduite ici ; nos compléments dans ../cle/). Notation de l'équipe : BASE [voyelle après] [@signe au-dessus] ;
+# « ? » = doute ; [ ] = restitution ou clair ; « / » = ponctuation. Transcription faite sur les images Gallica (non redistribuées). Licence CC BY 4.0.
+# Les corrections du vérificateur sont données dans lecture.md (elles ne sont pas toutes reportées ici).
+== f058_a
+P1 {V̄ras} {cartas} 28 6. 15o 21. 12+ p+ 23+ 6o 7o@n 4@l {bul} 6. {pel} 23o 30.
+P2 15+ 7o 23+ 6. 10 15+@n 23o 28 15o 6. 16+ 21. 4@n 10 21. 15+ 7+@r 24+ 25. r. y@s /
+P3 4@n 4@s 24+ 23. 23+ 24i@s 2+ r+ 10 15o 6. 16+@s 20i@n? 24o@s 6. #14+@c 23 7+@r 24+@s
+P4 21 4 16u 28 8i 4@n 10 25i 23+@r 10@l 16+@r 21.@s 6. 10 28+ 16i@n? 24. 28 10@l {bul}
+P5 6o@n 20. 32+ 6. 16.@n 6o 7+ 6. 15o 21. [12+] 25i 10 6.@s 4@n 24.@n 6i 6o 21. #63+
+P6 24+ 25+@n 10 28 10 21. 15o 23 2o [22+] 11i 6o@s 6. {vol} / 28 6. 15o 21.
+P7 16+@s 23o 30. 4@s 24+ 7o 23+ 4@n 24.@n 6i 4 r. 6.@s 18@s 4@n 7+@r 11o 21. 12+
+P8 11+ 28@s 15o 16i@s 16o /
+Q1 12. 25i@s 24o 15o 21. 16. 4@s 31i? 25i@s 23o 30. 15o 6. 10 21. 16i 15+ 17.
+Q2 21. 10@n 6+ 25+ 4@n 4 23+@2 7o@r 24. 20i 6i 4@n 6o #23+ #7+ 22+@2 20+ 22+ 15o@s
+Q3 15o 16 8+@r 6o@s 20+ 22+ 12. 7+@r 15o@s 4@s 20+ 17o@2 15. 6. 10 21. 15+@2? 35o 25i
+Q4 7i 10 28 12+ 23o? 6o 16u 28 86 4@n 10 25.@r 16. 10 25i 23o? 6o 6. 15o@2 y?
+Q5 6z 15+ 23. 22+ 21. 86 25+ 28@s 7o@n 16u To 7u 28 6+ 6o 20+ 22+ 4@n 24.@n
+Q6 6.@r 4@l 2u@n 6+ 16.@n 24o 21. 10 21. 15o 24i 4 n. 28 10 25i 23+@r m.
+Q7 6. 15o 21. 4@n 23 24. 20+@r 24i 7u 15+@r 12u 25i 4 22. 6.@s 4@n 24.@n 6i 6o /
+R1 24o 6o 15o 21. 6i@s 7u 22i@2 23 28 10 d 25.@r 24i@s 4@n 25 n+ 7+@r 24+ #14+@c
+R2 6. #18 6. 15 20+ 23+ 6o 10 20o@r 20o 23i 24o 6. 22o@2 24u? 22+ 7o@n 4 23.
+R3 22. 28 / 4@s 6. 16u T+ 7i@n? 23i 6. 22+ 7i 18@n 28 4@n 21. 10 28 86 4@n 21.
+R4 16i 22+@r / 28 15o 6. 15+@s 35+ 24i 7+@s 7o@n 15o@s 11i 23+@s / 6+@n 25i 15+
+R5 28 25. 15+ 11u 10@r 6i 10 / 16. 20+ 22. 7. 16u 28 7o@n 25. ni 4@n 24. 23
+R6 28 6z 23. 22+ 86 4@n 21. 25o@s 7o@n 2o@r 16. 10 15o 21. 23. 18@s 12+ 4@s
+R7 31o? 24i? 25+ 28@s 12+ 29i 4@n 6o 7o@n 24o 6o@s 4 15o 23 7o@n {rum}
+R8 28 23i@n 21. 15o@s 25 no@s 23. 20+@n 6. 15o@s 18 36o 23 ni 4@n 24i 4@n 6+@n
+R9 21. 23. 36+ 24+ n+ 6+ 15+ 23 6i 15i 11.@n 7i 10@s 28 {xom} 23 n. 7. 23+ 22i 18@s
+R10 20+ 22+ 16+ 24. n.@r 15o@s 4@n {tam} 6. 25o 7i 18@n /
+== f060_a
+D1 4@n 18 36+ 23. 18@s? 65+ 6.@l 22. 7i 8o 6. 25u 4@s
+D2 36+@s 91 28 6. 15o 21. 12+ 20+ 23+ 6o 7o@n 4@l 4@m 8+ 27+ 6o@r 6. 33+@n 7i 10 23o
+D3 30. 15+ {ſō} 6. 10 15+@n 23o@n 28 15o 6. m+@s Q.? 4@n 10 Q. 15+ 7+ 22 24+ 25. 22. y@s
+D4 4@n 4@s 24+ 23. 23+ 24i@s 2+ 22+ 10 15o@s 6. 16+@s 20o@n? 24o@s 6. 25u 4@s 36+@s
+D5 7+@r 24+@s /
+E1 21 4 16u 28 8i 4@n 65+@r 10 m+@r Q. 6. 10 28+ mo@n 24. 28 10 4@m 8+ 27+ 6o@r
+E2 6o@n 20. 32o 6. m.@n 6o 7+ 6. 15o Q. 12+ 25i 10 6.@s 4@n 24.@n 6i 6o Q. 36+
+E3 24+ 25+@n 10 28 10 Q. 15o@s 2o 22+ 11i 6o@s 6. 11. 17o 25+ 28 6. 15o Q.
+E4 16+@s 23o 30. - 24+ {ſō} 4@n 24.@n 6i 4 22. 6.@s 18@s 4@n 7+@r 11o Q. 12+
+E5 g+ 28@s 15o mi@s 16o /

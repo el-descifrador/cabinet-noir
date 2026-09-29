@@ -1,0 +1,32 @@
+# BnF, Espagnol 132, f.211r-v (sans duplicata) — Philippe II → Juan de Vargas Mexía, San Lorenzo, 03/07/1579 (résultat n°44) — transcription du chiffré (équipe).
+# Clé : Cp.30 (« Cipher 3 » de Tomokiyo) : alphabet, syllabes et nomenclature imprimés par Alcocer (1921), puis Devos (1950) (non reproduite ici ; nos compléments dans ../cle/). Notation de l'équipe : BASE [voyelle après] [@signe au-dessus] ;
+# « ? » = doute ; [ ] = restitution ou clair ; « / » = ponctuation. Transcription faite sur les images Gallica (non redistribuées). Licence CC BY 4.0.
+# Les corrections du vérificateur sont données dans lecture.md (elles ne sont pas toutes reportées ici).
+L1: {17ρ@r?} 15+ 7o 20i 10 21. 25+ 7o@n 4@s 24+ 6. 15o
+L2: q. 6o@n 14+ 10@n 6. 14 6i 10 21. 29 16. 12+ 4@s 31i 24o 25.? 2.? 7@s? 18o? 21. 6i 29.
+L3: 28 10 6 25i 4@r 24. 6. 15+ #δ 28 7+ 15i 6+ 6.@s 6.@l 7o@n 6. 20. 32o 10 25o
+L4: 34+@2? 6o? 11+ 32o / 6. 21. 18? 12. 21. 22 6o? 6+@r {Rom} 21. 24.@n 11+ 28
+L5: 4@n 24.@n 6i 6o 15o q. 4@l 6i To 6o@n 14+ 10@n 16.@s 31i 25. 28 {Rom} 21. 20u 4@s
+L6: 4@l 6i To 7o@n 6. 4@s 24+@n 7o 17o 7i? 6o 28 10 16i 11o? 25u 4@s 36o 36+
+L7: 24.@s 7o@n 4@l 4@n 15+ 2o@r 16+ q. S. 20o 32i 10 22. 7o 11.@r 4@n 16i S.@r 25i
+L8: 7i o 28 7o@n 15o q. S. 20o 32i 10 35.@n 6.@r 4@n 4@l / 36+ 24+@n 6o 15o 7o@n 15+
+L9: 6i@s 31. 7i 18@n 28 #3a? 4@n? 24.@r? 16i? 17+? 6o? q. 25o@s S+ 30. y@s 28 6+@r 16.
+L10: 4 28 6. 15o q. #δ4? 30.? 24+? 6o? 6i? 10? 25o@s? S. 18@s 18 33. 7i 4 22. 28 20+
+L11: 22. 7i 4 22. /
+L12: 15o@s 6i 10@s 20+ 23+ 6o@s S. 18@s 6i? {∂e} 12+ 25i 10 16+@n? 6+ 6o 4@s 31i 25i@r 10@l
+L13: 16+@r 21.@s 6. 10 28+ 16o@n 24. 23o 30. 4@l {Sem} q. 25o@s 16. 10 6 25.@r 24i@s
+L14: 24.@s q. 12+ 25i 10 24. 17i 6o 11. 22o? 17i 16o? 11o@n 6i 4@n 10 21.@l #gil
+L15: 4@l 2u+@l 16. 12+ 22.@s? 20o@n 6i 6o 21. 4@l 18 33.@s 7i 18 10@l 6i To 11o@n 6i 6.@s
+L16: 23+ 34+ 25i 10@r 15. 28 21. 25i 4@n 6o 4@l 21. 4? 22+? 7i? 20+? 6o? 17o
+L17: 12+ 25i 10 21. 22 6o 25+ 15.@r S. 6. Su 18 2.@2,r 24+ /
+L18: #113 12+ 4@s 31i 24o 4@l 6i To m+@r 21.@s 21. 15+ 7+ 25 23+ 21@c 4@s 24+ 17
+L19: 35. 23o@s 4@l 7+ 20i 24+@n 10@l 8.@r 24o 6. 20o@n 24. 24@s? 12+? 28 31_+ 25
+L20: 6i 18 8.@r 1H 14? 4? 26? 2i2o? m+ 17o / 4 22+? 21@c 36+ 24+ 25+@n 6. 24o
+L21: 16+@r 4@l 7+@s 24i 15o@2 6. m6 15+@n 10 14@n@s 24+@n 7i 10? 6.@l {ta} 6. 23+?
+L22: 25.@r S (? 28 21. 12o? 4@l 8+@r? g+@n? 24.? q. 15o 12+ 25i 10@n 7o@n 2. 23+
+L23: 6o 4 15o@2@s 16i? 16o@s S. 15.@s 4@s 24+ 25+ 12+ 29i 4@n 6o 35o 7. S@2o
+L24: {Rom} 25.@r 4@l 2u@n 6+ 16.@n 24o 21. 24. 17i 10 4@l {Sem} / 6. 21. 18@s
+V1: 12. 21. 22i 6o 6+@r 20o@r L-o? q. 25o? 10 4@s 2@2.? 24. 35o 20o S?
+V2: 24o 16. 4@s 31i 25i@s 24.@s 15o 6i 10@s 20+ S+@2 6o@s 28 {Rom} 21
+V3: 23i? 18@s 35o@l? 25i? 4@n? 22.? 10 12+ 30+ / S-o 30. 4 15o@2 20o 6+ 28
+V4: S+ 24i@s 2+ 29.@r {∂e} 16. 14o@r 18@s 20+ 22. 7i 4 22. /

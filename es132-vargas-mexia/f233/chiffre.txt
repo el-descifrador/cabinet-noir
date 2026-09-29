@@ -1,0 +1,52 @@
+# BnF, Espagnol 132, f.233r-v (sans duplicata) — Alexandre Farnèse, prince de Parme → Juan de Vargas Mexía, Maastricht, 01/11/1579 (résultat n°43) — transcription du chiffré (équipe).
+# Clé : Cp.30 (« Cipher 3 » de Tomokiyo) : alphabet, syllabes et nomenclature imprimés par Alcocer (1921), puis Devos (1950) (non reproduite ici ; nos compléments dans ../cle/). Notation de l'équipe : BASE [voyelle après] [@signe au-dessus] ;
+# « ? » = doute ; [ ] = restitution ou clair ; « / » = ponctuation. Transcription faite sur les images Gallica (non redistribuées). Licence CC BY 4.0.
+# Les corrections du vérificateur sont données dans lecture.md (elles ne sont pas toutes reportées ici).
+L0: 20o@r 15+ q+? 3 4@n 24.@n
+L1: 6i 6o 15+ di 15i 11.@n 7i 10 21. 12+ 25i 9 12. 7o 7o@n 3@l #66? #6o6? #23i?
+L2: 16o 20+ 22+ di 25.@r 24i@r 15o. {pal} 4@s 21. 9@n 6+ 25+@n 10 15o@s 7o@n 2i
+L3: 17. 6.@l 7o@n 6+ do 6. 8o@r 11o 17+ 21. 9 23i 6o 8i? 28? 9 7.@r 24+ d+ 28
+L4: 19? 28? 4? 24. 17i 6o 65 6.@l 7o@n 6. 6. 7+@m 35_i 24. 21. 23. 28 25+@n 22. 24i?
+L5: 22+@n 6o 23i@n 12+ 25.@r 12. 7o 19 36o 9 7o 16. 24i 16i 4@n 24o 16+@s 6. 24o
+L6: 16+@r 25@n 7+@s 24i 15. 13o 33_+ 7o 21. 23. 15+ 16+ 23+@n t? 22. 16i #4? #9@l?
+L7: 36+ 24+ 25+@n 28+ 6. 22.@s 24i 24u? 28@r 7o 16o 31. 19 15o 10 30+ 65+ do
+L8: 10 #148@c 4@l 6i 7o 7o@n 6. 6. 16+ 17. 22+ 21. 28+ 9 21. 15o 12o? 17o@s 6+
+L9: 22+ 7+? 28 6+ do 20o@r 9 11o 22+ /
+L10: 9 #1@c? 6. 16+ d+ 16+ d. 9? 30.? 22.@s 20o@n 6. 22. 7o@n 3@l 35i 16. 22o 28 4@n 4@l?
+L11: 21. 28o 15+ 20+? 6i. 22. 23.@r 25i@r 28 6+@r 23+ 24i@s f+ 7i 19@n 15o 12+ #x.?
+L12: 7o@n 34+@n 25o 15u@n 24+ d 20o@r 21. 23. 8i@n 15o 16u? To? 21. 16. 22. 7. 28
+L13: 21. 23i 23u 16+ 22i 6o 31. 28. 22+ 23u 7o@n 23. 13o 17u@n 7+ di. 22+ t+@n?
+L14: 16+ 15+ Q.@n 24+ 6. 23i 7o 16o 9 6+ do /
+L17: 28 21. 6. 15+ 7o@r 24. 25.@n 11+? 3@l
+L18: 7o@n 6. 19 24+ 25i 19 18 #o? 36o 21. 17o@s di 11+? 9@l? 11o 20o@r 21. 4@s 24+ 16o@s?
+L19: 23u 23 20.@n 23o@s 4@s 20. 22+@n do 4@l #xe? 20+ 22+ 23+ 7+@r 15o@s 4@s 20+
+L20: 17o 15.@s 10 #25@l? 21. 23. 11u@n 25. 19 4@n 7+ 16i 17+ do 23 15o@s {Sem} 3@s 15o
+L21: 21. 16. 17o@s 7o@n 25i. 17. 9@l 35. 23.@n 24. 9@l #89@c 6. #xe? 28 6. 108@c 23i 148@c
+L22: 24u 25i. 22. 9@l 11u@n? 65 15. 23u 35_i? 7o 16. 15o 16+@n 6. 4@m 8i 9@r 4@n di 15i
+L23: 11.@n 7i 9 21. 22. 7i 8i 22. 4@n 3 15o 1@c 23+ 24i@s f+ 7i 19@n /
+L24: 10 7o@n 6. 6. 16+@n 23 f.@l? t 4@m 8i 19 10 16o@n 23 20+ 22+ 21. 36+ 24. 6.
+L25: 24o@r? 16+@r 4@l 17u. 25o 4 27.@r 7i 24o 7o@n 2o@r 16. 10 15o 7+ 20i 24u
+L26: 15+ do 7o@n 15+@s #36@c? 23 25+ 15o 17+@s 28 13o? 12+ 15+@n 6o 16. 9 2ui 7o@n 2ui@n?
+V1: 11u? 17+ 2o@r 16+ d. 35o 25. 4@r di 17. 22o 20+ 22+ 3@s 24. {bel} 16.
+V2: 22. 23u@l 24o 6. 4@m 8i 9@r 10 148@c 15o@s 22. 7+ 25 6o@s 21. 25. 22+ 20+
+V3: 22+ 21. 4@n 25i@r 24u d 6. 15o 6. 19@r 6.@n 21. 23. 7o 30.@n #Xo 16i 15 4@s 7u? do?
+V4: 6. 19 22o 20i@s 24o@s? 15. 24.@s 6. 9 15o@n 23o 6. 7+? 22i 4@l 19?
+V5: 22. 23u 7o 22. 20o@n di 4@n 24. 28 7o@n 4@l 23. 31. 24o?
+V6: 28 22. 7+ 24o 21. 7o@n 25i. 17. 15o@s 4@n 36. 11. 10 15+ #7@c 21. 9 148@c 15?
+V7: 20+ 22.@s 7. 22+ 6. 22. 7+ 25 6o 28 7o@n 2i 9@n 7+ 7o@n 19@r 6.@n 21. 15o@s 15.?
+V8: 25. 9 15+ 25i #1H? 6. 16o@n 23 28+ 15i 12+ 11+? d. 15o@s 15o 21. 4@l di To?
+V9: 7o@n? 6. 6. 16+@n 23 f.@l 24 15. 19@r 6. 17+ 22. 28o 20i 6o 10 148@c 7o@n [24o]
+V10: 6o 4@n 7+ 22.@s 7i 16i 4@n 24o 16+@n 6. 21. 9 23i 23. 12+ 11+? 28 21. 23. #2?
+V11: 23. 4@n 3 15o 6. 23u 16+ di 15i 11.@n 7i 10 20o@r 21. 23i 4@s 24. 20. 21. [17o]
+V12: 23o 7o 22o 2+@l 24+ 23. 20+ 22+ 15o 21. 6. 35. 23.@n 24. 23. 22+? [?]
+V13: 17.? 24.@r? 24o 6o 23. 6.@s 7o@m 20o@n 32i 10 6. 16+ 17. 22+ 21. 6.@s f?
+V14: 23. 22i 10 di fi 7i 6. 22. 16. di 9@r 28.@s 3@s 24o 3@n 24+@n 24o 4@s
+V15: 36. 16o 21. 16. 19 30_i 11+? 10 20. di 10 148@c 7o 16o 15o 12+ 11o?
+V16: 16+? 7+? 25. 22+@s 21. 4@n 7+ 23.? 21. 20o@r 9@l 11u? 17+ 7+ 25 23+ f+@l? 24?
+V17: 24+? 35o 25i 23i 19@n 19 17o 23. 20u. 6+ 12+ 25.@r 24+@n 35.@s 24o 25.
+V18: 6. 24o 16+@r 15o@s di To@s? #Xo #16i? #15? 4@s 7u do 9 7+ 8i 19 19 8u@s? 7+ 22.?
+V19: 20o@r 19 36+ 25i 10 20+ 22+ 9 7u di 9 3@s 24+ 17. 7. 23i 6+ d 24+@n #d?
+V20: 7o 23+ 21. 6. 16+@s 6. 21. 108@c 23. 22+ 23.@r 25i 6o 6. 15o 9 16i 16. [20o@n]?
+V21: 32+ 148@c 4@n 16+ 28o@r 19 30_i 11+? 7i 19@n 6. 15o 21. 20o 32i 9 4@n 7+ [22.]
+V22: 7.@r 28 16+@n 6. 16. 6+@r 6. 15o 21. 23. 12i 29i.? 22. 20o@r 21. 12+ 24?
+V23: 23+ 8.@r 15o 4@s 24+ 22. 7o@n 16+? 7o? 7u 28 6+ do

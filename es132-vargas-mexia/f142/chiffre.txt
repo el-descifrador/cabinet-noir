@@ -1,0 +1,35 @@
+# BnF, Espagnol 132, f.142r-v (+ duplicata f.144r) — Philippe II → Juan de Vargas Mexía, Madrid, 12/11/1578 (résultat n°20) — transcription du chiffré (équipe).
+# Clé : Cp.30 (« Cipher 3 » de Tomokiyo) : alphabet, syllabes et nomenclature imprimés par Alcocer (1921), puis Devos (1950) (non reproduite ici ; nos compléments dans ../cle/). Notation de l'équipe : BASE [voyelle après] [@signe au-dessus] ;
+# « ? » = doute ; [ ] = restitution ou clair ; « / » = ponctuation. Transcription faite sur les images Gallica (non redistribuées). Licence CC BY 4.0.
+# Les corrections du vérificateur sont données dans lecture.md (elles ne sont pas toutes reportées ici).
+L1: {Juan} {de} {Vargas} {Mexia} #2/4? 12. 25i@s 24o 15o 21. 16. 4@s 31i 25i@s 20o@r 25 17+ #9i? 25u? 4@s 36+
+L2: 6. 15+@s #27. 6.@l 20+ 23+ 6o 23o 30. 15o 21. 3@l? 20+ 32. 12.@r 17+ 17 6. 29 19@s 7o 16u? 17i? 7o 6. 15o
+L3: 21. 16o@s 6. 16. 17. 25i 15+ 28 16o@s 6. 19@r 17o 28i@s 24. 17i 9@n 19 33. 7i 6o 10 16i 12.@r 16+ 17o
+L4: 21. 9 28+ 34_o 22i 9 6. 6+@r 15. 4@n 15+@s 16+ 17o@s 15+ 35_+ 7+ 6. 4 6i 17 2.@r 24 28 15+
+L5: 2o@r 16+ 28 36+ 7+ 21. 20+ 22+ 12+ 29.@r 4@s 24o 20. 17 23+ 25+ 17 24. 17.@r / 28 12+ 23 6o
+L6: {Quam} 8i 3@n 10 25.@r 16. 9 25i 23+ 6o 24+ 17 20+@r 24i 7+ 15+@r 16. 17 24. 6. 24o 6o /
+L7: 28 4@s 6. 15+ 7o 17 23i 6. 22+ 7i 19@n 3 13@m 20o@r 24+ 17 7i 9 21. 25o@s 4@s 31i 25i@s 28+ 23i@2
+L8: 23. 22+ 8i 4@n 21. 25o@s 7o 17 25u? 4@s 36+ 13@n 6u@s 36i 9 28 8u 3 17+ 16+ 17+ 35o 7u?
+L9: 22. 28@s #6? 21. 4@s 24o 23. 4@n 7+ 16i 17. 28 20o@n 11+? 4@n 4 27. 7+? 7i 19@n 7o 16 6o 4@s 24+
+L10: 7o 17 7.@r 24+ 6o / 35o 25. 28 4@n 6o 23o@s? 20+ 22+ 3? 15o? 7o 17 15+ 7o 17 23i 6. 22+
+L11: 7i 19@n 28 23. 31. 24o 28 22. 7+ 24o / 21. 23+ 30. 28@s 24o 6o 15o 21. 2u? 3 22. 16. 17.? 24.@r?
+L12: 24o 16+@n 6o 9 7+@n 8i 19 3@l 6i 17. 22o 17. 7. 23+ 22i 19 28 22. 16i 24i 4@n 6o 9 7+ 15+
+L13: 20+ 11+ 6. 15o 6o 17 6. 28o 15o 16+ 17 6+ 22. 7u@m? 35_i@r 23i 17 2+@l 24+ 17i 17 11u 17+
+L14: 28 9@l 20+ 32. 12.@r 17+ 17 6. 29 15. 20o 32. 28@s #25o? 6. 29i@r? 6. 16i 20+@r? 24. 23o 30. 4@s
+L15: 24+ 7o 23+ 15+ 23+ 24i@s 2+ 7i 19@n 21. 28o 24. 17 11o 6. 21. 23. 36+ 24. 17 20o@r 23u
+L16: 16. 6i 19 / 28 15o 21. 16+@s 19@s 20+ 22. 7i 3 22. 9 35o 20o 23i 24o 20+ 22+ 21. 7o 17
+L17: 16+@s 7u 28 6+ 6o 4@n 24i 3@n 6+ 4@n 3 15+@s / 28 20+ 22.@s 7i 3@n 6o 19@s 23. 20o 32+ 6+ 22
+L18: 7u 3@n 24+ 9@l 35i@n 7i 20. 6. 20+@r 16+ 16i 23o 30i 17o 6. 15o 21. 7o 17 25i 17i 3 22.
+L19: 6.@s 24o 6. 3 6i 17 2.@r,2 24 20+ 22+ 21. 15o 24. 17 11+? 4@n 24. 17 6i 6o / 28 35o 25. 9
+L20: 7o 17 6i 23i 16u? 15+ 7i 19@n 28 22. 7+ 24o 15+ 11. 17 24. 21. 2u 3 22. 16. 17.@s 24.@r 23i
+L21: 7o 17 25i 17i 3 22. 21. 3@l 15+ 4@n 8i 3 /
+L22: 4@l 4@n 36. 24. 17.@r 4 28@r 4@n 36. 24. 17i 3@n 6o 4@n 16i 23.@r 25i 7i 19 9 4@s 24o 6o@s 7+ 25+ 15.
+L23: 22o@s 28 15o@s 6. 16+@s 21. 2u 3 22.@n 24+ 15.@s 16. 20+ 22.@s 7. {Quam} 8i 4@n / 28+ 23i 15o 23.? 4@s?
+L24: 21. 25o@s 25. 9 28i@s 15+ 2o@r 16+ 28 16. 6i 19 21. 20+ 22+ 4@s 24o 20o 32+ 9 25. 22
+V1: 28 23i 3@l 20+ 32. 12.@r 17+ 17 6. 29 20u 4@s 24i 17. 24+ 17 24+ 2+ 16i 15i 9 22i 6+ 6 7o 17
+V2: 4 15o@s 2u 3 22. 9 35o 20o 23i 24o 28 20+ 22.@s 7i 4@n 6o@s 8i 3@n 15o 20o 32. 28i@s 36+ 24+@r
+V3: 7o 17 3@l / 28 12+ 29.@r 15. 3@l 22. 11+ 15o 21. 19@s 20+ 22.@s 7i 3 22. 24o 16+ 17 6o 24+ 8i 3@n
+V4: 9 7+@m 8i 19 15o 21. 20+ 22+ 4@s 24o 21. 2u 3 22. 16. 17.@s 24.@r 9 20+ 11+@r 9 7+ 21. 23. 7u
+V5: 35_i 22+ 23i 17 2+@l 24+ / 28 7o 17 6o 17 9 15o@n 23o 6. 23o 24o 16+ 28o@r 23. 19@s 10 6 25.@r 24i
+V6: 22+ 16+@s 4@n 20+@r 24i 7u 15+@r 6. 15o 21. 23o 30. 4@s 24+@s 7o 23+@s 23. 19 33. 7i 3 22. 28
+V7: 25o@s 16. 28 22. 28i@s 9 25i 23+@n 6o 6. 15o 21. 7.@r 7+ 6. 15+@s 19@s 19 7u 22i 3 22. {De} {Madrid} {a} {12} {de} {Nov.e} {1578}

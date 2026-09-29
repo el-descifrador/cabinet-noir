@@ -1,0 +1,20 @@
+# BnF, Espagnol 132, f.245r (+ duplicata f.247r) — Philippe II → Juan de Vargas Mexía, El Pardo, 29/11/1579 (résultat n°18) — transcription du chiffré (équipe).
+# Clé : Cp.30 (« Cipher 3 » de Tomokiyo) : alphabet, syllabes et nomenclature imprimés par Alcocer (1921), puis Devos (1950) (non reproduite ici ; nos compléments dans ../cle/). Notation de l'équipe : BASE [voyelle après] [@signe au-dessus] ;
+# « ? » = doute ; [ ] = restitution ou clair ; « / » = ponctuation. Transcription faite sur les images Gallica (non redistribuées). Licence CC BY 4.0.
+# Les corrections du vérificateur sont données dans lecture.md (elles ne sont pas toutes reportées ici).
+L1: 12. 25i@s 24o 15o q. 16.@s 31i 25i@s 7.@r 7+ 6. L+ 10 28u 6+ q. 20i 6. 4@l 6. 8. 10@r? 17. {Rom.?}
+L2: 7o@n 36+ 17+? 25+? 22+@2? y 15o 6. 16+@s Q. 6. 29i@s 6. Q. S. 31. 4 q. Q. 6+ 22+@n? 6.
+L3: 10 7u 4@r 6o 15+ [22.] [y] 17+ m+ 32. 28 8. 15+ 11+@r 6+ 28 21@c 14@m 20o@r 24+ 16u
+L4: To 24. 17.@r 6o? 7i 4@r 24o 6. 15o q. 24o 7+ 10 4@s 24o 6o@s 20u@n 24o@s 18@s 4@n
+L5: 7+@r 11o q. 35o 7u 22. y@s 10 20u 22+@r L+ 25.@r 6+ 6 6. 15o q. 4@n 4@s 24o 10 y 7o@n
+L6: 16u To 7u 28 6+ 6o y 6i 23i@2 16u 15+ 7i 18@n 28 17o@s 4@m 8i 4 y@s 6. 15o@2 15+
+L7: 22.@2 15+ 7i 18@n 16+@s 7i 4@r 24+ 28 #c1 Q. 2u 4 v. 20o 23i@2 30_. 20u 4@s 25. y@s Q+@n
+L8: 24o 7o@n 25i 4 17. 10 16i S.@r 25i 7i 18 35. 25. 17i@r 10 Lo 6. 17+ 25+ 22+@2 28
+L9: 24. 17.@r 4@n 24.@n 6i 6o 15o q. 25. 15+ 11+@r 6+ 36+ 24+ y 6. Si? 11 17+
+L10: 2u 4 {quam} 8i 4@n 4@m 8i 10@r 16. 4@l 20+ 22. 7.@r Q. 10 15+@2 6. 29i 10@n Q. 4@s 6.@l 7o@n S. 14o
+L11: 6. {til} So 30. 15o 6. 20o@r 24u 11+@l 22@2? 28 6? 7? 6.@l 7o@n S. 14o 17o 15o 4@s 12+ 25i
+L12: 4@n 6o 22. 7o 11i? 6o 10 7+ 10@l 11u? 17o@s 18 36o@s 20+ 22. 7. v.@s q. 16. 12+@n 6+
+L13: 6o #c7 #c1 4@s? So 30. 4@s 24. {dem?} 12. 12+ 15+@2 6o q. 4@s 10 15+@2 15. 36+ 25 17o
+L14: 6. 15o@2,s 28 6? 12o@l 11+ v. q. 35o 7u 22. y@s 4@n 24.@n 6.@r 7o@n 6.@s 36. 29+ 20o@r
+L15: q. 25i 10 y? 16. 6i 18 10 20o@r? 24o? 10 15+@2 4@s 24. 20+ 20.@l 28 Q. 16 6? S.? y@s?
+L16: 6. 15o@2 {quam} #c1 {fin?}

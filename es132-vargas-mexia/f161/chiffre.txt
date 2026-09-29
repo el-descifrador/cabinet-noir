@@ -1,0 +1,17 @@
+# BnF, Espagnol 132, f.161r (sans duplicata) — Philippe II → Juan de Vargas Mexía, El Pardo, 12/12/1578 (résultat n°31) — transcription du chiffré (équipe).
+# Clé : Cp.30 (« Cipher 3 » de Tomokiyo) : alphabet, syllabes et nomenclature imprimés par Alcocer (1921), puis Devos (1950) (non reproduite ici ; nos compléments dans ../cle/). Notation de l'équipe : BASE [voyelle après] [@signe au-dessus] ;
+# « ? » = doute ; [ ] = restitution ou clair ; « / » = ponctuation. Transcription faite sur les images Gallica (non redistribuées). Licence CC BY 4.0.
+# Les corrections du vérificateur sont données dans lecture.md (elles ne sont pas toutes reportées ici).
+L1: 20. 32o 6. 10@r 7+ 25 24i 16.@s 31i 25i 18 7o@n 4@l 25@l 24i 16o
+L2: 7o 22.@2 18 21. 20o@r? 24i 18 6. 10 28 21. 12+ 25i 10 4@n 24.@n 6i 6o 21. 10@l 11u 17o@s 7+ 25+ 15.@2
+L3: 22o@s 6. 15o@s p+ 28 S.@s 8+ 27o@s 16o@s 36+ 25+@n? 6. 23.@2 18 6. 22. 6u 29i@r 5@s? S. 10 16i 23.@r 25i
+L4: 7i 18 y q. 23. 22i 10 6. 34+@n 35o 25. 7o 21. 28o 15. 4@s 31i 25i 4 23. 4@n 4@s 24+ 18 7+@2
+L5: 23i o@n / [nul:28] 28 67 20o@r 25i 10 6.@l 14 15u@s 36i 23i@2 16o 32@c 6. 20+@r 16+ 16i 23o
+L6: 30i 17o S. 15.@s 12+ 4@s 31i 25? 24o 28 4@s 31i 25. 10 24o 6o@s 4@n 15o@s 6.@s 20+ 7o@s 21. 15.@2 25+
+L7: 6o@n 10 15o@n 23o 6. 23o 24o 16+ 28o@r / 16. 12+ 20+ 22. 7i 6o 21. S.@s? 31i 25+@n 4@n 1@c 15+@s 91@s
+L8: 21. 4@l 6i 7o 10 22 7+ 25 24i 10 6 25 3@r 24i 18 / y 62 S. 12+ 12. 7o 28 12. 21. 22i
+L9: 6o 4@m 8i 10@r 18@s 15+@s 10 25o@s {Qum} 14@n 2o@r 16+ 6o 18@s 6.@l 6i [nul:tache+2] 7o 20. 32o 6. 10@r 7+
+L10: 25 24i 20o@r L+ 2o@r 16+ 28 25i 10 21. S. 20o 32+@n 4@n 8i 10@r 15+@s 6i 7+@s 7+@r 6+@s?
+L11: {Rom} 15+@s #7@c? 21. 24+@n? 23. 4@n 7+ 16i [nul:12.] 17.@n {de} m+@s? 7o@n? 25.@n? 14+? 21. 10 4@l S. 15.
+L12: 4@s 31i 25. q. 18@s 10 6 25 4@r 24+ 6. 15o q. So 30. 15o@2 S. 18@s 18 33. 7i 4 22. 28 65+@r
+L13: 16. 4 28@s 6. 15o q. 4@n 4@s 24o S. 12u 25i 4 22. 12. 7o

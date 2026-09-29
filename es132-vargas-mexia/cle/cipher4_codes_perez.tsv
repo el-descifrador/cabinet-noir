@@ -1,0 +1,36 @@
+# Codes non publiés des lettres d'Antonio Pérez à Vargas Mexía (Cipher 4, BnF Espagnol 132) : hypothèses de l'équipe (Devos 1950 ne donne que vo et o = hu). Licence CC BY 4.0.
+# Un même code = une même valeur partout ; confiance = jugement de l'équipe, pas une preuve.
+code	lettre	ligne	contexte (clair entre guillemets, dechiffre en minuscules)	valeur proposee	confiance	argument
+xe	f.198r (15/04/1579)	L5	'...por su satisfacion' sepa [xe] que los dias passados tuvo por bien [vo]	V.m. (vuestra merced = Vargas Mexia, destinataire)	0.85	formule 'sepa V.m. que'
+xe	f.179v (26/01/1579)	l.7	'algo de lo que' [xe] ha escrito del[pliure]	idem	0.85	'lo que V.m. ha escrito' (rapports de Vargas au Roi) ; suit 'lo que V.m. dize' en clair
+xe	f.179v	l.13	[8 14 19. 3. 9o] de [xe]	idem	0.6	fin de phrase 'de V.m.'
+xe	f.180r	l.11	'Lo de' garcia de arze 'es muy differente' de lo que [xe] sospechava	idem	0.9	'diferente de lo que V.m. sospechava' ; 4 contextes coherents
+vo	f.198r	L6	tuvo por bien [vo] [pff] de quererme dar el [ra] de vargas	Su Majestad (le Roi) ; Devos : 'Vra. Magd.'	0.9	sujet de 'tuvo por bien' ; dans lettre de Perez = S.M.
+vo	f.198r	L14	entretuvo [vo] el 'declararlo por entonces'	idem	0.9	
+vo	f.198r	L24	mudo [vo] de parecer en lo del oficio de vargas	idem	0.9	
+vo	f.198v	L20	y he suplicado a [vo] lo tuviesse por bien	idem	0.9	supplique au Roi
+vo	f.179v	l.16	dez[i]r [vo] mismo 'venga en la' ...	idem	0.8	
+ra	f.198r	L6	quererme dar el [ra] de vargas	oficio	0.75	meme lettre L25 epelle en syllabes 'en lo del oficio de vargas'
+ra	f.198r	L10	lo de la canceleria de a[?] qual [ra]	oficio	0.6	
+ra	f.198r	L13	en todas partes que se me dava el [ra]	oficio	0.75	
+ra	f.198v	L8	...rlo del [ra] de vargas	oficio	0.75	
+ra	f.198v	L11	...seme el [ra] p[ara] el deshonor y des[pliure]	oficio	0.6	
+Ha	f.198v	L22	'ma parte y pueblo' yo y mis [Ha]s 'tanta invidia y rabia y falsedad' me han procurado quitar la honrra y la vida	enemigo(s) (pluriel par s chiffre)	0.8	seul contexte, mais tres contraint
+hu	f.198r	L27	ha venido a dezir que juntan todo lo del [hu] y que lo dar[i]a a ...	? (conseil/charge : 'Consejo de Italia' ? 'Aragon' ?) ; Devos : signe 'o' = hu	0.2	1 seul contexte ; 'hu' pourrait etre le nom du code 'o' de Devos
+xi	f.87r (13/09/1578)	l.20	'Al Rey mostre la carta del' [nom BARRE, glose interlineaire 'tu xi'] 'escrivio a V.m.'	personne : don Juan de Austria (hyp. principale) ; alt. Monsieur (Alencon)	0.5	le secretaire remplace un nom en clair par son code ; le nom barre est illisible (zoom r7b)
+xi	f.87r	l.27	'yo bien creo lo que V.m. cerca desto me escrive de que no' no ha acudido a recoge[r?] (r7 : 5. 12 7^ 10' / 9, 9o 12 20+ 10o 6+ 10 2+) [xi] 'como deviera'	idem	0.5	xi n'a pas 'acudido' comme il devait, dans le paragraphe 'en lo de Nazareth' : si Frangipani est la personne a recevoir, xi = Monsieur/Henri III devient aussi plausible
+xi	f.87v	l.20	'El Rey ha [visto] todo lo que V.m. me ha escrito' de como [xi] no quiere [mo] sino puesto de su ma[no][pliure] y lo que le haze malquisto en aquellas partes y la poca consideracion y muestra de mala voluntad en honrrar a ... 'cumple desacreditar' [H? H? P?]	idem	0.5	'malquisto en aquellas partes' (Flandres) ; Vargas hostile a don Juan (Mignet p.69-72 : ligue don Juan-Guise denoncee par Vargas) ; en 01/1579 Sotomayor (envoye de don Juan) a Paris : f.179v
+tu	f.87r	l.20	glose 'tu' au-dessus du 1er mot barre (avant 'xi')	? (titre/prenom : 'S.r' / 'don' ?) ou partie du code	0.2	a verifier sur une autre occurrence
+mo	f.87v	l.20	de como [xi] no quiere [mo] sino puesto de su ma[no]	'ministro' ? 'hombre' ? 'gobernador' ? (masculin : puesto)	0.3	1 seul contexte
+pff	f.198r	L6 ; L9	tuvo por bien [vo] [pff] de quererme dar ; que orden se podria dar en [pff] lo de la canceleria	signe de renvoi / abreviation ? (peut-etre nul)	0.2	
+σ	f.198r	L7	'y el de suyo melo dio a entender' y [σ] prmando que el marques de los velez	? ('ordenando' ? 'mandando' ?) 	0.2	
+H?	f.87r	l.22 (x2) ; f.87v l.24 (x2)	'en lo de Nazareth' [H? 1 P? 1 15 3. 3. 4 1 H?] 'avra visto V.m. lo que el Rey le escrive' ; 'cumple desacreditar' [H? H? P? y S+e]	ressemble a 24 cursif (que) mais H? H? P? incoherent -> code ?	0.2	Nazareth = Fabio Mirto Frangipani, arch. de Nazareth, a Paris (sa lettre au Roi du 25/09/1578 = Esp.132 f.97, no.44 Tomokiyo)
+P?	f.87r	l.22 ; l.26 (P?^) ; f.87v l.24	7 crochete ; avec ^ = nul ?	7 (f) ?	0.2	
+C/Ch	f.198r L9 (C¯) ; f.180r l.11 (C.)	-	ch(i)nch(o)n ; sospe[ch]ava	ch (C seul, sans ¯)	0.7	sospechava impose ch
+xe	f.157r (8/12/1578)	bloc 2	'con la nueva orden que se ha dado de que no' [... 1. 9, 8 = nadie ?] 'sino solo' [xe]	V.m.	0.85	5e contexte coherent : 'nadie sino solo V.m.' (r8)
+vo	f.157r	bloc 1	segun procedieren tomara [vo] la [Ta] que mas convenga	S.M.	0.9	sujet de 'tomara' (r8)
+Ta	f.157r	bloc 1	tomara [vo] la [Ta] que mas convenga	nouveau code, feminin : 'resolucion' ? 'orden' ? (t = tr + a -> 'tra' possible : 'la tra[za]' ?)	0.3	1 seul contexte (r8)
+xi	(contexte r8)	-	clairs lus r8 : f.97 Frangipani 25/09/1578 (mission aupres de Monsieur d'Alencon sans profit, rappele par le Pape ; l'arch. de Rossano destine aux Etats de Flandre) ; f.136 Perez 5/11/1578 ecrit EN CLAIR 'conforme lo concerto el S.r D. J[uan] que aya gloria' ; f.148 21/11/1578 : Garnica, dinero, Sotomayor	don Juan (0.45) / Su Santidad (0.3, f.87r l.26-27 'no ha acudido a recoge[rle] xi como deviera' = rappel de Nazareth ?) / Monsieur (0.25)	0.45	aucun clair ne tranche ; f.136 montre que Perez ecrit 'el S.r D. J.' en 2 mots (cf. glose 2 codes 'tu xi' sur nom barre f.87r)
+no	f.157r (8/12/1578)	bloc 2	'en los de ay' cessaran todos los [no]+s	code pluriel (personnes ou choses 'de ay' = en France) ; ex. 'inconvenientes' / 'avisos' ?	0.3	1 seul contexte (r9)
+X=ar-ca-u-ti	f.157r	bloc 2 ; bloc 3	'que no aya ... [y 20 7^ 10. a 18,] ! nadie sino solo V.m.' ; 'la correspondencia que se avia comunicado en [C+ y 20 10. a 18,] y el correo mayor'	ARCAUTI = Pedro de Arcauti (epele, pas un code)	0.8	nom du destinataire de Philippe II, Esp.132 f.193 (18/03/1579, no.87 Tomokiyo, spanish3D.htm) ; 2 contextes (r9)
+a,	f.157r	bloc 3	que se [y a, y] = avia	a (=u/v) + point dessous = vi	0.85	'que se avia' (r9)

@@ -1,0 +1,19 @@
+# BnF, Espagnol 132, f.123r — Philippe II → Juan de Vargas Mexía, Madrid, 20/10/1578 (résultat n°17) — transcription du chiffré (équipe).
+# Clé : Cipher 4 (chiffre d'Antonio Pérez) : reconstruit par Devos (1950, p. 422), complété par S. Tomokiyo (2020) (non reproduite ici ; nos compléments dans ../cle/). Notation de l'équipe : BASE [voyelle après] [@signe au-dessus] ;
+# « ? » = doute ; [ ] = restitution ou clair ; « / » = ponctuation. Transcription faite sur les images Gallica (non redistribuées). Licence CC BY 4.0.
+# Les corrections du vérificateur sont données dans lecture.md (elles ne sont pas toutes reportées ici).
+a' 8 19 t. 19  co 19  9+  N19  15  N20  9+ 3  22.
+19. 9o  24  t. 18. 1  9+  y 24 3=.  2. 18+ 20, y  19+ c+ 18.  19+  5. 1
+20+ 10+ 11, 9o  /.  15  15o  Σ 19  y g. 9+ 14 10o  qua  3.  11' 8 1.  4 1
+18+ 3=, 6+ 1 10, y  24  y a+ 15 19  18+ 1, 9o  8 1  3o  24  y 3=,  9+
+14, 19  /.  15  8 3  10' 15 9. 9o  9+  E a, 19. 20 2+  9+ 3=o  ,  15  9+  3o
+9+ 2. 19  24  8 1 18+ 1 9+ 15 19  24  8 19  9+  2,  Va  /.  15  y a 1
+24  10o 1  8 19 18+  a 3 18, 2o  19' 10=+ 19o  12 b. 1 10+ 19. 9o  12 24
+3=. 19  du 19,  18o 9. a, vz  19+ 20.  11, 8 1  24  ao 19  po 10' 20+ 15 19
+9+  8 1 18+ 1 9+ 20  9, 8 19 t. 2+ 1 18+  3o  24  8 1+  3,  1+ 6o 10, Σ
+S' a, 8 20+  22. 19. 9o  ,  15  5. 19 18.  y 9o  19+  19+  3=+ 6o  8 1+  3  ,
+15  3. 19  22+ 20 19o 1. 19  24  Ⲏ 1 18+ 20 a+ 1, y 1  ,  15  3. 19  p+ 1
+9. 19  24  10. 9.  a 1o  18+ 1, y  2+ 18, 9. 19  ,  15  y a 1  19,  22' 9, 8
+19+ 9+ 19  y a+ 20  y 3 6' 1o 19  22. 22+ 3+ 19  Σ  co 19  9+ 3
+18+ y 18, 1o  Σ  9+  Σ t. 19  22+ 20 19o 1. 19  19+ 20 y  10o 1 a+ 1,
+8 1 18+  /.
