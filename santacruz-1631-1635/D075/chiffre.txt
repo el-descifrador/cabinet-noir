@@ -1,0 +1,58 @@
+# AHNOB (Archivo Histórico de la Nobleza, Toledo), SANTA CRUZ, C.51, D.75 — transcription du chiffré (résultat n°56, Madrid, [jour en blanc] juillet 1632).
+# Transcription de l'équipe sur les images PARES (864 px max., non redistribuées). Licence CC BY 4.0.
+# Préfixe de ligne = page/ligne ; [clair] = passage écrit en clair dans la lettre. Conventions de glyphes : voir ../README.md (§ Méthode) et, pour 1634-1635, ../cle/table_glyphes_1634.md si présent.
+# Signes : ≠ ∓ ꝑ ♀ Δ Æ ȣ ʂ ſ J ę ϑ θ ħ đ ǂ … = formes distinctes du manuscrit ; x̃ = marque suscrite ; ? = forme douteuse (comptée non comprise).
+P1L1 h4 ob Æ p for ȣ e 42 ep y ha e 9
+P1L2 47 29 xel 44 tay 17 op e ax e alt y ix 44 Æ 42 ob Æ 123 y 16
+P1L3 92 ob y K sut ob Æ 42 ab ʂ 46 e 42 19 4 95 ab 27 ap 94 ȣ yu
+P1L4 ff 48 q 91 Sun toc/. 11 lim ȣ ex e ax lix 42 ox 44 y ob Æ set
+P1L5 8~ 92 xuf 43 Δ 47 e xel m 47 am 11 ob y 16 p 12 sit h ab 11
+P1L6 ob Æ 17 set 8~ 92 xuf 43 Δ 47 e xel m 47 am 11 ob y 16
+P1L7 p 12 sit h ab 11 ob Æ 17 om 45 44 93 ip om Æ q 17 13 41 sot
+P1L8 Æ 4 ye ox ep 10 hi 46 noy som 42 xel fan/. 11 ob ya n4
+P1L9 sat 16 J 11 sim 17 K 14 far ax 29 ng 95 up om c t 47 16
+P1L10 42 up 27 yu ȣ ▽ b J d ep p far ab e xel lug/. e ȣ 30 g
+P1L11 149 Æ xaf 46 pel b 4 he 11 ep ix ȣ 44 4 sat Æ 7 48 91
+P1L12 16 94 hi 43 44 up 136 ȣ mox y 42 ep aim go Π ip sot y q sit Æ
+P1L13 xaf 91 ye ha ȣ yo 16 4 ox 46 ab for 17 ort ye xef 49 xel 8~
+P1L14 91 om b ȣ e 42 ap 16 16 11 30 efer ob y xaf 47 28 42 ʂ 46
+P1L15 e 95 191 ( xel pan sit 91 ex e pax ob 91 q q e d g ex ax 44 )
+P1L16 ∝ 49 31 46 11 93 ha. nel far pux e a 46 g um set 49 42
+P1L17 bem/. Æ 93 J x 48 sat ȣ am xaf 10 ex 94 p for ȣ e 41 47 Æ
+P1L18 ix ux 16 ȣ far 103 91 xaf 94 28 xof 11 far d ȣ 44 16 bol 95
+P1L19 ab 27 ap 42 ȣ yu ff 48 4 164 C 48 pux K far sot e ep Δ 1
+P1L20 10 91 p 4 xel 7 46 44 16 q xel 142 noy 42 ex im xel 44 ep.
+P2L1 xof 11 ye ox Æ set 8~ op y 93 d g 194/. lix ux 11 ha g fer 47
+P2L2 xof op lix luc 42 ap for ep 42 sat 16 J 11 43 Æ xof ep 29
+P2L3 J e far ȣ 91÷ K ux n4 fer 119 16 y fer 192 16 ep g ox ox xof.
+P2L4 e pax g. xel 134 ab Æ 30 Æ ya 42 nel 28 ap 47 ȣ 16 ab
+P2L5 y 7 ya 92 ox 44 Æ ab y sit 47 e 30 g 47 Æ xof o x h4
+P2L6 far hac 109 p K xel 27 11 pax 44 fus 91 yo ye 8 48 ha
+P2L7 suf ye ox noy ob x 49 31 47 yi xel fan/. 11 30 e for 130
+P2L8 91 16 J 30 e ic J 42 dl nel 16 19 fer C 42 sit sim 16 J ʂ
+P2L9 Δ 93 48 44 xel 27 11 pax 49 Æ ob tac noy xel ox e 41 91
+P2L10 91/. e ep 11 hi 44 93 41 47 42 ob 91 tac/. 47 42 Æ xel fer ab
+P2L11 ▽ om 95 ȣ J 94 ȣ g ex he 11 91. xel fer 134 x 47 ep ex
+P2L12 e n4 46 113 ye xef 49 hi xel sit 46 44 ye ax g d o xof 11
+P2L13 tay:. xaf 46 ox 44 Æ ip xel 44 ax g n4 om y ob Æ 7 e ex
+P2L14 47 ep Æ 16 lim lin÷ ya 42 ab y ï 27 ap Æ 91 xof n4 48
+P2L15 yo ya K 11 93 30 e op ab ye ax 43 he 11 ip J g 95 Æ 27
+P2L16 e ap ep e xaf 46 lam y bel Æ 30 e a 46 ȣ 42 Æ 30 e. ep 91
+P2L17 g 29 ya. 42 f hi xel xuf C ib 30 n4 fer 192 16 95 ox 41
+P2L18 ab for ▽ far ȣ som 4 205 sit ix ȣ q K 41 44 xaf 11 ex 94
+P2L19 ob 91 yo xel 27 11 pox 16 b ȣ set xaf 47 29 44 91 tac.
+P2L20 ep 30 sut im 93 30 g fer faz 16 fer 42 ȣ 16 ox am 17 30
+P2L21 e 44 g pox e 18 far J 94 30 11 44 noy ip ux hi K 47 e
+P2L22 91 tas he 11 ix 49 Æ xel ab sat ex 48 ȣ ob p q pax g 16
+P3L1 xel 27 op 91 ep 30 g ip pax fer 190 ye ax 43 he 11 ip
+P3L2 J g 17 ha n4 xel far Δ sat em x suf p for ȣ e 41 44 e
+P3L3 pox g 18 far J 95 30 10 44 ha xof n4 46 ox sat 11 bam/.
+P3L4 27 e ix 41 n4 30 g 91 ▽ sam: 10 ob Æ 16 alt Æ 16 ix 11
+P3L5 ob g 42 ab 30 g ip ʂ am 29 J e 92 ix g em xaf 46 ab
+P3L6 43 he 10 ip ne 93 ep p 4 hi ȣ xef e ap 44 xof 11 ab far
+P3L7 ap 29 q ▽ J xof n4 47 yi 30 10 47 Æ xof g 42 94 y 30
+P3L8 e sit ix ȣ 16 30 e4 ye ox Æ may y xel ob 92 ep uc K 47
+P3L9 J m 47 44 29 xel 44 16 ȣ sit set ux/. 47 yi 42 ox 44
+P3L10 h4 xel pax am 11 try ye ax ob sat y n4 fer x 49 he
+P3L11 pop 91 ep xuf K. 42 ap 27 11 99 Æ ex 94 ip aim J 16
+P3L12 95 ſ ic n 92 ob pat Δ 91 30 sot 30 ap ax g lui ▽. h4 g.

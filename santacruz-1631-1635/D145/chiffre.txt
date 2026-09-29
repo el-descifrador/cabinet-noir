@@ -1,0 +1,25 @@
+# AHNOB (Archivo Histórico de la Nobleza, Toledo), SANTA CRUZ, C.51, D.145 — transcription du chiffré (résultat n°74, Madrid, 26/5/1635).
+# Transcription de l'équipe sur les images PARES (864 px max., non redistribuées). Licence CC BY 4.0.
+# Préfixe de ligne = page/ligne ; [clair] = passage écrit en clair dans la lettre. Conventions de glyphes : voir ../README.md (§ Méthode) et, pour 1634-1635, ../cle/table_glyphes_1634.md si présent.
+# Signes : ≠ ∓ ꝑ ♀ Δ Æ ȣ ʂ ſ J ę ϑ θ ħ đ ǂ … = formes distinctes du manuscrit ; x̃ = marque suscrite ; ? = forme douteuse (comptée non comprise).
+L1 ♀ V pan or m ab 42
+L2 cal ec xar sal D ten sel id ha pan 2̃8 ay t ad sel lar m ꝗ ꝑ ter
+L3 fur xar m for p 9 ) pan pon cal ec xar sal ten tus ꝑ ) xor ꝗ cal
+L4 Ler oy pon ∓ 1̃9 tt he ) ⊏ n ) sol m od 20 he V t sel m y fur
+L5 46 ho ble ec pan 192 9 53 hi tis id oc cul t cal ) 108 V t dl?
+L6 n xor ab ho 116 cul sal pen m tes he ay xer he ∓ xar mix he
+L7 pan 2̃8 ay t tos for ter m ꝑ ) riz he 1̃4 ꝑ 9 19 2 40 las p ho oy
+L8 D ten fr? tas pan 3̃8 he t fur hi m n pan cul er p tas he )
+L9 od tos pon pen V ꝑ t D ton sal ho pon cil g n y r tan ho
+L10 42 ec xar ay xer tis od cal xer p lor oy 3̃6 cal pan 2̃8 tes
+L11 n m tin eb t pan he ten ux tan he 1̃4 oy cal ec xer D ton
+L12 p xar 42 far tos he V t sel m pen he tos for m ten ib ꝗ
+L13 2̃2 tis p 43 xer m 49 ed m tex ec ib 193 cal oc 42 far ib
+L14 ed ic for pan 2̃8 n 3̃0⁊ ay xer ay t y r tan m tes lus
+L15 p pon ∓ 1̃9 tt cal xur sil ꝑ ten he ∓ cul ) V oy cal
+L16 tis pon he t cil ) riz t D ten xar ten tes 135⊣ for p D
+L17 tin? p xir xur K I tes pon ec 0 tin sol 42 pan eb ∓ ab
+L18 ⅽ? t ) 4̶ 42 cal ec ey 9 cil for p 186 D tun he p fir
+L19 € D ton p xir xur K g 20 ꝑ pon t he pan p xar ten ic xor
+L20 ho pon cal for p sil id ꝑ ten t ib 137 I tos pen ic g eb
+L21 ac tes lus ban pan hal g I oc pen 42 far lor 6̃3? ♀ V

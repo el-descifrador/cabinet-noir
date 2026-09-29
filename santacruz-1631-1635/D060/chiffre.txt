@@ -1,0 +1,69 @@
+# AHNOB (Archivo Histórico de la Nobleza, Toledo), SANTA CRUZ, C.51, D.60 — transcription du chiffré (résultat n°63, Madrid, 4/6/1632).
+# Transcription de l'équipe sur les images PARES (864 px max., non redistribuées). Licence CC BY 4.0.
+# Préfixe de ligne = page/ligne ; [clair] = passage écrit en clair dans la lettre. Conventions de glyphes : voir ../README.md (§ Méthode) et, pour 1634-1635, ../cle/table_glyphes_1634.md si présent.
+# Signes : ≠ ∓ ꝑ ♀ Δ Æ ȣ ʂ ſ J ę ϑ θ ħ đ ǂ … = formes distinctes du manuscrit ; x̃ = marque suscrite ; ? = forme douteuse (comptée non comprise).
+[clair] Ser.ma Señora / Mi despacho de siete de Abril sobre
+P1L01 đ4 xol ħ xar ≠ 22 9
+P1L02 Δ 75 2 od tre 188 25 65 11 C ad pin 11 tre ir 16 tre 36 ħ pon ≠ ho sol fan
+P1L03 tor ed tre m 65 74 Q 9 2 C pon 9 11 ħ ha sal hi pun 65 73 far o fan
+P1L04 θ 74 ir 16 16 ter ſ ħsup ed tar 65 ar 9 sal 11 77 he fir id Δ tir 16 đ
+P1L05 36 A 11 12 Q 9 for 22 12 ſ ho 68 fan tre 11 ħsup Q C 65 ed xer 72 ſ ba
+P1L06 9 tre Q: 65 xar he 73 11 xer D 10 sal 2 pin for tre 45 12 ħ 11 bel
+P1L07 fan pon 65 98 ħ fir far tre 65 168 36 θ 73 9 pin 97 C ħ pon
+P1L08 s 68 fan bel xer 77 m 73 er 66 D 11 12 10 fir 29 Q C xor 9 ed
+P1L09 26 ħ od ꝗ 72 Q o 75 xor ≠ tre fan ed g 74 ha ar 11 pan tre 204
+P1L10 25 g 71 far 25 154 ed hu or sol xus sal 11 ħ 2 9 65 2 les pun
+P1L11 pin 16 9 tre 2 C 68 36 sal 11 ǂ ba tre ≠ xol xer 9 ha ≠ fir
+P1L12 er ħ id 16 9 2 s 11 fan C tol≡ pan 97 45 tre he ter ≠ δ? C til
+P1L13 Q≡ id xor 2 s ud ſ fir id t? tir 79 A 12 45 2 θ 74 er 2 ħ
+P1L14 Q: ho 9 pen ſ 600ᵈ xer C 143 ſ sal 11 77 he 12 9 he s ho
+P1L15 36 sal 2 pin 16 fan 65 fir er ħ id 16 9 ed D 12 45 12 2 ed sol
+P1L16 65 11 C ad pin 11 ǂ fan ħ 95 tre 65 ren fan sal 2 pin 2 ed 12
+P1L17 bel 36 Q: 65 xol ≠ xar fan 11 C 65 ed hu ir 2 ed sol xer lor ħ
+P1L18 por xur tir pan 9 for 68 ha for pon 9 for 9 95 s pan 68 tre pon
+P1L19 ≠ for ar Q C Ŧ tre ad 9 ha m 75 95? 36 Q C tre 11 36 ho tar
+P1L20 θ 74 pun 71 s for 11 le 71 ħ pon 9 2 xsup K 119 fer 68 72 tar
+P1L21 68 fan ħsup 73 11 204 11 77 he 10 ꝗ 73 95 36 sol fan tor ed lal
+P1L22 fir 11 θ 72 er tir ≠ xil lal ħ 65 sal le sol for 9 tre ed 73 11 lon
+P1L23 12 9 he s ha ≠ 65 fir er ≠ id 26? 9 16 id sal Ƶ pen 73 11 4 bel
+P2L01 Q: Δ 74 od ħ pon 9 77 ho Q: ħ7? for 16 25 sal he 11 C xor 9 id
+P2L02 22 ħ 16 11 C 119 tre 231 16 11 97 98 ter 12 9 36 Q: 77 ha fur far ed pon
+P2L03 9 id tre 74 fan ǥsup 36 65 v θ 74 ir id 16 ter ſ fan 77 hu ir 2 ed
+P2L04 9 lon 11 C 22 tor lal o 73 119 fen far ħ 11 g 72 ſ xar tor sal 11
+P2L05 2 C 16 g 74 đ xul 2 xir 11 tir xor fan 77 ho ſ 600ᵈ xir C 143
+P2L06 ſ ed θ 74 er en ed 9 72 sal hi for ſ 200ᵈ xir C 11 36 200ᵈ xir
+P2L07 Q: o+ 36 ≠sup 200ᵈ xir K 25 fel 36 ed D 12 45 16 Jul sal 11 fan
+P2L08 pon 9 2 C 122 fan D 22 ir 2 ed Q: 65 sal he xar ſ pen ħ pan
+P2L09 tar ed pon xer 9 pan ed 11 16 ꝗ 71 ħ 36 tre ſ le 77 ed D 12 45
+P2L10 12 2 ed N Q: 65 ſ 26 9 71 ſ 16 9 71 ſ sal 11 xur far ħ 68
+P2L11 fan 25 2 C 65 ſ ed pon 9 id tar ar for 9 tre xul 2 ed xar ſ Cb?
+P2L12 đ tor ed tre ir 26 tre 77 97 pin xil pan ħ 77 ho Q: 2 C 104
+P2L13 fan Q: ho 9 pen ſ xul 2 le 77 tir bel tir tar 36 tre fer 68
+P2L14 ſ fan D 11 ir 119 tre 12 9 he ≠ er tir ħ A 11 45 29 xer 9
+P2L15 pin 16 s tre C 68 10 s he ſ fer 45 2 s fan 2 71 xer ter ſ he ħ
+P2L16 122 sal 11 Q: Δ 74 ad ħ 11 C 96 tar fer er ħ id 16 9 25 154
+P2L17 36 sal hi pun 65 ≠ ħ 65 tre xor 9 id 22 ≠ 36 fur fan tre
+P2L18 233 16 97 98 ter D 129 đ 36 Jul A 2 fen 73 for tre 45
+P2L19 12 ≠ 11 bel pon 9 xar on ħ m 65 73 far o fan 11 222 ed
+P2L20 A 11 9 12 s ir 10 for 66 X 71 ſ pon 9 cro tre 11 pun fir ħ
+P2L21 pon 11 fan C 68 ſ 200ᵈ xir K 143 ſ 10 fan ≡ Q 9 bel xar 9
+P2L22 far 72 36 10 ir ad 72 for 9 95 s pan 68 tre pon ħ fir ar
+P2L23 36 10 16 71 fan 73 11 fan pon 2 C 16 ≠ fir tar 73 16 22
+P3L01 11 an 20 9 fur θ 67 pan for sol fan D 11 ir Q: for 10 C 98
+P3L02 s 11 m ħsup 12 tre 9 he Q: 154 le 2 far 9 97 ad ħ xor lor ħ
+P3L03 fan pon 9 77 θ 72 od xil tar C ħ 77 he 122 77 ha 71
+P3L04 11 fir ſ lal ed pin 16 9 tre bel sal 11 fan pon 9 pon xur
+P3L05 tir pan pin 16 9 tre 68 ſ g 72 ſ T ſ fan D 2 fir 29 ed
+P3L06 11 θ 67 fan pon 9 X 71 154 16 sol sal he 17 sol 53 20 9 ho
+P3L07 pon s pan or 11 sal he 17 pon 9 xor 9 id 22 ≠ 16 pon 9 233
+P3L08 16 pon 9 97 98 ter D 12 9 16 for 9 tre 36 pon xor sal 2 pin
+P3L09 2 72 11 bel 36 65 ſ ter pen ed far tre ſ 1886? 11 pin tre 9 he
+P3L10 ſ xar ſ 16 ꝗ 67 92 72 9 36 xar ſ lon 25 θ 66 ǂ for xul
+P3L11 2 72 Q C nun sol fan le 2 tre ed ≠ fan pon 9 er s 92 25 θ 66
+P3L12 11 C 68 xar ſ pan 9 g 71 A 16 65 9 far fan pon 9 X 72
+P3L13 154 16 pon 9 X 71 2 C ud 2 pon 16 pon 9 g 71 11 C 96
+P3L14 tor ſ 16 g 74 ſ tre ha 9 ho ſ 133 ſ pon xor ed tor ſ 66
+P3L15 ar 9 ha s tre 22 tar 16 71 11 16 g 71 11 pan ed θ 74 pun
+P3L16 71 204 Q: ho for del ed le 2 tre Q: tre xel 9 ad tre 65
+P3L17 Not X̲ 77 98 74 Q: 8ro? fan 68 A 11 tre 10 un far ħ 2
+[clair] C. guarde V.A. como deseo. De Madrid a 4 de Junio 1632  (fin VUE : formule + date ; copie, donc sans « Yo el Rey »)

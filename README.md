@@ -13,7 +13,7 @@
 > The work was done by a team of AI agents (Claude, Anthropic) coordinated by a human; readings are **argued proposals**, not critical editions.
 > Documentation is in French; the table below is self-explanatory (n°, shelfmark, date, key origin, verified rates per cipher group / per word).
 
-**Statut / status : version 1 (préparée le 29/09/2026). Auteur : Descifrado. Dépôt : https://github.com/el-descifrado/cabinet-noir.**
+**Statut / status : version 1 (préparée le 29/09/2026). Auteur : Descifrado. Dépôt : https://github.com/el-descifrador/cabinet-noir.**
 
 ---
 
@@ -112,13 +112,13 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 | 59 | Croissy → J.-B. Colbert | BnF Baluze 178 f.130-131 | 10/01/1661 | P (Tomokiyo) | 95,5 % / 91,2 % | erreur probable de la clé publiée (57) | B | [croissy-rome-1661](croissy-rome-1661/) |
 | 60 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.14 | 16/26.01.1637 | **C** (généralisation) | 87,0 % / **70,1 %** | 16 groupes cachés au bord | publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
 | 61 | Croissy → Mazarin (duplicata) | BnF Baluze 178 f.162-165 | 31/01/1661 | P (Tomokiyo) | 88,4 % / 84,8 % | | B | [croissy-rome-1661](croissy-rome-1661/) |
-| 62 | Philippe IV → marqués de Santa Cruz | AHNOB Santa Cruz C.51 D.6 | 29/06/1631 | **R** | 82,1-84,8 % / **73,4 %** | réserve au mot | A prov. | [santacruz-1631-1635](santacruz-1631-1635/) |
+| 62 | Philippe IV → marqués de Santa Cruz | AHNOB Santa Cruz C.51 D.6 | 29/06/1631 | **R** | 90,3 % / 80,8 % (3ᵉ examen) | réserve levée, marge d'un mot | A prov. | [santacruz-1631-1635](santacruz-1631-1635/) |
 | 63 | Philippe IV → Infante Isabel (copie chiffrée) | AHNOB Santa Cruz C.51 D.60 | 04/06/1632 | **R** (généralisation) | 85,1 % / **67,6 %** | réserve au mot | C (résumé imprimé) | [santacruz-1631-1635](santacruz-1631-1635/) |
 | 64 | Croissy → Mazarin (duplicata) | BnF Baluze 178 f.138-139 | 17/01/1661 | P (Tomokiyo) + compléments | 86,5 % / 89,7 % | | B | [croissy-rome-1661](croissy-rome-1661/) |
 | 65 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.28-29 | 28.03 (v. st.) 1637 | **C** (généralisation) | 88,4 % / **76,1 %** | codes non résolus | publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
 | 66 | Croissy → J.-B. Colbert | BnF Baluze 178 f.135-137 | 17/01/1661 | P (Tomokiyo) + compléments | 86,7 % / 85,4 % | | B | [croissy-rome-1661](croissy-rome-1661/) |
 | 67 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.23-24 | 07/02/1637 | **C** | 89,2 % / 80,4 % | lettre ayant servi au cassage | publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
-| 68 | Croissy → J.-B. Colbert | BnF Baluze 178 f.166-169 | 28/01/1661 | P (Tomokiyo) + compléments | 88,4 % / 86,0 % | | A prov. | [croissy-rome-1661](croissy-rome-1661/) |
+| 68 | Croissy → J.-B. Colbert | BnF Baluze 178 f.166-169 | 28/01/1661 | P (Tomokiyo) + compléments | 88,6 % / 86,3 % (addendum vérificateur) | | A prov. | [croissy-rome-1661](croissy-rome-1661/) |
 | 69 | Croissy → Mazarin (duplicata) | BnF Baluze 178 f.195-197 | 14/02/1661 | P (Tomokiyo) + compléments | 94,0 % / 94,1 % | | A prov. | [croissy-rome-1661](croissy-rome-1661/) |
 | 70 | Philippe IV → marqués de Santa Cruz | AHNOB Santa Cruz D.113 | 08/09/1634 | **R** (lecture à l'aveugle) | 85,7 % / **68,1 %** | réserve au mot | A prov. | [santacruz-1631-1635](santacruz-1631-1635/) |
 | 71 | Philippe IV → marqués de Santa Cruz | AHNOB Santa Cruz D.99 | 24/07/1634 | **R** (lecture à l'aveugle) | 87,5 % / **76,6 %** | réserve au mot | A prov. | [santacruz-1631-1635](santacruz-1631-1635/) |

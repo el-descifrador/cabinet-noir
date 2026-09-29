@@ -1,0 +1,50 @@
+# BnF, Baluze 178, f.195r-197r — Colbert de Croissy → Mazarin (duplicata), 14/2/1661 (résultat n°69) — transcription du chiffré.
+# Nombres = groupes du chiffre (nomenclateur « Croissy 1660 », table publiée par S. Tomokiyo, non reproduite ici) ; «…» = clair de la lettre ; ? = lecture ou coupure douteuse.
+# Préfixe = ligne (et page). Transcription de l'équipe sur les images Gallica (non redistribuées), figée avant la lecture. Licence CC BY 4.0.
+== f196r_L1-6 (tranche t1a)
+L1: «M. l'Ambassadeur de Savoye me parlant hier des frequents» 24 36
+L2: 92 60 168 191 437 48 95 400 «et de l'opinion que beaucoup de personnes»
+L3: «avoient» 176 423 154 168 49 28 186 34 29 164 48 208? 62 183
+L4: 27 145 60 95 26 20 36 «il me dit que» 383 25 306 147 61 199 24
+L5: 29 91 48 127 436? 22 167? 32 38 183 «nouveaux» 168 49 38 107 23
+L6: 154 28 411 60 62 36 60 91 48 «principaux» 78? 28 92 153 62 63
+== f196r_L7-16 (tranche t1b)
+L7: 91 137 48 78 41? 186? 26 209 136 26 29 «que l'on croyoit mesme»
+L8: «que MM. les cardinaux» 167? 46 76? 80 98 69 326? 90 86 81 96
+L9: «qui avoient esté par le passé assez contraires aux» 99 83 74
+L10: 369 60 53 345 «croioit a present assez disposez» 30 137 48 22 45 52
+L11: 181 48 189 38 «qu'il avoit d'ailleurs appris que» 137 337? 91 40
+L12: 181 21 84 20 159 86 83 29 181 24 61 199 34 29 20 206 31 137
+L13: 92 62 304 «lequel estoit aussy, dit il,» 27 183 60 91 85 26 21 145
+L14: 183 30 206 21 137 320 316? «que quelques uns mesme luy»
+L15: «avoient dit que les [?] que» 136 355 154 101 48 29 22 36
+L16: 85 183 185 32 26 91 192 36 85 48 197 383 137 322 «m'a dit»
+== f196v (tranche t2)
+V1: «aussy il y a quelques [jours ?] qu'il luy sembloit que» 87 81 75 93 441
+V2: «vouloit s'appliquer tout de bon» 30 62 37 183 149 22 38 85 26 21
+V3: 136 206 20 94 26 154 38 49 36 31 118 42 20 137 23 140 189
+V4: 197 25 176 436 22 136 21 55 183 60 198 32 36 197 «le devoit desirer»
+V5: «il avoit» 438 91 85 45 147 26 79 38 20 128 29 197 28 137 48 103 36
+V6: 91 147 26 48 91 79 91 60 189 24 36 68 «de pourveoir pour cet effect»
+V7: 20 62 103 36 41 48 154 79 60 188 34 189 168 49 28 23 181 198
+V8: 42 101 22 38 192 62 60 146 24 26 91 48 20 27 183 189 26 61
+V9: 137 60 78 28 92 153 62 50 «qui y pourroient le plus nuire. V.E.»
+V10: «qui connoit parfaittement de quelle maniere» 79 29 197 85 49
+V11: 28 94 24 61 22 60 29 183 113 62 206 38 154 «[ce peut estre] mieux»
+V12: «que personne du monde ce qu'il y a a faire pour le bien commun»
+V13: «de toute la chrestienté.»
+V14: «Je ne vois pas cependant beaucoup de sujet d'adjouster foy a ce qui»
+V15: «m'a esté dit» 93 337 91 40 181 21 84 20? 159 «car quoyque chacun»
+V16: «dise que» 137 320 49 38 191 158 69 79 337 189 37 136 24 23
+V17: 154 26 61 49 36 165 62 91 136 355 «ce que mesme le premier»
+V18: «ne nous soit pas dans les rencontres comme il devroit faire»
+V19: «neantmoins il n'y a pas d'apparence selon mon sens que» 79 29
+V20: 197 146 34 192 26 «qui a esté» 91 436 438 164 28 198 20 137 91
+V21: 136 355 206 49 24 35? 137 21 117 36 108 38 91 406? 89 36 60 62
+V22: 26 438 176 137 414 «en plus [mauvais estat ?] que jamais de» 183 85 26 159
+V23: 24 48 61 183 137 60 189 38 208 79 48 178 36 145 65 183 26 53
+== f197r (tranche t3)
+R1: 168 49 28 164 60 189 28 20 62 36 30 49 38 183 168 26 198 101 78
+R2: 29 «elle est tousjours negociée par M. Bernardi, et je ne fais qu'offrir mes»
+R3: «services de temps en temps a Mons. le Card.al d'Este et me declarer prest»
+R4: «a executer les ordres qu'il luy plaira me donner.»

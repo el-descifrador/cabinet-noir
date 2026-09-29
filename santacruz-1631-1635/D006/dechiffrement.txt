@@ -1,0 +1,20 @@
+# AHNOB SANTA CRUZ C.51 D.6 (résultat n°62) — déchiffrement brut. Valeurs = clé figée indiquée dans lecture.md ; [x] ou * = NON compris ; ! = mot refusé ; les taux de référence sont ceux du vérificateur (lecture.md), pas ceux qu'impriment les scripts du casseur. CC BY 4.0.
+
+## Mots (✓ compris / ✗ non compris), mesure scriptée du vérificateur, clé r15, convention A
+✓ i ✗ [202]do ✓ de ✓ uer ✓ que ✓ aca ✓ se ✓ hace ✓ lo ✓ que ✓ no ✓ parece ✗ [gus] ✓ i
+✗ [Jul] ✓ os ✓ encargo ✓ que ✓ se ✓ mire ✓ a ✓ como ✓ se ✓ gasta ✓ lo ✓ que ✓ cuesta ✗ [fus]
+✗ [fos] ✓ cosas ✓ de ✓ su ✗ car[[?]] ✓ i ✓ he ✓ querido ✗ [≠ᵈ]emitiros ✓ copia ✓ de ✓ lo ✓ que ✓ se
+✓ escriue ✓ a ✓ necolalde ✗ en[dal]es ✓ del ✗ [119] ✓ de ✓ orliens ✓ porque ✓ si ✓ os ✗ [Jil]re ✓ de ✓ lo
+✓ que ✓ fuere ✗ [201:] ✓ esteis ✗ a[fur]ertido ✓ de ✓ lo ✓ que ✓ le ✓ he ! ordendo ✓ i ✓ podais ✗ [o+sup]
+✓ me ✓ decirme ✓ lo ✓ que ✓ os ✓ parece ✗ [fos] ✓ todo
+
+## Segmentation en mots (convention A)
+P1L1 o+ | 40 | 202 for
+P1L2 fer | er ≠ | fan | 4 pan | ed | D 11 pen | 68 | fan | tor | sal 2 pen | gus | 36 | Jul | 79 | Q:
+P1L3 + pan ≠ 95 | fin | ed | xir 72 | 4 | C̲ | ed | 92 v ha | 68 | fan | pun 77 ha | fus | ǂ
+P2L4 đ | fos | pon ad v | tra | ud | pan ≠
+P2L5 + [?] | 40 | D 1 | fan 73 for | ≠ᵈ 2 xir hi 74 v | pon 99 4 | tra | 68 | fan | ed | 77 m 73
+P2L6 + er | 4 | ter pon 65 k tra | Q: dal 77 | o ven | 119 | tra | 16 ≠ 67 Q: v | sol fan
+P2L7 id | 79 | Jil 72 | tra | 68 | fan | xul 13711 | 201: | 77 he 78 | 4 fur 2 ħ hi for
+P2L8 tra | 68 | fan | 66 | D 1 | !cro for | 40 | Ja far 78 | o+sup | xer | tra pin ≠ xer | 68 | fan | 79
+P2L9 sal 2 pen | fos | ho for | ǂ

@@ -1,0 +1,14 @@
+# AHNOB (Archivo Histórico de la Nobleza, Toledo), SANTA CRUZ, C.51, D.74 — transcription du chiffré (résultat n°54, Madrid, 16/7/1632).
+# Transcription de l'équipe sur les images PARES (864 px max., non redistribuées). Licence CC BY 4.0.
+# Préfixe de ligne = page/ligne ; [clair] = passage écrit en clair dans la lettre. Conventions de glyphes : voir ../README.md (§ Méthode) et, pour 1634-1635, ../cle/table_glyphes_1634.md si présent.
+# Signes : ≠ ∓ ꝑ ♀ Δ Æ ȣ ʂ ſ J ę ϑ θ ħ đ ǂ … = formes distinctes du manuscrit ; x̃ = marque suscrite ; ? = forme douteuse (comptée non comprise).
+[clair] Marques de Sancta Cruz Primo de mi Consejo de Estado mi Teniente de General de la Mar que Gouernais mis Armas en Flandes. Despues de hauer mandado escribir a fray Diego de Quiroga la carta cuya copia se os imbia
+R1 h4 set p q xaf 47 29 44
+R2 ye 9 48 hi 11 far 119 16 far 109 42 set p eb o hu 11 ʂ xel
+R3 ab sat ex 48 T 16 bel.l. 43 11 91 92÷ 49 pax J m 47 18 27 xel
+R4 sit om c ę 47 far 109 95 set p eb o hu 10 a ab 167 ip ab J
+R5 31 xaf 47 91 im 30 g(▽ dessous) 1 xel ox y im 41 ſ ax Æ ep ab xuf
+R6 Δ 42 e 27 ho 27 11 24 30 e ye ax om ix 29 T sat y xof
+R7 n4 47 yi 30 g ec 48 10 16 tas he 10 ix 11 xel bem ob 91
+R8 30 e v hi im K 47 h4
+[clair] De Madrid a 16 de Julio 1632. [autographe] Yo el Rey

@@ -7,7 +7,7 @@ date-released: "2026-09-29"
 authors:
   - name: "Descifrado"
 license: CC-BY-4.0
-repository-code: "https://github.com/el-descifrado/cabinet-noir"
+repository-code: "https://github.com/el-descifrador/cabinet-noir"
 abstract: >-
   74 lectures de lettres chiffrées (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg), 1568-1824, chacune confirmée
   par un vérificateur indépendant avec un taux sévère par groupe et par mot. Comprend des clés cassées à l'aveugle

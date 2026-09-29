@@ -1,0 +1,41 @@
+# AHNOB SANTA CRUZ C.51 D.113 (résultat n°70) — déchiffrement brut. Valeurs = clé figée indiquée dans lecture.md ; [x] ou * = NON compris ; ! = mot refusé ; les taux de référence sont ceux du vérificateur (lecture.md), pas ceux qu'impriment les scripts du casseur. CC BY 4.0.
+
+## Rendu mécanique signe à signe (clé r26 ; * = non compris ; x|y = valeur double)
+L1   ꝑ 13 ⊏? ≠ 13 sol m
+     e l ·* a l bo r
+L2   od 40 ǥ? ≠ ec r4 tin xor cel⁊ Δ he ∓ lus ≠ 16 ed fir ho he mix
+     no ç ·* a es c ri to qua* n de s gu a r ne ci do de gente
+L3   cel ha sal ꝑ 13 riz he 1̃4 oy pan cel ≠ sil ɇ? 13 pen sal ho for Δ
+     que da va e l estado de Milan por la que a vi ·* l le va do co n
+L4   tis los ꝑ 7 tes ten id tis ob til ho Δ er 16 ad ꝑ ho ib bis 9 ꝑ 13
+     si go e l se re ni si mo Infante do n fe r na e do mi hermano e|y* e l
+L5   47 pin 6 ton 6 tan Δ he for p cel ec xar tin ɇ? tis od tes ≠ fur
+     pe li g|a* ro g|a* ra n de co n que es ta ri ·* si no se a cu
+L6   he ≠ pon cel 33ᶜ ec eb ed ∓ xer m for Δ 49ᵓ he cel ǥ? H cal
+     de a lo que alli* es me ne s te r co n ·* de que ·* e que
+L7   tin ho ≠ K sel 16 xir ton tt 9 42 far 16 las ton tt 9 1̃5 ton tt
+     ri do a d ve r ti ro s e|y* en ca r ga ro s e|y* manda ro s
+L8   D ton fur ten ic 42 Δ⁊ 16 ꝑ 13 46 tas 19 ꝑ he pan tt pen sal ∓
+     p ro cu re is en ·* r e l pa sa j¹ e de la s le va s
+L9   for Δ pan ab xol 16 so? Δ xur ≠ pin ha K cel hañ ur puzȝ
+     co n la ma yo* r ·* n tu a li da d que ·* fu ere*
+L10  80 9 cel 135⁊ ic ≠ cal 13 riz 42 ≠ D tin ꝑ xor 42 pan eb 19
+     ·* e|y* que ·* is a que l estado en a p ri e to en la me j¹
+L11  x 16 run cel so? hi puzȝ K ec 49 id 42 ho 88 ♀ 42 xor ho 9
+     ·* r forma* que ·* di ere* d es po ni en do ·* Conde* en to do e|y*
+L12  19ᵓ⁊ ten ic eb he 13 16 ten fir sol K ec xer lar
+     ·* re is me de l r re ci bo d es te despacho*
+
+## Segmentation en mots (glose non comptée après #)
+L1  ꝑ 13 | ⊏? | ≠ 13 sol m                                        # el [Cardenal] Albor-
+L2  od 40 | ǥ? ≠ | ec r4 tin xor | cel⁊ Δ | he ∓ lus ≠ 16 ed fir ho | he | mix |     # -noz [h]a escrito [qua]n desguarnecido de gente
+L3  cel ha sal | ꝑ 13 | riz | he | 1̃4 | oy | pan | cel | ≠ sil ɇ? | 13 pen sal ho | for Δ          # quedava el estado de Milan por la que avi[a] llevado con-
+L4  tis los | ꝑ 7 | tes ten id tis ob | til | ho Δ | er 16 ad ~ꝑ ho | ib | bis | 9 | ꝑ 13 |          # -sigo el serenisimo Infante don Fer-na(ꝑ=e FAUX, n attendu)-do mi hermano [y] el
+L5  47 pin 6 ton | 6 tan Δ he | for p | cel | ec xar tin ɇ? | tis | od | tes | ≠ fur            # peli[g]ro [g]rande con que estari[a] si no se acu-
+L6  he | ≠ | pon | cel | 33ᶜ | ec eb ed ∓ xer m | for Δ | 49ᵓ | he | cel | ǥ? H | cal          # -de a lo que [alli] es menester con [49ᵓ] de que [h]e que-
+L7  tin ho | ≠ K sel 16 xir ton tt | 9 | 42 far 16 las ton tt | 9 | 1̃5 ton tt |                 # -rido advertiros [y] encargaros [y] mandaros
+L8  D ton fur ten ic | 42 Δ⁊ 16 | ꝑ 13 | 46 tas 19 ꝑ | he | pan tt | pen sal ∓ |               # procureis en[Δ⁊]r el pasa[j]e de las levas
+L9  for Δ | pan | ab xol 16 | so? Δ xur ≠ pin ha K | cel | hañ | ur puzȝ |                      # con la ma[yo]r [pu]ntualidad que [os?] fu[ere]
+L10 80 | 9 | cel | 135⁊ ic | ≠ cal 13 | riz | 42 | ≠ D tin ꝑ xor | 42 | pan | eb 19              # [posible?] [y] que [..]is aquel estado en aprieto en la me[j]-
+L11 x 16 | run | cel | so? hi puzȝ | K ec 49 id 42 ho | 88 | ♀ | 42 | xor ho | 9 |               # [o]r [forma] que [pu]di[ere] desponiendo [88] [Conde] en todo [y]
+L12 19ᵓ⁊ ten ic | eb | he 13 | 16 ten fir sol | K ec xer | lar |                                # [avisa]reis me del rrecibo deste [despacho]

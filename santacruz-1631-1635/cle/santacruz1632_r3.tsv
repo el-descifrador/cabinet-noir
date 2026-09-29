@@ -1,0 +1,139 @@
+# Clé 1632, version figée r3 (sha256 du fichier d'origine bdd6dcc7…), paires D.66↔D.67, D.68↔D.69, D.70↔D.71 ; sert à D.74 (n°54) et D.75 (n°56).
+# Clé reconstruite par nous depuis des paires chiffré / déchiffrement d'époque (AHNOB, SANTA CRUZ, C.51). Licence CC BY 4.0.
+# Statuts : PROUVÉ / PROUVE = ≥ 2 contextes dans ≥ 2 lettres (seul compté compris dans les taux officiels) ; PROUVÉ-1lettre / PROUVE_1L = ≥ 2 contextes dans une lettre ;
+# HYP = 1 contexte ; DOUBLE / CONTRADICTION = signe à deux valeurs (NON compris partout) ; NUL? = nul probable. Contextes = pièce:ligne (et, pour 1634, n° de groupe) + mot du descifrado.
+# Valeurs normalisées : y→i, b/v→u, z→ç (orthographe d'époque). Les lignes de données sont identiques au fichier figé d'origine (empreinte citée), sauf la suppression de chemins de fichiers internes.
+chiffre	valeur	statut	nb_ctx	pieces	contextes
+&	s	HYP	1	D68	D68:L18 despacho
+(	NUL	NUL?	1	D70	D70:C3 Marq. de Aitona
+10	r	PROUVÉ	7	D66,D68	D66:L03 que mis Armas ; D66:L06 entender ; D66:L06 para procurar ; D66:L13 encargo ; D68:L02 salir ; D68:L05 maior ; D68:L21 la diuersion
+11	r	PROUVÉ	21	D66,D68,D70	D66:L03 por lo passado ; D66:L09 turba su ; D66:L10 esperar ; D66:L10 que por esto ; D66:L14 de pelear ; D66:L14 Reducir ; D68:L02 Importaria ; D68:L06 concierto ; D68:L07 Cordoua ; D68:L08 ayudarlo ; D68:L09 y aduirtiendo ; D68:L11 executarlo ; D68:L12 asistir ; D68:L14 diuersion ; D68:L15 de Cordoua ; D68:L16 ganar ; D68:L21 porque ; D68:L21 en apresurar ; D70:C2 Monsiur ; D70:C5 traer ; D70:C7 y acudir
+12	r	HYP	1	D70	D70:C1 diuersion
+127	execucion	HYP	1	D68	D68:L08 execucion
+134	Estado	HYP	1	D66	D66:L02 que en esos Estados
+136	Exto	PROUVÉ-1lettre	2	D66	D66:L08 de los Extos ; D66:L14 ese Exto
+144	forma	PROUVÉ	2	D66,D68	D66:L13 sobre la forma ; D68:L11 y forma de
+16	i	PROUVÉ	12	D66,D68,D70	D66:L01 ya ; D66:L05 y la Reputacion ; D66:L11 ya como solian ; D68:L05 y ; D68:L05 maior ; D68:L07 y el ; D68:L09 y aduirtiendo ; D68:L11 y forma de ; D68:L11 y si ; D68:L16 y en todo caso ; D70:C7 y Olandeses ; D70:C7 y acudir
+17	i	PROUVÉ	6	D66,D68	D66:L04 mayores que ; D66:L09 y los ; D66:L10 y ay parece ; D66:L13 y se os ofrece ; D68:L07 y no ; D68:L08 ayudarlo
+18	ç	PROUVÉ	3	D66,D68	D66:L08 Juzgar ; D68:L06 Gonçalo ; D68:L15 Gonçalo
+207	Inconuiniente	HYP	1	D68	D68:L08 Inconuiniente
+27	ca	PROUVÉ	8	D66,D68,D70	D66:L04 nunca han ; D66:L04 descaecido ; D66:L06 la causa ; D66:L12 descaecimiento ; D66:L13 encargo ; D68:L13 cantidad ; D68:L16 y en todo caso ; D70:C3 aca
+28	ce	PROUVÉ-1lettre	3	D66	D66:L06 de que esto nace ; D66:L10 y ay parece ; D66:L13 y se os ofrece
+29	ci	PROUVÉ	12	D66,D68,D70	D66:L04 descaecido ; D66:L05 y la Reputacion ; D66:L07 la atencion ; D66:L09 disciplina ; D66:L12 descaecimiento ; D66:L14 Reducir ; D68:L02 parecido ; D68:L06 concierto ; D68:L10 pareciere ; D68:L10 sustancia ; D68:L14 de la Alsacia ; D70:C5 precio
+3	i	HYP	1	D68	D68:L05 Inclusa
+30	co	PROUVÉ	14	D66,D68,D70	D66:L02 continuan ; D66:L08 confusion ; D66:L11 ya como solian ; D68:L04 copia ; D68:L05 con ; D68:L06 concierto ; D68:L07 Cordoua ; D68:L07 considereis ; D68:L15 de Cordoua ; D68:L19 con lo que ; D68:L19 considerado ; D68:L21 consiste el ; D70:C6 como os lo digo ; D70:C6 contener a
+31	cu	PROUVÉ	5	D66,D68,D70	D66:L06 para procurar ; D68:L08 procureis ; D68:L11 executarlo ; D68:L16 se procure ; D70:C7 y acudir
+4	a	PROUVÉ	7	D66,D68,D70	D66:L02 continuan ; D66:L05 deseado ; D68:L03 aprietos ; D68:L09 a fray Diego ; D68:L19 ay ; D70:C3 aca ; D70:C4 hablan
+41	da	PROUVÉ	4	D68,D70	D68:L05 pueda ; D68:L08 ayudarlo ; D68:L20 dareis ; D70:C3 nada
+42	de	PROUVÉ	16	D66,D68,D70	D66:L04 descaecido ; D66:L05 deseado ; D66:L07 que deuo en su ; D66:L12 deste ; D66:L14 de pelear ; D68:L03 de ; D68:L07 de ; D68:L07 considereis ; D68:L08 grande ; D68:L13 de las ; D68:L14 de la Alsacia ; D68:L18 despacho ; D68:L19 considerado ; D68:L20 de que me ; D70:C5 Conde de ; D70:C7 y Olandeses
+43	di	PROUVÉ	10	D66,D68,D70	D66:L09 disciplina ; D66:L12 me digais ; D68:L04 Diego ; D68:L09 añadiendo ; D68:L09 a fray Diego ; D68:L14 diuersion ; D68:L21 la diuersion ; D70:C1 diuersion ; D70:C6 como os lo digo ; D70:C7 y acudir
+44	do	PROUVÉ	19	D66,D68,D70	D66:L03 por lo passado ; D66:L04 que siendo ; D66:L04 descaecido ; D66:L05 deseado ; D66:L07 si bien puedo ; D68:L02 parecido ; D68:L06 Don ; D68:L07 Cordoua ; D68:L07 hallando ; D68:L09 añadiendo ; D68:L09 y aduirtiendo ; D68:L10 lo que a todos ; D68:L12 tomando ; D68:L15 Don ; D68:L15 de Cordoua ; D68:L16 y en todo caso ; D68:L19 considerado ; D70:C3 sauido ; D70:C7 a los aliados
+45	du	HYP	1	D66	D66:L14 Reducir
+46	ra	PROUVÉ	15	D66,D68,D70	D66:L06 para procurar ; D66:L06 para procurar ; D66:L10 esperar ; D66:L10 no obran ; D68:L02 para ; D68:L08 grande ; D68:L09 a fray Diego ; D68:L14 para la ; D68:L19 considerado ; D68:L21 en apresurar ; D70:C1 fuera ; D70:C2 agora ; D70:C4 palabra ; D70:C5 traer ; D70:C6 para
+47	re	PROUVÉ	21	D66,D68,D70	D66:L04 mayores que ; D66:L05 y la Reputacion ; D66:L10 y ay parece ; D66:L13 y se os ofrece ; D66:L14 Reducir ; D68:L02 parecido ; D68:L03 presentes ; D68:L04 vereis ; D68:L06 holgare ; D68:L07 considereis ; D68:L08 procureis ; D68:L10 pareciere ; D68:L10 pareciere ; D68:L11 baxaren ; D68:L16 se procure ; D68:L19 se huuiere ; D68:L20 sobre el ; D68:L20 dareis ; D68:L21 en apresurar ; D70:C4 Remitis me ; D70:C5 precio
+48	ri	PROUVÉ	6	D66,D68	D66:L14 debria ; D68:L02 Importaria ; D68:L03 aprietos ; D68:L03 escriuo ; D68:L12 podria ; D68:L15 en que escriuo
+49	ro	PROUVÉ	8	D66,D68,D70	D66:L03 tuuieron ; D66:L06 para procurar ; D68:L04 Quiroga ; D68:L08 procureis ; D68:L13 prouisiones ; D68:L16 se procure ; D68:L22 prouecho ; D70:C1 prouechosa
+6	h	HYP	1	D68	D68:L19 se huuiere
+76	r	HYP	1	D68	D68:L04 fray
+8	c	PROUVÉ-1lettre	2	D68	D68:L03 escriuo ; D68:L15 en que escriuo
+9	c	HYP	1	D68	D68:L05 Inclusa
+91	que	PROUVÉ	9	D66,D68	D66:L02 que en esos Estados ; D66:L04 mayores que ; D66:L07 que deuo en su ; D66:L08 que el ; D66:L10 que por esto ; D66:L13 lo que sentis ; D66:L14 a que se ; D68:L02 que ; D68:L06 que
+91÷	qui	PROUVÉ	2	D68,D70	D68:L04 Quiroga ; D70:C3 a quien os
+92	que	PROUVÉ	10	D66,D68	D66:L03 que mis Armas ; D66:L04 que siendo ; D66:L09 que dellos ; D68:L03 que ; D68:L04 que ; D68:L18 en que este ; D68:L19 con lo que ; D68:L20 de que me ; D68:L20 quenta ; D68:L21 porque
+93	que	PROUVÉ	3	D66,D68	D66:L06 de que esto nace ; D68:L10 lo que a todos ; D68:L15 en que escriuo
+94	de	PROUVÉ-1lettre	3	D66	D66:L06 de que esto nace ; D66:L08 de los Extos ; D66:L14 debria
+95	de	PROUVÉ	5	D66,D68	D66:L06 entender ; D66:L12 descaecimiento ; D68:L04 de ; D68:L11 y forma de ; D68:L15 de Cordoua
+D	e	PROUVÉ-1lettre	3	D68	D68:L03 aprietos ; D68:L09 a fray Diego ; D68:L12 Alemanes
+J	o	PROUVÉ	9	D66,D68,D70	D66:L04 oy los ; D66:L07 la atencion ; D66:L10 no obran ; D66:L13 y se os ofrece ; D68:L05 maior ; D68:L13 prouisiones ; D68:L15 Gonçalo ; D68:L21 la diuersion ; D70:C1 diuersion
+K	e	PROUVÉ	8	D66,D68,D70	D66:L03 tuuieron ; D68:L06 concierto ; D68:L11 executarlo ; D68:L14 hechas ; D68:L17 tiempo ; D68:L18 Alemania ; D68:L19 se huuiere ; D70:C1 fuera
+L	e	HYP	1	D70	D70:C5 traer
+Lis	MarquesdeAitona	PROUVÉ	2	D68,D70	D68:L07 Marques de Aitona ; D70:C3 Marq. de Aitona
+T	a	PROUVÉ	22	D66,D68,D70	D66:L01 ya ; D66:L03 antes ; D66:L04 nunca han ; D66:L10 y ay parece ; D66:L11 ni pelean ; D66:L11 ya como solian ; D66:L14 debria ; D68:L02 Importaria ; D68:L08 ayudarlo ; D68:L10 lo que a todos ; D68:L10 sustancia ; D68:L11 baxaren ; D68:L12 podria ; D68:L14 de la Alsacia ; D68:L15 a D. ; D68:L18 pase a ; D68:L21 en apresurar ; D70:C2 agora ; D70:C3 a quien os ; D70:C5 a qualquier ; D70:C6 contener a ; D70:C7 a los aliados
+ab	la	PROUVÉ	15	D66,D68,D70	D66:L05 las ; D66:L05 y la Reputacion ; D66:L06 la causa ; D66:L07 la atencion ; D66:L13 sobre la forma ; D68:L04 la ; D68:L07 hallando ; D68:L10 en la ; D68:L13 de las ; D68:L14 para la ; D68:L14 de la Alsacia ; D68:L21 la diuersion ; D70:C4 hablan ; D70:C4 palabra ; D70:C4 En la del
+am	na	PROUVÉ	5	D66,D68,D70	D66:L06 de que esto nace ; D66:L09 disciplina ; D68:L13 alguna ; D68:L16 ganar ; D70:C3 nada
+ap	sa	PROUVÉ	6	D66,D68,D70	D66:L03 por lo passado ; D68:L02 salir ; D68:L05 Inclusa ; D68:L14 de la Alsacia ; D70:C1 prouechosa ; D70:C3 sauido
+ap	NUL	NUL?	1	D68	D68:L22 prouecho
+ax	ta	PROUVÉ	5	D66,D68,D70	D66:L05 y la Reputacion ; D68:L02 Importaria ; D68:L11 executarlo ; D68:L20 quenta ; D70:C2 hasta
+b	h	PROUVÉ	3	D66,D68	D66:L04 nunca han ; D68:L06 holgare ; D68:L07 hallando
+beli.	aña	HYP	1	D68	D68:L09 añadiendo
+c	m	HYP	1	D68	D68:L02 Importaria
+d	i	PROUVÉ	7	D66,D68,D70	D66:L04 oy los ; D66:L10 y ay parece ; D68:L02 Importaria ; D68:L04 fray ; D68:L09 a fray Diego ; D68:L19 ay ; D70:C7 a los aliados
+e	n	PROUVÉ	26	D66,D68,D70	D66:L02 continuan ; D66:L03 tuuieron ; D66:L04 nunca han ; D66:L04 nunca han ; D66:L05 y la Reputacion ; D66:L06 entender ; D66:L07 la atencion ; D66:L11 ya como solian ; D66:L13 lo que sentis ; D68:L03 presentes ; D68:L05 con ; D68:L06 concierto ; D68:L06 Don ; D68:L07 considereis ; D68:L08 algun ; D68:L08 grande ; D68:L12 tomando ; D68:L13 cantidad ; D68:L14 diuersion ; D68:L15 Don ; D68:L19 con lo que ; D68:L20 quenta ; D70:C1 diuersion ; D70:C2 Monsiur ; D70:C4 hablan ; D70:C7 y Olandeses
+eb	le	PROUVÉ	3	D66,D68	D66:L11 ni pelean ; D66:L14 de pelear ; D68:L12 se les
+ef	u	CONTRADICTION	2	D68	D68:L08 ayudarlo ; D68:L19 se huuiere
+ef	x	CONTRADICTION	1	D68	D68:L11 baxaren
+em	ne	PROUVÉ	3	D68,D70	D68:L12 Alemanes ; D68:L13 prouisiones ; D70:C6 Alemanes
+ep	se	PROUVÉ	13	D66,D68,D70	D66:L02 no se ; D66:L05 deseado ; D66:L09 se ; D66:L13 lo que sentis ; D66:L13 y se os ofrece ; D66:L14 a que se ; D68:L03 presentes ; D68:L05 se ; D68:L12 se les ; D68:L16 se procure ; D68:L18 pase a ; D68:L19 se huuiere ; D70:C2 no se
+ex	te	PROUVÉ	8	D66,D68,D70	D66:L03 antes ; D66:L06 entender ; D66:L07 la atencion ; D66:L12 deste ; D68:L03 presentes ; D68:L18 en que este ; D68:L21 consiste el ; D70:C1 en este
+far	al	PROUVÉ	11	D68,D70	D68:L06 Gonçalo ; D68:L07 hallando ; D68:L08 algun ; D68:L12 Alemanes ; D68:L13 alguna ; D68:L14 de la Alsacia ; D68:L15 Gonçalo ; D68:L18 Alemania ; D70:C6 Alemanes ; D70:C7 a los aliados ; D70:C7 a los aliados
+fer	el	PROUVÉ	9	D66,D68,D70	D66:L08 que el ; D66:L09 que dellos ; D68:L05 tratar dello ; D68:L07 y el ; D68:L20 sobre el ; D68:L21 consiste el ; D70:C2 Del ; D70:C3 ni mi Tia ni el ; D70:C4 En la del
+ff	t	HYP	1	D70	D70:C5 traer
+for	ol	PROUVÉ	2	D68,D70	D68:L06 holgare ; D70:C7 y Olandeses
+g	n	PROUVÉ	15	D66,D68	D66:L02 continuan ; D66:L03 antes ; D66:L07 la atencion ; D66:L08 confusion ; D66:L10 no obran ; D66:L11 ni pelean ; D68:L05 Inclusa ; D68:L06 Gonçalo ; D68:L07 hallando ; D68:L11 baxaren ; D68:L15 Gonçalo ; D68:L18 Alemania ; D68:L19 considerado ; D68:L21 la diuersion ; D68:L21 consiste el
+g	NUL	NUL?	3	D68	D68:L16 [nuls] ; D68:L17 [non expliqué, pas dans D.69] ; D68:L19 [nuls]
+g̶	u	HYP	1	D68	D68:L20 sobre el
+h4	NUL	NUL?	7	D66,D68,D70	D66:L11 ya como solian ; D68:L01 [début] ; D68:L16 [nuls] ; D68:L16 [nuls] ; D68:L17 [non expliqué, pas dans D.69] ; D68:L19 [nuls] ; D70:C1 [début]
+ha	ua	PROUVÉ	4	D66,D68	D66:L09 turba su ; D68:L07 Cordoua ; D68:L11 baxaren ; D68:L15 de Cordoua
+he	ue	PROUVÉ	6	D68,D70	D68:L04 vereis ; D68:L14 diuersion ; D68:L21 la diuersion ; D68:L22 prouecho ; D70:C1 diuersion ; D70:C1 prouechosa
+hi	ui	PROUVÉ	7	D66,D68,D70	D66:L03 tuuieron ; D66:L07 si bien puedo ; D68:L03 bien ; D68:L09 y aduirtiendo ; D68:L13 prouisiones ; D68:L19 se huuiere ; D70:C3 sauido
+ho	uo	PROUVÉ	3	D66,D68	D66:L07 que deuo en su ; D68:L03 escriuo ; D68:L15 en que escriuo
+ib	li	PROUVÉ	3	D66,D68	D66:L09 disciplina ; D66:L11 ya como solian ; D68:L02 salir
+im	ni	PROUVÉ	3	D66,D70	D66:L11 ni pelean ; D70:C3 ni mi Tia ni el ; D70:C3 ni mi Tia ni el
+ip	si	PROUVÉ	12	D66,D68,D70	D66:L04 que siendo ; D66:L07 si bien puedo ; D66:L08 confusion ; D68:L07 considereis ; D68:L11 y si ; D68:L13 prouisiones ; D68:L14 diuersion ; D68:L19 considerado ; D68:L21 la diuersion ; D68:L21 consiste el ; D70:C1 diuersion ; D70:C2 Monsiur
+ix	ti	PROUVÉ	8	D66,D68,D70	D66:L02 continuan ; D66:L13 lo que sentis ; D68:L09 y aduirtiendo ; D68:L12 asistir ; D68:L13 cantidad ; D68:L17 tiempo ; D70:C3 ni mi Tia ni el ; D70:C4 Remitis me
+m	f	PROUVÉ	3	D66,D68	D66:L13 y se os ofrece ; D68:L04 fray ; D68:L09 a fray Diego
+n	o	PROUVÉ	3	D66,D68	D66:L05 y la Reputacion ; D68:L06 Gonçalo ; D68:L14 diuersion
+n4	d	PROUVÉ	6	D66,D68,D70	D66:L09 que dellos ; D68:L05 tratar dello ; D68:L12 podria ; D68:L13 cantidad ; D70:C2 Del ; D70:C4 En la del
+nel	xe	HYP	1	D68	D68:L11 executarlo
+ney:	Papenheim	HYP	1	D70	D70:C5 Papenheim
+noy	porque	HYP	1	D68	D68:L05 porque
+o	m	HYP	1	D68	D68:L17 tiempo
+ob	lo	PROUVÉ	16	D66,D68,D70	D66:L02 los ; D66:L03 por lo passado ; D66:L04 oy los ; D66:L08 de los Extos ; D66:L09 y los ; D66:L09 que dellos ; D66:L13 lo que sentis ; D68:L03 los ; D68:L03 lo ; D68:L05 tratar dello ; D68:L07 lo ; D68:L08 ayudarlo ; D68:L10 lo que a todos ; D68:L11 executarlo ; D68:L19 con lo que ; D70:C6 como os lo digo
+om	no	PROUVÉ	4	D66,D68,D70	D66:L02 no se ; D66:L10 no obran ; D68:L07 y no ; D70:C2 no se
+op	so	PROUVÉ	3	D66,D68	D66:L11 ya como solian ; D68:L16 y en todo caso ; D68:L20 sobre el
+ox	to	PROUVÉ	8	D66,D68	D66:L06 de que esto nace ; D66:L10 que por esto ; D66:L12 descaecimiento ; D68:L03 aprietos ; D68:L06 concierto ; D68:L10 lo que a todos ; D68:L12 tomando ; D68:L16 y en todo caso
+p	h	PROUVÉ	7	D66,D68,D70	D66:L04 oy los ; D66:L10 y ay parece ; D68:L02 Hame ; D68:L14 hechas ; D68:L19 ay ; D70:C4 hablan ; D70:C7 y Olandeses
+pan	cualquier	PROUVÉ-1lettre	2	D70	D70:C1 Cualquiera ; D70:C5 a qualquier
+pap	cha	HYP	1	D68	D68:L14 hechas
+pax	ga	PROUVÉ	5	D66,D68	D66:L08 Juzgar ; D66:L12 me digais ; D68:L04 Quiroga ; D68:L06 holgare ; D68:L16 ganar
+pop	cho	PROUVÉ-1lettre	2	D68	D68:L18 despacho ; D68:L22 prouecho
+pox	go	PROUVÉ	6	D66,D68,D70	D66:L13 encargo ; D68:L04 Diego ; D68:L06 Gonçalo ; D68:L09 a fray Diego ; D68:L15 Gonçalo ; D70:C6 como os lo digo
+poz	cho	HYP	1	D70	D70:C1 prouechosa
+pux	gu	PROUVÉ-1lettre	2	D68	D68:L08 algun ; D68:L13 alguna
+q	a	PROUVÉ	6	D66,D68,D70	D66:L07 la atencion ; D66:L11 ya como solian ; D66:L14 de pelear ; D68:L02 Hame ; D68:L04 a ; D70:C7 y acudir
+r	p	HYP	1	D68	D68:L03 presentes
+sat	ma	PROUVÉ	7	D66,D68,D70	D66:L03 que mis Armas ; D66:L04 mayores que ; D68:L05 maior ; D68:L12 Alemanes ; D68:L12 tomando ; D68:L18 Alemania ; D70:C6 Alemanes
+set	me	PROUVÉ	4	D66,D68,D70	D66:L12 me digais ; D68:L02 Hame ; D68:L20 de que me ; D70:C4 Remitis me
+sit	mi	PROUVÉ	4	D66,D70	D66:L03 que mis Armas ; D66:L12 descaecimiento ; D70:C3 ni mi Tia ni el ; D70:C4 Remitis me
+sot	mo	PROUVÉ	3	D66,D70	D66:L11 ya como solian ; D70:C2 Monsiur ; D70:C6 como os lo digo
+suf	sobre	HYP	1	D66	D66:L13 sobre la forma
+t	u	HYP	1	D70	D70:C4 palabra
+tas	ad	PROUVÉ-1lettre	2	D68	D68:L09 y aduirtiendo ; D68:L13 cantidad
+ub	lu	HYP	1	D68	D68:L05 Inclusa
+uc	fu	PROUVÉ	2	D66,D70	D66:L08 confusion ; D70:C1 fuera
+um	nu	PROUVÉ-1lettre	2	D66	D66:L02 continuan ; D66:L04 nunca han
+up	su	PROUVÉ	4	D66,D68	D66:L07 que deuo en su ; D66:L09 turba su ; D68:L08 en su ; D68:L21 en apresurar
+ux	tu	PROUVÉ-1lettre	2	D66	D66:L03 tuuieron ; D66:L09 turba su
+v	NUL	NUL?	7	D66,D68,D70	D66:L01 [début] ; D68:L01 [début] ; D68:L16 [nuls] ; D68:L17 [non expliqué, pas dans D.69] ; D68:L17 [non expliqué, pas dans D.69] ; D68:L19 [nuls] ; D70:C2 Del
+v.	NUL	NUL?	1	D70	D70:C7 a los aliados
+x	p	PROUVÉ	9	D66,D68,D70	D66:L06 para procurar ; D68:L03 aprietos ; D68:L08 procureis ; D68:L13 prouisiones ; D68:L16 se procure ; D68:L21 en apresurar ; D68:L22 prouecho ; D70:C1 prouechosa ; D70:C5 precio
+xaf	pa	PROUVÉ	10	D66,D68,D70	D66:L03 por lo passado ; D66:L06 para procurar ; D66:L10 y ay parece ; D68:L02 parecido ; D68:L10 pareciere ; D68:L14 para la ; D68:L18 despacho ; D68:L18 pase a ; D70:C4 palabra ; D70:C6 para
+xef	pe	PROUVÉ-1lettre	3	D66	D66:L10 esperar ; D66:L11 ni pelean ; D66:L14 de pelear
+xel	en	PROUVÉ	20	D66,D68,D70	D66:L02 que en esos Estados ; D66:L04 que siendo ; D66:L06 entender ; D66:L07 que deuo en su ; D66:L07 si bien puedo ; D66:L12 descaecimiento ; D66:L13 encargo ; D68:L03 bien ; D68:L08 en su ; D68:L09 añadiendo ; D68:L09 y aduirtiendo ; D68:L10 en la ; D68:L15 en que escriuo ; D68:L16 y en todo caso ; D68:L18 en que este ; D68:L21 en apresurar ; D70:C1 en este ; D70:C3 a quien os ; D70:C4 En la del ; D70:C6 en otro despacho
+xif	pi	HYP	1	D68	D68:L04 copia
+xof	po	PROUVÉ	6	D66,D68	D66:L03 por lo passado ; D66:L10 que por esto ; D68:L02 Importaria ; D68:L12 podria ; D68:L17 tiempo ; D68:L21 porque
+xuf	pu	PROUVÉ	3	D66,D68	D66:L05 y la Reputacion ; D66:L07 si bien puedo ; D68:L05 pueda
+y	s	PROUVÉ	14	D66,D68,D70	D66:L02 los ; D66:L03 que mis Armas ; D66:L03 antes ; D66:L04 mayores que ; D66:L04 descaecido ; D66:L05 las ; D66:L08 de los Extos ; D66:L12 descaecimiento ; D68:L03 aprietos ; D68:L12 Alemanes ; D68:L13 de las ; D68:L14 hechas ; D70:C6 Alemanes ; D70:C7 a los aliados
+ya	as	PROUVÉ	2	D68,D70	D68:L12 asistir ; D70:C2 hasta
+ye	es	PROUVÉ	11	D66,D68,D70	D66:L02 que en esos Estados ; D66:L06 de que esto nace ; D66:L10 esperar ; D66:L10 que por esto ; D66:L14 ese Exto ; D68:L03 escriuo ; D68:L15 en que escriuo ; D68:L18 en que este ; D70:C1 en este ; D70:C7 Franceses ; D70:C7 y Olandeses
+yi	is	PROUVÉ	6	D66,D68	D66:L12 me digais ; D68:L04 vereis ; D68:L07 considereis ; D68:L08 procureis ; D68:L12 asistir ; D68:L20 dareis
+yo	os	PROUVÉ	5	D66,D70	D66:L02 que en esos Estados ; D66:L13 y se os ofrece ; D70:C3 a quien os ; D70:C6 como os lo digo ; D70:C7 a los aliados
+yu	us	PROUVÉ	2	D66,D68	D66:L06 la causa ; D68:L10 sustancia
+Æ	s	PROUVÉ	17	D66,D68,D70	D66:L02 que en esos Estados ; D66:L03 que mis Armas ; D66:L04 oy los ; D66:L08 de los Extos ; D66:L09 y los ; D66:L09 que dellos ; D66:L12 deste ; D66:L13 lo que sentis ; D68:L03 los ; D68:L03 presentes ; D68:L10 lo que a todos ; D68:L10 sustancia ; D68:L12 se les ; D68:L13 prouisiones ; D68:L21 consiste el ; D70:C4 Remitis me ; D70:C7 y Olandeses
+ę	u	PROUVÉ	3	D66,D70	D66:L10 no obran ; D66:L14 debria ; D70:C4 hablan
+ſ	e	PROUVÉ-1lettre	3	D66	D66:L04 descaecido ; D66:L12 descaecimiento ; D66:L14 ese Exto
+ȣ	a	PROUVÉ	4	D66,D68	D66:L03 que mis Armas ; D66:L06 la causa ; D66:L14 a que se ; D68:L04 copia
+ʂ	g	HYP	1	D68	D68:L08 grande
+ζ	o	HYP	1	D70	D70:C5 precio
+ξ	a	PROUVÉ-1lettre	2	D70	D70:C3 ni mi Tia ni el ; D70:C7 y Olandeses
+ϑ	e	PROUVÉ	4	D68,D70	D68:L04 Diego ; D68:L05 pueda ; D68:L10 pareciere ; D70:C6 Alemanes

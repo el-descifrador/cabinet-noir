@@ -1,0 +1,38 @@
+# BnF, Baluze 178, f.213r-217r — Colbert de Croissy → Mazarin (original non glosé ; duplicata f.218 = contrôle), Rome, 7/2/1661 (résultat n°72) — transcription du chiffré.
+# Nombres = groupes du chiffre (nomenclateur « Croissy 1660 », table publiée par S. Tomokiyo, non reproduite ici) ; «…» = clair de la lettre ; ? = lecture ou coupure douteuse.
+# Préfixe = ligne (et page). Transcription de l'équipe sur les images Gallica (non redistribuées), figée avant la lecture. Licence CC BY 4.0.
+== f213v (tranche t1)
+L1: «l'affaire de Castro, il avoue que des le commancement elle a esté»
+L2: «tres mal mesnagée, que les ministres de Mons. le Duc se devoient»
+L3: «accommoder plus qu'ils n'ont fait» 20 49 108 158 22 95 400 69
+L4: «prendre les expediens qu'il avoit fait connoistre luy estre les plus»
+L5: «agreables» 176 423 153 62 186 24 61 164 60 151 34 26 48 91 164 60
+L6: 191 46 36 89 23 181 26 92 38 188 146 24 192 36 176 189 60 99
+L7: 27 183 91 79 48 189 49 28 60 46 26 29 22 62 «mais que comme»
+L8: «il veut que» 436 137 151 26 91 92 34 61 165 28 194 30 91 74 86
+L9: 95 85 26 29 181 74? 183 «et que l'on croit» 177 25 153 185 22 36
+L10: 30 85 22 49 28 176 136 23 181 26 91 49 38 95 428? «il auroit»
+L11: «fallu agir avec une certaine delicatesse et prendre des mesures»
+L12: «qui eussent» 136 24 48 189 140 22 49 91 21 186 34 183 20 62 36
+L13: 31 117 88 26 176 423 «n'auroit consideré dans cet accommodement»
+L14: 176 136 204 26 196 108 91 35 347? «et n'auroit pas mesme» 22 62
+L15: 91 85 26 159 24 60 188 36 79 91 79 177 189 189 186 34 61 83
+L16: 154 113 84 32 20 206 22 189 60 164 183 26 48 «[quand ?] ils»
+L17: «l'orsque» 423 91 21 136 181 20 62 320? 164 25 136 208 84 158
+L18: «qu'elle estoit disposée a faire des graces a Mons. le Duc de Parme»
+L19: «proportionnées au mauvais estat ou cette affaire estoit reduitte»
+L20: «elle s'estoit laissé entendre qu'elle seroit bien aise qu'elle fust»
+L21: «traittée par led. resident» 69 188 26 48 40 187? 24 29 «que si»
+L22: «des lors il eut receu ordre d'agir il auroit disposé doucement Mess.»
+L23: «le Cardinal Anthoine et l'ambassadeur d'Espagne a trouver bon»
+L24: «de surceoir leurs instances en faveur de Mons. le Duc de Parme»
+L25: «encore quelque temps pendant lequel luy resident auroit tasché»
+L26: «d'aplanir les principalles difficultez» 164 28 49 154 391 87 83
+== f214r (tranche t2)
+R1: 164 38 198 88 140 22 183 20 206 31 423 68 189 48 164 181 26 48
+R2: «et de mettre les choses en estat que l'interposition des couronnes»
+R14: «aussy bien que la venue du Marquis Pallavicini, et cabre en»
+R15: «mesmes temps» 69 137 60 381 48 91 60 91 49 50 328 60 68
+R16: 137 48 27 185 29 95 400 177 154 209 49 142 34 61 168 24 26
+R17: 29 79 40 187? 24 61 .
+R18: «que quant a ce qui s'estoit passé depuis mon arrivée comme»

@@ -1,0 +1,22 @@
+# BnF, Baluze 178, f.162r-165r — Colbert de Croissy → Mazarin (duplicata), Frascati, 31/1/1661 (résultat n°61) — transcription du chiffré.
+# Nombres = groupes du chiffre (nomenclateur « Croissy 1660 », table publiée par S. Tomokiyo, non reproduite ici) ; «…» = clair de la lettre ; ? = lecture ou coupure douteuse.
+# Préfixe = ligne (et page). Transcription de l'équipe sur les images Gallica (non redistribuées), figée avant la lecture. Licence CC BY 4.0.
+P162r_L1: «encore toutes ces difficultez» 383 137 323 146 20 49 60 191 360 «connoistre»
+P162r_L2: «quil estoit bien persuadé» 176 79 61 197 313 85 45 147 85 26 191 48 199
+P162r_L3: 185 20 137 94 24 29 32 60 61 183 91 188 92 183 21 437 «il connoistra»
+P162v_L1: 151 26 92 61 431 137 323 96 83 74 87 «m'avoit fait entendre»
+P163r_L0: «quil m'a mesme dit que» 128 154
+P163r_L1: 91 209 24 48 164 60 197 48 151 24 23 154 28 «en toutes rencontres»
+P163r_L2: 22 48 61 183 191 103 38 29 91 27 165 26 89 36 61 91 383 137 322
+P163r_L3: «parceque» 188 165 28 192 36 154 22 60 196 26 29 117 51 32 95 400
+P163r_L4: «je ne pouvois point» 24 48 165 183 28 91 185 323 68 87 76? 98
+P163r_L5: 46 40 197 158 38 91 423 435 176 «l'on voiroit que» 128 74 99 82?
+P163r_L6: 153 112 186 24 60 176 164 38 137 48 394 60 69 136 92 183 21
+P163v_L1: 437 95 92 61 320 «mais qu'estant de» 151 65 147 48 147 423 177
+P163v_L2: «scait que je tiens tout» 91 441 168 49 28 186 24 61 37 145 60 199 29
+P163v_L3: 189 168 38 197 28 30 20 31 85 28 91 38 79 176 137 414 91 146
+P163v_L4: 26 91 «et Mond. S. Benedetti scait quil ny a que cela seul que je»
+P164r_L1: «congé de Sa Maj.té» 74 86 177 25 154 208 29 136 188 36 197 95
+P164r_L2: 400 436 20 360 183 60 196 52 140 22 68 176 137 48 313 60
+P164r_L3: 95 414 154 105 48 189 26 61 32 26 49 36 350 177 145 65 165 28
+P164v_L1: 149 29 91 188 40 189 26 197 38 «Je n'informe point V.E. de toutes les»

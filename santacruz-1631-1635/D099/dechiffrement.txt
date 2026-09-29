@@ -1,0 +1,53 @@
+# AHNOB SANTA CRUZ C.51 D.99 (résultat n°71) — déchiffrement brut. Valeurs = clé figée indiquée dans lecture.md ; [x] ou * = NON compris ; ! = mot refusé ; les taux de référence sont ceux du vérificateur (lecture.md), pas ceux qu'impriment les scripts du casseur. CC BY 4.0.
+
+## Rendu mécanique signe à signe (clé r28)
+L1   ♀? 9 t V t v ten ic v ic xor pon cel oc V c 19⁊ ho ec
+     ·* e|y* a h* a u re is u is to lo que os h* e avisa do es
+L2   xor ∓ hi ac ≠ fer m̶ far he pon tt raz⁊ pen ∓ cel
+     to s di as a ce|co* ·* ca de lo s españo le s que
+L3   he pan tt pen sal ∓ cil tes V 41 tec 42 ec xor ∓ 124 tt
+     de la s le va s que se h* an ·* en es to s Reyno* s
+L4   ≠ sil 41 he 46 tas 16 t 3̃9 V 9 oy cal tes V t for p
+     a vi an de pa sa r a Napoles h* e|y* por que se h* a co n
+L5   tis he tan ho oy 3̃6 cel he ∓ xar 4̃4 od tes he ∓ 16
+     si de ra do por ·* que de s ta bien no se de s r
+L6   42 v ten p pon ∓ 1̂500 cel ec xar sal 52 t ho tis od
+     en u re n lo s ·* que es ta va orden a do si no
+L7   5̃00 od ab ∓ oy pon cal B ) pen ad m̶ he raz⁊ pen ∓
+     ·* no ma s por lo que conviene l le na ·* de españo le s
+L8   H? ) riz he 1̃4 ey ∝ ) pen las Δ ho pon ∓ cel 33ᶜ V v?
+     ·* l estado de Milan per o l le ga n do lo s que alli* h* ·*
+L9   sil p? ten t 46 tas 16 he tes ic 16 ) tes 49 1 tan p
+     vi ·* re a pa sa r de se is r l se po d ra n
+L10  ꝗ 16 42 sil 41 ho t 3̃9 V ac xar pon ∓ 1̌500 ten ec
+     ·* r en vi an do a Napoles h* as ta lo s ·* re es
+L11  tin ho tt oy cel ec xer 6 tun c tos pon v od 9 pon 53
+     ri do s por que es te g|a* ·* e so lo u no e|y* lo ·*
+L12  he ∓ xar 4̃4 184 oc for ub id far ten ic for Δ 16
+     de s ta bien vos os co mu ni ca re is co n r
+L13  bis t celt 42 ec 0 tin sol hi fir? 42 ho pen ec xar 116
+     hermano a ·* en es c¹ ri bo di ·* en do le es ta ·*
+L14  ∝ for p pan 6) cel los sel 16 ad ten H ) riz he 1̃4
+     o co n la ·* que go ve r na re e l estado de Milan
+L15  )1 ≠ ) pin tes H tex fur xer ec xor for 06 ab ∓ for Δ?
+     para_que* a l li se e ·* cu te es to co ·* ma s co ·*
+L16  sel p las 42 far tos cil 184 od pon 49 ha ic tit V
+     ve n ga en ca so que vos no lo po da is ·* h*
+
+## Segmentation en mots
+L1  !♀? | 9 t | V t v ten ic | v ic xor | pon | cel | oc | V c | 19⁊ ho | ec             # [nul] [y]a havreis visto lo que os he avisado es-
+L2  xor ∓ | hi ac | ≠ fer m̶ far | he | pon tt | raz⁊ pen ∓ | cel                        # -tos dias a[ce][r]ca de los españoles que
+L3  he | pan tt | pen sal ∓ | cil | tes | V 41 | tec | 42 | ec xor ∓ | 124 tt |           # de las levas que se han [hecho] en estos [Reyno]s
+L4  ≠ sil 41 | he | 46 tas 16 | t | 3̃9 | !~V | 9 | oy cal | tes | V t | for p           # avian de pasar a Napoles [V nul] [y] porque se ha con-
+L5  tis he tan ho | oy | 3̃6 | cel | !he ∓ xar | 4̃4 | od | tes | he ∓ ~16               # -siderado por [3̃6] que [desta] bien no se des(~16 = r lu, m attendu)-
+L6  42 v ten p | pon ∓ | 1̂500 | cel | ec xar sal | 52 t ho | tis od |                    # -menbren los [1500] que estava ordenado sino
+L7  5̃00 | od | ab ∓ | oy | pon | cal | B | ) pen ad m̶ | he | raz⁊ pen ∓ |               # [500] no mas por lo que conviene llena[r] de españoles
+L8  H? ) | riz | he | 1̃4 | ey ∝ | ) pen las Δ ho | pon ∓ | cel | 33ᶜ | V v?               # [e]l estado de Milan pero llegando los que [alli] h[u]-
+L9  sil p? ten | t | 46 tas 16 | he | tes ic | ~16 ) | tes | 49 1 tan p |                 # -vi[e]re a pasar de seis (~16 = r lu, « mi » attendu : ib ?)l se podran
+L10 ꝗ 16 | 42 sil 41 ho | t | 3̃9 | V ac xar | pon ∓ | 1̌500 | !ten ec                   # [i]r enviando a Napoles hasta los [1500] [re es-
+L11 tin ho tt | oy cel | ec xer | !6 tun c tos | pon | v od | 9 | pon | 53 |              # -ri do s ?] porque este [6 tun e so ?] lo uno [y] lo [otro]
+L12 !he ∓ xar | 4̃4 | 184 | oc | for ub id far ten ic | for Δ | ~16 |                    # [desta] bien vos os comunicareis con (~16 = r lu, « mi » attendu)
+L13 bis | t | celt | 42 ec 0 tin sol | hi fir? 42 ho pen | ec xar | 116 |              # hermano a [quien] escribo di[ci]endole esta [116]
+L14 ∝ | for p | pan | 6) | cel | los sel 16 ad ten | H ) | riz | he | 1̃4 |               # o con la [persona] que governare el estado de Milan
+L15 )1 | ≠ ) pin | tes | H tex fur xer | ec xor | for 06 | ab ∓ | for Δ?                  # [para que] alli se e[xe]cute esto co[mo] mas co[n]-
+L16 sel p las | 42 | far tos | cil | 184 | od | pon | 49 ha ic | !tit V |                # -venga en caso que vos no lo podais [tit V]

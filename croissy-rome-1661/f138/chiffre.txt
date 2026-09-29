@@ -1,0 +1,44 @@
+# BnF, Baluze 178, f.138r-139v — Colbert de Croissy → Mazarin (duplicata), Rome, 17/1/1661 (résultat n°64) — transcription du chiffré.
+# Nombres = groupes du chiffre (nomenclateur « Croissy 1660 », table publiée par S. Tomokiyo, non reproduite ici) ; «…» = clair de la lettre ; ? = lecture ou coupure douteuse.
+# Préfixe = ligne (et page). Transcription de l'équipe sur les images Gallica (non redistribuées), figée avant la lecture. Licence CC BY 4.0.
+== f138 (tranche t1)
+P138r_L1: 176 168 49 28 145 51 24 35 154 133 108 46 34 29 164 48
+P138r_L2: 86 93 99 75 82 87 90 74 «presentement» 177 25 105 61 20 204
+P138r_L3: 26 196 108 49 50 30 383 137 340 91 27 183 60 189 38 136
+P138r_L4: 85 26 21 145 191 46 36 91 86 93 75 79 197 313 «par ce qu'il ne»
+P138r_L5: «falloit pas» 22 48 165 183 28 176 137 418 20 65 30 26 29 90 93
+P138r_L6: 96 99 136 114 22 38 183 95 168 38 201 107 25 194 28 137 60
+P138r_L7: 40 181 48 209 49 145 61 86 98 96 74 80 82 168 38 197 28
+P138r_L8: 137 60 369 91 383 137 340 95 154 146 158 32 183 177 165 62 29
+P138r_L9: 94 26 154 28 95 91 60 27 136 24 191 38 20 49 400 69 176
+P138r_L10: 137 414 «ne voulant pas aussy tesmoigner» 74 86 76 90 37 145 48
+P138r_L11: 91 45 37 283 60 189 147 36 29 176 136 328 53 345 «et se»
+P138v_L1: «contentant de» 74 83 97 24 183 91 192 57 27 137 48 398 34 25
+P138v_L2: 154 97 35 142 34 61 164 60 188 29 197 26 53 183 176 423 177
+P138v_L3: 153 164 48 319 96 92 36 21 140 153 437 168 49 38 136 355
+P138v_L4: 65 32 62 61 86 80 23 181 26 41 22 60 107 28 53 «qu'ainsy il»
+P138v_L5: «croyoit qu'il avoit» 27 145 48 49 198? 35 20 383 137 340 91
+P138v_L6: 107 28 91 38 91 60 133 48 197 60 27 183 197 26 43 37 48 «de»
+P138v_L7: 175 29 183 87 99 96 149 25 140 46 26 48 91 60 88 48 194 38
+P138v_L8: 136 331 176 76 82 89 21 79 27 197 28 49 154 29 183 60 151 92
+P138v_L9: 176 432 «qu'y iroit par» 20 62 175 28 61 91 79 177 145 51 22 48
+P138v_L10: 29 91 49 «et que peut estre les petits neveux de V.E. parlant des enfans de M. le Duc de Modene trouveroient»
+P138v_L11: 411 130 49 28 49 26
+P138v_L12: 86 87 98 168 26 198 101 78 29 27 145 48 97 209 181 40
+P138v_L13: 137 46 36 411 73 36 154 85 26 130 36 21 201 183 177 137 49 28
+P138v_L14: «donnoit» 140 22 62 91 97 24 183 149 32 62 50 204 25 142 34
+P138v_L15: 38 175 37 183 189 26 29 137 62 38 60 177 48 197 60 27 183
+P138v_L16: 197 26 43 48 «J'ay prié seulement la liberté de luy faire remarquer que cette affaire ne se terminant point la chambre continue a demeurer en possession et jouir de ce que M. le Duc de Modene pretend luy appartenir et que sy le S.t Siege estoit sy obéré que»
+P138v_L17: 383 25 306 «m'avoit dit il me sembloit que plus nous irions en avant et moins lad. chambre auroit de pouvoir de donner …»
+== f139 (tranche t2)
+P139r_L1: 383 86 90 96 74 83 82 137 323 22 36 173? 108 «autrement et m'a»
+P139r_L2: «fait connoistre qu'il luy sembloit» 177 25 20 49 186 24 61 32 60 197
+P139r_L3: 149 22 62 50 176 383 137 334 91 40 185 22 36 154 26 32
+P139r_L4: 189 36 105 60 29 168 24 26 61 22 26 85 183 58 62 206 28 29
+P139r_L5: 20 383 137 388 68 136 145 51 323 «auroit seulement laissé»
+P139r_L6: «entendre» 24 21 51 176 423 30 31 85 28 89 36 29 20 49 414
+P139r_L7: 79 177 35 74 76 90 91 146 26 91 168 49 38 136 28 199 34 60
+P139r_L8: 424 168 49 28 186 24 29 30 62 48 60 51 «au regard du Roussillon»
+P139r_L9: 85 26 91 48 79 36 41 183 20 99 86 90 80 83 183 79 209 24 38
+P139r_L10: 91 423 164 38 364 69 34 36 95 25 61 «ce qu'il auroit pu pretendre»
+P139r_L11: 32 36 206 28 201 95 85 26 85 38 89 29 «au surplus il est d'avis»

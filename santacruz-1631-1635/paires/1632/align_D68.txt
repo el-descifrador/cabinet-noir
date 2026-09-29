@@ -1,0 +1,110 @@
+# AHNOB SANTA CRUZ C.51 — paire d'époque 1632, alignement chiffre ↔ descifrado : transcription de l'équipe sur les images PARES. CC BY 4.0.
+# ?? = non aligné ; ∅ = sans contrepartie ; ? = douteux (exclu des preuves).
+L01 [début]: h4=NUL v=NUL
+L02 Hame: p=h q=a set=me
+L02 parecido: xaf=pa 47=re 29=ci 44=do
+L02 que: 91=que
+L02 Importaria: d=i c=m xof=po 11=r ax=ta 48=ri T=a
+L02 mucho: sam=?? xaf=??
+L02 para: 46=ra ap=??
+L02 salir: ap=sa ib=li 10=r
+L03 bien: hi=bi xel=en
+L03 de: 42=de
+L03 los: ob=lo Æ=s
+L03 aprietos: 4=a x=p 48=ri D=e ox=to y=s
+L03 presentes: r=p 47=re ep=se e=n ex=te Æ=s
+L03 lo: ob=lo
+L03 que: 92=que
+L03 escriuo: ye=es 8=c 48=ri ho=uo
+L04 a: q=a
+L04 fray: m=f 76=r d=y
+L04 Diego: 43=di ϑ=e pox=go
+L04 de: 95=de
+L04 Quiroga: 91÷=qui 49=ro pax=ga
+L04 que: 92=que
+L04 vereis: he=ve 47=re yi=is
+L04 por: xel=??
+L04 la: ab=la
+L04 copia: 30=co xif=pi ȣ=a
+L05 Inclusa: 3=i g=n 9=c ub=lu ap=sa
+L05 y: 16=y
+L05 porque: noy=porque
+L05 se: ep=se
+L05 pueda: xuf=pu ϑ=e 41=da
+L05 tratar dello: toc.=?? 11=?? n4=d fer=el ob=lo
+L05 con: 30=co e=n
+L05 maior: sat=ma 16=i J=o 10=r
+L06 concierto: 30=co e=n 29=ci K=e 11=r ox=to
+L06 holgare: b=h for=ol pax=ga 47=re
+L06 que: 91=que
+L06 Vos: J=??
+L06 Don: 44=do e=n
+L06 Gonçalo: pox=go g=n 18=ç far=al n=o
+L07 de: 42=de
+L07 Cordoua: 30=co 11=r 44=do ha=ua
+L07 y el: 16=y fer=el
+L07 Marques de Aitona: Lis=MarquesdeAitona
+L07 lo: ob=lo
+L07 considereis: 30=co e=n ip=si 42=de 47=re yi=is
+L07 y no: 17=y om=no
+L07 hallando: b=h far=al ab=la g=n 44=do
+L08 en su: xel=en up=su
+L08 execucion: 127=execucion
+L08 algun: far=al pux=gu e=n
+L08 Inconuiniente: 207=Inconuiniente
+L08 grande: ʂ=g 46=ra e=n 42=de
+L08 procureis: x=p 49=ro 31=cu 47=re yi=is
+L08 ayudarlo: T=a 17=y ef=u 41=da 11=r ob=lo
+L09 añadiendo: beli.=aña 43=di xel=en 44=do
+L09 y aduirtiendo: 16=y tas=ad hi=ui 11=r ix=ti xel=en 44=do
+L09 a fray Diego: 4=a m=f 46=ra d=y 43=di D=e pox=go
+L10 lo que a todos: ob=lo 93=que T=a ox=to 44=do Æ=s
+L10 pareciere: xaf=pa 47=re 29=ci ϑ=e 47=re
+L10 en la: xel=en ab=la
+L10 sustancia: Æ=s yu=us x=?? g=?? 29=ci T=a
+L11 y forma de: 16=y 144=forma 95=de
+L11 executarlo: K=e nel=xe 31=cu ax=ta 11=r ob=lo
+L11 y si: 16=y ip=si
+L11 baxaren: ha=ba ef=x T=a 47=re g=n
+L12 Alemanes: far=al D=e sat=ma em=ne y=s
+L12 se les: ep=se eb=le Æ=s
+L12 podria: xof=po n4=d 48=ri T=a
+L12 asistir: ya=as yi=is ix=ti 11=r
+L12 tomando: ox=to sat=ma e=n 44=do
+L13 alguna: far=al pux=gu am=na
+L13 cantidad: 27=ca e=n ix=ti n4=d tas=ad
+L13 de las: 42=de ab=la y=s
+L13 prouisiones: x=p 49=ro hi=vi ip=si J=o em=ne Æ=s
+L14 hechas: p=h K=e pap=cha y=s
+L14 para la: xaf=pa 46=ra ab=la
+L14 diuersion: 43=di he=ve 11=r ip=si n=o e=n
+L14 de la Alsacia: 42=de ab=la far=al ap=sa 29=ci T=a
+L15 en que escriuo: xel=en 93=que ye=es 8=c 48=ri ho=uo
+L15 a D.: T=a
+L15 Don: 44=do e=n
+L15 Gonçalo: pox=go g=n 18=ç far=al J=o
+L15 de Cordoua: 95=de 30=co 11=r 44=do ha=ua
+L16 y en todo caso: 16=y xel=en ox=to 44=do 27=ca op=so
+L16 se procure: ep=se x=p 49=ro 31=cu 47=re
+L16 ganar: pax=ga am=na 11=r
+L16 [nuls]: h4=NUL v=NUL g=NUL h4=NUL
+L17 tiempo: ix=ti K=e o=m xof=po
+L17 [non expliqué, pas dans D.69]: h4=NUL g=NUL v=NUL mas=?? tra=?? 29=?? xis=?? 22=?? 34=?? pax=?? tos=?? v=NUL
+L18 en que este: xel=en 92=que ye=es ex=te
+L18 despacho: 42=de &=s xaf=pa pop=cho
+L18 pase a: xaf=pa ep=se T=a
+L18 Alemania: far=al K=e sat=ma g=n e=?? o=??
+L19 [nuls]: h4=NUL v=NUL g=NUL tri=??
+L19 con lo que: 30=co e=n ob=lo 92=que
+L19 ay: 4=a p=h d=y
+L19 se huuiere: ep=se 6=h ef=u hi=ui K=e 47=re
+L19 considerado: 30=co g=n ip=si 42=de 46=ra 44=do
+L20 sobre el: op=so g̶=b 47=re fer=el
+L20 de que me: 42=de 92=que set=me
+L20 dareis: 46▽=?? 41=da 47=re yi=is
+L20 quenta: 92=que e=n ax=ta
+L21 porque: xof=po 11=r 92=que
+L21 en apresurar: xel=en T=a x=p 47=re up=su 46=ra 11=r
+L21 la diuersion: ab=la 43=di he=ve 10=r ip=si J=o g=n
+L21 consiste el: 30=co g=n ip=si Æ=s ex=te fer=el
+L22 prouecho: ep=?? 11=?? x=p 49=ro he=ve pop=cho ap=NUL

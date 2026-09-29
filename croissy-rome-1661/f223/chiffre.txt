@@ -1,0 +1,41 @@
+# BnF, Baluze 178, f.223r-226r — Colbert de Croissy → son frère J.-B. Colbert (original signé), Rome, 7/2/1661 (résultat n°73) — transcription du chiffré.
+# Nombres = groupes du chiffre (nomenclateur « Croissy 1660 », table publiée par S. Tomokiyo, non reproduite ici) ; «…» = clair de la lettre ; ? = lecture ou coupure douteuse.
+# Préfixe = ligne (et page). Transcription de l'équipe sur les images Gallica (non redistribuées), figée avant la lecture. Licence CC BY 4.0.
+== f223v (tranche t1)
+A1: «[…] je suis ce discours qui m'engageroit dans une longue discussion pour respondre sur les deux points que vous desirés de moy» 145 26
+A2: 176 128 192 34 60 24 26 103 28 147 91 136 85 36 95
+A3: 34 29 197 95 400 89 36 48 192 [26 suscrit]? 164? 38 198 88 140
+A4: 22 183 69 136 49 61 183 176 128 48 78 21 118 436
+A5: 79 177 189 164 60 189 89 26 48 79 61 197 85 62 38
+A6: «J'avoue bien que ce doit estre la le principal soin [… f.223v L10-15 clair : …pour vne ou deux années, que l'on fust persuadé que S.E. m'honnore de sa confiance, que les pensions et graces que le Roy donne icy se distribuassent par mes mains et que l'on eust lieu de croire que je fusse capable de rendre de bons services a la Cour, j'y trouverois quelque facilité mais il]»
+B1: «faudroit tousjours faire ce que» 137 60 306? 48 68
+B2: 20 49 61 183 60 381 48 «qu'y ont voulu estre informer»
+B3: «de toutes choses ont pratiqué et pratiquent tous les»
+B4: «jours qu'il est» 83 99 74 86 80 93 89 209 24 28
+B5: 91 60 165 26 191 48? 26 153 24 183 60 31 118 64 137
+B6: 400 69 199 49 48 189 60 164 183 26 48 21 118 67?
+B7: 137 60 78 28 92 153 62 50 27 186 197 31 197 49 28 60
+B8: 91 48 153 437 60 31 118 64 137 60 91 137 48 78 41
+B9: 186 26 21 118 67? 137 48 78 38 92 153 49 50 316?
+== f224r (tranche t2)
+C1: 69 89 196 24 183 21 118 64 137 60 304 48 «auxquels»
+C2: 165 36 191 46 26 153 34 183 48 46 36 94 26 154
+C3: 208 26 23 61 84 36 47 58 62 29 181 26 197 22 60
+C4: 88 48 «plus ou moins» 189 142 36 177 25 60 189 28
+C5: 206 26 29 318 146 34 60 49 36 365 94 26 61 137
+C6: 103 26 41 60 32 48 29 165 198 61 «et que l'on sçait»
+C7: «d'ailleurs ne devoir pas faire long sejour ne trouve»
+C8: «pas ces facilités et de plus» 30 49 164 181 204? 26 29
+C9: 176 91 94 26 158 28 «il faut reconnoistre si ceux»
+C10: 176 142 36 33 181 198 101 22 «sont capables de servir»
+C11: «et quoyque je n'aye pas» 32 36 85 183 319 94 26 154
+C12: «je vois cependant que j'aurois encore mieux fait de»
+C13: «ne me pas tant presser, a present je suis» 99 74 20 112 38
+C14: 411 60 183 140 112 32 49 50 356? 69 108 26 48 53 123
+C15: 76 154 49 28 168 49 38 147 107 23 154 28 91 60 94
+C16: 147 48 198 176 60 24 26 197 25 140 108 26 48 21 118 64
+C17: «la plus part des personnes que j'ay nommé, la croyance»
+C18: «que l'on a» 76 90 82 98 176 128 154 194 34 60 24 84
+C19: 176 168 49 28 103 38 29 165 62 91 438 147 162 34 61
+C20: 20 140 32 38 79 48 117 72 201 91 60 .
+C21: «Je vois souvent les peres Leone et Duneau et je les caresse autant que je puis mais comme l'un et l'autre escrit directement a S.E. il ne faut pas esperer de tirer aucune connoissance d'eux qu'apres qu'ils ont escrit […]»

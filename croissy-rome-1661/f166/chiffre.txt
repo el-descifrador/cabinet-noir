@@ -1,0 +1,73 @@
+# BnF, Baluze 178, f.166r-169r — Colbert de Croissy → J.-B. Colbert (original, souscription autographe), Rome, 28/1/1661 (résultat n°68) — transcription du chiffré.
+# Nombres = groupes du chiffre (nomenclateur « Croissy 1660 », table publiée par S. Tomokiyo, non reproduite ici) ; «…» = clair de la lettre ; ? = lecture ou coupure douteuse.
+# Préfixe = ligne (et page). Transcription de l'équipe sur les images Gallica (non redistribuées), figée avant la lecture. Licence CC BY 4.0.
+== f167r (tranche t0)
+P167r_L8: «faire_part_du_chagrin_que» 136 146 158 22 183 89 112 38 95 92 61 320 «me_donnoit»
+== f167r (tranche t1)
+P167r_L6: «je_vous_avoüe_que_jusqu'a_present_je_ne_vois_pas_que» 137 49 28 60 90 98
+P167r_L7: 73 26 154 48 364 60 «me_puissent_produire_grande_facilité_a_venir»
+P167r_L8: «a_bout_des_affaires_qui_me_sont_commises._Je_vous_ay_desia_mandé»
+P167r_L9: «que» 76 83 90 137 400 22 48 199 24 61? «equitablement» 20 48 189 69
+P167r_L10: 146 25 34 36 197 26 437 154 168 49 38 136 355 «au_moins_a_ce_que»
+P167r_L11: «j'en_ay_peu_reconnoistre_et_apprendre_qu'il_avoit_aussy» 91 136 99 82
+P167r_L12: 127 142 49 191 32 91 136 23 142 24 183 91 426 «mais_que_ce_qu'y»
+P167r_L13: «au_jugement_de_tout_le_monde» 162? 34? 29 «encore_plus» 206? 250? 31? 348?
+P167r_L14: 95 414 79 60 29 136 206 28 191 46 26 «et_s'y_j'ose_dire_avec_les_autres»
+P167r_L15: 137 147 48 27 185 60 176 423 20 168 49 38 383 137 322 69 136 98
+P167r_L16: 117 24 154 85 36 61 183 383 137 323 «de_Portugal?_faisant_paroistre»
+P167r_L17: «comme_je_fais_une_entiere_dependance_de_leurs_ordres_et_direction»
+== f167v (tranche t2)
+P167v_L1: «vous_jugerez_facilement_que_le_succés_de_ma_negociation» 87 90 75
+P167v_L2: 154 165 49 29 164 60 22 48 61 183 103 28 29 118 62 183 49 50 «d'ailleurs»
+P167v_L3: «pour_vous_dire_librement» 25 124 147 49 38 91 383 137 322 «,» 24 35
+P167v_L4: 206 49 29 436 97 34 189 68 154 360? 185 22 36 «veut_avoir» 145 51
+P167v_L5: 189 62 35 136 92 183 21 437 91 60 31? 348? 91 355 69 22 60 62
+P167v_L6: 127 142 49 63 «quoy_qu'y_que_ce_soit» 189 26 147 60 137 147 48 147
+P167v_L7: 192 49 48 189 60 394 48 123 28 149 60 25 307? 40? 181 21 118 191
+P167v_L8: «qu'y_l'entretient_dans_cette_humeur_pour_pouvoir_estre_luy_mesme»
+P167v_L9: 137 164 29 186 36 91 60 31? 348? 95 414 68 97 24 183 188 85 49 28
+P167v_L10: 20 159 60 91 48 165 26 48 30 62 403 95 400 «ou_l'on_dit_qu'est» 192 36
+P167v_L11: 30 61 198 31 118 147 36 29 «au_moins_c'est_le_bruit_commun_quoy_qu'il»
+P167v_L12: «s'efforce_de_me_persuader_le_contraire.»
+P167v_L13: «De_sorte_pour_revenir_au_dit» 74 86 90 80 322 «que_toutes_les_fois_que»
+P167v_L14: «je_luy_propose» 89 23 183 22 38 176 127 24 35 137 192 25? 140? 84
+P167v_L15: 197 28 159 60 31? 348? «ou_auprés_de» 411? 370? «ou_autre_il_me_dit_pour»
+P167v_L16: 147 26 91 60 199 49? 28 154 38 177 25 24 181 177 25 100 181 177 35
+P167v_L17: 164 28 137 181 «qu'il_faut_auparavant_examiner_s'il_est_a_propos,_qu'il»
+P167v_L18: «faut» 188 48 189 45 40 137 38 «et_se_laisse_plustost_pour_ainsy_dire»
+P167v_L19: 22? 36? 61 181 24 60 154 «a_ce_que_je_crois_a_propos_de_faire_pour_le»
+P167v_L20: 194 31 79 48 91 146 391 177 25 188 85 26 189 26 29 68 168 62 28
+P167v_L21: 145 65 97 24 183 20 23 183 32 38 «la_conference_que_j'ay_eu_avec»
+P167v_L22: «ces_Srs_Ugolini_et_Favoriti_pour_la_nomination_du_Roy_aux_benefices»
+P167v_L23: «consistoriaux_des_pays_cedés» 24 35 146 97 25 145 184 113 84 28
+P167v_L24: 20 27 183 64 91 145 51 «pour_cette_formalité_comme_pour_quelque_chose»
+P167v_L25: «de_considerable_et_je_ne_l'ay_obtenu_qu'a_la_seconde_visite,_et_apres» (suite f.168r = v391)
+== f168r (tranche t3)
+P168r_L1: 136 209 24 28 318 165 38 194 20 91 176 128 154 164 28 137
+P168r_L2: 186 34 60 176 91 188 164 38 61 68 32 36 192 26 159 45 «de_sorte_que»
+P168r_L6: «il_est_bien_vray» 99 83 74 86 90
+P168r_L7: 176 191 128 168 49 209 24 60 22 48 165 183 28 91 48 61 183 76
+P168r_L8: 123 26 159 183 91 136 92 183 21 437 91 60 31? 348? 95 414 32 36
+P168r_L9: 79 197 85 62 38 188 36 48 32 60 29 183 «autrement» 91 165 26 89
+P168r_L10: 36 61 95 92 29 320 176 80 93 87 98 «par_le_respect_et_la»
+P168r_L21: «et_d'ailleurs» 89 26 60 49 154 39? 6? 91 99
+P168r_L22: 85 36 31 136 206 «je_pourrois_peut_estre_faire_quelque_chose»
+P168r_L23: 177 27 136 24 186 34 61 20 62 414 30? 426? 68 20 436 32 136
+P168r_L24: 21 55 183 60 198 22 36 197 «mais_ce_qui_m'a_fait» 91 189 48 165
+P168r_L25: 183 28 79 48 29 176 435? 176 383 137 322 189 181 20 412? 24 25
+P168r_L26: 192 49 117 34 29 197 181 89 209 34 38 137 26 198 22 183 92 183 21
+P168r_L27: 437 91 48 313 60 91 355 «comme_luy_peut» 46 48 197 28 188 26 60 (suite f.168v = v392)
+== f168v (tranche t4)
+P168v_L1: 137 183 77 197 38 «veritablement_pour_luy_il_desire_passionnement»
+P168v_L2: 89 25 137 28 22 26 355 192 49 60 137 27 183 197 50 197 91
+P168v_L3: 91 209 437 68 91 183 29 181 24 29 197 «mais_peut_estre_pour»
+P168v_L4: «les_raisons_que_je_vous_ay_mandé_mais» 74 86 83 99 76 90
+P168v_L5: 382 192 62 117 34 61 197 177 25 91 147 49 183 74? 84 «et_j'ay_aussy»
+P168v_L6: «lasché» 91 145 51 165 28 194 20 91 38 133 60 176 20 27 183 189 26 29
+P168v_L7: «ayant_sceu_a_Paris_par» 383 91 42 183 133 48 «et_parce_qu'il_m'a»
+P168v_L8: «dit» 137 92 61 431 322 176 79 60 61 140 26 197 36 437 91 96 81
+P168v_L9: 159 48 29 183 164 61 186 36 «._ainsy_considerant_cette_disposition»
+P168v_L14: «combien» 75 87 80 93 82 98
+P168v_L15: 137 78 153 25 95 322 32 48 29 91 48 20 23 183 30 40 137 20 62
+P168v_L16: 400 «contribuer_quelque_chose_de_considerable_au_bien_du_service»
+P168v_L20: «raisonnement_que_vous_faites» 194 28 79 25 137 91 60 346 «.»

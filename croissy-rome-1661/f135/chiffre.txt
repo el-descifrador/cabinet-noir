@@ -1,0 +1,60 @@
+# BnF, Baluze 178, f.135r-137v — Colbert de Croissy → J.-B. Colbert (original signé), Rome, 17/1/1661 (résultat n°66) — transcription du chiffré.
+# Nombres = groupes du chiffre (nomenclateur « Croissy 1660 », table publiée par S. Tomokiyo, non reproduite ici) ; «…» = clair de la lettre ; ? = lecture ou coupure douteuse.
+# Préfixe = ligne (et page). Transcription de l'équipe sur les images Gallica (non redistribuées), figée avant la lecture. Licence CC BY 4.0.
+== f135v (tranche t1)
+P135v_L1: «d'avoir_qu'il_auroit_esté_a_propos_que» 383 137 322 69
+P135v_L2: 25 306 22 49 60 189 26 29 183 159 49 206 137 75
+P135v_L3: 87 81 99 139 49 28 48 370 60 20 151 26 30 38 185
+P135v_L4: 206 «et_que_j'eusse_esté» 24 36 61 186 95 34 29 30
+P135v_L5: 25 312 164 28 32 49 63 «il_est_trop_tard_de_vous_dire_que_ça_a_esté_ma_premiere_pensée_et_celle_de_M._l'abbé_Benedetti_et_que_mesme_nous_l'avons_proposé»
+P135v_L6: 68 20 206 21 370 «mais_veritablement_les_reflexions_que_j'ay_faict_depuis_sur_la_maniere» 83 99 82 98 81
+P135v_L7: 96 94 26 29 32 60 199 24 61 85 26 79 206 136 372
+P135v_L8: 95 414 «m'a_fait_faire_un_raisonnement» 436 91 80
+P135v_L9: 29 181 206 28 60 177 153 164 48 329? 162 24 61
+P135v_L10: 206 62 360 «parce_que» 35 306 «avoit_assez» 91 21 136 183
+P135v_L11: 30 383 137 322 176 85 197 189 85 26 91 370 99
+P135v_L12: 22 48 199 24 29 34 162 198 137 «mais_il_m'a_nuy_en_mon_particulier_en_ce_que_je_n'ay_pas_seulement»
+== f136r (tranche t2)
+P136r_L1: 89 26 48 136 372 95
+P136r_L2: 414 24 25 154 48 199 34 61 168 34 36 29 360 90
+P136r_L3: 147 26 437? 95 92 61 322 «enfin_dans_le_commencement_de_cette_negotiation_et_dans_la_fin» 127 51 146 28 21 118
+P136r_L4: 85 45 147 49 26 20 300? 23 137 69 191 179 183 49 48
+P136r_L5: 191 192 34 60 137 117 64 20 28 41 51 30 62 186 24 29
+P136r_L6: 23 181 26 53 164 38 29 «mais_j'en_suis_bien_eloigné_comme_vous_voirés» 164 28 436 22 60 147 48 96
+P136r_L7: 91 60 165 21 118 48
+P136r_L8: «J'ay_rendu_jusques_a_present» 30 383 137 322 «tous_les_respects_possibles_et_je_crois_qu'il_en_est_satisfait_pour» 188 85 26 101 20 26 79 128 154 91 60 [barré] 22 48
+P136r_L9: 165 183 164 60 91 136 183 107 23 154 38 «il_ne_sera_pas_aussy_bien_difficil_de_le_retenir»
+P136r_L10: 22 36 73 26 154
+P136r_L11: 368 383 137 323 68 145 65 24 25 60 51 80 83
+P136r_L12: 192 26 29 «a_present» 30 62 435 178 26 137 165 49 29
+P136r_L13: 91 191 183 28 «Je_n'ay_point_receu_de_lettre_de_S.E._par_ce_bord_n'y_mesme_depuis_que_je_suis_icy_ainsy_je_ne_suis_pas_encore_informé_de_la_resolution_que_S.E._aura_prise»
+P136r_L14: 199 49 21 117 26 29 383 137 322 79 176 26
+P136r_L15: 92 29 383 91 371 154 22 60 61 318 206 185 196
+P136r_L16: 40 137 «mais_il_y_a_lieu_de_croire_que» 136 76 80
+P136r_L17: 192 49 28 79 91 60 364? 48 91 79 197 85 62 38
+== f136v (tranche t3)
+P136v_L1: 32 60 29 22 45 168 24 194 26 154 32 «pour_nous»
+P136v_L2: 69 175 34 26 191 137 21 117 26 108 147 36 61
+P136v_L3: 91 78 153 25 198 100 181 185 22 36 «Tous_Messieurs_les_cardinaux_de_nostre_party_trouvent_a_propos_que_je_demande_une_seconde_audience_pour_les_affaires_de_la_nomination_aux_benefices_consistoriaux_et_de_la_Trinité_du_Mont_qui_sont_les_seules_dont_je_puisse_parler_a_present_je_tascheray_de_reconnoistre_mieux_que_la_premiere_fois»
+P136v_L4: 191 25 51 20 140 22 62
+P136v_L5: 91 48 165 183 28 91 168 38 197 28 137 400 30 87 90
+P136v_L6: 164 60 189 38 49 154 73 26 154 85 38 183 60 168 36
+P136v_L7: 89 26 79 30 206 31 136 355 74 86 90 99 81 75 83 «Il_y_a_bien_des_raisons_qui_semblent_m'obliger_a_remettre_cette_audience_jusques_a_ce_que_je_sache_les_resolutions_de_la_Cour»
+P136v_L8: 194 28 137 146 49 204 24 60 194 21 79 48
+P136v_L9: 91 25 313 41 22 399? 74 86 75 87 76 90 80 93 83 99 «pour_lequel_mon_sentiment_estoit»
+P136v_L10: 176 383 137 322 68
+P136v_L11: 383 25 306 85 26 198 162 30 48 189 36 29 20 99
+P136v_L12: 97 24 183 91 48 370 60 «et_mesme» 149 26 61 186 95
+P136v_L13: 34 191 48 189? 36 29 20 35 312 «puisque» 136 77 25
+P136v_L14: 137 92 26 78 147 181 437 95 339 91 332 154 48 29
+P136v_L15: 164 60 3236? 85 183 170 40 140 22 32 «mais_il_n'y_a_aucune_disposition»
+P136v_L16: 91 164 28 61 158 89 49 61 183
+P136v_L17: 68 24 95 60 206 49 137 26 29 20 40 192 145 147 36 61
+== f137r (tranche t4)
+P137r_L1: 20 29 197 26 41 183 137 60 394? 48? 91 136 85 49 28 «cependant_sy_c'est_leur_sentiment_je_crois_qu'il_faudra_que»
+P137r_L2: 128 91 146 26 41 22 312 168 49 28 30 204 36 79 38
+P137r_L3: 137 60 20 49 29 183 48 313 60 177 35? 51? 20? 29 181 24
+P137r_L4: 61 197 28 «Le_S._Hache_m'est_venu_dire_aujourd'huy_qu'estant_au_choix_des_expeditionnaires_de_faire_expedier_les_abbayes_par_la_datarie_ou_par_consistoire_…_la_demande_generalle_du_Roy_pour_la_nomination_aux_benefices_consistoriaux_d'Artois_fut_accordée_ou_refusée»
+P137r_L5: 177 22 60 29 99
+P137r_L6: 62 181 51 189 45 40 136 52 137 147 26 61 74 86
+P137r_L7: 140 36 197 26 437 95 400 87 93 98 80 86 «il_dit_qu'il_en_escrit_a_M._de_Mattac_non_par_comme_d'un_refus_positif…»

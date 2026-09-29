@@ -1,0 +1,13 @@
+# AHNOB (Archivo Histórico de la Nobleza, Toledo), SANTA CRUZ, C.51, D.80 — transcription du chiffré (résultat n°58, Madrid, 30/9/1632).
+# Transcription de l'équipe sur les images PARES (864 px max., non redistribuées). Licence CC BY 4.0.
+# Préfixe de ligne = page/ligne ; [clair] = passage écrit en clair dans la lettre. Conventions de glyphes : voir ../README.md (§ Méthode) et, pour 1634-1635, ../cle/table_glyphes_1634.md si présent.
+# Signes : ≠ ∓ ꝑ ♀ Δ Æ ȣ ʂ ſ J ę ϑ θ ħ đ ǂ … = formes distinctes du manuscrit ; x̃ = marque suscrite ; ? = forme douteuse (comptée non comprise).
+L01 v ab xef 11 43 41 42 sat Æ ff 48 91 p ſ 47 up fer ox
+L02 92 xel sit 30 11 ex ep toc: 30 g ple Jan 95 ab 47 144 29 xol 42
+L03 ye Δ 136 17 94 ȣ 194. h eb far xif K 91 Jun xaf 46 ob plu
+L04 ye 8 48 ho q sit ix 4 set d o hi Δ ven ye Lim plu ye 95 ab v
+L05 174 92 95 ∝ 47 ep e ex ȣ 16 4 b d alt xel fer 136 30 sot xel
+L06 ob y r 47 ip 8~ 17 94 ab 91 tac q 16 xel ab faf 17 42 ob 92 ep
+L07 175. xof 10 fer ilt 16 xel mox. pan 144 h4 xel 27 11 pox yo
+L08 91 30 g ſam saf set ust: yi ob 92 xel vel n4 ye ax 47 144 29
+L09 xol. ep yo J v° 47 29 K 47 30 e M: xaf 47 28 11 h4 o v

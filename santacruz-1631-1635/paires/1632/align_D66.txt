@@ -1,0 +1,55 @@
+# AHNOB SANTA CRUZ C.51 — paire d'époque 1632, alignement chiffre ↔ descifrado : transcription de l'équipe sur les images PARES. CC BY 4.0.
+# ?? = non aligné ; ∅ = sans contrepartie ; ? = douteux (exclu des preuves).
+L01 [début]: v=NUL
+L01 ya: 16=y T=a
+L02 algunos años: bam=?? &=?? bel=?? g=??
+L02 que en esos Estados: 91=que xel=en ye=es yo=os 134=Estado Æ=s
+L02 no se: om=no ep=se
+L02 continuan: 30=co e=n ix=ti um=nu 4=a g=n
+L02 los: ob=lo y=s
+L03 que mis Armas: 92=que sit=mi y=s ȣ=a 10=r sat=ma Æ=s
+L03 tuuieron: ux=tu hi=ui K=e 49=ro e=n
+L03 por lo passado: xof=po 11=r ob=lo xaf=pa ap=sa 44=do
+L03 antes: T=a g=n ex=te y=s
+L04 que siendo: 92=que ip=si xel=en 44=do
+L04 oy los: p=h J=o d=y ob=lo Æ=s
+L04 mayores que: sat=ma 17=y 47=re y=s 91=que
+L04 nunca han: um=nu e=n 27=ca b=h T=a e=n
+L04 descaecido: 42=de y=s 27=ca ſ=e 29=ci 44=do
+L05 las: ab=la y=s
+L05 y la Reputacion: 16=y ab=la 47=re xuf=pu ax=ta 29=ci n=o e=n
+L05 deseado: 42=de ep=se 4=a 44=do
+L06 entender: xel=en ex=te e=n 95=de 10=r
+L06 la causa: ab=la 27=ca yu=us ȣ=a
+L06 de que esto nace: 94=de 93=que ye=es ox=to am=na 28=ce
+L06 para procurar: xaf=pa 46=ra x=p 49=ro 31=cu 46=ra 10=r
+L07 la atencion: ab=la q=a ex=te g=n 29=ci J=o e=n
+L07 que deuo en su: 91=que 42=de ho=uo xel=en up=su
+L07 si bien puedo: ip=si hi=bi xel=en xuf=pu 44=do
+L08 Juzgar: 18=z pax=ga
+L08 que el: 91=que fer=el
+L08 confusion: 30=co g=n uc=fu ip=si
+L08 de los Extos: 94=de ob=lo y=s 136=Exto Æ=s
+L09 turba su: ux=tu 11=r ha=ba up=su
+L09 disciplina: 43=di 29=ci ib=li am=na
+L09 y los: 17=y ob=lo Æ=s
+L09 que dellos: 92=que n4=d fer=el ob=lo Æ=s
+L09 se: ep=se
+L10 esperar: ye=es xef=pe 46=ra 11=r
+L10 y ay parece: 17=y T=a p=h d=y xaf=pa 47=re 28=ce
+L10 que por esto: 91=que xof=po 11=r ye=es ox=to
+L10 no obran: om=no J=o ę=b 46=ra g=n
+L11 ni pelean: im=ni xef=pe eb=le T=a g=n
+L11 ya como solian: 16=y q=a 30=co sot=mo op=so ib=li T=a e=n h4=NUL
+L12 deste: 42=de Æ=s ex=te
+L12 descaecimiento: 95=de y=s 27=ca ſ=e 29=ci sit=mi xel=en ox=to
+L12 me digais: set=me 43=di pax=ga yi=is
+L13 encargo: xel=en 27=ca 10=r pox=go
+L13 lo que sentis: ob=lo 91=que ep=se e=n ix=ti Æ=s
+L13 y se os ofrece: 17=y ep=se yo=os J=o m=f 47=re 28=ce
+L13 sobre la forma: suf=sobre ab=la 144=forma
+L14 de pelear: 42=de xef=pe eb=le q=a 11=r
+L14 a que se: ȣ=a 91=que ep=se
+L14 debria: 94=de ę=b 48=ri T=a
+L14 Reducir: 47=re 45=du 29=ci 11=r
+L14 ese Exto: ye=es ſ=e 136=Exto

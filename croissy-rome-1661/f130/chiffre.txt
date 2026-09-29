@@ -1,0 +1,33 @@
+# BnF, Baluze 178, f.130r-131v (chiffre f.130v-131r) — Colbert de Croissy → J.-B. Colbert (original signé), Rome, 10/1/1661 (résultat n°59) — transcription du chiffré.
+# Nombres = groupes du chiffre (nomenclateur « Croissy 1660 », table publiée par S. Tomokiyo, non reproduite ici) ; «…» = clair de la lettre ; ? = lecture ou coupure douteuse.
+# Préfixe = ligne (et page). Transcription de l'équipe sur les images Gallica (non redistribuées), figée avant la lecture. Licence CC BY 4.0.
+== f130v
+L01: 136 146 136 92 32 95 400 85 26 198 162 22 «et M.»
+L02: «L'abbé Elpidio Benedetti me vient de dire que» 79 60
+L03: 199 24 29 49 26 183 136 48 21 118 147 36 61
+L04: 91 60 199 146 31 43 177 145 51 78 49 189 62 154
+L05: 22 48 165 79 91 92 60 189 36 197 185 22 177 25
+L06: 189 «ressentoit aussy» 95 154 120 41 186 167 191 22
+L07: 206 36 197 49 189 94 26 61 24 35 30 209 34 29
+L08: 22 60 197 «cy devant» 20 29 196 176 «pour moy je vous»
+L09: «avoue que je ne me fie point encore assez» 20 49 50
+L10: 314 176 142 36 147 94 26 154 168 49 28 137 60
+L11: 46 189 38 146 26 91 28 20 426 «.»
+L12: «M. Froment» 30 206 49 24 84 137 431 136 209 78 29
+L13: 177 22 60 29 20 383 137 320 91 183 29 64 «J'ay appris»
+L14: «aussy que le» 431 21 117 48 189 40 181 60 51 22 48
+L15: 199 24 61 69 177 25 60 209 130 128 26 29 20 60
+L16: 189 48 192 49 206 26 61 383 137 324 177 22 36
+L17: 29 183 197 159 24 29 85 28 183 48 168 26 89 36
+L18: 79 69 20 149 198 32 30 206 21 137 92 61 320 91
+L19: 183 29 64 «M. l'abbé de Bourlemont me l'a aussy»
+== f131r
+M01: «confirmé et dit qu'il sçavoit de bonne part» 176 . 74 .
+M02: 90 . 82 . 86 . 137 400 30 209 24 29 22 60 21 185 61
+M03: 30 49 92 61 320 91 183 29 64 68 «qu'il y avoit dans»
+M04: 188 137 29 61 183 79 48 151 29 60 20 22 23 183
+M05: 164 198 152 28 178 41 189 45 165 38 32 50 24
+M06: 149 20 208 38 201 60 201 20 165 28 189 88
+M07: 198 46 154 57 164 198 30 201 28 «jugés par la»
+M08: «de la bonne disposition» 91 79 198 85 49 38 168 62
+M09: 28 159 60 313 48 «.»

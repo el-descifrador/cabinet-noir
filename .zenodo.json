@@ -27,7 +27,7 @@
     "AI agents"
   ],
   "related_identifiers": [
-    {"identifier": "https://github.com/el-descifrado/cabinet-noir", "relation": "isSupplementTo", "scheme": "url"}
+    {"identifier": "https://github.com/el-descifrador/cabinet-noir", "relation": "isSupplementTo", "scheme": "url"}
   ],
   "notes": "Clés de tiers citées, non redistribuées. Données et textes sous CC BY 4.0 ; scripts éventuels sous MIT."
 }

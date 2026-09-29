@@ -1,0 +1,22 @@
+# AHNOB SANTA CRUZ C.51 D.80 (résultat n°58) — déchiffrement brut. Valeurs = clé figée indiquée dans lecture.md ; [x] ou * = NON compris ; ! = mot refusé ; les taux de référence sont ceux du vérificateur (lecture.md), pas ceux qu'impriment les scripts du casseur. CC BY 4.0.
+
+## Mots (✓ compris / ✗ non compris), mesure scriptée
+✓ la ✓ perdida ✓ de ✗ mas[ff]rique ✓ he ✓ resuelto ✓ que ✓ en ✓ mi ✓ corte ✓ se ✗ [toc:] ✗ co[g] ✗ [ple]
+✗ [Jan] ✓ de ✓ la ✗ reformaci[xol] ✓ de ✓ ese ✓ Exto ✓ i ✓ de ✗ a[194.] ✗ [h]le ✓ al ✗ [xif]e ✓ que
+✗ [Jun] ✓ para ✓ lo ✗ [plu] ✓ escriuo ✓ a ✓ mi ✓ tia ✓ me ✗ i[o]uie ✗ [ven]es ✗ [Lim] ✗ [plu]es ✓ de
+✓ la ✗ [174] ✓ que ✓ de ✓ presente ✓ ai ✓ ahi ✗ [alt] ✓ en ✓ el ✓ Exto ✓ como ✓ en ✓ los
+✗ presi[8~] ✓ i ✓ de ✓ la ✓ que ✗ [tac] ✓ ai ✓ en ✓ la ✗ [faf] ✓ i ✓ de ✓ lo ✓ que
+✓ se ✗ [175.] ✓ por ✓ el ✗ [ilt] ✓ i ✓ en ✗ [mox.] ✓ cualquier ✓ forma ✓ encargoos ✓ que ✗ co[g] ✗ [ſam]
+✗ [saf] ✓ me ✗ [ust:]is ✓ lo ✓ que ✓ en ✗ [vel]d ✓ esta ✗ reformaci[xol.] ✓ se ✓ os ✗ o[v°]reciere ✓ con ✗ [M:]
+✓ parecer ✗ [o]
+
+## Segmentation en mots (groupes chiffrés)
+P1L01 v | ab | xef 11 43 41 | 42 | sat Æ ff 48 91 | p ſ | 47 up fer ox
+P1L02 92 | xel | sit | 30 11 ex | ep | toc: | 30 g | ple | Jan | 95 | ab | 47 144 29 xol | 42
+P1L03 ye Δ | 136 | 17 | 94 | ȣ 194. | h eb | far | xif K | 91 | Jun | xaf 46 | ob | plu
+P1L04 ye 8 48 ho | q | sit | ix 4 | set | d o hi Δ | ven ye | Lim | plu ye | 95 | ab | v
+P1L05 174 | 92 | 95 | ∝ 47 ep e ex | ȣ 16 | 4 b d | alt | xel | fer | 136 | 30 sot | xel
+P1L06 ob y | r 47 ip 8~ | 17 | 94 | ab | 91 | tac | q 16 | xel | ab | faf | 17 | 42 | ob | 92 | ep
+P1L07 175. | xof 10 | fer | ilt | 16 | xel | mox. | pan | 144 | h4 | xel 27 11 pox yo
+P1L08 91 | 30 g | ſam | saf | set | ust: yi | ob | 92 | xel | vel n4 | ye ax | 47 144 29
+P1L09 + xol. | ep | yo | J v° 47 29 K 47 | 30 e | M: | xaf 47 28 11 | h4 | o | v

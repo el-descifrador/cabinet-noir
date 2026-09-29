@@ -1,0 +1,16 @@
+# AHNOB (Archivo Histórico de la Nobleza, Toledo), SANTA CRUZ, C.51, D.6 — transcription du chiffré (résultat n°62, Madrid, 29/6/1631).
+# Transcription de l'équipe sur les images PARES (864 px max., non redistribuées). Licence CC BY 4.0.
+# Préfixe de ligne = page/ligne ; [clair] = passage écrit en clair dans la lettre. Conventions de glyphes : voir ../README.md (§ Méthode) et, pour 1634-1635, ../cle/table_glyphes_1634.md si présent.
+# Signes : ≠ ∓ ꝑ ♀ Δ Æ ȣ ʂ ſ J ę ϑ θ ħ đ ǂ … = formes distinctes du manuscrit ; x̃ = marque suscrite ; ? = forme douteuse (comptée non comprise).
+[clair] ... Pedro de S. Jul auisa que llego el correo que llebaua nuebas prouisiones con que creo habreis salido de cuydado en esta parte
+L01 o+ 40 202 for
+L02 fer er ≠ fan 4 pan ed D 11 pen 68 fan tor sal 2 pen gus 36 Jul 79 Q:
+L03 pan ≠ 95 fin ed xir 72 4 C̲ ed 92 v ha 68 fan pun 77 ha fus ǂ
+[clair] aguardo auiso vro de lo que ha intentado el enemigo y de la disposicion con que se halla vro exercito. Fio de Dios que nos ha de ayudar. Aora he mandado despachar este correo al Marques de Aytona
+L04 đ fos pon ad v tra ud pan ≠
+L05 [?] 40 D 1 fan 73 for ≠ᵈ 2 xir hi 74 v pon 99 4 tra 68 fan ed 77 m 73
+L06 er 4 ter pon 65 k tra Q: dal 77 o ven 119 tra 16 ≠ 67 Q: v sol fan
+L07 id 79 Jil 72 tra 68 fan xul 13711 201: 77 he 78 4 fur 2 ħ hi for
+L08 tra 68 fan 66 D 1 cro for 40 Ja far 78 o+sup xer tra pin ≠ xer 68 fan 79
+L09 sal 2 pen fos ho for ǂ
+[clair] De Madrid a 29 de Junio 1631 / Yo el Rey / Andres de Rozas
