@@ -1,0 +1,12 @@
+# BnF, Français 3234, pièce 61, f.103r-v — Gasparo Fogliani (Paris) → Renée de France, 20/10/1568 (résultat n°2) — transcription du chiffré.
+# f.103r (Gallica vue 104) : 5 lignes finales L1-L5 ; f.103v (vue 105) : 2 lignes V1-V2. Transcription de l'équipe, corrigée après vérification. Licence CC BY 4.0.
+# Codage des glyphes : 3=ʒ  Y=ɤ (V à queue)  t=ŧ (t barré)  q=« 4 »  8=δ  7=ɿ  x=×  z=z  2=« 2 »/ɀ  g=g/9 (deux formes non séparées : d et u/v)
+#  H=glyphe unique (h à queue)  IR=groupe « ı ɿ » (code de nom)  #=signe caviardé (tache) ; suffixe ' = trait suscrit (nulle entre lettres doublées) ;
+#  suffixe . = point(s) suscrit(s) (sans effet) ; ? = lecture douteuse. Les autres lettres ASCII sont les glyphes eux-mêmes (voir cle/fogliani1568.tsv).
+L1: 3 o n y # 7' y r n t t n * 3 y s. 3. v b g o g o v b 3 g n t Y v 3 3 x Y b z a s q b * o r 3 v b s. q b o x IR y n y q 3. 7 7 i?
+L2: 8 3 g n v o Y' n x o b s n t g b x t o 2 y n v g g s. 3 g o d g b x * n H n s q b * o r 3 v b s. q b g n g b 3. b t t b y g n x g o
+L3: s. q b 2 n g b v y 3. s n * b 8 3. o y d g b t Y o Y b * r o b Y t b o n r o Y b t o' t o g o v x b n 2 y o s. n t 3 o y r n s 3. t s v o
+L4: Y 7' Y g v 3 g n t Y v. 3. 3. x Y b z a g b g v o 3 s. q b q 3 * n t Y v. 3 Y n' Y b y o v b r n s n s n y Y n g o t g 3. b s. b x b y
+L5: z a s. q b * o q 3 8. 3 Y Y n * 3 v 3 2? o 2 x o 3. v b 3 t t 3 o r b v s q b y n y x n q 3 g v b o * 3. o r b y t 3 Y n b Y t b
+V1: o n 8 n t o' t o o y r 3 v Y b s q b o n x b r n Y b t t o r 3 v x 3 v b x b g o v b o s n t b s q b x b r 3 Y? b v b 7. 7 n?
+V2: y n t Y v 3 y b s n * b r 3 v t b v n 3 * b d g 3 y g n t n s s b t t b o x 8 3 Y Y n o'

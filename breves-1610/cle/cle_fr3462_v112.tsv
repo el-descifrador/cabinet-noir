@@ -1,0 +1,243 @@
+# Clé BnF Français 3462, vue 112 (Gallica ark:/12148/btv1b9058227h/f112), feuille unique non titrée : clé Brèves ↔ Cour (Rome), datée 1608-1610 par sa nomenclature
+# (Dauphin, Mr d'Orléans, Mr d'Anjou né en 1608, Madame l'aisnée / la puisnée, archiducs Albert et Isabelle, cardinal Borghèse). Retrouvée et transcrite par l'équipe
+# (lecture à l'écran ; formes de signes = approximations typographiques). Licence CC BY 4.0 pour la transcription.
+alpha	3	a	0.9	= notre 3=a
+alpha	J	a	0.75	(J/ɔ)
+alpha	x	a	0.75	x aussi en Q (2e ligne) : x = a|q
+alpha	&	a	0.6	signe en « 8/& »
+alpha	ƀ(b à crochet)	b	0.6
+alpha	ℯ/c	b	0.5
+alpha	ℓ	b	0.5
+alpha	ƒ (f barré)	b	0.5
+alpha	u	c	0.9	= notre u=c
+alpha	ↄ (crochet épais)	c	0.6
+alpha	ƺ/5	c	0.5	ATTENTION : notre 5/ƺ = n (0,4-0,6) ; confronter
+alpha	ʒ (3 à queue)	c	0.5
+alpha	+ (f/t barré)	d	0.8	= notre + = d ; B lisait « t » = d
+alpha	ſ	d	0.6
+alpha	z (ꝛ)	d	0.6	B : z = d|p
+alpha	ba	d	0.7
+alpha	q	e	0.9	= notre q=e (notre « 9 » = probablement ce q)
+alpha	r/ɛ (petit)	e	0.5
+alpha	88/ß	e	0.6
+alpha	# (ff barré)	e	0.5	à distinguer de ǂǂ = t
+alpha	ꝑ (p barré)	f	0.7	notre ꝑ = l (0,6) → à corriger en f ?
+alpha	o	f	0.6
+alpha	g	f	0.6
+alpha	r	g	0.9	= notre r=g
+alpha	ß (ff croisé)	g	0.5
+alpha	ſſ	g	0.5
+alpha	f (long)	h	0.7	B : f = h|n|b
+alpha	ɱ	h	0.5
+alpha	ɱ'	h	0.5
+alpha	k	i	0.8	B : k = i|o
+alpha	ſ barré	i	0.5
+alpha	m (trait)	i	0.6	B : m = i|l
+alpha	y	i	0.8	= notre y=i
+alpha	1	l	0.85	= notre 1=l (revolte)
+alpha	ɱ (m à queue)	l	0.5
+alpha	ℒ (L bouclé)	l	0.5
+alpha	ℒ2	l	0.4
+alpha	a	m	0.85	= notre a=m (Mesdames)
+alpha	b	m	0.85	= notre b=m (mariage)
+alpha	c	m	0.6
+alpha	d/∂	m	0.7	= notre d=m (mauvais)
+alpha	c/e	n	0.6
+alpha	f (long)	n	0.5
+alpha	g (ƍ)	n	0.5
+alpha	h (ʒ-like)	n	0.6	notre h=n ; ATTENTION h aussi en R
+alpha	J (ʃ)	o	0.6
+alpha	k barré	o	0.6
+alpha	a+ (a barré)	o	0.85	= notre a+ = o
+alpha	n	o	0.6
+alpha	ƅ (grand b à crochet)	p	0.5
+alpha	Z	p	0.6
+alpha	d	p	0.7	= notre d=p (nepveu)
+alpha	ff barré	p	0.5
+alpha	c̄ (c à trait)	q	0.5
+alpha	x	q	0.6
+alpha	y barré	q	0.5
+alpha	e	q	0.5
+alpha	h	r	0.6	CONFLIT avec h=n (detenu)
+alpha	π	r	0.5
+alpha	δ	r	0.8	= notre δ/∂ = r
+alpha	ƀ (b barré)	s	0.7	= probablement notre « c+ » (= ǂ de Bourdeau)
+alpha	a/d	s	0.4
+alpha	ƀ bouclé	s	0.6
+alpha	ǂǂ	t	0.9	= notre ǂǂ = t
+alpha	qq (barré)	t	0.9	= notre qq = t
+alpha	ʐ	t	0.5
+alpha	ro	v/u	0.85	= notre ro = u (nepveu)
+alpha	tu (ᵗu)	v/u	0.4
+alpha	∂a (da)	v/u	0.85	= notre ∂a = u/v
+alpha	l	x	0.6
+alpha	mm	x	0.6
+alpha	nn	x	0.6
+alpha	oo	x?	0.3	ligne du bas ; mais oo = NULLE dans l'encadré « Nulles »
+alpha	g/ʒ	y	0.5
+alpha	ʒ	y	0.4
+alpha	ħ	y	0.5
+alpha	ī	y	0.3	ligne du bas
+alpha	e	z	0.5
+alpha	3ſ	z	0.4
+alpha	ſ̄	z	0.4
+nulle	oo	(nulle)	0.9	encadré « Nulles » : oo, x barré, [mm barré], mm ; = notre oo nulle
+nom	4	le pape, Sa Sainteté	0.95
+nom	5	le Roy, Sa ou Votre Majesté	0.9
+nom	6	la Reyne	0.9
+nom	7	Mr le Dauphin	0.9
+nom	8	Mr d'Orléans	0.9
+nom	9	Mr d'Anjou	0.9
+nom	10	Madame l'aisnée	0.9
+nom	11	Madame la puisnée	0.9
+nom	12	Mr le prince de Condé	0.9
+nom	13	Mr le comte de Soissons	0.9
+nom	14	le Roy d'Espagne	0.9
+nom	15	la Reyne d'Espagne	0.9
+nom	16	le prince d'Espagne	0.9
+nom	17	l'Infante d'Espagne	0.9
+nom	18	le prince puisné d'Espagne	0.85
+nom	19	l'Empereur	0.9
+nom	20	l'archiduc Mathias	0.85
+nom	21	l'archiduc Ferdinand	0.85
+nom	22	le Roy d'Angleterre	0.9
+nom	23	la Reyne d'Angleterre	0.9
+nom	24	le prince de Galles	0.85
+nom	25	le duc d'York	0.85
+nom	26	la princesse d'Angleterre	0.85
+nom	27	l'archiduc Albert	0.85
+nom	28	l'archiduchesse	0.85
+nom	29	les archiducz	0.85
+nom	30	la Seigneurie de Venise	0.85
+nom	31	le grand duc	0.9
+nom	32	la grande duchesse	0.85
+nom	33	les princes de Toscane	0.8
+nom	34	le duc de Savoye	0.9
+nom	35	le prince de Piedmont	0.85
+nom	36	les princes de Savoye	0.85
+nom	37	les treize cantons	0.8
+nom	38	les Suisses	0.8
+nom	39	les Grisons	0.8
+nom	40	les trois ligues grises	0.8
+nom	41	le duc de Parme	0.85
+nom	42	le duc de Modène	0.8
+nom	43	le duc de Mantoue	0.7
+nom	44	le duc de Lorraine	0.6
+nom	45	le duc de Bar	0.5
+nom	46	les Estatz des Pays-Bas ?	0.4
+nom	47	le prince Maurice	0.7	numérotation 47-49 décalée d'une ligne (à revoir)
+nom	48	le duc de Lerme	0.6
+nom	49	Mr de Sully	0.6
+nom	50	Mr de Villeroy	0.7
+nom	51	Mr le Chancelier	0.7
+nom	52	Mr d'Halincourt ?	0.4
+nom	53	Mr de Béthune	0.6
+nom	54	le Cardinal de Joyeuse	0.8
+nom	55	le Cardinal de Givry	0.7
+nom	56	le Cardinal Bonsi ?/Tosco ?	0.3
+nom	57	le Cardinal du Perron	0.8
+nom	58	le Cardinal de La Rochefoucauld	0.8
+nom	59	le Cardinal de Sourdis	0.8
+nom	60	le Cardinal Aldobrandini	0.8
+nom	61	le Cardinal St Georges	0.7
+nom	62	le Cardinal Borghese	0.8
+nom	63	le Cardinal del Bufalo	0.7
+nom	64	le Cardinal Barberini	0.7
+nom	65	le frère aîné du pape	0.8
+nom	66	le second frère de Sa Sainteté	0.7
+nom	67	le Sr ? (Gortinha ?)	0.3
+nom	68	le marquis ? 	0.3
+nom	69	? (marq... mon)	0.2
+nom	70	l'evesque de ? 	0.3
+nom	71	le Sr don Jouan	0.5
+nom	73	Allemagne	0.5	numéros 72-77 décalés d'une ligne
+nom	74	Allemans ?	0.4
+nom	75	Angleterre	0.4
+nom	76	Anglois	0.4
+nom	77	a… ?	0.2
+mot	78	avoir	0.7
+mot	79	avec	0.8	= B
+mot	80	au	0.5
+mot	81	aussy	0.6
+mot	82	ambassade ?	0.4
+mot	83	amitié	0.6
+mot	84	amis	0.6
+mot	85	avancer ?/armer ?	0.3
+mot	86	armée	0.7	= B (armes)
+mot	87	bon ?	0.4
+mot	88	bien ?	0.4
+mot	89	beaucoup	0.7
+mot	90	bataille ?	0.4
+mot	91	bataille	0.6
+mot	92	baron ?	0.3
+mot	93	bonheur ?	0.3
+mot	94	Bretagne	0.6
+mot	95	Barbarie ?	0.3
+mot	96	Cardinal	0.8
+mot	97	Cardinaux	0.8
+mot	98	cas ?	0.4
+mot	98°	commune ?	0.3
+mot	99	combien ?	0.4
+mot	a,	ce	0.9	= notre a,
+mot	b,	celuy	0.85	= notre b,
+mot	c,	ceux ?	0.5
+mot	d,	chevaux ?	0.4
+mot	e,	? (Ayez/cy ?)	0.2
+mot	f,	? 	0.2
+mot	g,	cela ?	0.3
+mot	h,	comme	0.5
+mot	i,	de	0.7	= notre « ∂, » = de
+mot	k,	du	0.85	= notre k,
+mot	l,	des	0.6	notre l, = de (v47-48) → des
+mot	m,	dict ?	0.4
+mot	n,	donne(r)	0.5
+mot	o,	Espagne	0.8
+mot	p,	Espagnols	0.8	= notre « 4, » (p lu 4 ?)
+mot	q,	ennemis	0.6
+mot	r,	entre	0.6
+mot	s,	? (envoye ?)	0.3
+mot	t,	envieux ?	0.3
+mot	u,	encore	0.6
+mot	x,	en	0.7	= B
+mot	y,	et	0.9	= notre y,
+mot	z,	estat ?	0.4
+mot	&, (C9)	Estoire ?	0.3
+mot	4̄	Flandres	0.6
+mot	5̄	France ?	0.4
+mot	6̄	faute ?	0.4
+mot	6̄0?	fils ?	0.3
+mot	7̄	fin ?	0.3
+mot	8̄	facile	0.5
+mot	9̄	France/Francois ?	0.4
+mot	1̄0	Florence	0.6
+mot	1̄1	Francois ?	0.3
+mot	1̄2	Florentins	0.5
+mot	1̄3	Gennes	0.5
+mot	1̄4	Genevois ?	0.3
+mot	1̄5-2̄1	grand, grandeur, gouverneur, gouvernement, guerre, general, Geneve ?	0.5	ordre sûr, numéros exacts à relire
+mot	2̄2-2̄7	hommes, hommage ?, haut, hayne, Hollande, Hollandois	0.5
+mot	2̄8	j'ay	0.6
+mot	2̄9	je	0.6
+mot	3̄0	il	0.6
+mot	3̄1	jy ?/ils ?	0.3
+mot	3̄2	jusques	0.6
+mot	3̄3	jamais	0.6
+mot	3̄4	Italie	0.7
+mot	3̄5	Italiens	0.7
+mot	3̄6	Irlande	0.6
+mot	3̄7	Irlandois	0.5
+mot	3̄8	la	0.8	= notre 3̄8 = la ✔
+mot	3̄9	le	0.8	= notre 3̄9 = le(s) ✔
+mot	4̄0	luy	0.8	= notre 4̄0 = luy ✔
+mot	4̄1	leur(s) ? (« Lcurs »)	0.5	notre 4̄1 (Marie) = mot après luy
+mot	4̄2	les Chrestiens ?	0.4
+mot	4̄3	Lucques	0.6
+mot	4̄4	Milan	0.6
+mot	4̄5	Milanois	0.6
+mot	4̄6	may ?	0.3	DERNIÈRE entrée de la feuille
+mot	7̄2	que	0.9	gloses fr 18005 v48 ×2
+mot	7̄3	qui	0.8	glose fr 18005 v33
+mot	7̄9	re (syllabe)	0.85	glose fr 18005 v33 « se rendre » ; CONFIRMÉ verif-breves-2
+mot	8̄6	se (syllabe)	0.65	HYP run 11 : Marie Sept « ce se-ra », « faibles-se » ; fr 18005 v33 « 86 » (sans barre ?) glosé « se »
+mot	8̄8	tous	0.8	glose fr 18005 v20
+mot	9̄0	tion (syllabe) ?	0.45	HYP run 11 : Marie Sept « ambi-[9̄0] » (leur malice et ambition)

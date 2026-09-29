@@ -1,0 +1,27 @@
+# Clé du chiffre de Fogliani (1568), RECONSTITUÉE PAR NOUS par cryptanalyse (substitution simple, quelques homophones, nulles), vérifiée par un vérificateur
+# indépendant (solveur relancé à l'aveugle). Licence CC BY 4.0.
+# Colonnes : signe (codage ASCII de chiffre.txt), glyphe, valeur, occurrences et mots de contrôle.
+3	ʒ	a	vostra, assai, maravigliare, mai, fatto
+a	a	a	alteza, eccellenza (toujours après z : « za »)
+b	b	e	che, pare, tenire, essendo
+s	s	c	che, cosa, poca, come, perche
+q	« 4 »	h	che, ha, habbi, haurei
+*	✱	m	mancare, mi, modo, come, mai
+o	o	i	mi, di, dire, quel? (non), questi, ogni
+n	n	o	non, posso, modo, conto, fatto
+y	y	n	non, ogni, tenire, pensato, essendo
+v	v	r	pare, vostra, signor, perche, dire
+r	r	p	posso, pare, poca, tempi, pensato, perche
+t	ŧ	s	posso, assai, questi, sua, cosa
+Y	ɤ	t	vostra, alteza, tempi, fatto, conto
+x	×	l	il, quel, lo, dirle, eccellenza (Y/x très proches, confusions possibles)
+g	g/9	u,v | d	vostra, sua, haurei (u/v) ; di dire, dovea, essendo, conto di, duca (d) — probablement 2 glyphes non distingués à la transcription
+H	h à queue	d	modo (1 occ., homophone de d)
+d	d	q	quel, questi, quando
+8	δ	f	favorito, fa, fatto, fossi
+z	z	z	alteza, eccellenza
+2	2/ɀ	g	signor, gouerna, ogni, maravigliare
+7	ɿ	b	habbi, parerebbono (V1, 1er ɿ pointé comme dans habbi)
+i	ı	i	(fin de L1, « habbi » : lu ı = i ; 1 seule occ. hors groupe IR)
+IR	ı ɿ	[NOM]	« il [IR] non habbi favorito... essendo lui che governa » : code de personne masculin, hypothèse forte = cardinal de Lorraine (non prouvée)
+X'	signe + trait suscrit (7', o')	nul	scrit[7']tura, fos[o']si, pite[o']ssi (L3), no[7']n : placé entre lettres doublées (seule nulle attestée ; pas dans parerebbono)

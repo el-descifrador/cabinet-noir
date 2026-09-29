@@ -51,7 +51,7 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 
 | n° | Document | Cote | Date | Clé | Taux groupe / mot | Réserves principales | Nouv. | Dossier |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Roi Joseph → Napoléon (planche dite « Berthier ») | voir dossier | ~22/12/1812 | P (Grand Chiffre) | lettre entière lue | déjà déchiffrée par Scovell (TNA WO 37/2/21) | C | [joseph-napoleon-1812](joseph-napoleon-1812/) |
+| 1 | Roi Joseph → Napoléon (planche dite « Berthier ») | chiffré : J. Vilcoq, *Revue historique de l'Armée*, 1969, n° 4, planche p. 24 ; déchiffrement d'époque : TNA WO 37/2/21 | 22/12/1812 | P (Grand Chiffre) | lettre entière lue | déjà déchiffrée par Scovell (TNA WO 37/2/21) | C | [joseph-napoleon-1812](joseph-napoleon-1812/) |
 | 2 | Fogliani → Renée de France | BnF fr 3234 p. 61 f.103 | 20/10/1568 | C (substitution simple) | lettre entière ; solveur reproduit à l'aveugle | code « IR » non prouvé | A prov. | [fogliani-1568](fogliani-1568/) |
 | 3 | Marie de Médicis → Brèves (2 passages) | BnF fr 3789 f.19 (et f.17) | 10/11 (et 15/09) 1610 | E (clé retrouvée dans fr 3462) | 38/38 et 59/59 signes | 2 valeurs de contexte ; faute du chiffreur | A prov. | [breves-1610](breves-1610/) |
 | 4 | Montholon → Nevers (2 billets) | BnF fr 3414 p. 78 (f.126-127) | 15 et 18/11/1589 | P (Tomokiyo) | ≈85 % du chiffré (95,5 % des groupes par la clé publiée) / — | clair partiellement non transcrit ; ~25 non résolu | A prov. | [montholon-1589](montholon-1589/) |
