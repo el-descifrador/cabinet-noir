@@ -4,20 +4,20 @@
 
 **Lettres chiffrées historiques : lectures vérifiées (XVIᵉ-XIXᵉ siècle)** · *Historical cipher letters: verified readings (16th-19th century)*
 
-> **FR.** Ce dépôt réunit 75 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg) :
-> **71 lectures confirmées** par un vérificateur indépendant (presque toutes **« avec réserves »**) **+ 4 lectures partielles** (n°10, 11, 16, 22), qui restent **sous le seuil de 80 %**
+> **FR.** Ce dépôt réunit 79 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg, Niedersächsisches Landesarchiv Stade, Landesarchiv NRW) :
+> **76 lectures confirmées** par un vérificateur indépendant (presque toutes **« avec réserves »**) **+ 3 lectures partielles** (n°10, 16, 22), qui restent **sous le seuil de 80 %**
 > selon au moins une mesure et ne sont pas comptées comme confirmées (voir § 3). Pour chaque lettre : transcription du chiffré, clé utilisée
 > (nos clés ; pour une clé publiée par un tiers, seulement la référence et nos compléments), lecture, taux mesurés par le vérificateur, réserves, sources (liens, aucune image).
 > Le travail a été fait par une équipe d'agents d'IA (Claude, Anthropic) coordonnée par un humain ; les lectures sont des **propositions argumentées**, pas des éditions critiques.
 >
-> **EN.** This repository gathers 75 readings of cipher letters kept in European archives (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg):
-> **71 confirmed readings** by an independent verifier (most of them **"with reservations"**) **+ 4 partial readings** (nos. 10, 11, 16, 22) that fall **below the 80 % threshold**
+> **EN.** This repository gathers 79 readings of cipher letters kept in European archives (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg, Niedersächsisches Landesarchiv Stade, Landesarchiv NRW):
+> **76 confirmed readings** by an independent verifier (most of them **"with reservations"**) **+ 3 partial readings** (nos. 10, 16, 22) that fall **below the 80 % threshold**
 > under at least one measure and are not counted as confirmed (see § 3). For each letter: ciphertext transcription, key used (our own keys;
 > for keys published by third parties, only the reference and our additions/corrections), reading, verifier's scores, reservations, sources (links only, no images).
 > The work was done by a team of AI agents (Claude, Anthropic) coordinated by a human; readings are **argued proposals**, not critical editions.
 > Documentation is in French; the table below is self-explanatory (n°, shelfmark, date, key origin, verified rates per cipher group / per word).
 
-**Statut / status : version 1 (préparée le 29/09/2026). Auteur : Descifrado. Dépôt : https://github.com/el-descifrador/cabinet-noir.**
+**Statut / status : version 1.1.0 (29/09/2026 ; voir le « Journal des versions » en fin de fichier). Auteur : Descifrado. Dépôt : https://github.com/el-descifrador/cabinet-noir.**
 
 ---
 
@@ -29,12 +29,12 @@
    Les taux sont ceux du **vérificateur** (sa transcription, son script), selon une **mesure sévère** : tout signe à deux valeurs, toute hypothèse, tout code à un seul contexte,
    tout groupe caché dans la reliure compte comme **non compris**.
 3. **Deux sortes de résultats**, à ne pas confondre :
-   - **clé cassée / reconstruite / retrouvée par nous** (vraies percées : Malsburg 1637, Santa Cruz 1631-1635, Ridolfi 1646, Fogliani 1568, Ventadour 1595, Brèves 1610) ;
-   - **première lecture avec une clé publiée ou d'époque** (Tomokiyo, Devos 1950, table du Grand Chiffre, clé notée par le déchiffreur d'époque…) : le mérite de la clé revient à son auteur.
+   - **clé cassée / reconstruite / retrouvée par nous** (vraies percées : Malsburg 1637, Charles X Gustave 1657, Santa Cruz 1631-1635, Ridolfi 1646, Grana 1650, Fogliani 1568, Ventadour 1595, Brèves 1610 ; à un moindre degré, la clé d'époque n°71 de Nevers, identifiée par nous comme celle de Montholon (n°11) : clé retrouvée, pas cassée, dont l'alphabet était déjà reconstitué par Tomokiyo ; l'apport est l'identification et la table des noms) ;
+   - **première lecture avec une clé publiée ou d'époque** (Tomokiyo, Devos 1950, table du Grand Chiffre, clé notée par le déchiffreur d'époque, clé d'époque de Landsberg 1677 retrouvée dans le même volume…) : le mérite de la clé revient à son auteur.
 4. **Malsburg 1637 et Hesse 1824** ont été lus **indépendamment et en parallèle** d'un autre projet public, qui les a **publiés le premier** (dbourdeau/cyphersolver, 29/09/2026).
    Nous ne revendiquons **aucune priorité** : nos lectures valent confirmation indépendante (pour Malsburg, les deux clés cassées à l'aveugle concordent sur 81 des 88 valeurs communes).
 5. Les lectures n'ont pas été relues par un paléographe ou un historien spécialiste. Les identifications de personnes et de lieux marquées HYP sont des hypothèses.
-6. **Aucune image** n'est reproduite ici : suivre les liens vers Gallica, PARES ou HCPortal. Les transcriptions sont les nôtres, faites sur ces images.
+6. **Aucune image** n'est reproduite ici : suivre les liens vers Gallica, PARES, HCPortal, Arcinsys ou le Landesarchiv NRW. Les transcriptions sont les nôtres, faites sur ces images.
 
 ## 2. Méthode (résumé ; détail dans [METHODE.md](METHODE.md))
 
@@ -54,19 +54,18 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 (notre apport = lecture de l'exemplaire chiffré). « prov. » = provisoire. Taux = vérificateur, mesure sévère ; « — » = non mesuré à l'époque de la vérification.
 
 > **Résultats sous le seuil de 80 % : à lire comme des lectures partielles, pas comme des confirmations pleines.** Le critère d'acceptation est ≥ 80 % des groupes
-> chiffrés compris, selon la mesure du vérificateur. Les quatre lignes suivantes ne l'atteignent pas, ou ne l'atteignent pas selon la mesure la plus prudente. Leur vérificateur a conclu
+> chiffrés compris, selon la mesure du vérificateur. Les trois lignes suivantes ne l'atteignent pas, ou ne l'atteignent pas selon la mesure la plus prudente. Leur vérificateur a conclu
 > « confirmé avec réserves », mais elles **ne sont pas présentées ici comme pleinement confirmées** (colonne « Seuil 80 % ») :
 > - **n°10** (Montholon → Nevers, BnF fr 4715 n°48 f.71) : **≈ 75 %** compris ;
-> - **n°11** (Montholon → Nevers, BnF fr 4715 n°35 f.58) : **78-79 %** au niveau de la phrase (≈ 80 % annoncé ; marge nulle) ;
 > - **n°22** (Croissy → Mazarin, BnF Baluze 178 f.73-74) : 85,7 % en mesure stricte, mais **79,8 %** (≈ 80,3 % après contrôle) en « aveugle révisé », la seule mesure proche de la règle sévère
 >   (≈ 8 % des jetons sont des signes à deux valeurs tranchés au sens) ;
 > - **n°16** (Philippe II → Vargas Mexía, BnF Espagnol 132 f.17-25) : 83,5 % (81,6 % au dénominateur prudent), mais **79,9 %** dans la variante stricte du vérificateur
 >   (mesure en équivalents-lignes, ± 3 points ; « seuil atteint, de peu »).
 >
 > **Bornes extrêmes sous 80 %, non retenues par leur vérificateur** (à connaître) : n°27 (63,5 % si l'on compte non compris les 29 % de la lettre qu'aucun vérificateur n'a relus) ;
-> n°40 (79,8 % en mode ultra-sévère en comptant le passage biffé par la chancellerie) ; n°7 (plancher théorique ≈ 80 % dans le pire cas combiné).
+> n°40 (79,8 % en mode ultra-sévère en comptant le passage biffé par la chancellerie) ; n°11 (79,3 % si le passage R2 est refusé, 79,96 % en cumulant toutes les variantes défavorables ; ancienne lecture partielle, reclassée confirmée avec réserves le 29/09 avec la clé d'époque n°71) ; n°7 (plancher théorique ≈ 80 % dans le pire cas combiné).
 >
-> En outre, **14 lignes** atteignent le seuil par groupe mais **pas par mot** (taux par mot < 80 %, en gras : n°48, 49, 51, 52, 53, 54, 56, 58, 60, 63, 65, 70, 71, 74) : réserve explicite, lecture à prendre avec prudence.
+> En outre, **18 lignes** atteignent le seuil par groupe mais **pas par mot** (taux par mot < 80 %, en gras : n°11, 48, 49, 51, 52, 53, 54, 56, 58, 60, 63, 65, 70, 71, 74, 76, 77, 78) : réserve explicite, lecture à prendre avec prudence.
 
 | n° | Document | Cote | Date | Clé | Taux groupe / mot | Seuil 80 % | Réserves principales | Nouv. | Dossier |
 |---|---|---|---|---|---|---|---|---|---|
@@ -80,7 +79,7 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 | 8 | Ventadour → connétable de Montmorency | BnF fr 3575 f.56 | fin 1595 | C (par la structure) | ≈96 % / — | atteint | Mondon non identifié | A prov. | [ventadour-1595](ventadour-1595/) |
 | 9 | Montholon → Nevers | BnF fr 4715 n°37 f.60 | 12/12/1589 | P (Tomokiyo) | ≈86 % / — | atteint | 4 codes HYP | A prov. | [montholon-1589](montholon-1589/) |
 | 10 | Montholon → Nevers | BnF fr 4715 n°48 f.71 | fin 1589 | P (Tomokiyo) | **≈75 %** compris / — | **sous le seuil de 80 % — lecture partielle** | **< 80 % compris** ; zone Q restructurée | A prov. | [montholon-1589](montholon-1589/) |
-| 11 | Montholon → Nevers | BnF fr 4715 n°35 f.58 | 26/11/1589 | P (Tomokiyo) | ≈80 % (vérif. 78-79 % au niveau de la phrase) / — | **sous le seuil de 80 % — lecture partielle** (78-79 % au niveau de la phrase, marge nulle) | **marge nulle** | A prov. | [montholon-1589](montholon-1589/) |
+| 11 | Montholon → Nevers | BnF fr 4715 n°35 f.58 | 26/11/1589 | E (clé d'époque Nevers n°71, BnF fr 3995 f.133r, identifiée par nous comme celle de Montholon ; paire d'époque fr 4712 f.7r) | 82,2 % / **76,4 %** (lettre entière, 900 groupes) | atteint au groupe ; **mot < 80 %** (réserve) ; **marge 2,2 pts sur R2** | R2 (26 groupes) tranchée au sens : refusée 79,3 % ; sévère 77,2 % ; pire cumul 79,96 % ; ~35 = Mayenne à un seul contexte | A prov. | [montholon-1589](montholon-1589/) |
 | 12 | Montholon → Nevers | BnF fr 4715 n°47 f.70 | fin 1589-déb. 1590 | P (Tomokiyo) | ≈88 % (parties non glosées) / — | atteint | | A prov. | [montholon-1589](montholon-1589/) |
 | 13 | Montholon → Nevers | BnF fr 4715 n°27 f.50 | 30/10/1589 | P (Tomokiyo) | 91,0 % phrase ; 88,2 % strict / — | atteint | L13-L14 non comprises ; ''84, ~8 HYP | A prov. | [montholon-1589](montholon-1589/) |
 | 14 | Philippe II → Vargas Mexía | BnF Esp. 132 n°15 f.32 | 17/03/1578 | P (Alcocer 1921 / Devos 1950, Cp.30) | 92,6 % / — | atteint | sans duplicata ; xal non compris ; recalcul avec la nomenclature Alcocer (non vérifié) 93,8 % | A | [es132-vargas-mexia](es132-vargas-mexia/) |
@@ -145,6 +144,10 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 | 73 | Croissy → J.-B. Colbert | BnF Baluze 178 f.223-226 | 07/02/1661 | P (Tomokiyo) + compléments | 94,1 % / 93,1 % | atteint | | A prov. | [croissy-rome-1661](croissy-rome-1661/) |
 | 74 | Philippe IV → marqués de Santa Cruz | AHNOB Santa Cruz D.145 | 26/05/1635 | **R** (lecture à l'aveugle) | 84,4 % / **69,1 %** | atteint au groupe ; **mot < 80 %** (réserve) | réserve au mot | A prov. | [santacruz-1631-1635](santacruz-1631-1635/) |
 | 75 | Ludovico Ridolfi → duc d'Arcos | AHNOB OSUNA C.3456 D.107 | 08/05/1646 | **C** (clé non publiée) | 89,6 % / 89,9 % (pessimiste) ; très pessimiste 84,6 % / 86,3 % | atteint | lettre unique (pas de test de généralisation) ; valeurs rares à 1-2 contextes ; 12 codes non prouvés | A prov. | [ridolfi-1646](ridolfi-1646/) |
+| 76 | Marquis de Grana → duc de l'Infantado | AHNOB OSUNA CT.13 D.6 | 09/04/1650 | **R** (clé non publiée ; test de clé à la limite) | 85,8 % / **59,5 %** (p.1, aveugle) ; lettre entière 87,9 % / 68,3 % | atteint au groupe ; **mot < 80 %** (réserve) | test de clé à la limite (81,4 % ; 77,5-79,6 % aveugle) ; pas de 2ᵉ paire ; signe 18 hors clé | A prov. | [grana-1650](grana-1650/) |
+| 77 | Charles X Gustave → régence de Brême-Verden | NLA Stade Rep. 5a Nr. 636 fol. 115r | 04/07/1657 | **C** (test fermé ; validée par un original en clair d'époque) | 85,7 % / **31,6 %** (aveugle) | atteint au groupe ; **mot < 80 %** (réserve) | mots du répertoire > 99 non établis ; 27 et 64 contredits par le sens ; clair de L2 inconnu | A prov. | [karlgustav-1657](karlgustav-1657/) |
+| 78 | Dietrich von Landsberg → J. H. Schmidtman (Vienne) | LAV NRW W 004 (Msc. VI) Nr. 119, vues 110-113 | 23/02/1677 | E (clé d'époque du même volume, vue 133) | 83,2 % / **62,5 %** (aveugle) ; très strict 78,2 % | atteint au groupe ; **mot < 80 %** (réserve) ; **passage court** (101 jetons) | codes 111 et 112 incertains sur la clé ; lectures disputées (47/97, 15/5) | A prov. | [landsberg-1677](landsberg-1677/) |
+| 79 | Dietrich von Landsberg → J. H. Schmidtman (Vienne) | LAV NRW W 004 (Msc. VI) Nr. 119, vues 050-053 | 19/01/1677 | E (clé d'époque du même volume, vue 133) | 85,7 % / 81,2 % (prudent, hors 2 mots glosés d'époque) ; vérificateur 97,1 % / 87,5 % | atteint | **passage court** (70 groupes, 16 mots) ; codes de noms ; « Neubourq » (q pour g) | A prov. | [landsberg-1677](landsberg-1677/) |
 
 Les numéros suivent l'ordre de confirmation par les vérificateurs. **Non inclus** (retirés ou douteux) : Espagnol 336 n°88 (retiré : 79,3 % sous le seuil sévère) ;
 Espagnol 132 f.26r (étendue douteuse : ni date ni signature visibles) ; Espagnol 336 n°89 (partiel) ; lectures mineures ou partielles non comptées.
@@ -166,6 +169,14 @@ LICENSE, LICENSE-DONNEES.md, CITATION.cff, .zenodo.json
 - Scripts éventuels : **MIT** (voir [LICENSE](LICENSE)).
 - Les clés publiées par des tiers (S. Tomokiyo, cryptiana ; Devos 1950 ; etc.) **ne sont pas redistribuées** ici : elles restent la propriété de leurs auteurs et sont seulement citées.
 - Citer ce dépôt : voir [CITATION.cff](CITATION.cff).
+
+## Journal des versions / Changelog
+
+- **1.1.0 (29/09/2026)** : 79 lectures = 76 confirmées + 3 partielles (n°10, 16, 22). Ajouts depuis la 1.0 :
+  n°76 Grana 1650 (clé reconstruite depuis une paire d'époque) ; **n°77 Charles X Gustave 1657 (clé cassée à l'aveugle, validée par un original en clair d'époque)** ;
+  n°11 Montholon 1589 réintégrée (relue en entier avec la clé d'époque Nevers n°71, identifiée par nous ; de « partielle » à « confirmée avec réserves ») ;
+  n°78-79 Landsberg → Schmidtman 1677 (première lecture avec la clé d'époque retrouvée dans le même volume).
+- **1.0 (29/09/2026)** : première version publique, 75 lectures = 71 confirmées + 4 partielles (n°10, 11, 16, 22).
 
 ## Citer / How to cite
 

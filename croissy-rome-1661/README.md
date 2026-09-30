@@ -130,13 +130,13 @@ personnages codés non identifiés [323] (« connestable ? »), [426], [431], [3
 | n° | Vérificateur (UTC) | **Sévère : groupe / mot hors nulles** | Pessimiste | Autres variantes | Relecture aveugle |
 |---|---|---|---|---|---|
 | 59 | vérificateur indépendant | **95,5 % (276/289) / 91,2 % (93/102)** | 94,8 / 89,2 | casseur 95,8 | 289/289, 0 écart |
-| 64 | verif-croissy-f138 (28/09 23:14) | **86,5 % (467/540) / 89,7 % (174/194)** | 85,6 / 87,6 | clé publiée seule 84,8 / 85,6 ; grappes comptées 83,7 | 536/540 ; 3 erreurs du casseur, toutes à son détriment |
-| 66 | verif-croissy-f135 (23:56) | **86,7 % (520/600) / 85,4 % (199/233)** | 84,8 / 81,1 | clé publiée seule 85,5 / 82,4 ; min. conventions justes 80,4 | 596/600 |
-| 68 | verif-croissy-f166 (29/09 00:59) + addendum | **88,6 % (613/692) / 86,3 % (234/271)** (mesure initiale 88,4 / 86,0) | 85,4 / 82,3 | très sévère 86,3 / 83,8 ; clé publiée seule 86,3 / 81,2 | 336 jetons, 1 écart (contre le casseur) |
-| 61 | verif-croissy-f162 (28/09 22:08) | **88,4 % (213/241) / 84,8 % (89/105)** | 86,3 / 82,9 | casseur 90,5 (trop haut) ; indicatif 89,2 si 65 = y (voir addendum) | 237/241 |
-| 72 | verif-croissy-f213 (03:00) | **93,9 % (229/244) / 90,6 % (87/96)** | 92,6 / 87,5 | très sévère 91,0 / 87,5 ; clé publiée seule 92,2 / 86,5 ; plancher 80,0 | 583 chiffres identiques |
-| 73 | verif-croissy-f223 (03:17) | **94,1 % (526/559) / 93,1 % (188/202)** | 90,7 / 87,1 | très sévère 92,7 / 91,6 ; clé publiée seule 90,3 / 84,2 | 559 gr. (1334 chiffres) identiques |
-| 69 | verif-croissy-f195 (02:03) | **94,0 % (395/420) / 94,1 % (144/153)** | 93,1 / 92,2 | très sévère 93,1 / 92,2 ; clé publiée seule 91,0 / 86,3 ; indicateur min. 79,9 (combinaison extrême) | 997 chiffres, 5 écarts tranchés à l'image |
+| 64 | vérificateur f.138 (28/09 23:14) | **86,5 % (467/540) / 89,7 % (174/194)** | 85,6 / 87,6 | clé publiée seule 84,8 / 85,6 ; grappes comptées 83,7 | 536/540 ; 3 erreurs du casseur, toutes à son détriment |
+| 66 | vérificateur f.135 (23:56) | **86,7 % (520/600) / 85,4 % (199/233)** | 84,8 / 81,1 | clé publiée seule 85,5 / 82,4 ; min. conventions justes 80,4 | 596/600 |
+| 68 | vérificateur f.166 (29/09 00:59) + addendum | **88,6 % (613/692) / 86,3 % (234/271)** (mesure initiale 88,4 / 86,0) | 85,4 / 82,3 | très sévère 86,3 / 83,8 ; clé publiée seule 86,3 / 81,2 | 336 jetons, 1 écart (contre le casseur) |
+| 61 | vérificateur f.162 (28/09 22:08) | **88,4 % (213/241) / 84,8 % (89/105)** | 86,3 / 82,9 | casseur 90,5 (trop haut) ; indicatif 89,2 si 65 = y (voir addendum) | 237/241 |
+| 72 | vérificateur f.213 (03:00) | **93,9 % (229/244) / 90,6 % (87/96)** | 92,6 / 87,5 | très sévère 91,0 / 87,5 ; clé publiée seule 92,2 / 86,5 ; plancher 80,0 | 583 chiffres identiques |
+| 73 | vérificateur f.223 (03:17) | **94,1 % (526/559) / 93,1 % (188/202)** | 90,7 / 87,1 | très sévère 92,7 / 91,6 ; clé publiée seule 90,3 / 84,2 | 559 gr. (1334 chiffres) identiques |
+| 69 | vérificateur f.195 (02:03) | **94,0 % (395/420) / 94,1 % (144/153)** | 93,1 / 92,2 | très sévère 93,1 / 92,2 ; clé publiée seule 91,0 / 86,3 ; indicateur min. 79,9 (combinaison extrême) | 997 chiffres, 5 écarts tranchés à l'image |
 
 Verdict : **toutes CONFIRMÉES, sans réserve « mot »**. Les seules variantes sous 80 % sont des indicateurs (« clé publiée seule + grappes de nulles comptées comme mots »,
 combinaisons extrêmes) : par arbitrage de la coordination (cohérent n°64/66/68), elles ne font pas une réserve.
@@ -147,7 +147,7 @@ combinaisons extrêmes) : par arbitrage de la coordination (cohérent n°64/66/6
  **Non recompté officiellement par un vérificateur** : le chiffre de référence reste **88,4 % / 84,8 %**.
 
 ### Addendum n°68 (f.166) — f.167v L4 « 189 » = 183
-- verif-croissy-f195 a relu au zoom natif f.167v L4 « … 97 34 **18?** 68 … » (« veut tout **faire** ») : la 3ᵉ figure est un 3 (comme « 183 » de L5), pas un 9 → 183 = re, pas une
+- vérificateur f.195 a relu au zoom natif f.167v L4 « … 97 34 **18?** 68 … » (« veut tout **faire** ») : la 3ᵉ figure est un 3 (comme « 183 » de L5), pas un 9 → 183 = re, pas une
  faute du chiffreur. n°68 passe de 612 à **613/692 = 88,6 %** par groupe et de 233 à **234/271 = 86,3 %** par mot. Addendum du casseur ; les fichiers figés ne sont pas modifiés. Verdict inchangé.
 
 ## 5. Apport et réserves

@@ -1,0 +1,23 @@
+# Landsberg -> Schmidtman, Arnsberg 19/1/1677 : LAV NRW W 004 (Msc. VI) Nr. 119, vues 050-053 (passages chiffrés en v52r et v53r).
+# Images : https://www.landesarchiv-nrw.de/data01/Abt_Westfalen/Msc_VI/00119/MSC_VI_00119_052.jpg ; https://www.landesarchiv-nrw.de/data01/Abt_Westfalen/Msc_VI/00119/MSC_VI_00119_053.jpg
+# Transcription A L'AVEUGLE du vérificateur indépendant (figée le 29/09/2026 21:48:44Z, avant ouverture de celle de l'équipe ; 82 groupes ; accord 81/82 = 98,8 %).
+# Format : P<n> <vue/ligne> | groupes ; X|Y = lecture alternative (1re = retenue) ; [clair] = contexte en clair.
+# Lettre ENTIÈRE : début v50r (docket « 19 Januarij 1677 / 4 Feb. »), fin v53r « Arensberg den 19 januarii 677 … D. v. Landsberg ».
+# P1 et P3 portent une glose d'époque (« Kaiser », « renten ») : ces deux mots sont exclus de la mesure de première lecture.
+# Non compté comme chiffre : v53r droite, ligne 1, « doch iq absonderlichs » (« iq » lu comme abréviation de « ist » ; alternative 14 = Bischof zu Paderborn).
+P1 v52r-L-1 [hatt der] | 45 10 19|13 15 19 18
+P2 v52r-L-2 [dei/dem] | 9 97 83 [allinge]
+P3 v52r-L-2 | 18 19 36 44 19 36 [in]
+P4 v53r-L1 | 10 18 18 19 15 44 [genommen, ich muthmasse unter]
+P5 v53r-L2 | 33 18 22 12 15 44 19 36 [zu]
+P6 v53r-L2 | 16 22 50 50 19 36
+P7 v53r-L3 | 97 [Hildesheimb gehen dort vor]
+P8 v53r-L3/L4 | 36 19 64 12 22 64 18 42 [man redet wiederumb viell von der]
+P9 v53r-L5 | 16 22 10 30 13 64 44 22 18 13 19
+P10 v53r-L5 | 56 64
+P11 v53r-L6 | 16 22 50 50 19 36 [undt möchte woll gern wissen ob]
+P12 v53r-L7 | 83 [nach]
+P13 v53r-L7 | 50 19 12 12 19 44
+P14 v53r-L7 | 78
+P15 v53r-L8 | 44 22 30 44 [sein, man vermuthet montecuculi]
+P16 v53r-R-L2 [mitt gelt] | 24 64 36 15 44 19 18 [selbe bekommen]

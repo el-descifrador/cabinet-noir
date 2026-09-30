@@ -1,0 +1,13 @@
+# Dechiffrement signe a signe de chiffre.txt avec la cle figee v2 (cle/karlgustav1657_v2.tsv). [clair] = passage en clair ; {n} = code absent de la cle ;
+# (x) = valeur HYP ou DOUBLE (non comprise au sens severe) ; pour un groupe douteux, la premiere lecture est prise.
+L00 [Demnach Wir in] wie
+L01 {149}legung [der] herrausgekommenen
+L02 d(ch)ni{128}enmanifest [und zwar der ... in] ent
+L03 haltenenerstenartiiuls [nimmt]
+L04 [..lich] {181}li{131}e{129}(w)edische(w)affen [in] uns
+L05 er{193}thumbbrehmen [vorkommen und]
+L06 [derselbe endlich] occu(p)iret [einer gründlichen infor-]
+L07 [mation benöthigt, derselbe aber hier... bey] hnser{181} [lichen] c
+L08 antzle(i) [nicht allein ...]
+L09 [unterrichtet und dass] gehqrigedocumen
+L10 ta [sich mit dem förderlichsten ...]

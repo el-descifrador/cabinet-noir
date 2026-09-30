@@ -1,0 +1,11 @@
+# Déchiffrement signe à signe avec la clé figée (cle/cle_v133.tsv), SANS arbitrage : [clair] = passage en clair de la lettre ;
+# <mot> = code du nomenclateur ; · = nulle ; {x} = signe absent de la clé ; (x) = valeur non comprise au sens sévère
+# (lecture ambiguë a|b : 1re lecture prise ; lecture douteuse « ? » ; code de statut « ? » dans la clé).
+v111r.L1: [ehr] <Commissarius>··<brot><Baden>vor [dem] (<Caprara>)allesthvetwa
+v111r.L2: s [ehr kan auch vor dem] <de Grana>we(s)ge [sich] wolve
+v111r.L3: rsteen [das sonsten die beiden ... herren]
+v111r.L4: [unserenthalben] <Reichs Vice Kantzler>(<Fürsten>)leidenmvssenthve
+v111r.L5: t [(clair illisible)] <undt>{⊙}·seinwis [höchlichs denselben obligi-]
+v111r.L6: [-rt ichs verhoffe weilen] <Reichs Vice Kantzler><Frantzosen>(<alliirte>)<Montecuculi> [unsern] co(o)(<auch>)issarii
+v111r.L7: [es] sollenoghwol [abgehen]
+v113r: [... geben,] (<Prince Guil(laume) von Fürstenberg>)istzv [bedauern patientia]

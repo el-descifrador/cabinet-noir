@@ -1,0 +1,39 @@
+# Dechiffrement signe a signe de chiffre.txt avec la cle figee (cle/grana1650_v2.tsv), ligne par ligne.
+# [x:ST] = valeur deduite des series (non comprise) ; [x:HY] = hypothese a 1 contexte (non comprise) ; [?:IN] = signe inconnu ; [a/b] = lecture ambigue ; . = nul/separateur.
+# Taux de CE fichier (93,4 %) = mesure du casseur, NON admissible : chiffre officiel = verificateur, 85,8 % par groupe / 59,5 % par mot (README.md).
+A1L01 aunqueseapro[ge:ST]
+A1L02 ido·elinterindelgo[gi:HY]erno
+A1L03 desibilia·dicenqueabra[?:IN]
+A1L04 [ni/t]r·a[?:IN]udanta·enaquell
+A1L05 os·sireina[t:HY]o
+A1L06 sdeitalia·iaunqueⓋ
+A1L07 niene·enos[t:HY]acorte[?:IN]u
+A1L08 chosa[?:IN]igos·iparien[t:HY]
+A1L09 es·uiendolos[?:IN]aibares·
+A1L10 losin[?:IN]ini[t:HY]os[?:IN]erito
+A1L11 sdeⓋ·ilaes[t:HY]i[?:IN]acion
+A1L12 que[?:IN]orecesugrandeca
+A1L13 ita[h/l]entos·si[?:IN]onb[?:IN]rgo
+A1L14 noeuco[?:IN]u[?:IN]labuenato
+A1L15 rrespondencianilao
+A1L16 [?:IN]itaciadelosquenosue
+A1L17 lenaplica·r[ni/l]a·ensusp
+A1L18 ro[u/s][fi/pi]ascosas·ipuesio
+A2L01 necesito·debuscarocasione
+A2L02 sdecoresponder[ø/?]lashon
+A2L03 rrasimercedesquemehace
+A2L04 Ⓥ·hauiendomehechodoos[?:IN]
+A2L05 upeagradecido·ielgoactibo
+A2L06 deseoenplearlo[t:HY]odo·en
+A2L07 ser[gi:HY]ciodeⓋ·comolo[ge:ST]raporla
+A2L08 s·obras·[quando:HY]sesircba·darmeaen
+A2L09 tende[ø/r]su[ø/g]·usto·iolmodoun
+A2L10 elqualabre·deencaminersus
+A2L11 conbenientias·sinparecer
+A2L12 le·pueesto·seaenpremetimi
+A2L13 ento·puesdemi[bu:ST]enaintencio
+A2L14 nileiconoceraporlarobras·
+A2L15 que[u/s]icaslograre[?:IN]isdeseos·i
+A2L16 lesausentessienprenecesitandeq
+A2L17 uienles[so:HY]lacite·cona[?:IN]orsus
+A2L18 negocios

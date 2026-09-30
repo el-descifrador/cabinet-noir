@@ -1,0 +1,15 @@
+# Landsberg -> Schmidtman, Arnsberg 23/2/1677 : LAV NRW W 004 (Msc. VI) Nr. 119, vues 110-113 (passages chiffrés en v111r et v113r).
+# Images : https://www.landesarchiv-nrw.de/data01/Abt_Westfalen/Msc_VI/00119/MSC_VI_00119_111.jpg ; https://www.landesarchiv-nrw.de/data01/Abt_Westfalen/Msc_VI/00119/MSC_VI_00119_113.jpg
+# Transcription A L'AVEUGLE du vérificateur indépendant (figée le 29/09/2026 21:41:32Z, avant toute comparaison ; 101 jetons ; accord de glyphes 96/99 avec celle de l'équipe).
+# Conventions : jetons séparés par des espaces ; «...» = clair (non compté) ; a|b = lecture ambiguë (1re = préférée) ; X? = incertain ;
+# ⊙ = cercle pointé (différent du ● plein de la clé) ; =? = trait/tache horizontal(e), lu comme « = » avec doute.
+# Notes du vérificateur : L6, après relecture ×10, « commissarii » se lit 16 22 24 13 15 15 10 18 13 13 (lecture de l'équipe ; sa lecture figée « 22|24 4|24 » était fautive,
+# la mesure officielle garde pourtant sa lecture figée) ; L2 : 15 ou 5 ; v113r : 83 préféré à 85 ; L6 : 47 (lecture de l'image) contre 97 = undt (lecture qu'appelle le sens).
+v111r.L1: «ehr» 114 △ + 8 115 64 22 18 «dem» 112 10 50 50 19 15 44 60 64 19 44 46 10
+v111r.L2: 15 «ehr kan auch vor dem» 113 46 19 15|5 17 19 «sich» 46 22 50 64 19
+v111r.L3: 18 15 44 19 19 36 «das sonsten die beiden ... herren»
+v111r.L4: «unserenthalben» 109 111 50 19 13 30 19 36 24 64 15 15 19 36 44 60 64 19
+v111r.L5: 44 «(clair illisible)» 97 ⊙ ∘∘∘ 15 19 13 36 46 13 15 «höchlichs denselben obligi-»
+v111r.L6: «-rt ichs verhoffe weilen» 109 47 =? 110 «unsern» 16 22 22|24 4|24 13 15 15 10 18 13 13
+v111r.L7: «es» 15 22 50 50 19 36 22 17 60 46 22 50 «abgehen»
+v113r: «... geben,» 83|85 13 15 44 56 64 «bedauern patientia»

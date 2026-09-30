@@ -1,0 +1,144 @@
+# Clé d'époque « Dechiffrierschlüssel » : Landesarchiv NRW, Abt. Westfalen, W 004 (Msc. VI) Nr. 119, vue 133 (page droite)
+# Image : https://www.landesarchiv-nrw.de/data01/Abt_Westfalen/Msc_VI/00119/MSC_VI_00119_133.jpg
+# Correspondance : Dietrich von Landsberg (Landdrost du duché de Westphalie, Arnsberg) <-> Johann Heinrich Schmidtman (député des états à Vienne), 1677
+# Relevé par nous sur l'image (deux lectures indépendantes, contrôlées par un vérificateur sur les codes employés) ; clé figée le 29/09/2026 21:28:48Z,
+# AVANT toute transcription ou mesure des lettres n°78 et n°79. Aucun réajustement ensuite.
+# Type : monoalphabétique à 2 chiffres (24 lettres, un nombre chacune) + nomenclateur 2-126 (mots, titres, noms ; quelques signes) + nulles.
+# Contrôle structurel : les 24 nombres de l'alphabet sont exactement ceux que saute le nomenclateur alphabétique 2-57.
+# 3e ligne de l'en-tête de la clé (quelques signes homophones) : attribution incertaine, NON reprise (tout signe de ce type = non compris).
+# Colonnes : chiffre <TAB> valeur <TAB> statut ; 2c = valeur contrôlée par des mots décodés ; 2l = confirmée par une 2e lecture de l'image ;
+# 1l = une seule lecture ; ? = lecture incertaine de la main (compté NON compris si employé) ; barre = entrée barrée sur la clé ; ∅ = nulle.
+10	a	2c
+12	b	2l
+16	c	2l
+30	d	2l
+19	e	2c
+80	f	2l
+17	g	2l
+60	h	2c
+13	i	2l
+45	k	2l
+50	l	2c
+24	m	2l
+36	n	2l
+22	o	2l
+33	p	2l
+42	q	2l
+18	r	2l
+15	s	2c
+44	t	2c
+64	v	2c
+46	w	2l
+39	x	2l
+28	y	2l
+56	z	2l
+□	∅	2l
+△	∅	2l
+●	∅	2l
++	∅	2l
+∘∘∘	∅	2l
+⁝	∅	2l
+2	armee	2l
+3	alliance	2l
+4	auch	2l
+5	attaquiren	2l
+6	attaque	2l
+7	auß	2l
+=	alliirte	1l
+8	brot	2l
+9	Bischof zu Straßburg	2l
+11	Bischof zu Münster	2l
+14	Bischof zu Paderborn	2l
+20	Bischof zu Osnabrück	2l
+21	bereitschafft	2l
+23	Bournonville	2l
+25	Cavallerie	2l
+26	Chur Cölln	2l
+27	Chur Brandenburg	2l
+29	Commissarie	2l
+31	Dorsten	?
+32	Deputirte	2l
+34	der	2l
+35	dieses	?
+37	einfallen	2l
+38	erobern	2l
+θ	feindt	2l
+40	Franckreich	2l
+41	fouragiren	2l
+43	fourage	2l
+47	Frantzosen	2l
+48	fried	2l
+49	guarantie	2l
+51	gouverneur	2l
+52	gegen	2l
+53	gelt	2l
+54	general	2l
+55	[?]	?
+57	garnison	2l
+58	Hertzog zu Zell	2l
+59	Hertzog zu Hannover	2l
+61	Hertzog zu Wolfenbüttel	2l
+62	Hertzog von Lothringen	2l
+63	Hollande	2l
+65	Hollandisch	2l
+66	haben	2l
+67	Infanterie	2l
+68	in	2l
+69	Krieg	2l
+70	Kron	2l
+71	Lothringisch	2l
+72	leichtlich	2l
+~	[?]	?
+73	munition	2l
+74	monsieur	2l
+75	milice	2l
+76	neutralité	2l
+77	nicht	2l
+78	oder	2l
+79	ohne	2l
+81	[?]	?
+82	passage	2l
+83	Prince Guil(laume) von Fürstenberg	2l
+84	regierung	2l
+85	ruine	2l
+86	[revel?]	?
+87	sich	2l
+88	(barré : General Staaten)	barre
+89	secours	2l
+90	subside	?
+91	General Staaten	2l
+92	stärck	2l
+93	Turenne	2l
+94	tractaten	2l
+95	Völcker	2l
+96	von	2l
+97	undt	2l
+98	vivres	2l
+99	verius	2l
+100	wegnehmen	2l
+101	wol	2l
+102	[wachsen?]	?
+103	Kayser|Kayserin	2l
+104	Hertzog von Neuburg|Coadiutoria	2l
+105	Geheimer Raht	2l
+106	Kriegs Raht	2l
+107	Reichshofraht	2l
+108	Ob. Hofkantzler	2l
+109	Reichs Vice Kantzler	2l
+110	Montecuculi	2l
+111	Fürsten	?
+112	Caprara	?
+113	de Grana	2l
+114	Commissarius	2l
+115	Baden	2l
+116	Obrister	2l
+117	Ob. Leutenant	2l
+118	Ob. Wachtmeister	2l
+119	Rittmeister	2l
+120	Hauptman	2l
+121	Leutenant	2l
+122	Cornet	2l
+123	Fendrich	2l
+124	winterquartier	2l
+125	Landtag	2l
+126	Secretarius	2l

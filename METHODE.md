@@ -18,7 +18,7 @@ d'un agent : elles servent seulement à dater la provenance d'une valeur ou d'un
 
 ## 2. Transcription
 
-- Transcription sur les images en pleine résolution (Gallica IIIF, PARES, HCPortal) ; aucune image n'est redistribuée.
+- Transcription sur les images en pleine résolution (Gallica IIIF, PARES, HCPortal, Arcinsys, Landesarchiv NRW) ; aucune image n'est redistribuée.
 - Conventions communes (détails dans chaque `chiffre.txt`) : `[texte]` = clair dans la lettre ; `?` = lecture douteuse (alternative après `/`) ;
   `#` = groupe caché ou perdu (reliure, pli, déchirure), compté **non compris** ; `{…}` = majuscule / signe spécial / forme barrée selon le corpus ;
   `<n>` = code de nomenclateur.

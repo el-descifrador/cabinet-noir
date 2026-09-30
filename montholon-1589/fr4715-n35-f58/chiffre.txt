@@ -1,3 +1,16 @@
+# === MISE À JOUR DU 29/09/2026 (relecture en résolution native, clé d'époque Nevers n°71 ; voir lecture.md) ===
+# La transcription ci-dessous est celle du 28/09. La mesure de la lettre entière (900 groupes, confirmée avec réserves) l'utilise AVEC les corrections suivantes,
+# relues par le casseur puis, à l'aveugle, par le vérificateur (52/52 groupes identiques sur F, « legat », R2 et fin de E) ; elles ne sont pas refondues ligne à ligne ici :
+#  R2 : « 65? 20? » -> « 65 '20 » (point au-dessus du 2 confirmé) = « c'est » (s'est) ; « ~35 65 '20 '16 65 50 25 1 23 » = « Mayenne s'est declaré ».
+#  F  (rang F réel) = les 53 premiers groupes de F/F8 (jusqu'à « pendant » : … 70 23 73 75 25 73 95) + 18 groupes :
+#       '26 46 50 95 23 60 70 83 '24 83 23 95 25 10 50 63 1 25  = « le[que]l temps il s'establira » (46 SANS point : faute du chiffreur)
+#     Les 8 groupes « '26? 65? 50? ?? 70? 23 73 ?? » de F8 et les 36 groupes suivants (= Ft) proviennent d'un glissement de bande : ils sont RETIRÉS de F.
+#  E  (suite réelle du rang E, 35 groupes ; remplace Ft et le « 7? » final de E) :
+#       70 25 7? 83 23 95 1 25 1 23 73 73? 83 30 83 73 25 60 23 83 63 50 93 23 93 50 95 25 10 93 '50 1 50 23 60  = « … il veult abuser le m… »
+#       (le '50 porte un chevron plutôt qu'un point ; début non compris ; le vérificateur lit ce début en 33 groupes, sans effet sur le numérateur)
+#  Lg (insert dans le clair « Doma[ge ?] que … sera par apres », non transcrit le 28/09) : 50 23 30 25 95 = « legat ».
+# Décompte : 887 − 44 − 1 + 35 + 18 + 5 = 900 groupes. Clé de lecture : clé d'époque Nevers n°71 (BnF fr 3995 f.133r), non reproduite ici.
+# ============================================================================================================================
 # BnF, Français 4715, n°35, f.58r — Montholon → duc de Nevers, Tours, 26/11/1589 (résultat n°11) — transcription du chiffré.
 # Chiffre « Vieuville–Nevers » (table publiée par S. Tomokiyo, cryptiana, non reproduite ici). Conventions : NN = lettre ; 'NN = code pointé (mot ou syllabe) ;
 # ''NN = code à deux points ; ~NN = nombre surligné (nom) ; ?? illisible ; NN? doute ; [..] = clair de la lettre ou restitution ; « | » = limite de tuile de lecture ;

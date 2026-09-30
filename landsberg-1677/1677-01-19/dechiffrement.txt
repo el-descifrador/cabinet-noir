@@ -1,0 +1,19 @@
+# Déchiffrement signe à signe avec la clé figée (cle/cle_v133.tsv), SANS arbitrage : [clair] = passage en clair de la lettre ;
+# <mot> = code du nomenclateur ; · = nulle ; {x} = signe absent de la clé ; (x) = valeur non comprise au sens sévère
+# (lecture ambiguë a|b : 1re lecture prise ; lecture douteuse « ? » ; code de statut « ? » dans la clé).
+P1 v52r-L-1 [hatt der] | ka(e)ser
+P2 v52r-L-2 [dei/dem] | <Bischof zu Straßburg><undt><Prince Guil(laume) von Fürstenberg> [allinge]
+P3 v52r-L-2 | renten [in]
+P4 v53r-L1 | arrest [genommen, ich muthmasse unter]
+P5 v53r-L2 | probsten [zu]
+P6 v53r-L2 | collen
+P7 v53r-L3 | <undt> [Hildesheimb gehen dort vor]
+P8 v53r-L3/L4 | nevbovrq [man redet wiederumb viell von der]
+P9 v53r-L5 | coadivtorie
+P10 v53r-L5 | zv
+P11 v53r-L6 | collen [undt möchte woll gern wissen ob]
+P12 v53r-L7 | <Prince Guil(laume) von Fürstenberg> [nach]
+P13 v53r-L7 | lebbet
+P14 v53r-L7 | <oder>
+P15 v53r-L8 | todt [sein, man vermuthet montecuculi]
+P16 v53r-R-L2 [mitt gelt] | mvnster [selbe bekommen]
