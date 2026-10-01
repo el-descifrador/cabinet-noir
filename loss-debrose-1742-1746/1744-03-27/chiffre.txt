@@ -1,0 +1,23 @@
+# Résultat n°97 : Loss -> Debrose, Paris, 27 mars 1744.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 110-113 ; chiffré : v112 g. (7 lignes).
+# Images : vue 110 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0110.jpg ; vue 111 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0111.jpg ; vue 112 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0112.jpg ; vue 113 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0113.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# notation : jetons séparés par «. » ; ? = illisible ; doutes en bas
+# Passage unique = v112 g., 7 lignes, après le clair « Cependant il ne » ; suivi du clair « Mr de Maurepas a écrit dans tous les Ports… » ; rien d'autre chiffré en v110 d.-113 g.
+# DOUTES VISUELS
+# D1 F3 : cette main fait très souvent le 4 à tête fermée ; tous les « 9 » isolés (nulles) ont une longue queue descendante nette ;
+# aucun 4 à tête fermée n'a de queue longue. F3 appliqué partout (ex. L1#7 « 74 » tête fermée sans queue, L3 40/44/84/24/47/74, L4#18 « 34 », L5 « 44 » avant 72).
+# D2 L6#3 « 72 » : second chiffre à pied horizontal (forme 2 de cette main), pas un 7 ; lecture 72 assez sûre, 77 non exclu à 100 %.
+# D3 L4#19-20 « 53.25 » : séparateur très faible (« 5325 ») ; s'il manque, N2 donne 53+25 : même résultat.
+# D4 L7#6-7 « 20.10 » écrit serré (« 2010 ») ; point visible entre 20 et 10 au zoom ; N2 donnerait de même 20+10.
+# Bas de page : sous L7, clair « Mr de Maurepas… » ; pas de jeton caché à droite (marge et pli vus) ; aucune glose interlinéaire ni marginale.
+L1: 47.74.9.80.74.25.74.21.20.84.53.72.40.6.35.18
+L2: 37.72.30.43.35.77.43.6.20.10.41.200.84.35.74.21.20.9.10.77.72.12.25
+L3: 200.40.44.35.41.84.12.25.24.9.72.20.47.21.H.35.41.77.32.23.6.77.74
+L4: 41.74.50.35.12.9.43.84.33.41.44.700.51.25.13.43.6.34.53.25.200.53
+L5: 33.33.44.14.10.43.35.25.40.35.33.6.51.71.84.41.24.20.44.72.43.9.20
+L6: 10.41.72.74.43.53.35.25.300.10.9.25.43.35.72.9.20.47.24.75.24.35.43
+L7: 51.25.75.6.43.20.10.53.10.41.25

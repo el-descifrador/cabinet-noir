@@ -1,0 +1,80 @@
+# Sortie du script de mesure du vérificateur (mesure OFFICIELLE : sa transcription aveugle, sa clé, sa règle gelées avant mesure).
+# Colonnes : rang du mot, mot chiffré -> décodage par la clé, C (compris) / NC (non compris), motif (doute = glyphe douteux à la transcription ;
+# NC sans motif = lapsus du scripteur ou mot non identifié, jugés selon la règle gelée).
+# Résultat : 64/76 mots = 84,2 %.
+1 lmpqp -> kiere C 
+2 y[q|g]fhpq -> broder NC doute
+3 mpn -> ieg C 
+4 omzl -> fick C 
+5 hmu -> dit C 
+6 yqpoo -> breff C 
+7 oqx -> fra C 
+8 img -> min C 
+9 ifhpq -> moder C 
+10 thm -> udi C 
+11 xoou -> afft C 
+12 pg -> en C 
+13 ofqwu -> forst C 
+14 fzd -> och C 
+15 wfi -> som C 
+16 hpu -> det C 
+17 wlxk -> skal C 
+18 tpqp -> uere C 
+19 [n?]mfqu -> giort NC doute
+20 imu -> mit C 
+21 mgnpgmti -> ingenium C 
+22 xu -> at C 
+23 papqzpq -> exercer C 
+24 rtxwm -> quasi C 
+25 wxx -> saa C 
+26 pq -> er C 
+27 hpuup -> dette C 
+28 xkh -> ald C 
+29 ofq -> for C 
+30 qmgnp -> ringe C 
+31 hpq -> der C 
+32 umk -> til C 
+33 [i?]pg -> men NC doute
+34 oxxq -> faar C 
+35 xu -> at C 
+36 kpnnp -> legge C 
+37 xghpqkphmw -> anderledis C 
+38 hm[u?] -> dit NC doute
+39 dfootph -> hoffued C 
+40 thm -> udi C 
+41 ykfh -> blod C 
+42 ofqpgh -> forend C 
+43 hmg -> din C 
+44 tmkkp -> uille C 
+45 hpq -> der C 
+46 thm -> udi C 
+47 lxgh -> kand C 
+48 wlpp -> skee C 
+49 mpn -> ieg C 
+50 ofqtghqpq -> forundrer C 
+51 im(n)g -> min C 
+52 e[x?][x|f] -> paa NC doute
+53 xu -> at C 
+54 hpu -> det C 
+55 mzlp -> icke C 
+56 t[x|p]q -> uar NC doute
+57 wtyumkpq -> subtiler C 
+58 poou -> efft C 
+59 pqwfi -> ersom C 
+60 hpq -> der C 
+61 dxootpq -> haffuer C 
+62 tpqmu -> uerit C 
+63 nqpghp -> grende NC NC
+64 zxgucpkmwupq -> cantzelister C 
+65 hpq -> der C 
+66 footpq -> offuer C 
+67 fzh -> ocd NC NC
+68 dxoopq -> haffer NC NC
+69 dtpqzlpg -> huercken C 
+70 wuxootpd -> staffueh NC NC
+71 qpu -> ret C 
+72 mzlp -> icke C 
+73 dpkkpq -> heller C 
+74 xhkp -> adle NC NC
+75 yfnwuxeotpq -> bogstapfuer NC NC
+76 mgofqh -> inford C

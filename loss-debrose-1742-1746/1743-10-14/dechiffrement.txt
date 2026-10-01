@@ -1,0 +1,20 @@
+# Déchiffrement brut signe à signe avec la clé figée (cle/cle_debrais_v24.tsv), SANS arbitrage ni segmentation en mots :
+# · = nulle (6, 9) ; x* = jeton normalisé (6/9 collés retirés : 359 -> 35) ; <mot> = code de nomenclature ou syllabe longue ; {x} = signe absent de la clé ;
+# (x) = jeton douteux à la transcription (« ? », « ~ », alternative a|b : 1re lecture prise) ; (?) = jeton illisible ; [biffé] = jeton biffé (exclu).
+# 84 = u ou v (écrit u) ; 73 = ü (lu u par convention d'époque), 81 = ä (lu « ai »). La lecture arbitrée et la mesure sévère sont dans lecture.md.
+LA01 | linte(l)··ligenceentrelesde·uxma
+LA02 | rechauxnestpaslame·illeure·noai
+LA03 | lles·souhaiteroi·tdereuenir
+LA04 | ala·<la Cour>lafranc·enestpasf·ache
+LA05 | equ·ebottaestmeledanslacons
+LA06 | piratio·nquonadecouuerte
+LA07 | apetersbour·{8}puisquellee
+LA08 | sperequec*elacauserade·labrou
+LA09 | illerieen·tre<l'Impératrice><la Russie>e·tlareinede
+LA10 | hongr·ie
+LB01 | etneman
+LB02 | querap·asdesou(f)le·raufeu·
+LB03 | ilesturaiqu·eleministrede·franc
+LC01 | equiestape·tersbourg(a)don
+LC02 | nele·premierauertis·semepta<l'Impératrice>de
+LC03 | cequisetra·moitcontre·elle

@@ -1,4 +1,4 @@
-# HStAM 4 h Nr. 1411, f.25 — transcription du chiffré (n°57, 23.02 / 05.03.1637 (Wesel))
+# HStAM 4 h Nr. 1411, f.25 — transcription du chiffré (résultat n°57, 23.02 / 05.03.1637 (Wesel))
 # Conventions : nombres à 2 chiffres = homophones de lettres ; MAJUSCULE = homophone de polygramme (ch, ei, st…) ; 3 chiffres = code de nomenclateur ;
 # [texte] = clair de la lettre ; ? = lecture douteuse (alternative après /) ; # = groupe caché/perdu au bord ; ¤ ∇ ▽ ‡ j = signes spéciaux ; « | » = coupure.
 # Préfixe de ligne = folio.bloc/ligne. Transcription de l'équipe sur les images HCPortal (non redistribuées). Licence CC BY 4.0.

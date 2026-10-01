@@ -5,7 +5,7 @@
 **Confirmé avec réserves** par deux vérificateurs indépendants. Nouveauté **faible** : ce ne sont pas des cassages, et un autre projet public avait repéré ces deux pièces comme
 « lisibles avec la clé ».
 
-| n° | pièce | date | taux sévère (vérificateur) | seuil 80 % | réserves | nouveauté |
+| résultat n° | pièce | date | taux sévère (vérificateur) | seuil 80 % | réserves | nouveauté |
 |---|---|---|---|---|---|---|
 | 45 | Clairambault 369 f.2r-3v (357 groupes, pertes de reliure comprises) | 01/10/1616 | **311/357 = 87,1 %** ; pire cas défendable 83,2 % ; taux par mot non mesuré | atteint | 11 fins de ligne perdues dans la reliure (estimées) ; codes non compris | faible |
 | 46 | Clairambault 369 f.59r-60r (378 groupes) | 08/10/1616 | **335/378 = 88,6 %** ; pessimiste 84,8 % ; taux par mot non mesuré | atteint | 13 codes hors clé ; pertes dans le pli (estimées) | faible |

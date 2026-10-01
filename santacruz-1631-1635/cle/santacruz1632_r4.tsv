@@ -1,4 +1,4 @@
-# Clé 1632, version figée r4 (sha256 d'origine 64b4747e…) = r3 + D.76↔D.69 + deux clairs de D.77 ; sert à D.80 (n°58). Aucune valeur de D.80.
+# Clé 1632, version figée r4 (sha256 d'origine 64b4747e…) = r3 + D.76↔D.69 + deux clairs de D.77 ; sert à D.80 (résultat n°58). Aucune valeur de D.80.
 # Clé reconstruite par nous depuis des paires chiffré / déchiffrement d'époque (AHNOB, SANTA CRUZ, C.51). Licence CC BY 4.0.
 # Statuts : PROUVÉ / PROUVE = ≥ 2 contextes dans ≥ 2 lettres (seul compté compris dans les taux officiels) ; PROUVÉ-1lettre / PROUVE_1L = ≥ 2 contextes dans une lettre ;
 # HYP = 1 contexte ; DOUBLE / CONTRADICTION = signe à deux valeurs (NON compris partout) ; NUL? = nul probable. Contextes = pièce:ligne (et, pour 1634, n° de groupe) + mot du descifrado.

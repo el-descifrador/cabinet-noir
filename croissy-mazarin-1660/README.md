@@ -4,7 +4,7 @@
 S. Tomokiyo, *Cryptiana*, http://cryptiana.web.fc2.com/code/louisxiv0.htm, qui écrit : « This letter, not deciphered, can be read with the key »).
 **Confirmé avec réserves** par un vérificateur indépendant, **avec une marge nulle** : selon la mesure la plus prudente, le taux est **à 80 % ou juste en dessous**.
 
-| n° | pièce | date | taux (vérificateur) | seuil 80 % | réserves | nouveauté |
+| résultat n° | pièce | date | taux (vérificateur) | seuil 80 % | réserves | nouveauté |
 |---|---|---|---|---|---|---|
 | 22 | Baluze 178 f.73r-74v (1 550 jetons) | 09/05/1660 | valeur de table **strict 85,7 %** ; « aveugle révisé » (forme univoque ou valeur prouvée par ≥ 2 contextes) **79,8 %**, ≈ 80,3 % après contrôle de 8 θ ; taux par mot non mesuré | **sous le seuil de 80 % selon la mesure la plus prudente (79,8 %) — lecture partielle, marge nulle** | ≈ 8 % des jetons (ɱ barré a/e, ƀ t/et) choisis au sens ; ≈ 4 % de codes hors table ; 1re ligne de f.74v non lue ; copie, non original | A prov. |
 

@@ -1,0 +1,83 @@
+# AHNOB SANTA CRUZ C.51 D.215 (résultat n°86) — déchiffrement brut signe à signe, sur la transcription du vérificateur (chiffre.txt), avec la clé d'époque
+# (cle/osuna_c3456_d108_cifra1635_releve.tsv) et la correspondance de formes (cle/correspondance_formes_mainC.tsv). Texte en clair omis (voir lecture.md).
+# · = nulle ; v* = valeur NON comprise (forme douteuse, signe hors clé…) ; v° = valeur comprise dans la mesure officielle mais reposant sur une correspondance de forme
+# appuyée par les paires d'époque (comptée non comprise dans la variante stricte) ; mots du nomenclateur écrits en entier (Car._Albornoz…). Taux : voir lecture.md.
+
+P1L3  T men     h ne 178   69  13
+      · socorro s de gente que y
+P1L4  Za ne h 195%     ult           ne 30 d der  ƺ  Zi v  ne h g 10 Zi ƺ
+      ba de s haciendo Car._Albornoz de ci s como a° bi a° de s e m  bi a°
+P1L5  no ꝑ  no L 44 e 61  6 ne Zo 1 16 ꝑ  ƺ  233     38 12 49 53
+      do a° do n me l cho r de bo r ?* a° a° Nápoles ya p  re ta
+P1L6  Za ne h ilt                men     ∨? g er ꝑ  69  e 146    T
+      ba de s Conde_de_Monterrey socorro ?* e se a° que l Estado ·
+P1L8  ꝑ  xa 33 e 53 69  n ꝑ  30 ꝑ  L en 217     ne Zi e xa
+      a° la fa l ta que h a° ci a° n el Marqués de bi l la
+P1L9  t 48 L 28 13 163           T
+      f ra n ca y  D._Fr.co_Melo ·
+P1L12 T e xe Ze L 1500⁸ 190    h g? h 220 lo 28 178
+      · l le be n 1500* Hombre s ?* s muy po ca gente
+P1L13 13 xa h Zo e Ze 50 ꝑ  ne h ƺ  g L Zi ƺ  6 209   260      e xe
+      y  la s bo l be ri a° de s a° e n bi a° r luego para_que l le
+P1L14 Ze L 43 h 38 12 52 g Zo xo 69? ne 30 h hac    ꝑ  g 10 Zi ꝑ
+      be n ma s ya p  ru e bo lo ?*  de ci s quanto a° e m  bi a°
+P1L15 6 186       h der  y  h g h 53 43 L na no T
+      r Galer[as] s como o° s e s ta ma n da do ·
+P1L16 T en alt         44 ni y  huc    ne 244‹ bis   sol  ne e 45 h 46 ni
+      · el Conde_Duque me di o° quenta de otra carta V.ra de l mi s mo di
+P1L17 ꝑ  31 L 69  g 10 Zi ꝑ  h 54 h xa h 69  y  h ꝑ  Zi ƺ  L g h
+      a° co n que e m  bi a° s te s la s que o° s a° bi a° n e s
+P1L18 2 50 56 bla            en 217     ne xo h Za e Za er h 39 e Ze g no
+      c ri to D._Car._Coloma el Marqués de lo s ba l ba se s ye l be e do
+P1L19 6 176     no L Z ε 31 xa h 30 a 13 huc    ꝑ  xo 69  er ni 29
+      r general do n n i co la s ci d y  quenta a° lo que se di ce
+P1L20 g L g e xa h ne e 146    69  g L 56 L 29 h 54 L ε ꝑ
+      e n e l la s de l Estado que e n to n ce s te n i a°
+P1L21 xa 43 54 50 e⁺ ƺ  ne xa 185    L y  er y  12 49 29 31 ar
+      la ma te ri ?* a° de la Guerra n o° se o° p  re ce co sa
+P1L22 274        69  6 49 h lo L ne 6ᴰ  g h le 2 56 ne n ꝑ  e xa 6
+      particular que r re s po n de rr° e s pe c to de h a° l la r
+P1L23 er g L en 69  ar Ze ε h T
+      se e n el que sa be i s ·
+P2L1  T ne xu? 69  16 ꝑ  69  g h 2 50 Zi h 55 g
+      · de ?*  que ?* a° que e s c ri bi s ti e
+P2L2  L g en ult           ne 69  en 259  ꝑ  Zi ꝑ  g L at L p  no ꝑ  er ut 48 L
+      n e el Car._Albornoz de que el Papa a° bi a° e n ga n a° do a° se gu ra n
+P2L3  no xe 69  L y? g L 17 48 50 ꝑ  L g Z? 218   156     g h le 51 L y  g h
+      do le que n ?* e n t  ra ri a° n e ?* Milán francés e s pe ro n o° e s
+P2L4  ni h 32 e laᴰ   48 en ban      ꝑ  Ze 6 2 49 ε no an 259  g L xo 54
+      di s cu l papa° ra el Cardenal a° be r c re i do al Papa e n lo te
+P2L5  L lo 48 e T I
+      n po ra l · ·
+P2L6  T g L xo 69  31 L 55 g L g xa bis   ne e 217     ne xo h Za e Za er h
+      · e n lo que co n ti e n e la carta de l Marqués de lo s ba l ba se s
+P2L7  ne 69  en 43 41 6 ß? lo 69  er lo ni ꝑ  L⁺ nel   134 en ꝑ  Za 55
+      de que el ma yo r ?* po que se po di a° ?* tener era el a° ba ti
+P2L8  45 g L 56 13 ne h dos       53 L 4 48 L ne 69  ꝑ  Zi ꝑ  g L 17 48
+      mi e n to y  de s confianza ta n g ra n de que a° bi a° e n t  ra
+P2L9  no g L en la ε h 13 69  ꝑ  42 na Za 219   ꝑ  g h 56 en Ze 6
+      do e n el pa i s y  que a° yu da ba mucho a° e s to el be r
+P2L10 xa t xa 69  28 ne 235‹    178   37 L na L no g L 6 49 lu? 53 30
+      la f la que ca de nuestra gente fu n da n do e n r re ?*  ta ci
+P2L11 y  L g L Z? y  er 6 Zi 6 ur 28 6 ot T n ꝑ  la 49 30 no 69
+      o° n e n ?* o° se r bi r su ca r go · h a° pa re ci do que
+P2L12 er 48 97   xe ni at ε h 69  lo 6 69  g h 53 L no xa h 31
+      se ra bien le di ga i s que po r que e s ta n do la s co
+P2L13 ar h g L ꝑ  69  e 146    er 46 h 17 48 Za ne h 31 L 54 L L⁺
+      sa s e n a° que l Estado se mo s t  ra ba de s co n te n ?*
+P2L14 56 13 L y  46 50 ꝑ  g L ur 275  56 13 69  31 L ir ne 49 ir
+      to y  n o° mo ri a° e n su pues to y  que co n si de re si
+P2L15 ne Ze 6 n+ L ꝑ  256     ne nal‹  h la 6 54 h 13 28 xi na̅
+      de be r u° n a° persona de tanta s pa r te s y  ca li ?*
+P2L16 ne h der  xa ur 38 ne h 31 L 54 L 53 lo ni ꝑ  en 146    31 L
+      de s como la su ya de s co n te n ta po di a° el Estado co n
+P2L17 29 Zi 6 xa ne h 31 L 35 ꝑ  L 28 69  ni 29 ir L 43 h 246     13
+      ce bi r la de s co n fi a° n ca que di ce si n ma s ocasión y
+P2L18 69  xo h Zu g L y  h g L y  Ze ne 29 6 L y  li g 6 ne
+      que lo s bu e n o° s e n o° be de ce r n o° pi e r de
+P2L19 L 194   L ε g L le 6 ni L er 6 49 lu? 53 30 y  L le 6 ni g L
+      n honra n i e n pe r di n se r re ?*  ta ci o° n pe r di e n
+P2L20 no er 195%     xo 69  er xe h 43 L na le 51 38 xa h 31
+      do se haciendo lo que se le s ma n da pe ro ya la s co
+P2L21 ar h 55 g L g L ni 34 49 L 54 146    T
+      sa s ti e n e n di fe re n te Estado ·

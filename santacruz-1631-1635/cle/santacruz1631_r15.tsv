@@ -1,4 +1,4 @@
-# Clé 1631, version figée r15 (sha256 d'origine 07564c7e…) = r12 + paire D.58↔D.59 ; sert au 3ᵉ examen de D.6 (n°62). Ni D.6 ni D.60 dans les sources.
+# Clé 1631, version figée r15 (sha256 d'origine 07564c7e…) = r12 + paire D.58↔D.59 ; sert au 3ᵉ examen de D.6 (résultat n°62). Ni D.6 ni D.60 dans les sources.
 # Clé reconstruite par nous depuis des paires chiffré / déchiffrement d'époque (AHNOB, SANTA CRUZ, C.51). Licence CC BY 4.0.
 # Statuts : PROUVÉ / PROUVE = ≥ 2 contextes dans ≥ 2 lettres (seul compté compris dans les taux officiels) ; PROUVÉ-1lettre / PROUVE_1L = ≥ 2 contextes dans une lettre ;
 # HYP = 1 contexte ; DOUBLE / CONTRADICTION = signe à deux valeurs (NON compris partout) ; NUL? = nul probable. Contextes = pièce:ligne (et, pour 1634, n° de groupe) + mot du descifrado.

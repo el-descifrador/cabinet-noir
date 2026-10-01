@@ -3,7 +3,7 @@
 **BnF, Français 3234, pièce 61, f.103r-v — résultat n°2. Étiquette : « clé cassée à l'aveugle par nous »** (substitution simple italienne, solveur de fréquences + compléments manuels ;
 aucune clé d'époque). **Confirmé avec réserves** par un vérificateur indépendant.
 
-| n° | pièce | date | taux / contrôles (vérificateur) | réserves | nouveauté |
+| résultat n° | pièce | date | taux / contrôles (vérificateur) | réserves | nouveauté |
 |---|---|---|---|---|---|
 | 2 | fr 3234 p.61 f.103r-v (7 lignes, 421 signes) | 20/10/1568 | passage lu en entier ; relecture aveugle ≈ 180 signes (4 écarts, tous en faveur d'un italien plus correct) ; solveur relancé sans valeur imposée, autre corpus, autre graine : même clé sur tous les signes fréquents (2 redémarrages sur 4) ; texte ≈ 15 fois la distance d'unicité | code de nom IR non prouvé (cardinal de Lorraine = hypothèse) ; 4-5 fautes du chiffreur ; signe « g » à deux valeurs | A prov. |
 

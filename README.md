@@ -4,20 +4,21 @@
 
 **Lettres chiffrées historiques : lectures vérifiées (XVIᵉ-XIXᵉ siècle)** · *Historical cipher letters: verified readings (16th-19th century)*
 
-> **FR.** Ce dépôt réunit 79 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg, Niedersächsisches Landesarchiv Stade, Landesarchiv NRW) :
-> **76 lectures confirmées** par un vérificateur indépendant (presque toutes **« avec réserves »**) **+ 3 lectures partielles** (n°10, 16, 22), qui restent **sous le seuil de 80 %**
+> **FR.** Ce dépôt réunit 102 lectures de lettres chiffrées conservées dans des archives européennes (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg, Niedersächsisches Landesarchiv Stade, Landesarchiv NRW, Sächsisches Hauptstaatsarchiv Dresden, Herzog August Bibliothek Wolfenbüttel, Rigsarkivet Copenhague) :
+> **99 lectures confirmées** par un vérificateur indépendant (presque toutes **« avec réserves »**) **+ 3 lectures partielles** (résultats n°10, 16, 22), qui restent **sous le seuil de 80 %**
 > selon au moins une mesure et ne sont pas comptées comme confirmées (voir § 3). Pour chaque lettre : transcription du chiffré, clé utilisée
 > (nos clés ; pour une clé publiée par un tiers, seulement la référence et nos compléments), lecture, taux mesurés par le vérificateur, réserves, sources (liens, aucune image).
 > Le travail a été fait par une équipe d'agents d'IA (Claude, Anthropic) coordonnée par un humain ; les lectures sont des **propositions argumentées**, pas des éditions critiques.
 >
-> **EN.** This repository gathers 79 readings of cipher letters kept in European archives (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg, Niedersächsisches Landesarchiv Stade, Landesarchiv NRW):
-> **76 confirmed readings** by an independent verifier (most of them **"with reservations"**) **+ 3 partial readings** (nos. 10, 16, 22) that fall **below the 80 % threshold**
+> **EN.** This repository gathers 102 readings of cipher letters kept in European archives (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg, Niedersächsisches Landesarchiv Stade, Landesarchiv NRW, Sächsisches Hauptstaatsarchiv Dresden, Herzog August Bibliothek Wolfenbüttel, Rigsarkivet Copenhague):
+> **99 confirmed readings** by an independent verifier (most of them **"with reservations"**) **+ 3 partial readings** (results nos. 10, 16, 22) that fall **below the 80 % threshold**
 > under at least one measure and are not counted as confirmed (see § 3). For each letter: ciphertext transcription, key used (our own keys;
 > for keys published by third parties, only the reference and our additions/corrections), reading, verifier's scores, reservations, sources (links only, no images).
 > The work was done by a team of AI agents (Claude, Anthropic) coordinated by a human; readings are **argued proposals**, not critical editions.
-> Documentation is in French; the table below is self-explanatory (n°, shelfmark, date, key origin, verified rates per cipher group / per word).
+> Documentation is in French; the table below is self-explanatory (result no., shelfmark, date, key origin, verified rates per cipher group / per word).
+> Our results are cited as « résultat n°NN » (result no. NN), to avoid any confusion with the item numbers of the manuscripts (e.g. BnF « Espagnol 132 n°88 »).
 
-**Statut / status : version 1.1.0 (29/09/2026 ; voir le « Journal des versions » en fin de fichier). Auteur : Descifrado. Dépôt : https://github.com/el-descifrador/cabinet-noir.**
+**Statut / status : version 1.2.0 (01/10/2026 ; voir le « Journal des versions » en fin de fichier). Auteur : Descifrado. Dépôt : https://github.com/el-descifrador/cabinet-noir.**
 
 ---
 
@@ -29,45 +30,57 @@
    Les taux sont ceux du **vérificateur** (sa transcription, son script), selon une **mesure sévère** : tout signe à deux valeurs, toute hypothèse, tout code à un seul contexte,
    tout groupe caché dans la reliure compte comme **non compris**.
 3. **Deux sortes de résultats**, à ne pas confondre :
-   - **clé cassée / reconstruite / retrouvée par nous** (vraies percées : Malsburg 1637, Charles X Gustave 1657, Santa Cruz 1631-1635, Ridolfi 1646, Grana 1650, Fogliani 1568, Ventadour 1595, Brèves 1610 ; à un moindre degré, la clé d'époque n°71 de Nevers, identifiée par nous comme celle de Montholon (n°11) : clé retrouvée, pas cassée, dont l'alphabet était déjà reconstitué par Tomokiyo ; l'apport est l'identification et la table des noms) ;
+   - **clé cassée / reconstruite / retrouvée par nous** (vraies percées : Malsburg 1637, Charles X Gustave 1657, Santa Cruz 1631-1635, Ridolfi 1646, Grana 1650, Fogliani 1568, Ventadour 1595, Brèves 1610 ; clés d'époque **retrouvées par nous dans un autre volume ou un autre fonds** : Santa Cruz 1635 (« Cifra general del año 1635 », AHNOB OSUNA, qui confirme notre reconstruction antérieure) et Loss → Debrose 1742-1746 (clé « Debrais », Dresde) ; chiffres **triviaux** (substitutions réciproques, sans mérite cryptanalytique) : Vind 1647 (cassé à l'aveugle) et Ritthaler 1681 (clé tirée d'une paire glosée) ; à un moindre degré, la clé d'époque n°71 de Nevers, identifiée par nous comme celle de Montholon (résultat n°11) : clé retrouvée, pas cassée, dont l'alphabet était déjà reconstitué par Tomokiyo ; l'apport est l'identification et la table des noms) ;
    - **première lecture avec une clé publiée ou d'époque** (Tomokiyo, Devos 1950, table du Grand Chiffre, clé notée par le déchiffreur d'époque, clé d'époque de Landsberg 1677 retrouvée dans le même volume…) : le mérite de la clé revient à son auteur.
 4. **Malsburg 1637 et Hesse 1824** ont été lus **indépendamment et en parallèle** d'un autre projet public, qui les a **publiés le premier** (dbourdeau/cyphersolver, 29/09/2026).
    Nous ne revendiquons **aucune priorité** : nos lectures valent confirmation indépendante (pour Malsburg, les deux clés cassées à l'aveugle concordent sur 81 des 88 valeurs communes).
 5. Les lectures n'ont pas été relues par un paléographe ou un historien spécialiste. Les identifications de personnes et de lieux marquées HYP sont des hypothèses.
-6. **Aucune image** n'est reproduite ici : suivre les liens vers Gallica, PARES, HCPortal, Arcinsys ou le Landesarchiv NRW. Les transcriptions sont les nôtres, faites sur ces images.
+6. **Aucune image** n'est reproduite ici : suivre les liens vers Gallica, PARES, HCPortal, Arcinsys, le Landesarchiv NRW, les Archives de Saxe (archiv.sachsen.de), la bibliothèque numérique de la HAB ou Arkivalieronline (Rigsarkivet). Les transcriptions sont les nôtres, faites sur ces images.
 
 ## 2. Méthode (résumé ; détail dans [METHODE.md](METHODE.md))
 
 - **Équipe** : des agents d'IA « casseurs » (transcription, recherche de clé, lecture), puis, pour chaque lettre, un **agent vérificateur frais** qui refait
   la transcription d'une partie ou de la totalité du chiffré **à l'aveugle**, reproduit la méthode (solveur relancé, clé recontrôlée sur les paires d'époque) et mesure lui-même les taux.
 - **Taux sévère par groupe et par mot**, scriptés par le vérificateur sur une **copie figée** de la clé. Critère d'acceptation : ≥ 80 % des groupes chiffrés compris ;
-  le taux par mot est toujours donné à côté, et une **réserve** est posée s'il est < 80 %.
+  le taux par mot est toujours donné à côté, et une **réserve** est posée s'il est < 80 %. Pour les chiffres qui gardent les mots (Ritthaler 1681, Vind 1647) et pour la correspondance
+  Loss → Debrose (nomenclateur dont beaucoup de mots sont épelés lettre à lettre), l'unité de mesure est le **mot** : critère ≥ 80 % des mots chiffrés compris (Loss : et au moins 20 mots chiffrés ;
+  mots épelés ≥ 80 % aussi, règle valable pour tout chiffre où des codes isolés pourraient gonfler le taux).
 - **Tests de généralisation figés** : pour les clés cassées ou reconstruites par nous, la clé est **figée (empreinte + horodatage) avant l'ouverture** des images de la lettre testée ;
   la lettre ne doit avoir fourni aucune valeur à la clé. Pour les cassages à l'aveugle : estimation de la distance d'unicité, reproduction du solveur avec d'autres graines, test contre des clés nulles.
 - **Lettres entières** seulement : début et fin (date, signature, contreseing) vus sur l'image.
 
 ## 3. Tableau des résultats
 
-Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstruite par nous depuis des paires chiffré/déchiffré d'époque ; **E** = clé d'époque retrouvée par nous ;
+**Numérotation** : nos résultats sont désignés « **résultat n°NN** » (colonne « Résultat n° ») ; les numéros de pièces des manuscrits gardent leur forme d'origine
+(par exemple BnF « Espagnol 132 n°88 », « fr 4715 n°48 » : ce sont des cotes, pas nos résultats).
+Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstruite par nous depuis des paires chiffré/déchiffré d'époque ; **E** = clé d'époque retrouvée par nous (dans le même volume ou ailleurs) ;
 **P** = clé publiée par un tiers (première lecture de la lettre avec cette clé) ; **D** = clé d'époque donnée par une note du déchiffreur.
 « Nouveauté » (selon le **clair**) : **A** = aucun clair connu trouvé ; **B** = clair partiel connu (citation, résumé, fragment) ; **C** = texte déjà connu/imprimé
-(notre apport = lecture de l'exemplaire chiffré). « prov. » = provisoire. Taux = vérificateur, mesure sévère ; « — » = non mesuré à l'époque de la vérification.
+(notre apport = lecture de l'exemplaire chiffré). « prov. » = provisoire. Taux = vérificateur, mesure sévère ; « — » = non mesuré à l'époque de la vérification, ou sans objet (chiffres qui gardent les mots : mesure par mot seulement).
+Pour Loss → Debrose, la colonne donne groupe / mot (et mots épelés) ; le critère porte sur le mot.
 
 > **Résultats sous le seuil de 80 % : à lire comme des lectures partielles, pas comme des confirmations pleines.** Le critère d'acceptation est ≥ 80 % des groupes
 > chiffrés compris, selon la mesure du vérificateur. Les trois lignes suivantes ne l'atteignent pas, ou ne l'atteignent pas selon la mesure la plus prudente. Leur vérificateur a conclu
 > « confirmé avec réserves », mais elles **ne sont pas présentées ici comme pleinement confirmées** (colonne « Seuil 80 % ») :
-> - **n°10** (Montholon → Nevers, BnF fr 4715 n°48 f.71) : **≈ 75 %** compris ;
-> - **n°22** (Croissy → Mazarin, BnF Baluze 178 f.73-74) : 85,7 % en mesure stricte, mais **79,8 %** (≈ 80,3 % après contrôle) en « aveugle révisé », la seule mesure proche de la règle sévère
+> - **résultat n°10** (Montholon → Nevers, BnF fr 4715 n°48 f.71) : **≈ 75 %** compris ;
+> - **résultat n°22** (Croissy → Mazarin, BnF Baluze 178 f.73-74) : 85,7 % en mesure stricte, mais **79,8 %** (≈ 80,3 % après contrôle) en « aveugle révisé », la seule mesure proche de la règle sévère
 >   (≈ 8 % des jetons sont des signes à deux valeurs tranchés au sens) ;
-> - **n°16** (Philippe II → Vargas Mexía, BnF Espagnol 132 f.17-25) : 83,5 % (81,6 % au dénominateur prudent), mais **79,9 %** dans la variante stricte du vérificateur
+> - **résultat n°16** (Philippe II → Vargas Mexía, BnF Espagnol 132 f.17-25) : 83,5 % (81,6 % au dénominateur prudent), mais **79,9 %** dans la variante stricte du vérificateur
 >   (mesure en équivalents-lignes, ± 3 points ; « seuil atteint, de peu »).
 >
-> **Bornes extrêmes sous 80 %, non retenues par leur vérificateur** (à connaître) : n°27 (63,5 % si l'on compte non compris les 29 % de la lettre qu'aucun vérificateur n'a relus) ;
-> n°40 (79,8 % en mode ultra-sévère en comptant le passage biffé par la chancellerie) ; n°11 (79,3 % si le passage R2 est refusé, 79,96 % en cumulant toutes les variantes défavorables ; ancienne lecture partielle, reclassée confirmée avec réserves le 29/09 avec la clé d'époque n°71) ; n°7 (plancher théorique ≈ 80 % dans le pire cas combiné).
+> **Bornes extrêmes sous 80 %, non retenues par leur vérificateur** (à connaître) : résultat n°27 (63,5 % si l'on compte non compris les 29 % de la lettre qu'aucun vérificateur n'a relus) ;
+> résultat n°40 (79,8 % en mode ultra-sévère en comptant le passage biffé par la chancellerie) ; résultat n°11 (79,3 % si le passage R2 est refusé, 79,96 % en cumulant toutes les variantes défavorables ; ancienne lecture partielle, reclassée confirmée avec réserves le 29/09 avec la clé d'époque Nevers n°71) ; résultat n°7 (plancher théorique ≈ 80 % dans le pire cas combiné).
 >
-> En outre, **18 lignes** atteignent le seuil par groupe mais **pas par mot** (taux par mot < 80 %, en gras : n°11, 48, 49, 51, 52, 53, 54, 56, 58, 60, 63, 65, 70, 71, 74, 76, 77, 78) : réserve explicite, lecture à prendre avec prudence.
+> Depuis la version 1.2.0 : résultats n°80 et n°81 (empilement maximal des doutes 78,9 % et 77,6 % au mot) ; **résultat n°82** (variante stricte **78,4 %** au mot) ;
+> **résultat n°83** (variante stricte **75,0 %** au mot, 28 mots : « fortes réserves ») ; résultat n°86 (empilement maximal 78,1 % au mot) ;
+> **résultat n°89** (graphie stricte **79,2 %**, borne basse 72,0 % au mot).
+> Loss → Debrose (critère par mot) : **résultat n°102 à 80,0 % pile au mot (marge nulle)** ; variantes plus sévères sous 80 % : résultat n°85 (mots épelés, variante stricte 79,2 %),
+> résultat n°88 (empilement maximal 73,9 % au mot) ; par groupe seulement (indicatif, le critère Loss porte sur le mot) : résultats n°87 (groupe strict 71,0 %), n°90 (79,4 %),
+> n°91 (empilements 60-73 %), n°94 (72-74 % sous tous les doutes), n°95 (77,1 %), n°98 (75,9 % en variante sur-sévère).
+>
+> En outre, **18 lignes** atteignent le seuil par groupe mais **pas par mot** (taux par mot < 80 %, en gras : résultats n°11, 48, 49, 51, 52, 53, 54, 56, 58, 60, 63, 65, 70, 71, 74, 76, 77, 78) : réserve explicite, lecture à prendre avec prudence.
 
-| n° | Document | Cote | Date | Clé | Taux groupe / mot | Seuil 80 % | Réserves principales | Nouv. | Dossier |
+| Résultat n° | Document | Cote | Date | Clé | Taux groupe / mot | Seuil 80 % | Réserves principales | Nouv. | Dossier |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Roi Joseph → Napoléon (planche dite « Berthier ») | chiffré : J. Vilcoq, *Revue historique de l'Armée*, 1969, n° 4, planche p. 24 ; déchiffrement d'époque : TNA WO 37/2/21 | 22/12/1812 | P (Grand Chiffre) | lettre entière lue | atteint | déjà déchiffrée par Scovell (TNA WO 37/2/21) | C | [joseph-napoleon-1812](joseph-napoleon-1812/) |
 | 2 | Fogliani → Renée de France | BnF fr 3234 p. 61 f.103 | 20/10/1568 | C (substitution simple) | lettre entière ; solveur reproduit à l'aveugle | atteint | code « IR » non prouvé | A prov. | [fogliani-1568](fogliani-1568/) |
@@ -148,9 +161,33 @@ Légende « clé » : **C** = cassée à l'aveugle par nous ; **R** = reconstrui
 | 77 | Charles X Gustave → régence de Brême-Verden | NLA Stade Rep. 5a Nr. 636 fol. 115r | 04/07/1657 | **C** (test fermé ; validée par un original en clair d'époque) | 85,7 % / **31,6 %** (aveugle) | atteint au groupe ; **mot < 80 %** (réserve) | mots du répertoire > 99 non établis ; 27 et 64 contredits par le sens ; clair de L2 inconnu | A prov. | [karlgustav-1657](karlgustav-1657/) |
 | 78 | Dietrich von Landsberg → J. H. Schmidtman (Vienne) | LAV NRW W 004 (Msc. VI) Nr. 119, vues 110-113 | 23/02/1677 | E (clé d'époque du même volume, vue 133) | 83,2 % / **62,5 %** (aveugle) ; très strict 78,2 % | atteint au groupe ; **mot < 80 %** (réserve) ; **passage court** (101 jetons) | codes 111 et 112 incertains sur la clé ; lectures disputées (47/97, 15/5) | A prov. | [landsberg-1677](landsberg-1677/) |
 | 79 | Dietrich von Landsberg → J. H. Schmidtman (Vienne) | LAV NRW W 004 (Msc. VI) Nr. 119, vues 050-053 | 19/01/1677 | E (clé d'époque du même volume, vue 133) | 85,7 % / 81,2 % (prudent, hors 2 mots glosés d'époque) ; vérificateur 97,1 % / 87,5 % | atteint | **passage court** (70 groupes, 16 mots) ; codes de noms ; « Neubourq » (q pour g) | A prov. | [landsberg-1677](landsberg-1677/) |
+| 80 | Michael Ritthaler → duc Rodolphe-Auguste de Brunswick-Wolfenbüttel (brouillon latin) | HAB Wolfenbüttel, Cod. Guelf. 252.2 Extrav., fol. 148r | 01/11/1681 | R (paire glosée du même volume, fol. 163v-164r ; chiffre trivial) | — / 84,9 % (par mot ; stricte 83,6 %) | atteint | chiffre trivial, lecture non aveugle au sens strict ; brouillon ; empilement maximal 78,9 % | A prov. | [ritthaler-1681](ritthaler-1681/) |
+| 81 | Michael Ritthaler → duc Rodolphe-Auguste (brouillon latin) | HAB Wolfenbüttel, Cod. Guelf. 252.2 Extrav., fol. 147r-v | ≈ 28/10/1681 | R (même clé ; généralisation) | — / 89,5 % (par mot ; stricte 84,2 %) | atteint | 57 mots ; date en partie déduite ; empilement maximal 77,6 % | A prov. | [ritthaler-1681](ritthaler-1681/) |
+| 82 | Holger Vind → Erik Krag (lettre privée en danois) | Rigsarkivet, TKUA Alm. del 3, vol. « Chiffer » (Arkivalieronline epid 19852193), vue 126 d. | 17/03/1647 | **C** (substitution réciproque, chiffre trivial) | — / 84,2 % (par mot) ; stricte **78,4 %** | atteint ; **stricte < 80 %** (réserve) | lapsus du scripteur ; 76 mots ; contamination déclarée du vérificateur (compensée) | A prov. | [vind-1647](vind-1647/) |
+| 83 | Michael Ritthaler → duc Rodolphe-Auguste (brouillon latin) | HAB Wolfenbüttel, Cod. Guelf. 252.2 Extrav., fol. 154r-v | 29/12/1681 | R (même clé ; généralisation) | — / 89,3 % (par mot) ; stricte **75,0 %** | atteint ; **fortes réserves** (stricte < 80 %, 28 mots) | très court ; contamination déclarée du vérificateur | A prov. | [ritthaler-1681](ritthaler-1681/) |
+| 84 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 34-36 | 11/02/1743 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 91,8 % / 91,6 % (épelés 92,1 %) | atteint | aucune de mesure (toutes les variantes ≥ 80 %) | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 85 | J. A. von Loss → général de Debrose (La Haye), lettre « N°14 » | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/11, vues 37-39 | 03/05/1745 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 90,9 % / 96,0 % (épelés 95,8 %) | atteint ; **variante stricte 79,2 % (épelés)** | variante stricte : épelés 79,2 %, mot 80,0 % pile ; groupe strict 68 % | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 86 | Philippe IV → marqués de Santa Cruz (lettre « [Sin descifrar] ») | AHNOB Santa Cruz C.51 D.215 | 23/12/1635 | E (clé d'époque « Cifra general del año 1635 », AHNOB OSUNA C.3456 D.108, retrouvée par nous ; notre reconstruction antérieure concorde 102/102) | 97,7 % / 94,3 % (épelés 93,4 %) ; empilement maximal des doutes de forme 89,2 % / **78,1 %** | atteint | pas de déchiffrement d'époque ; transcription du vérificateur non aveugle à la clé ; empilement maximal < 80 % au mot ; formes ꝑ/ƺ appuyées sur les paires | A prov. | [santacruz-1635b](santacruz-1635b/) |
+| 87 | J. A. von Loss → général de Debrose (La Haye), lettre « N°30 » | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/11, vues 209-211 | 26/07/1746 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 93,1 % / 97,6 % (épelés 97,4 %) | atteint ; **groupe strict 71,0 %** | groupe strict 71,0 % ; convention ä = ai ; « Pompadour » non compris (jeton 82/80) | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 88 | J. A. von Loss → général de Debrose (La Haye), lettre « N°7 » | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/11, vues 144-146 | 31/01/1746 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 98,8 % / 95,7 % (épelés 95,5 %) | atteint ; **passage court** (23 mots) | **passage court** (23 mots) ; empilement maximal < 80 % | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 89 | Philippe IV → marqués de Santa Cruz (lettre « [Sin descifrar] », p.24 glosée en partie à l'époque) | AHNOB Santa Cruz C.51 D.164 | 14/08/1635 | E (même clé d'époque OSUNA C.3456 D.108) | 88,4 % / 82,1 % (sévère ; officielle 88,7 / 83,4) ; strict-graphie **79,2 %** mot ; borne basse **72,0 %** mot | atteint, **marge mince** (strict-graphie et borne basse < 80 % au mot) | déchiffrement d'époque partiel (≈ 19 mots, p.24) ; lecture de référence moderne ; même main C que D.215, sans test séparé | A prov. | [santacruz-1635b](santacruz-1635b/) |
+| 90 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 41-42 | 08/03/1743 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 95,7 % / 95,7 % (épelés 97,7 %) | atteint ; empilement maximal 79,4 % (groupe) | passage court ; vérificateur exposé au clair de l'équipe (déclaré) ; empilement maximal 79,4 % par groupe | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 91 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 206-208 | 07/12/1744 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 95,1 % / 97,0 % (épelés 96,9 %) | atteint ; empilements maximaux 60-73 % | empilements maximaux 60-73 % (toutes alternatives, même improbables) | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 92 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 20-22 | 22/06/1742 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 94,4 % / 93,4 % (épelés 97,2 %) | atteint | aucune de mesure ; plus ancien usage lu de la clé | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 93 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 43-45 | 25/03/1743 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 94,8 % / 95,2 % (épelés 96,3 %) | atteint | code 24 « av » (2 mots non compris) ; thème vu avant gel (déclaré) | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 94 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 80-82 | 14/10/1743 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 88,9 % / 92,8 % (épelés 94,9 %) | atteint ; tous les doutes : groupe 72-74 % | groupe 72,8-74,2 % sous tous les doutes d'un seul lecteur | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 95 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 93-95 | 07/02/1744 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 86,5 % / 92,7 % (épelés 92,5 %) | atteint ; **groupe fragile** (77,1 % sous tous les doutes réels) | **groupe fragile** (77,1 % sous tous les doutes réels) ; 3 mots sur jetons illisibles | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 96 | J. A. von Loss → général de Debrose (La Haye) (lettre et P.S.) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 16-18 | 03/08/1742 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 93,5 % / 93,5 % (épelés 93,5 %) | atteint | aucune de mesure ; P.S. au verso (rattachement prouvé) | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 97 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 110-113 | 27/03/1744 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 93,0 % / 91,9 % (épelés 94,4 %) | atteint | aucune de mesure ; passage court-moyen (37 mots) | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 98 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 68-70 | 16/08/1743 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 81,0 % / 87,1 % (épelés 87,1 %) | atteint, **marge mince** (groupe 81,0 % ; 80,2 % sous tous les doutes) | **marge mince par groupe** (81,0 % ; 80,2 % sous tous les doutes réels) ; main de secrétaire | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 99 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 82-84 | 04/11/1743 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 85,1 % / 87,7 % (épelés 88,5 %) | atteint | aucune de mesure | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 100 | Loss → le Roi : **copie de relation** jointe à la correspondance avec Debrose (chiffrée pour Debrose) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 113-115 | 01/04/1744 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 94,7 % / 96,2 % (épelés 95,8 %) | atteint ; **copie de relation** ; passage court (26 mots) | **copie de relation** au Roi jointe à une lettre à Debrose (comptée 1 lecture) ; original au Roi non consulté ; passage court | A prov. (original au Roi non consulté) | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 101 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 14-16 | 20/08/1742 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 84,1 % / 90,5 % (épelés 90,5 %) | atteint ; **longueur au seuil** (21 mots) | **longueur au seuil** (21 mots, dont 19 dans le bloc principal) | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
+| 102 | J. A. von Loss → général de Debrose (La Haye) | HStA Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 120-123 | 17/04/1744 | E (clé d'époque « Debrais », HStA Dresden Loc. 00675/10 vue 24, retrouvée par nous) | 84,1 % / 80,0 % (épelés 87,0 %) | atteint, **marge nulle** (80,0 % par mot) | **marge nulle par mot** (80,0 % = 20/25) ; « Berlin » faute du chiffreur ; passage court | A prov. | [loss-debrose-1742-1746](loss-debrose-1742-1746/) |
 
-Les numéros suivent l'ordre de confirmation par les vérificateurs. **Non inclus** (retirés ou douteux) : Espagnol 336 n°88 (retiré : 79,3 % sous le seuil sévère) ;
-Espagnol 132 f.26r (étendue douteuse : ni date ni signature visibles) ; Espagnol 336 n°89 (partiel) ; lectures mineures ou partielles non comptées.
+Les numéros de résultat suivent l'ordre de confirmation par les vérificateurs. **Non inclus** (retirés ou douteux) : la pièce Espagnol 336 n°88 (retirée : 79,3 % sous le seuil sévère) ;
+Espagnol 132 f.26r (étendue douteuse : ni date ni signature visibles) ; la pièce Espagnol 336 n°89 (partielle) ; Landsberg 5/1/1677 (partielle) ;
+Ritthaler fol. 158v, 120v et 147r haut (partielles) ; Loss → Debrose : lectures partielles ou trop courtes (dont deux vérifiées sous le seuil) ; lectures mineures ou partielles non comptées.
 
 ## 4. Organisation du dépôt
 
@@ -172,12 +209,20 @@ LICENSE, LICENSE-DONNEES.md, CITATION.cff, .zenodo.json
 
 ## Journal des versions / Changelog
 
-- **1.1.0 (29/09/2026)** : 79 lectures = 76 confirmées + 3 partielles (n°10, 16, 22). Ajouts depuis la 1.0 :
-  n°76 Grana 1650 (clé reconstruite depuis une paire d'époque) ; **n°77 Charles X Gustave 1657 (clé cassée à l'aveugle, validée par un original en clair d'époque)** ;
-  n°11 Montholon 1589 réintégrée (relue en entier avec la clé d'époque Nevers n°71, identifiée par nous ; de « partielle » à « confirmée avec réserves ») ;
-  n°78-79 Landsberg → Schmidtman 1677 (première lecture avec la clé d'époque retrouvée dans le même volume).
-- **1.0 (29/09/2026)** : première version publique, 75 lectures = 71 confirmées + 4 partielles (n°10, 11, 16, 22).
+- **1.2.0 (01/10/2026)** : 102 lectures = 99 confirmées + 3 partielles (résultats n°10, 16, 22). Ajouts depuis la 1.1.0 (résultats n°80 à n°102) :
+  résultats n°80, 81 et 83 Ritthaler 1681 (HAB Wolfenbüttel ; clé reconstruite depuis une paire glosée du même volume ; chiffre trivial) ;
+  résultat n°82 Vind → Krag 1647 (Rigsarkivet ; clé cassée à l'aveugle ; chiffre trivial) ;
+  **résultats n°86 et n°89 Santa Cruz 1635 (clé d'époque « Cifra general del año 1635 » retrouvée par nous dans un autre fonds ; elle confirme notre reconstruction antérieure)** ;
+  **résultats n°84, 85, 87, 88 et 90 à 102 Loss → Debrose 1742-1746 (Archives de Saxe, Dresde ; clé d'époque « Debrais » retrouvée par nous dans un autre volume)** ;
+  le résultat n°100 est une **copie** de la relation de Loss au Roi du 1/4/1744, jointe à la correspondance, comptée comme une lecture (décision de l'équipe).
+  Convention « résultat n°NN » pour désigner nos résultats (les numéros de pièces des manuscrits, ex. « Espagnol 132 n°88 », gardent leur forme). DOI de la version 1.1.0 ajouté.
+  Espagnol 132 : corrections de transcription du vérificateur reportées (f.32 L13 ; f.81 R10) ou signalées comme non tranchées (f.32 V14 ; f.81 R10 « S+? »).
+- **1.1.0 (29/09/2026)** : 79 lectures = 76 confirmées + 3 partielles (résultats n°10, 16, 22). Ajouts depuis la 1.0 :
+  résultat n°76 Grana 1650 (clé reconstruite depuis une paire d'époque) ; **résultat n°77 Charles X Gustave 1657 (clé cassée à l'aveugle, validée par un original en clair d'époque)** ;
+  résultat n°11 Montholon 1589 réintégré (relue en entier avec la clé d'époque Nevers n°71, identifiée par nous ; de « partielle » à « confirmée avec réserves ») ;
+  résultats n°78-79 Landsberg → Schmidtman 1677 (première lecture avec la clé d'époque retrouvée dans le même volume).
+- **1.0 (29/09/2026)** : première version publique, 75 lectures = 71 confirmées + 4 partielles (résultats n°10, 11, 16, 22).
 
 ## Citer / How to cite
 
-Descifrado, *Cabinet Noir : lectures vérifiées de lettres chiffrées historiques (XVIe-XIXe siècle)*, Zenodo, 2026. DOI (toutes versions / all versions) : [10.5281/zenodo.23039566](https://doi.org/10.5281/zenodo.23039566) ; version 1.0 : [10.5281/zenodo.23039567](https://doi.org/10.5281/zenodo.23039567). Voir aussi [CITATION.cff](CITATION.cff).
+Descifrado, *Cabinet Noir : lectures vérifiées de lettres chiffrées historiques (XVIe-XIXe siècle)*, Zenodo, 2026. DOI (toutes versions / all versions) : [10.5281/zenodo.23039566](https://doi.org/10.5281/zenodo.23039566) ; version 1.0 : [10.5281/zenodo.23039567](https://doi.org/10.5281/zenodo.23039567) ; version 1.1.0 : [10.5281/zenodo.23069237](https://doi.org/10.5281/zenodo.23069237). Voir aussi [CITATION.cff](CITATION.cff).

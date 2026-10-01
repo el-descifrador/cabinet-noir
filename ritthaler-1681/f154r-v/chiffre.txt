@@ -1,0 +1,19 @@
+# HAB Cod. Guelf. 252.2 Extrav., fol. 154r bas - 154v haut (vues 00315-00316 : https://diglib.hab.de/mss/252-2-extrav/start.htm?image=00315 ; https://diglib.hab.de/mss/252-2-extrav/start.htm?image=00316).
+# Ritthaler -> duc Rodolphe-Auguste, « Dabam Guelpherbyti d. 29. Decembr. » [1681]. Résultat n°83.
+# Transcription du vérificateur indépendant, figée le 30/09/2026 21:48:03Z (contamination déclarée : il avait lu la traduction de l'équipe ;
+# la transcription du lecteur aveugle sans clé, non contaminée, mesurée avec la même clé et la même règle, donne aussi ≥ 80 %).
+# Conventions : f = f barré (clé : s) ; S ou ſ = s long (clé : f) ; [[...]] = barré par l'auteur (exclu) ; {+...} = ajout interlinéaire ou marginal (inclus à sa place de sens) ;
+# {M:...} = marque de renvoi ou signe non verbal (exclu) ; [a|b] = glyphe douteux entre a et b ; [a?] = glyphe douteux lu a (mot compté NON compris) ;
+# accents copiés tels que vus ; « - » final = coupure de fin de ligne.
+# En clair, EXCLUS : tête « Serenisse Princeps, Dne Clementisse » (154r) ; 154v « Dabam Guelpherbyti d. 29. Decembr. » + suite en clair (« … qui memor iterum
+#   Symphoniae Angelicae : In terrâ pax hominibus ; ad gaudium me ita excito : Mens Dei CLangores ! paX, paX eXorta beabIt. ») ; P.S. en clair marge gauche 154v.
+# Notes : L2-L3 un trait continu barre « Eggápy » et passe sous/à travers « ámyn » ; L3 « faz » barré → je lis les 3 mots BARRÉS (remplacés par « manba famyf ymtófyyf »).
+#   L3 marque interlinéaire au-dessus de « manba » (petit signe type « t o » traversé d'un trait, emmêlé à la hampe du y de L2) : illisible → {M:?} exclue.
+#   L3 mot effacé/taché après Kwea → [[?]] exclu. L3 « ymtófyyf » : après y, 1 jambage isolé + n = m (3 jambages), lu m sans doute.
+#   L4 « Wafdle[n?] » : dernier glyphe surchargé (tache, n sur « tt » ?) → douteux. L4 point avant « jofdydyea » = ponctuation ; j pointé net.
+#   L5 « un » barré avant « unmýcame ».
+L1	Fimgálon az medywydéda Jafo ceótyon blagédof, clédyef
+L2	ecu honyrryna blu halatydéda Hemyfyéme, [[Eggápy ámyn]]
+L3	[[faz]] manba {M:?} famyf ymtófyyf, Kwea [[?]] unmýmu fomd pume.
+L4	Taof Falamydédan Wafdle[n?] Fdure jofdydyea
+L5	ymtóden [[un]] unmýcame ſarygydéda paad.

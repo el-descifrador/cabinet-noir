@@ -1,0 +1,27 @@
+# Résultat n°95 : Loss -> Debrose, Paris, 7 février 1744.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 93-95 ; chiffré : v94 d. (7 lignes) + v95 g. (2 lignes).
+# Images : vue 93 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0093.jpg ; vue 94 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0094.jpg ; vue 95 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0095.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# notation : jetons séparés par «. » ; ? = illisible ; doutes listés en bas
+# P1 = v94 d., après « …et sans qu'on y ait fait le moindre changement. » (7 lignes ; rien sous L7, bas de page vu)
+# P1 suite = v95 g., 2 lignes en haut de page (rien au-dessus ; fin de ligne M1 « 84. » suivie de blanc avant le bord)
+# puis clair « D'autre part on veut avoir des avis ici, que la Reine de Hongrie… »
+# DOUTES
+# D1 L1#1 capitale « T. » : barre haute détachée, fût recourbé à gauche, pas de barre médiane (≠ F), pas de descente (≠ J) → T.
+# D2 L2#16 : « 7 » net + 2e chiffre EMPÂTÉ (forme de 2 en z probable : 72) → « ? » officiel ; ma lecture visuelle 72 (probable).
+# D3 L3#2 : « 72 » repassé/surchargé, à l'encre lourde, mais lisible 72.
+# D4 L4#2 et L5#2 : jetons de 2 chiffres SOUS la tache d'encre (L4 : traits verticaux, « 11 »/« 44 » ? ; L5 : bas « 24 »/« 84 » ?) → « ? ».
+# D5 F3 appliquée (tête fermée sans queue = 4) : L2 « 74 » (2e), L6 « 41 » (×2), L7 « 44 » (après 72), M1 « 41 » (×2), « 34 », M2 « 84 ».
+# D6 L3#16 « 72 » (pied du 2 visible, ≠ 77) ; L4 « 58 » (≠ 56) ; L5 « 23 » (gras).
+L1: T.12.37.72.30.43.35.6.43.20.31.75
+L2: 10.43.35.6.74.25.74.71.72.43.35.6.84.20.44.?.9.40.44.33.25.35.52
+L3: 41.72.20.31.71.300.9.10.25.13.25.35.6.25.71.72.30.43.35.25.33.9.20
+L4: 72.?.40.44.33.25.35.52.37.18.53.6.40.35.18.58.41.44.20.10.30.83
+L5: 33.?.44.13.9.10.23.41.34.72.20.44.41.80.74.25.300.9.10.25.51.25
+L6: 84.73.35.25.6.21.84.83.20.84.700.77.75.10.41.35.41.40.35.43.35
+L7: 33.84.44.43.44.43.6.20.84.72.20.44.41.72.44.25.40.35.9.300.9.10.25
+M1: 43.35.41.53.13.30.43.35.6.21.84.80.74.72.51.9.75.10.41.12.41.34.43.84
+M2: 33.17.84.53.9.80.74.72.51.25.20.80.20.25.6.30.41.25

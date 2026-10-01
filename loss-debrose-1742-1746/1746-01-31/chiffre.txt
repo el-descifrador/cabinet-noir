@@ -1,0 +1,15 @@
+# Résultat n°88 : Loss -> Debrose, « N°7 », Paris, 31 janvier 1746.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/11, vues 144-146 ; chiffré : v145 g..
+# Images : vue 144 : https://www.archiv.sachsen.de/digitalisate/52f9aa24-5dfd-486d-a42d-c09c141a6f38/fullsize/0144.jpg ; vue 145 : https://www.archiv.sachsen.de/digitalisate/52f9aa24-5dfd-486d-a42d-c09c141a6f38/fullsize/0145.jpg ; vue 146 : https://www.archiv.sachsen.de/digitalisate/52f9aa24-5dfd-486d-a42d-c09c141a6f38/fullsize/0146.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# Contexte clair : « Quant à moi je suis d'opinion, que ce » [chiffre : 2 jetons en fin de ligne + 4 lignes + 3 jetons] « Le Roy T.C. pour marquer sa modération… »
+# aucun doute de glyphe noté (zoom 2x suffisant, main régulière).
+L0: 25 31
+L1: 20 84 69 84 35 75 160 25 20 10 41 80 20 84 792 32 200 43 44
+L2: 80 74 33 20 17 44 395 41 300 33 18 72 75 72 168 S. 74 37 200
+L3: 21 200 41 44 70 192 72 51 25 35 25 32 464 41 25 35 41 51 25 20
+L4: 17 33 44 14 792 12 84 23 44 72 74 44 84 11 21 15 264 41 34
+L5: 43 290 53

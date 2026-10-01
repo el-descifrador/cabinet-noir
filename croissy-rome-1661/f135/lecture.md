@@ -14,7 +14,7 @@
 
 ### Lecture résumée (note de synthèse)
 
-**n°66, f.135r-137v (Rome, 17/1/1661, à J.-B. Colbert)** : le cardinal Antoine et l'ambassadeur d'Espagne auraient dû renouveler leurs instances à l'arrivée de Croissy, mais la
+**Résultat n°66, f.135r-137v (Rome, 17/1/1661, à J.-B. Colbert)** : le cardinal Antoine et l'ambassadeur d'Espagne auraient dû renouveler leurs instances à l'arrivée de Croissy, mais la
 [lettre] du Roy ne mentionnait pas le cardinal Antoine : « j'ay marché comme un aveugle » ; « la source des [grâces] de cette cour est empoisonnée pour nous », « le changement de
 canal [ne] fera rien » ; seconde audience ; « le mauvais succes de l'affaire de Parme » ; « la [bu]lle d'incameration du duché de Castro n'est pas [en]core publiée »
 (incamération prononcée en consistoire le 20/12/1660, Gérin) ; indult des bénéfices consistoriaux d'Artois.
@@ -51,7 +51,7 @@ canal [ne] fera rien » ; seconde audience ; « le mauvais succes de l'affaire d
  - l. 9378 : le cardinal Antoine « avait le brevet de ministre du roi auprès du saint-siège » et s'estimait « réduit à une sinécure », ce qui s'accorde avec « il n'estoit point fait mention dudit cardinal Antoine » dans la [372] du Roy ;
  - l. 9384-9391 : les instances de Parme et l'ambassadeur d'Espagne « qui n'avait pas d'ordre » ;
  - l. 9620 : l'incamération de Castro fut prononcée en consistoire le 20 décembre 1660, ce qui s'accorde avec « la [bu]lle d'incameration … n'est pas encore publiée » le 17/1/1661.
-- **Même semaine que n°64** (f.138, à Mazarin, même date) et même dossier des bénéfices consistoriaux d'Artois que n°61.
+- **Même semaine que le résultat n°64** (f.138, à Mazarin, même date) et même dossier des bénéfices consistoriaux d'Artois que le résultat n°61.
 - Aucun anachronisme relevé.
 
 ## Fichiers

@@ -1,0 +1,61 @@
+# Sortie du script de mesure du vérificateur indépendant (mesure OFFICIELLE V0 : sa transcription aveugle, sa clé, sa règle gelées avant mesure).
+# Colonnes : ligne <TAB> mot chiffré <TAB> décodage brut par la clé <TAB> forme attendue <TAB> C (compris) / NC (non compris) <TAB> motif.
+# Motifs : ABS = lettre absente de la paire (valeur par réciprocité) ; DOUBLE = signe K à deux valeurs ; glyphe douteux = doute noté à la transcription.
+L1	Mum	Non	non	C	
+L1	fanbal	semper	semper	C	
+L1	gon	cum	cum	C	
+L1	Wuromd	Volunt	volunt	C	
+L1	buádea	poetae	poetae	C	
+L1	gélnyme	carmina	carmina	C	
+L2	foggátomd	succedunt	succedunt	C	
+L2	Fbylydof	Spiritus	spiritus	C	
+L2	epafd	abest	abest	C	
+L2	gon	cum	cum	C	
+L2	namf	mens	mens	C	
+L2	ym	in	in	C	
+L2	Wélye	Varia	varia	C	
+L2	tyfdlégde	distracta	distracta	C	
+L2	afd	est	est	C	
+L2	Hug	Hoc	hoc	C	
+L2	nyhy	mihi	mihi	C	
+L3	awámyd	evenit	evenit	C	
+L3	heg	hac	hac	C	
+L3	h[a?]ptúneta	hebdomade	hebdomade	NC	glyphe douteux
+L3	Buáneda	Poemate	poemate	C	
+L3	erýKou	aliQuo	aliquo	NC	K=DOUBLE
+L3	clédyef	gratias	gratias	C	
+L4	écala	agere	agere	C	
+L4	Wurápen	Volebam	volebam	C	
+L4	blu	pro	pro	C	
+L4	ferélyu	salario	salario	C	
+L4	ad	et	et	C	
+L4	hepydedyúma	habitatione	habitatione	C	
+L4	ym	in	in	C	
+L4	elga	arce	arce	C	
+L5	Koe	Qua	qua	NC	K=DOUBLE
+L5	muWon	noVum	novum	C	
+L5	nof[a?]on	museum	museum	NC	glyphe douteux
+L5	hepydéla	habitare	habitare	C	
+L5	ymgaby	incepi	incepi	C	
+L6	Walon	Verum	verum	C	
+L6	my[x|r]	niz	nil	NC	glyphe douteux;x=ABS;NC niz ≠ nil (x lu ; si r → nil)
+L6	è	a	a	C	
+L6	na	me	me	C	
+L6	ynbadléla	impetrare	impetrare	C	
+L6	búdoy	potui	potui	C	
+L6	bleadal	praeter	praeter	C	
+L6	Walfýgoron	Versiculum	versiculum	C	
+L7	Koy	Qui	qui	NC	K=DOUBLE
+L7	emmon	annum	annum	C	
+L7	últyma	ordine	ordine	C	
+L7	laſald	refert	refert	C	
+L8	Namf	Mens	mens	C	
+L8	Te	Da	da	C	
+L8	GRele	CLara	clara	C	
+L8	fumuf	sonos	sonos	C	
+L8	am	en	en	C	
+L8	elZ	arX	arx	C	
+L8	da	te	te	C	
+L8	féZae	saXea	saxea	C	
+L8	daZYd	teXIt	texit	C	
+# MOTS : 51/57 = 89.5 %   LETTRES (glyphe sûr, valeur prouvée) : 267/288 = 92.7 %

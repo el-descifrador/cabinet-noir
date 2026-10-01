@@ -1,0 +1,112 @@
+# AHNOB, SANTA CRUZ, C.51, D.164 — Philippe IV au marquis de Santa Cruz, Madrid 14/8/1635 (résultat n°89). PARES https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12878189 , images 24-29 (dos : image 30).
+# Transcription de l'ÉQUIPE faite SANS la clé : trois paires de transcripteurs indépendants (p.24-25, p.26-27, p.28-29) et trois arbitres, eux aussi sans clé, pour les
+# litiges ; fusion mécanique selon une règle figée, sans intervention humaine sur les litiges ; figée le 01/10/2026 00:38:51Z (empreinte sha1 be40db78) avant la lecture.
+# Le vérificateur a re-transcrit deux échantillons à l'image (p.24 L12-19, p.28-29 L85-100, ≈ 335 jetons) : identiques, aux deux artefacts déclarés près.
+# Format : L<n> (numérotation continue : p.24 L1-19, p.25 L20-38, p.26 L39-57, p.27 L58-75, p.28 L76-93, p.29 L94-104) ; jetons séparés par « · » ;
+# {CLAIR} = passage en clair ; X? = forme douteuse ; a/b? = litige non tranché (compté non compris) ; « - » = choix « rien » de l'arbitre.
+# Artefact d'alignement déclaré, laissé tel quel : L90 « 68 · 68‹? » et L98 « 69 · 69‹? » (le 2e jeton reste douteux).
+# Notation des formes : comme pour D.215 (main C ; voir ../D215/chiffre.txt) ; ʒb = signe à tête ouverte (= u), distinct de ƺ (tête fermée, = a) ; Ƶ, &⁺, „ = signes hors clé.
+L1: {CLAIR}
+L2: {CLAIR}
+L3: {CLAIR}
+L4: {CLAIR}
+L5: {CLAIR}
+L6: {CLAIR}
+L7: {CLAIR} · & · ne · tt · 146 · 2ᴵ · ne · 218 · {CLAIR}
+L8: ne · ε · &⁺ · Z · 54 · Z · 56 · h · ne · t · 48 · Ƶ · 29 · d · g · h · {CLAIR}
+L9: {CLAIR}
+L10: {CLAIR}
+L11: {CLAIR} · 206 · h · {CLAIR}
+L12: {CLAIR} · Z? · c · h · 52 · 46 · 49
+L13: d · {CLAIR} · ƺᴵ · ƺ/G? · ur · ne
+L14: re · ar · „ · {CLAIR} · 178 · {CLAIR} · ɔ · tt · 217 · ne · ʒb? · ε · Lᴵ · ttơ
+L15: r · t · 48 · Z · 28 · {CLAIR}
+L16: {CLAIR} · Z · c · ur · 29 · na · ƺ/G? · tt · ut · L · ne · h · 43 · Ƶ
+L17: g · L · p · 68 · tt · 146 · . · Ze · ni · Z · ɔ · 51 · {CLAIR} · no · L · t
+L18: 48 · L · 30 · h · 31 · 44 · tt · y · ʒb · 6 · ne · Z · ne · 12 · 51 · Ze · ɔ
+L19: 6 · xo · 15 · n · ƺ? · ttơ · ƺ? · L · no · er · g · Z · xo · h · lu · ɔ · h
+L20: 56 · h · 43 · h · q/g? · Z · lo · 6 · 53 · L · 54 · h · tt · ƺ? · h · 28
+L21: Ze · 28 · h · 68 · c · 13 · ƺᴵ? · ɔ · h · 53 · L · 31 · L · ƺ? · ir · h · 55 · 6
+L22: g · L · 5 · 6 · g · 46 · Z · ƺ? · g · tt · 217 · ne · xo · h · Za · tt · Za
+L23: er · h · 31 · 46 · er · xo · c · 6 · ne · Z · y · 14 · ʒb · Ɖ · ot · 68
+L24: na · lo · 6 · ƺ? · c · 6 · p · 31 · Z · er · ut · 50 · na · a · 15 · 43 · h
+L25: g · h · 53 · Z · no · 38 · 53 · L · 29 · 6 · 28 · ne · tt · 44 · h · ne
+L26: c · 5 · 57 · 7 · 6 · g · 68 · xo · h · 54 · ff · 12 · y · 48 · xe · h
+L27: Z · c · na · L · xu · at · 6 · ƺ? · 28 · ff · 12 · g · ƺ? · 6 · Z · ε · ir · 55
+L28: ƺ? · 6 · Z · ε · Z · ut · L · p · 12 · xa · 28 · I · {CLAIR}
+L29: {CLAIR} · I · xa · h · 7 · c · Z · ƺ? · h
+L30: Zo · 38 · h · 68 · en · ban& · ult · {CLAIR} · 6& · 6 · ƺ? · en · cra · 14 · ʒb
+L31: r · Z · 29 · 6 · Ze · xoơ · L · 55 · Z · ε · g · L · no · c · h · 53 · Z · g
+L32: L · 28 · 6 · at · no · en · ƺ? · ir · h · 55 · 6 · ƺ? · xa · 33 · 30 · . · y · Z
+L33: ne · xa · tur · ƺ? · 68 · 37 · ɔ · 48 · 14 · ʒb · h · 56 · Z · y · 33 · tt · 53
+L34: 6 · Z · ε · ne · 63 · ni · ɔ · L · Zi · ƺ? · 6 · 68 · : · ƺ? · Z · 56 · er · c · h · li
+L35: ni · cᴵ · ɔ · 48 · la · 48 · ɔ · h · 56 · {CLAIR} · I · ne · xa
+L36: Ze · L · ε · na · ne · xo · h · 187 · ɔ · h · ƺ? · . · 28 · ni · Ɖ · ɔ · h · Zi
+L37: g · Z · 54 · Z · at · ε · h · ɔ · Z · 54 · Z · ni · na · 45 · Zo · xu
+L38: Z · 53 · 3 · 68 · Z · y · ɔ · h · ne · 69 · xo · h · ε · ff · Zi · ɔ · ε
+L39: g · h · lo · 6 · ƺ · c · 48 · {CLAIR}
+L40: {CLAIR} · T · & · en · 26 · 48 · 6 · ɔ · h · 54 · 78 · an · ot
+L41: ɔ · Z · xa · h · groh · ne · 12 · 51 · g · Z · 28 · 68 · Z · c · lu
+L42: ɔ · no · ƺ · la · 6 · 53 · 6 · 44 · ne · xa · 49 · or · xu · 30 · c · Z
+L43: 69 · 54 · L · ot · 56 · 43 · na · y · assi · g · L · 28 · or · ne · c
+L44: 32 · la · 6 · ƺ · xi§ · an · ut · Z · he · ɔ · h · 56 · 31 · Z · 69 · er · ε
+L45: L · 17 · 6 · y · nu · Ɖ · at · Z · an · ut · Z · y · h · ni · ir · 4
+L46: Z · q? · c · h · 4 · 48 · Z · ne · h · L · y · or · xo · er · n · ƺ · Z
+L47: ne · 31 · Z · er · 6 · Za · . · 6 · Le · 51 · ir · 37 · ɔ · 49 · 44 · L · g · h
+L48: 54 · 6 · 43 · Z · na · 49 · er · c · h · g · ff · Zi · ɔ · Z · c · 17
+L49: 51? · h · ne · ƺ · 28 · 31 · Z · Zu · g · Z · ot · tt · Le · ne
+L50: 178 · la · 48 · 68 · xa · 81 · 31 · Z · g · h · 54 · et · Z · g
+L51: 51 · ne · Za · et · xe · h · er · ƺ · 43 · h · g · d · 36 · 1 · 28
+L52: na · ne · L · y · ni · h · lo · Z · g · 1/L? · er · ɔ · Z · g · h · 53 · 150
+L53: 69 · er · 50 · p · xa · 43 · h · 31 · Z · Ze · L · ε · g · Z · 54 · 13
+L54: xa · 68 · la · 49 · 29 · 43 · h · q · ff · lo · 6 · 53 · Z · 54 · la · 48
+L55: xa · 49 · lu · 53 · 30 · c · Z · ne · 45 · h · p · 6 · 43 · d · 43 · 50
+L56: 55 · 43 · d · 69 · : · L · no · er · ƺ · 38 · Z · ne · 49 · 55 · 48 · 6
+L57: ƺ · 233 · g§ᴵ · xeơ · at · en · 28 · or · g · Z · 68 · 45 · h · 228 · h
+L58: 13 · xo · h · ne · 43 · ir · 7 · 48 · ni · Ze · Z · at · L · ƺ · 28
+L59: ni · Ɖ · g · 21 · ɔ · 32 · 53 · Z · no · xa · 243 · 69 · 54 · Z
+L60: g · ε · h · la · 48 · enơ · y · lo · 6 · 68 · xa · 178 · ? · Z · ƺ · 69
+L61: 17 · 48 · n · g · Z · er · 48 · p · 28 · Z · ɔ · 29 · ar · 50 · ƺ
+L62: 15 · xo · h · ne · 43 · h · er · Lo · 3 · 48 · L · Zo · tt · Ze · 6 · ƺ · ur
+L63: nil · ƺ · 233 · 15 · 49 · 55 · 48 · 6 · er · xa · h · 186 · h · 31 · 46
+L64: c · h · ɔ · d · 53 · y · 6 · ne · Z · ƺ · no · p · ε · ff · Ze · 6 · L · ƺ
+L65: 6 · p · ur · d · 49 · 15 · Z · y · d · ƺ · 3 · Zi · 6 · 55 · g · L · no
+L66: 68 · Lo · 6 · Z · ε · L · ut · L · 28 · or · ne · et · L · ne · Ze · Z
+L67: e/ε? · 6 · xa · h · er · ε · h · ne · xa · g · h · 32 · ƺ · 3 · 48 · ne · 181
+L68: 68 · er · c · h · n · ƺ · Zu& · enᴵ · I · Zi · ar · no · 31 · L⁺? · xa · h · ne
+L69: 144 · lu · g · d · ƺ · 4/ƒ? · Z · 68 · 68 · na · er · Z · anơ · ƺ · xa · d · 28
+L70: 56 · 6 · 29 · ne · h · 53 · x& · h& · g · h · 32 · p · 3 · 48 · g · h · 53
+L71: Z · no · 53 · L · 43 · tt · 85 · h · 31 · 46 · ur · Lo · Z · g · ε
+L72: d · Z · y · 68 · na · 50 · ƺ · L · ur · Le · 50 · y · 49 · h · ƺ · xa
+L73: h · ne · 157 · 15 · xa · h · ni · g · Ɖ · 49 · h · 53 · Z · 54 · h
+L74: n · ƺ · Zi · g · Z · no · er · ne · c · 32 · la · 6 · or · xo · g · Z
+L75: la · ar · et · h · g · Z · ot · tt · 33 · L · no · er · 15 · ir · Z
+L76: 56 · 28 · 6 · g · Z · xa · h · g · ro? · h · ne · 157 · xo · lo · 3
+L77: 48 · Z · n · G · 28 · 6 · 31 · Z · ir · ut · 50 · na · 3 · T · {CLAIR}
+L78: {CLAIR} · I · L · g · ot · 30 · G · 30 · y · Z · g⁺ · h · 44
+L79: n · G · la · 49 · 30 · no · Zi · g · Z · 15 · G · xo · h · 255 · h · ne
+L80: Z̲ · Za · 38 · 256 · 31 · Z · 56 · no · h · xo · d · 44 · ni · c
+L81: h · 68 · er · n · G · Z · 14 · t? · Ɖ · at · no · 12 · 51 · lo · 6 · 30
+L82: y · Z · G · no · h · 15 · ir · g · ff? · 12 · 49 · 44 · 31 · Z · 36 · 6
+L83: 43 · 49 · 31 · Z · xo · h · ne · 43 · d · 68 · 37 · g · 49 · Z · ø?
+L84: 35 · 28 · 29 · h · la · 48 · G · 14 · t? · h · 53 · 6 · g · Z · Zu · g
+L85: Z · p · 31 · 49ơ · d · lo · Z · ne · L · 30 · G · G · 68 · xoơ · h · 255
+L86: d · 15 · Zu · en · Zo · y · h · G · g · Z · 28 · 6 · at · 51 · d · 68
+L87: Z · c · er · ne · et · ir · 37 · g · 49 · lo · ir · 7 · xe · ne · n · G
+L88: 29 · 6 · an · ut · Z · p · 33 · 30 · y · Z · g · h · 54 · 78 · G · t?
+L89: Z · 69 · er · p · xa · 33 · 30 · tt · 68 · 12 · 51 · lo · Z · g · ε · h
+L90: lu · g · d · 68 · 68‹? · tt · 69 · v · g · 48 · n · G · ne · er · 6 · ne · 4
+L91: 48 · Z · ne · 49ơ · lu · 53 · 30 · y · Z · 15 · G · 42 · na · 48 · 47
+L92: 61 · G · 68 · 156 · g · h · er · 31 · Z · 54 · L · at · Z · g · Z · ur
+L93: h · xi · 45 · 54 · h · 15 · lo · 6 · xa · d · 31 · Z · ir · ne · 48
+L94: 30 · y · Z · g · h · 68 · c · h · 47 · g · Ze · Z · G · le · ni · 6
+L95: 44 · xi · 29 · Z · 30 · G · la · 48 · Ze · Z · q · 6 · G · 144 · p
+L96: 31 · ff? · lo · Z · g · 6 · 31 · ar · h · ne · ? · 28 · ar · 54 · Z
+L97: ot · lo · 6 · Zi · g · Z · ne · 31 · L · 29 · ne · 51 · h · xa · la
+L98: 48 · 68 · t? · er · q · h · ne · xaơ · 69 · 69‹? · Z · no · er · Zu · g
+L99: tt · Za · Z · G · q · ff? · c · 6 · L · G · 1? · G · 28 · xa · h · 186 · d
+L100: ne · 144 · T · & · {CLAIR}
+L101: {CLAIR}
+L102: {CLAIR}
+L103: {CLAIR}
+L104: {CLAIR}

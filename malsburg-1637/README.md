@@ -95,13 +95,13 @@ Toutes les lettres sont **entières** (salutation, blocs chiffrés, clôture dat
 **Critère du projet (≥ 80 % par groupe, mesure sévère) : atteint pour les six en mode principal** ; en pessimiste aussi, sauf f.23-24 (79,9 %). Par mot, f.3, f.14 et f.28-29
 restent sous 80 % (réserve), f.25 aussi en mode pessimiste, f.23-24 en mots fusionnés (79,7 %). La marge pessimiste de f.14 est mince (80,9 %).
 
-**f.23-24 (n°67) — audit de circularité.** La lettre formait ≈ 80 % du flux du solveur et plusieurs majuscules PROUVÉES tirent leurs contextes de f.23-24 : la circularité
+**f.23-24 (résultat n°67) — audit de circularité.** La lettre formait ≈ 80 % du flux du solveur et plusieurs majuscules PROUVÉES tirent leurs contextes de f.23-24 : la circularité
 est **structurelle**. Le vérificateur a donc mesuré une variante **non circulaire** (un signe n'est compris que s'il a ≥ 2 mots entièrement compris **hors** f.23-24, et même hors
 f.3) : **1801/2020 = 89,2 %**, soit 1 groupe de moins (85 = r). Conclusion : **lecture d'une lettre ayant servi au cassage, comptée comme résultat séparé** (première lecture
-de la plus longue lettre du fonds), mais **ni une nouvelle découverte, ni une preuve supplémentaire de la clé** (même cassure que n°53). Nuance : « figée avant ouverture »
+de la plus longue lettre du fonds), mais **ni une nouvelle découverte, ni une preuve supplémentaire de la clé** (même cassure que le résultat n°53). Nuance : « figée avant ouverture »
 ne vaut que pour cette campagne ; le casseur connaissait déjà le texte (rendus r2-r19), risque couvert par le pessimiste et l'aveugle du vérificateur.
 
-**f.28-29 (n°65) — généralisation la plus forte.** 3 177 groupes, jamais dans le flux, rendus par une clé figée ailleurs (aucun contexte f.28-31 dans la clé) : allemand suivi
+**f.28-29 (résultat n°65) — généralisation la plus forte.** 3 177 groupes, jamais dans le flux, rendus par une clé figée ailleurs (aucun contexte f.28-31 dans la clé) : allemand suivi
 et réseau de lieux géographiquement juste. Nuance déclarée : le brouillon de transcription de cipher-lab pour f.28 avait été rendu (test z-score, inventaire des codes),
 sans qu'aucune valeur en soit tirée : la clé a donc été figée avant la transcription et la lecture, plutôt qu'« avant ouverture ». f.30-31 = copie du même chiffré, témoin de
 transcription seulement.

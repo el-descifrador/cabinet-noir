@@ -3,7 +3,7 @@
 **BnF, Mélanges de Colbert 155, f.132r-133r — résultat n°52. Étiquette : « première lecture avec clé publiée »** (« Colbert-Croissy Cipher (1668-1674) », DE=68,
 table de S. Tomokiyo, *Cryptiana*, http://cryptiana.web.fc2.com/code/louisxiv0.htm). **Confirmé avec réserves** par un vérificateur indépendant. **Réserve au mot (< 80 %).** Nouveauté **B**.
 
-| n° | pièce | date | taux sévère groupe / mot (vérificateur) | seuil 80 % | réserves | nouveauté |
+| résultat n° | pièce | date | taux sévère groupe / mot (vérificateur) | seuil 80 % | réserves | nouveauté |
 |---|---|---|---|---|---|---|
 | 52 | Colbert 155 f.133r, 7 dernières lignes (96 groupes, 33 mots) | 13/08/1670 | **88/96 = 91,7 %** / **25/33 = 75,8 %** | atteint au groupe ; **mot < 80 % (réserve)** | 4 codes « à accent » hors de la liste publiée, lus au sens, non comptés ; lettre sœur glosée non vue | B |
 

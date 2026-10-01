@@ -1,0 +1,32 @@
+# Résultat n°96 : Loss -> Debrose, Paris, 3 août 1742, lettre et P.S..
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 16-18 ; chiffré : v17 d. (2 passages) + P.S. v18 g. (3 passages).
+# Images : vue 16 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0016.jpg ; vue 17 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0017.jpg ; vue 18 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0018.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# notation : jetons séparés par «. » ; « X? » = lecture probable mais douteuse (tache/surcharge) avec alternative entre crochets ; nulles 6/9 transcrites
+# A = v17 d. (f.2r de la lettre du 3/8/1742), après « Au reste on est toujours fort embarassé ici, et » ; avant « on ne laisse pas de se mettre en état de défense, puisqu'on s'aperçoit que »
+# clair : « on ne laisse pas de se mettre en état de défense, puisqu'on s'aperçoit que »
+# suite clair : « Pour cet effet il a été resolu d'augmenter la Cavalerie... » ; puis formule, signature « de Loss », adresse « à Mr le Lieut. Général de Debrose »
+# C = v18 g. (verso du feuillet signé), « P.S. Je dois Vous dire en confidence, que je suis informé de très bonne part, que »
+# clair : « qu'on n'a pas sçû me nommer, »
+# clair : « On m'a ajouté, que »
+# clair : « Je Vous communique cet avis secret, pour que Vous soyez en état de faire plus de découvertes à cet égard. » ; bas de v18 g. : seulement transparence (signature/adresse du recto) ; aucune glose interlinéaire, aucune note marginale
+A-L1	17.44.23
+A-L2	40.35.51.25.6.13.10.41.44.75.10.25.80.9.74.43.44.37.44.6.6.40.35.25
+A-L3	21.84.43.9.74.72.21.200.74.33.9.32.35.84.74.51.10.6.41.9
+B-L1	44.33.77.6.13.72.74.80.74.25.9.25.44.74.44.13.9.12.80.74.6.72
+B-L2	84.23.44.72.9.74.15.74.43.20.6.31.20.12.75.10.41.9.6
+C-L1	40.35.33.6.40.35.25.32.9.20.84.200.43.35
+C-L2	25.50.9.35.85.84.20.84.25
+D-L1	20
+D-L2	10.6.41.37.74.44.41.9.200.25.44.10.84.800.24.6.43.74.72.21.200.9.74
+D-L3	33.40.6.44.33.35.41.20.44.41.53.31.9.25.12.32.20.80.6.20.13.72.15
+D-L4	9.32.20.44.35.41.12.80.6.74.43.44.37.44.43.74.41.44.20.10.35.6.41
+D-L5	40.35.33.51.25.35.41.20.44.23.41.9.32.35.53.25.74.200.6.41.800.80.20
+D-L6	13.72.51.9.6.84.72.25.17.20.10.25.20.37.44.43.6.35.25
+E-L1	51.43.6.74.72.21.200.74.9.33.47.24.20.44.41.34.9.80.20
+E-L2	10.21.84.24.6.9.35.43.35.31.32.35.25.6.13.75.10.41.28?[25|28, 2e chiffre sous tache épaisse].15.35.87.6.10.44
+E-L3	800.35.43.20.10.37.6.20.72?[72|12, 1er chiffre surchargé/taché ; pas de point après].75.24.57.13.9.10.41.44.75.10.25.40.9.35.84
+E-L4	20.84.25.33.84.47.43.20.10.10.20.44.6.25.13.9.85

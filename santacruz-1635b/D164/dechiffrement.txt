@@ -1,0 +1,213 @@
+# AHNOB SANTA CRUZ C.51 D.164 (résultat n°89) — déchiffrement brut signe à signe = PRÉDICTION MÉCANIQUE figée le 01/10/2026 00:38:51Z (empreinte sha1 eea1a00b),
+# avant toute lecture : transcription de l'équipe (chiffre.txt) + clé r19 (cle/santacruz1635b_r19.tsv). Aucun arbitrage au sens.
+# · = nulle ; v* = hypothèse (comptée non comprise) ; ?* = jeton douteux, forme sans correspondance sûre ou signe hors clé (non compris) ; [clair] = passage en clair.
+# La lecture (lecture.md) a été écrite par le vérificateur depuis cette seule prédiction et les images ; taux : voir lecture.md.
+
+L1    {CLAIR}
+      [clair]
+L2    {CLAIR}
+      [clair]
+L3    {CLAIR}
+      [clair]
+L4    {CLAIR}
+      [clair]
+L5    {CLAIR}
+      [clair]
+L6    {CLAIR}
+      [clair]
+L7    {CLAIR} & ne tt 146    2ᴵ ne 218   {CLAIR}
+      [clair] · de l  Estado c  de Milán [clair]
+L8    ne ε &⁺ Z 54 Z 56 h ne t 48 Ƶ  29 d g h {CLAIR}
+      de i ?* n te n to s de f ra ?* ce s e s [clair]
+L9    {CLAIR}
+      [clair]
+L10   {CLAIR}
+      [clair]
+L11   {CLAIR} 206  h {CLAIR}
+      [clair] liga s [clair]
+L12   {CLAIR} Z? c h 52 46 49
+      [clair] ?* o s ru mo re
+L13   d {CLAIR} ƺᴵ ƺ/G? ur ne
+      s [clair] a  ?*   su de
+L14   re  ar „  {CLAIR} 178   {CLAIR} ɔ tt 217     ne ʒb? ε Lᴵ ttơ
+      fen sa ?* [clair] gente [clair] e l  Marqués de ?*  i n  ll
+L15   r  t 48 Z 28 {CLAIR}
+      ?* f ra n ca [clair]
+L16   {CLAIR} Z c ur 29 na ƺ/G? tt ut L ne h 43 Ƶ
+      [clair] n o su ce da ?*   l  gu n de s ma ?*
+L17   g L p 68  tt 146    .  Ze ni Z ɔ 51 {CLAIR} no L t
+      e n a que l  Estado ?* be di n e ro [clair] do n f
+L18   48 L 30 h 31 44 tt y ʒb 6 ne Z ne 12 51 Ze ɔ
+      ra n ci s co me l  o u  r de n de p  ro be e
+L19   6 xo 15 n ƺ? ttơ ƺ? L no er g Z xo h lu ɔ h
+      r lo y  h ?* ll  ?* n do se e n lo s pu e s
+L20   56 h 43 h q/g? Z lo 6 53 L 54 h tt ƺ? h 28
+      to s ma s ?*   n po r ta n te s l  ?* s ca
+L21   Ze 28 h 68  c 13 ƺᴵ? ɔ h 53 L 31 L ƺ? ir h 55 6
+      be ca s que o y  ?*  e s ta n co n ?* si s ti r
+L22   g L 5 6 g 46 Z ƺ? g tt 217     ne xo h Za tt Za
+      e n c r e mo n ?* e l  Marqués de lo s ba l  ba
+L23   er h 31 46 er xo c 6 ne Z y 14 ʒb Ɖ ot 68
+      se s co mo se lo o r de n o ?* u  z go que
+L24   na lo 6 ƺ? c 6 p 31 Z er ut 50 na a 15 43 h
+      da po r ?* o r a co n se gu ri da d y  ma s
+L25   g h 53 Z no 38 53 L 29 6 28 ne tt 44 h ne
+      e s ta n do ya ta n ce r ca de l  me s de
+L26   c 5 57 7 6 g 68  xo h 54 ff 12 y 48 xe h
+      o c tu b r e que lo s te m  p  o ra le s
+L27   Z c na L xu at 6 ƺ? 28 ff 12 g ƺ? 6 Z ε ir 55
+      n o da n lu ga r ?* ca m  p  e ?* r n i si ti
+L28   ƺ? 6 Z ε Z ut L p 12 xa 28 I {CLAIR}
+      ?* r n i n gu n a p  la ca · [clair]
+L29   {CLAIR} I xa h 7 c Z ƺ? h
+      [clair] · la s b o n ?* s
+L30   Zo 38 h 68  en ban& ult           {CLAIR} 6& 6 ƺ? en cra   14 ʒb
+      bo ya s que el ?*   Car._Albornoz [clair] ?* r ?* el Conde ?* u
+L31   r  Z 29 6 Ze xoơ   L 55 Z ε g L no c h 53 Z g
+      ?* n ce r be lolo* n ti n i e n do o s ta n e
+L32   L 28 6 at no en ƺ? ir h 55 6 ƺ? xa 33 30 .  y Z
+      n ca r ga do el ?* si s ti r ?* la fa ci ?* o n
+L33   ne xa tur       ƺ? 68  37 ɔ 48 14 ʒb h 56 Z y 33 tt 53
+      de la Valtolina ?* que fu e ra ?* u  s to n o fa l  ta
+L34   6 Z ε ne 63  ni ɔ L Zi ƺ? 6 68  : ƺ? Z 56 er c h li
+      r n i de xar di e n bi ?* r que u ?* n to se o s pi
+L35   ni cᴵ ɔ 48 la 48 ɔ h 56 {CLAIR} I ne xa
+      di o  e ra pa ra e s to [clair] · de la
+L36   Ze L ε na ne xo h 187    ɔ h ƺ? .  28 ni Ɖ ɔ h Zi
+      be n i da de lo s Galeón e s ?* ?* ca di z e s bi
+L37   g Z 54 Z at ε h ɔ Z 54 Z ni na 45 Zo xu
+      e n te n ga i s e n te n di da mi bo lu
+L38   Z 53 3 68  Z y ɔ h ne 69  xo h ε ff Zi ɔ ε
+      n ta d que n o e s de que lo s i m  bi e i
+L39   g h lo 6 ƺ c 48 {CLAIR}
+      e s po r a o ra [clair]
+L40   {CLAIR} T & en 26 48 6 ɔ h 54 78  an ot
+      [clair] · · el ob ra r e s te año al go
+L41   ɔ Z xa h groh ne 12 51 g Z 28 68  Z c lu
+      e n la s ?*   de p  ro e n ca que n o pu
+L42   ɔ no ƺ la 6 53 6 44 ne xa 49 or xu 30 c Z
+      e do a pa r ta r me de la re so lu ci o n
+L43   69  54 L ot 56 43 na y assi g L 28 or ne c
+      que te n go to ma da o ?*   e n ca so de o
+L44   32 la 6 ƺ xi§ an ut Z he ɔ h 56 31 Z 69  er ε
+      cu pa r a lii al gu n ?* e s to co n que se i
+L45   L 17 6 y nu Ɖ at Z an ut Z y h ni ir 4
+      n t  r o du z ga n al gu n o s di si g
+L46   Z q? c h 4 48 Z ne h L y or xo er n ƺ Z
+      n ?* o s g ra n de s n o so lo se h a n
+L47   ne 31 Z er 6 Za .  6 Le 51 ir 37 ɔ 49 44 L g h
+      de co n se r ba ?* r ?* ro si fu e re me n e s
+L48   54 6 43 Z na 49 er c h g ff Zi ɔ Z c 17
+      te r ma n da re se o s e m  bi e n o t
+L49   51? h ne ƺ 28 31 Z Zu g Z ot tt Le ne
+      ?*  s de a ca co n bu e n go l  ?* de
+L50   178   la 48 68  xa 81         31 Z g h 54 et Z g
+      gente pa ra que la asistencia co n e s te ge n e
+L51   51 ne Za et xe h er ƺ 43 h g d 36 1 28
+      ro de ba ge le s se a ma s e s fo r ca
+L52   na ne L y ni h lo Z g 1/L? er ɔ Z g h 53 150
+      da de n o di s po n e ?*   se e n e s ta forma
+L53   69  er 50 p xa 43 h 31 Z Ze L ε g Z 54 13
+      que se ri a la ma s co n be n i e n te y
+L54   xa 68  la 49 29 43 h q ff lo 6 53 Z 54 la 48
+      la que pa re ce ma s i m  po r ta n te pa ra
+L55   xa 49 lu 53 30 c Z ne 45 h p 6 43 d 43 50
+      la re pu ta ci o n de mi s a r ma s ma ri
+L56   55 43 d 69  : L no er ƺ 38 Z ne 49 55 48 6
+      ti ma s que u n do se a ya n de re ti ra r
+L57   ƺ 233     g§ᴵ xeơ   at en 28 or g Z 68  45 h 228   h
+      a Nápoles ee  lele* ga el ca so e n que mi s navío s
+L58   13 xo h ne 43 ir 7 48 ni Ze Z at L ƺ 28
+      y  lo s de ma si b ra di be n ga n a ca
+L59   ni Ɖ g 21 ɔ 32 53 Z no xa 243   69  54 Z
+      di z e x  e cu ta n do la orden que te n
+L60   g ε h la 48 enơ   y lo 6 68  xa 178   ?  Z ƺ 69
+      e i s pa ra elel* o po r que la gente ?* n a que
+L61   17 48 n g Z er 48 p 28 Z ɔ 29 ar 50 ƺ
+      t  ra h e n se ra a ca n e ce sa ri a
+L62   15 xo h ne 43 h er Lo 3 48 L Zo tt Ze 6 ƺ ur
+      y  lo s de ma s se ?* d ra n bo l  be r a su
+L63   nil    ƺ 233     15 49 55 48 6 er xa h 186    h 31 46
+      tiempo a Nápoles y  re ti ra r se la s galera s co mo
+L64   c h ɔ d 53 y 6 ne Z ƺ no p ε ff Ze 6 L ƺ
+      o s e s ta o r de n a do a i m  be r n a
+L65   6 p ur d 49 15 Z y d ƺ 3 Zi 6 55 g L no
+      r a su s re y  n o s a d bi r ti e n do
+L66   68  Lo 6 Z ε L ut L 28 or ne et L ne Ze Z
+      que ?* r n i n gu n ca so de ge n de be n
+L67   e/ε? 6 xa h er ε h ne xa g h 32 ƺ 3 48 ne 181
+      ?*   r la s se i s de la e s cu a d ra de Génova
+L68   68  er c h n ƺ Zu& enᴵ I Zi ar no 31 L⁺? xa h ne
+      que se o s h a ?*  el  · bi sa do co ?*  la s de
+L69   144    lu g d ƺ 4/ƒ? Z 68  68  na er Z anơ   ƺ xa d 28
+      España pu e s a ?*   n que que da se n alal* a la s ca
+L70   56 6 29 ne h 53 x& h& g h 32 p 3 48 g h 53
+      to r ce de s ta ?* ?* e s cu a d ra e s ta
+L71   Z no 53 L 43 tt 85     h 31 46 ur Lo Z g ε
+      n do ta n ma l  Armada s co mo su ?* n e i
+L72   d Z y 68  na 50 ƺ L ur Le 50 y 49 h ƺ xa
+      s n o que da ri a n su ?* ri o re s a la
+L73   h ne 157     15 xa h ni g Ɖ 49 h 53 Z 54 h
+      s de francia y  la s di e z re s ta n te s
+L74   n ƺ Zi g Z no er ne c 32 la 6 or xo g Z
+      h a bi e n do se de o cu pa r so lo e n
+L75   la ar et h g Z ot tt 33 L no er 15 ir Z
+      pa sa ge s e n go l  fa n do se y  si n
+L76   56 28 6 g Z xa h g ro? h ne 157     xo lo 3
+      to ca r e n la s e ?*  s de francia lo po d
+L77   48 Z n G 28 6 31 Z ir ut 50 na 3 T {CLAIR}
+      ra n h a ca r co n si gu ri da d · [clair]
+L78   {CLAIR} I L g ot 30 G 30 y Z g⁺ h 44
+      [clair] · n e go ci a ci o n ?* s me
+L79   n G la 49 30 no Zi g Z 15 G xo h 255      h ne
+      h a pa re ci do bi e n y  a lo s Príncipe s de
+L80   Z̲ Za 38 256     31 Z 56 no h xo d 44 ni c
+      ?* ba ya persona co n to do s lo s me di o
+L81   h 68  er n G Z 14 t? Ɖ at no 12 51 lo 6 30
+      s que se h a n ?* ?* z ga do p  ro po r ci
+L82   y Z G no h 15 ir g ff? 12 49 44 31 Z 36 6
+      o n a do s y  si e ?*  p  re me co n fo r
+L83   43 49 31 Z xo h ne 43 d 68  37 g 49 Z ø?
+      ma re co n lo s de ma s que fu e re n ?*
+L84   35 28 29 h la 48 G 14 t? h 53 6 g Z Zu g
+      fi ca ce s pa ra a ?* ?* s ta r e n bu e
+L85   Z p 31 49ơ   d lo Z ne L 30 G G 68  xoơ   h 255
+      n a co rere* s po n de n ci a a que lolo* s Príncipe
+L86   d 15 Zu en Zo y h G g Z 28 6 at 51 d 68
+      s y  bu el bo o s a e n ca r ga ro s que
+L87   Z c er ne et ir 37 g 49 lo ir 7 xe ne n G
+      n o se de ge si fu e re po si b le de h a
+L88   29 6 an ut Z p 33 30 y Z g h 54 78  G t?
+      ce r al gu n a fa ci o n e s te año a ?*
+L89   Z 69  er p xa 33 30 tt 68  12 51 lo Z g ε h
+      n que se a la fa ci l  que p  ro po n e i s
+L90   lu g d 68  68‹? tt 69  v g 48 n G ne er 6 ne 4
+      pu e s que ?*   l  que a e ra h a de se r de g
+L91   48 Z ne 49ơ   lu 53 30 y Z 15 G 42 na 48 47
+      ra n de rere* pu ta ci o n y  a yu da ra mu
+L92   61  G 68  156     g h er 31 Z 54 L at Z g Z ur
+      cho a que francés e s se co n te n ga n e n su
+L93   h xi 45 54 h 15 lo 6 xa d 31 Z ir ne 48
+      s li mi te s y  po r la s co n si de ra
+L94   30 y Z g h 68  c h 47 g Ze Z G le ni 6
+      ci o n e s que o s mu e be n a pe di r
+L95   44 xi 29 Z 30 G la 48 Ze Z q 6 G 144    p
+      me li ce n ci a pa ra be n i r a España a
+L96   31 ff? lo Z g 6 31 ar h ne ?  28 ar 54 Z
+      co ?*  po n e r co sa s de ?* ca sa te n
+L97   ot lo 6 Zi g Z ne 31 L 29 ne 51 h xa la
+      go po r bi e n de co n ce de ro s la pa
+L98   48 68  t? er q h ne xaơ   69  69‹? Z no er Zu g
+      ra que ?* se i s de lala* que ?*   n do se bu e
+L99   tt Za Z G q ff? c 6 L G 1? G 28 xa h 186    d
+      l  ba n a i ?*  o r n a ?* a ca la s galera s
+L100  ne 144    T & {CLAIR}
+      de España · · [clair]
+L101  {CLAIR}
+      [clair]
+L102  {CLAIR}
+      [clair]
+L103  {CLAIR}
+      [clair]
+L104  {CLAIR}
+      [clair]

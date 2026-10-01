@@ -4,12 +4,12 @@
 (chiffre « Floridor » de Nuchèze, clé reconstruite et publiée par S. Tomokiyo, *Cryptiana*, « Colbert-Nucheze Cipher (1662) », http://cryptiana.web.fc2.com/code/louisxiv0.htm),
 complétée de valeurs **prouvées par une glose d'époque** (Colbert 109 f.559r). **Confirmé avec réserves** par deux vérificateurs indépendants.
 
-| n° | pièce | date | taux sévère groupe / mot (vérificateur) | seuil 80 % | réserves | nouveauté |
+| résultat n° | pièce | date | taux sévère groupe / mot (vérificateur) | seuil 80 % | réserves | nouveauté |
 |---|---|---|---|---|---|---|
 | 47 | Colbert 109 f.556r-557r, mémoire + réponse (67 mots chiffrés, 459 symboles) | 1662 | **454/459 = 98,9 %** (symboles) / **61/67 = 91,0 %** (mots) | atteint | identifications Austrasie = Malte, « grand maistre » = grand maître de l'Ordre : hypothèses | faible (B) |
 | 50 | Colbert 108 f.222r-223r, « Scituation de l'isle d'Alboran » (134 mots chiffrés, 709 signes) | 1662 | **697/709 = 98,3 %** / **124/134 = 92,5 %** | atteint | 31 = z HYP ; Tomokiyo en cite l'ouverture (9 mots) | B fragile |
 
-Le mémoire d'Alboran (n°50) est présenté dans [alboran-1662.md](alboran-1662.md). Ci-dessous : le mémoire au « grand maistre » (n°47).
+Le mémoire d'Alboran (résultat n°50) est présenté dans [alboran-1662.md](alboran-1662.md). Ci-dessous : le mémoire au « grand maistre » (résultat n°47).
 
 Images (Gallica, liens seulement) : Colbert 109 f.556r-557r https://gallica.bnf.fr/ark:/12148/btv1b10035493w/f245.item (vues 245-246) ; f.559r (glose d'époque)
 https://gallica.bnf.fr/ark:/12148/btv1b10035493w/f248.item ; Colbert 108 f.222r-223r https://gallica.bnf.fr/ark:/12148/btv1b10035507b/f228.item (vues 228-229).

@@ -1,0 +1,23 @@
+# Résultat n°85 : Loss -> Debrose, « N°14 », Paris, 3 mai 1745.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/11, vues 37-39 ; chiffré : v38 g.-d. (2 passages, 9 lignes).
+# Images : vue 37 : https://www.archiv.sachsen.de/digitalisate/52f9aa24-5dfd-486d-a42d-c09c141a6f38/fullsize/0037.jpg ; vue 38 : https://www.archiv.sachsen.de/digitalisate/52f9aa24-5dfd-486d-a42d-c09c141a6f38/fullsize/0038.jpg ; vue 39 : https://www.archiv.sachsen.de/digitalisate/52f9aa24-5dfd-486d-a42d-c09c141a6f38/fullsize/0039.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# Lettre N°14 Paris 3/5/1745 : vue 37 d. = début en clair (N°14, date, conditions de l'accommodement) ; vue 38 g. = clair puis chiffre (5 lignes)
+# après « pour nous échauffer la bile. » ; vue 38 d. = chiffre (4 lignes) puis clair « Votre Excellence saura maintenant… » ; vue 39 g. = formule + signature.
+# Jetons tels qu'écrits (nulles 6/9 incluses) ; « ? » = doute visuel (NC officiel) ; « ~ » = lecture paléographique motivée
+# (tête fermée sans longue hampe = 4 ; tous les 9 de cette main ont une longue hampe) : C officiel, NC stricte. « | » = autre lecture.
+# Lettres de nomenclature écrites en capitale + point.
+# notes : P1_L2 « 20? » écrit « 2d » (0 à hampe montante, ≠ 6 de 846) ; P2_L3 « 20 10 » écrit « 2010 » sans point.
+# P1_L2 5e jeton écrit « τ5 » = 25 (tous les 2 de cette main ont la forme τ).
+P1_L1: 44 33 359 52 25 84 72 40 35 25
+P1_L2: 464 10 20 84 25 846 20? 84 33 44 20 190 25 160 20 73 25 32 35 53 72
+P1_L3: 74 43~|93 35 25 146 10 25 44 96 43 44 18 34 200 35 12 42~|92 20 10 83 72 44 35?|25
+P1_L4: 10 293 13 72 20 44 41 80 74 25 11 24 463 20 84 80 22 73 25 24 390 43
+P1_L5: 35 69 35 87 33 83 34 25 20 10 74 43 493 20 31 20 12 75 10 41 24 35
+P2_L1: 463 P. 87 44 25 44 33 37 9 24 41 35 25 791 72 800 40 35 F. 12
+P2_L2: 84 44 23 77 13 72 74 96 25 74 14 35 41 40 35 18 77 83 260 43 44 74
+P2_L3: 41 44 20 10 12 31 72 12 25 24 33 77 6 13 72 74 80 74 25 200 37 72 73
+P2_L4: 43~|93 41 864 35 73 13

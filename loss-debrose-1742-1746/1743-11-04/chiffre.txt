@@ -1,0 +1,25 @@
+# Résultat n°99 : Loss -> Debrose, Paris, 4 novembre 1743.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 82-84 ; chiffré : v84 g. (9 lignes).
+# Images : vue 82 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0082.jpg ; vue 83 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0083.jpg ; vue 84 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0084.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# entre « …et qui peut être mêmes luy seront mandés de Paris. » et « Il n'est nullement question du rapel de Campoflorido. »
+# L1 coupée par du clair « soit dit entre nous, ». « ? » = illisible/indécidable à l'image ; [2.5] = point net entre 2 et 5 (littéral).
+# Doutes (notés AVANT tout déchiffrement) :
+# D1 L2#12 : 8 + glyphe fermé surchargé : [80|83] → « ? »
+# D2 L4#1 : « 2.5. » point net entre 2 et 5 (même taille que les séparateurs) → littéral [2.5] ; lecture tolérante 25
+# D3 L6 fin : « 32 » au bord de la gouttière (2 entamé par l'ombre) ; [32|37] ; jeton(s) caché(s) dans la gouttière non exclu(s)
+# D4 L8 fin : « 4? » au bord de la gouttière : [42|43] → « ? »
+# D5 L1#1 51 (5 à drapeau, ≠ 3 arrondi) ; L3 83 (3 ouvert) ; L4/L5 23 (3 sans drapeau) ; L6 13 ; L8 15, 18 ; L9 34, L7 34 (têtes fermées sans queue = 4, F3)
+L1a:51.84.72.74.6.44.35.25.41
+L1b:40.35.13.25.6.43.20
+L2:31.70.25.9.25.44.20.10.25.34.9.?.74.72.12.10.41.22.84.41.6.20.41.51.25.200
+L3:53.34.41.25.9.12.B.40.35.43.9.35.84.57.12.51.25.80.74.6.83.77.35.41.40.35
+L4:[2.5].6.84.72.51.25.200.52.30.43.35.23.6.12.A.B.40.44.74.11.9.24.43.20.84
+L5:80.12.43.20.10.9.37.44.30.43.35.23.33.84.9.47.G.43.74.41.42.20.6.33.44
+L6:40.35.74.13.84.51.75.10.41.71.6.72.70.25.74.31.20.10.41.9.44.6.44.20.12.32
+L7:74.44.34.43.35.41.53.35.57.43.84.72.25.9.44.20.10.80.20.84.9.72.35.57
+L8:35.43.84.41.6.800.15.35.43.20.31.70.25.6.25.44.20.10.12.18.80.74.72.41.12.?
+L9:35.31.20.58.72.40.35.9.24.32.35.25.21.84.G.41.34.25.50.34.6.41.44.23

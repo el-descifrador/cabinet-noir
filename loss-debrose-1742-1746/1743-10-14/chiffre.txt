@@ -1,0 +1,25 @@
+# Résultat n°94 : Loss -> Debrose, Paris, 14 octobre 1743.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 80-82 ; chiffré : v81 d. (2 blocs) + v82 g. (3 lignes).
+# Images : vue 80 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0080.jpg ; vue 81 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0081.jpg ; vue 82 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0082.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# A01#4 33~ : 2e « 3 » à l'encre pâle (forme lisible). A07#11 8?~ : 2e chiffre empâté/caviardé (illisible). B02#13 37~ : 3 net, 2e chiffre sous une tache (trait descendant type 7). B03#15 : 44 écrit AU-DESSUS entre 10 et 52 avec signe d'insertion (inscrit dans la ligne). C01#17 74~ : tête fermée, hampe un peu plus longue (F3 -> 4).
+# Capitales : A04 « F » (sans point), A09 « C.E » (deux capitales), C02 « C. ». 439 = A08#6 (9 à longue queue collé).
+LA01	33.200.53.33~.9.6.33.44.14.10.43.35.23.41.34.51.25.12.6.84.57.87
+LA02	34.50.24.57.77.52.80.74.25.18.75.6.44.33.51.84.34.9.10.20.74.44
+LA03	33.51.25.6.25.20.84.54.44.53.72.20.44.9.41.12.34.84.23.44.72
+LA04	74.18.9.F.18.37.72.30.43.6.35.77.52.80.74.25.37.9.74.50.35
+LA05	35.40.6.35.17.20.41.41.74.35.52.75.51.300.10.25.18.43.20.10.25
+LA06	80.44.72.74.41.44.20.6.10.40.20.10.74.12.43.20.84.84.800.53
+LA07	74.71.53.72.25.17.20.84.72.6.8?~.80.84.44.25.40.35.33.51.35
+LA08	25.71.34.40.35.439.35.18.43.24.13.72.74.12.9.18.17.72.20.84
+LA09	44.33.51.72.44.35.23.6.41.34.C.E.35.9.41.18.34.200.35.12
+LA10	42.20.10.83.72.9.44.35
+LB01	35.41.77.87.10
+LB02	40.35.72.74.80.6.74.25.12.25.20.84.37~.51.9.72.24.37.35.84.6
+LB03	44.33.35.52.84.72.74.44.40.9.35.51.70.10.44.52.34.12.9.37.72.30.43
+LC01	35.40.44.35.52.74.71.6.53.72.25.17.20.84.72.83.74~.21.20.10
+LC02	77.51.6.80.34.70.800.24.800.41.44.25.9.13.75.80.41.74.C.12
+LC03	43.35.40.44.13.41.72.74.6.31.20.44.41.43.20.10.41.34.9.35.33.51

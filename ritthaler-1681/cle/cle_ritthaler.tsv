@@ -1,0 +1,41 @@
+# Clé du chiffre de Michael Ritthaler (1681-1682), chiffré -> clair. Substitution RÉCIPROQUE (involution) qui garde les mots, la casse et la ponctuation.
+# Reconstruite par nous depuis la paire d'époque du même volume : HAB Cod. Guelf. 252.2 Extrav., fol. 163v bas - 164r haut (lettre du 28/02/1682, glose interlinéaire
+# mot à mot ; 79 mots glosés ; images https://diglib.hab.de/mss/252-2-extrav/start.htm?image=00334 et https://diglib.hab.de/mss/252-2-extrav/start.htm?image=00335).
+# Deux reconstructions indépendantes (équipe, gelée le 29/09/2026 23:34:06Z ; vérificateur, gelée le 30/09/2026 19:06:54Z) : accord sur 100 % des valeurs.
+# Ce fichier = clé du vérificateur, utilisée pour les trois mesures officielles.
+# statut : P = >= 2 attestations cohérentes ; P1 = 1 attestation ; DOUBLE = 2 valeurs dans la paire (tout mot qui le contient = NON compris) ;
+#          ABS = absent de la paire comme signe chiffré, valeur supposée par réciprocité (tout mot qui le contient = NON compris).
+# Graphie : ſ long chiffré (noté S) = f clair ; f barré chiffré (noté f) = s clair.
+# Lettre j : P1 (« ajof » = eius), classée P1 avant mesure par les vérificateurs des fol. 147r et 154r.
+# chiffré	clair	statut	attestations
+a	e	P	54+1(A)
+e	a	P	43
+o	u	P	27+1(O)
+u	o	P	34
+y	i	P	51
+j	j	P1	1 (ajof=ejus)
+m	n	P	36+1(M)
+n	m	P	24+1(N)
+l	r	P	25 (1 Wela lu Wera après zoom)
+r	l	P	15
+d	t	P	28+1(D)
+t	d	P	18+4(T)
+g	c	P*	20+2(G) ; g->g 2x dans le seul lexème Katalog- (Kederugon, Kederuguf) = anomalie localisée
+c	g	P	4+1(C)
+f	s	P	27+3(F)
+S	f	P	3 (ſ long et S majuscule : Segyen, Suldeffa, Saryz)
+b	p	P	11+2(B)
+p	b	P	7
+w	v	P	4+1(V) ; w=u dans « qu » (Kwa x2) -> normalisation u=v
+W	v	P	4 (majuscule)
+V	w	P1	1 (Vycemty=Wigandi)
+z	x	P	4
+h	h	P	7+1(H)
+K	q|k	DOUBLE	q 7 ; C/K 3 (Katalogum, Katalogos, Kal.) -> mot contenant K = NC (règle b) ; variante indicative K=q hors Kal./Katalog
+i	y	ABS	réciprocité
+k	q	ABS	réciprocité
+q	k	ABS	réciprocité
+s	f	ABS	(s rond ; seul ſ attesté)
+v	w	ABS	réciprocité (minuscule)
+x	z	ABS	réciprocité
+è	à	P1	1

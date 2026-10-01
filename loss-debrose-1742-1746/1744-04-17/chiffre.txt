@@ -1,0 +1,20 @@
+# Résultat n°102 : Loss -> Debrose, Paris, 17 avril 1744.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 120-123 ; chiffré : v122 d. (4 lignes).
+# Images : vue 120 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0120.jpg ; vue 121 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0121.jpg ; vue 122 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0122.jpg ; vue 123 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0123.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# Passage chiffré unique : après « …de quelque Negociation de paix entre les deux Couronnes. » ; avant « Le C[om]te de Rothenbourg reçoit souvent des Couriers Prussiens… »
+# Une ligne manuscrite = une ligne. Séparateurs ':' notés '.'. Ma lecture préférée ; doutes ci-dessous.
+# Doutes visuels (notés à l'image, AVANT tout déchiffrement) :
+# D1 L1#3 [50/30] : tache blanche (défaut du papier) sur le haut du premier chiffre ; bas en crochet compatible 5 ou 3 ; préférence 50.
+# D2 L3#8 [84/89] : second chiffre à tête fermée, queue courbée qui s'arrête vers la ligne de base (F3 → 4) ; préférence 84, doute faible.
+# D3 L4#2 [72/42] : premier chiffre = 7 barré (barre horizontale) différent du 7 simple de L2#3 ; alternative 4 ouvert ; préférence 72, vrai doute.
+# D4 L3#6 : capitale S cursive avec petit exposant (« c » ?) au-dessus à droite, sans point ; signe à contrôler sur la clé à l'image.
+# Remarque L3#13 : « 8 4 » avec un petit blanc entre les chiffres, précédé de « : » ; lu un seul jeton 84.
+# Bords : L1, L2 finissent par «. » avant la pliure/bord droit ; L3 « 12. » ; L4 courte, suivie du clair. Aucune glose interlinéaire ni marginale vue sur la vue 0122.
+L1: 23.35.50.30.14.44.9.35.25.84.44.25.12.22.9.84.25.23.22.84.6.25.43.20.10
+L2: 37.44.72.75.40.9.44.33.47.74.15.35.13.6.43.34.53.200.53.6.33.9.33.44.14.10
+L3: 43.35.23.41.34.S^c.20.84.44.6.35.25.84.44.25.35.41.43.35.33.51.96.12
+L4: 11.72.33.31

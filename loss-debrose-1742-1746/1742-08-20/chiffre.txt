@@ -1,0 +1,19 @@
+# Résultat n°101 : Loss -> Debrose, Paris, 20 août 1742.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 14-16 ; chiffré : v15 g. (bloc de 4 lignes + fragment de 2 mots).
+# Images : vue 14 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0014.jpg ; vue 15 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0015.jpg ; vue 16 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0016.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# Bloc P (4 lignes, entre le clair « …point d'autre Secours à cette Princesse. » et « Il prétend, que la Cour de Vienne a rejetté… »)
+# Bloc F (fragment dans le clair, même vue, 2 lignes) : « Je sais, que 25.6.20.10.9. / 35.70.77.10.9.43.35. a dit; qu'à des maux violens… »
+# Doutes notés à l'image (avant tout déchiffrement) :
+# D1 L3#3 « 84 » : 2e chiffre à tête fermée, trait à peine sous la ligne (cas F3) ; alternative 89 ; préférence 84 (doute faible).
+# Bords : chaque ligne finit par un point avant le bord (L1 « 25. », L2 « 44. », L3 « 74. », L4 « 41. »), rien de caché ; F1 finit « 9. » avant la gouttière.
+# Ni jeton barré, ni capitale de nomenclature, ni tache sur les jetons.
+L1: 51.43.74.6.72.21.200.74.33.10.9.74.43.20.10.25.23.41.44.40.9.74.25
+L2: 20.10.43.10.72.80.25.6.12.37.23.300.10.41.9.74.43.35.41.53.84.6.44
+L3: 83.20.84.34.84.13.12.53.72.9.70.58.41.44.20.10.87.6.44.25.44.9.33.74
+L4: 35.53.80.20.9.84.25.13.74.6.9.17.20.84.6.41
+F1: 25.6.20.10.9
+F2: 35.70.77.10.9.43.35

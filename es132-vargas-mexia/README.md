@@ -7,8 +7,8 @@ compléments, nos hypothèses et les hypothèses contredites par l'imprimé.
 
 Chaque lettre a été **vérifiée par un agent indépendant** (relecture à l'aveugle d'une partie du chiffré, mesure sévère scriptée) : toutes sont **confirmées avec réserves**.
 Taux donnés = **ceux du vérificateur** (groupes chiffrés compris ; hypothèses, codes à un seul contexte et signes à deux valeurs comptés non compris). Taux par mot : non mesurés.
-**Sous le seuil de 80 % selon une mesure** : n°16 (f.17-25 : variante stricte 79,9 %, mesure en équivalents-lignes). Bornes extrêmes non retenues par les vérificateurs :
-n°27 (63,5 % si l'on compte non compris ce qu'aucun vérificateur n'a relu), n°40 (79,8 % en comptant le passage biffé), n°7 (plancher ≈ 80 %).
+**Sous le seuil de 80 % selon une mesure** : résultat n°16 (f.17-25 : variante stricte 79,9 %, mesure en équivalents-lignes). Bornes extrêmes non retenues par les vérificateurs :
+résultat n°27 (63,5 % si l'on compte non compris ce qu'aucun vérificateur n'a relu), résultat n°40 (79,8 % en comptant le passage biffé), résultat n°7 (plancher ≈ 80 %).
 Non comptée : f.26r (étendue douteuse : ni date ni signature visibles).
 
 | n° | lettre | folios | date, lieu | clé | taux (vérificateur) | nouveauté | dossier |
@@ -106,6 +106,16 @@ lettres de Feria (fr 3641 n°58 en A, Espagnol 336 n°90 en B), traitées dans.
 Devos 1950, Allaire 1997, Tomokiyo 2020, Lasry 2023). Résultat réel : 24 premières lectures à notre connaissance, 7 compléments de fragments connus, 1 déjà imprimée. »
 Trous restants, jugés faibles par l'audit : Devos 1950 et Allaire 1997 non vus de visu (déchiffrements de lettres de Paris ? peu probable) ; Van der Essen t. II (f.233) ;
 minutes AGS ; clair privé éventuel de Lasry (es.336).
+
+### Corrections de transcription reportées en version 1.2.0
+
+Trois corrections proposées par les vérificateurs étaient restées en suspens dans les fichiers `chiffre.txt` (elles n'avaient aucun effet sur les taux publiés) :
+
+- **f.32 (résultat n°14), ligne L13** : « 24+ 7o@n » devient « 24+@n 7o@n,s » (*tan cons-tante*), lecture du vérificateur qui complète deux marques omises. **Reportée.**
+- **f.32 (résultat n°14), ligne V14, groupe « 16+ »** : la marque au-dessus est lue barre (= *mas*) par le vérificateur à l'aveugle et tilde (= *mar*) par l'équipe.
+  **Non tranchée** : la forme actuelle est gardée ; le groupe est déjà compté non compris dans la mesure du vérificateur.
+- **f.81-82 (résultat n°25), ligne R10** : « 24+ » devient « 24+@s » (*cartas*), lecture du vérificateur. **Reportée.** Dans la même ligne, « S+? » est gardé :
+  le tracé ressemble à « Sρ », mais le duplicata porte « 23+ » (*avisado*) ; c'est une lecture par le duplicata, pas par l'image. **Non tranchée.**
 
 ---
 

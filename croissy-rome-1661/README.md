@@ -21,7 +21,7 @@ Le volume Baluze 178 réunit des papiers de Charles Colbert, futur marquis de Cr
 un nomenclateur numérique que Tomokiyo a reconstruit à partir des pièces déchiffrées entre les lignes du même volume ; il signale que la clé « allows reading undeciphered pieces »
 et cite les premiers mots de f.130, 135, 138 et 162, sans en donner la lecture.
 
-Nous avons lu **en entier** les parties chiffrées de **huit lettres** de la mission romaine (décembre 1660 - avril 1661), n°59, 61, 64, 66, 68, 69, 72 et 73 de notre tableau.
+Nous avons lu **en entier** les parties chiffrées de **huit lettres** de la mission romaine (décembre 1660 - avril 1661), résultats n°59, 61, 64, 66, 68, 69, 72 et 73 de notre tableau.
 Chacune a été **confirmée par un vérificateur frais** (relecture aveugle, mesure sévère scriptée par lui), **sans réserve « mot »** : de **86,5 % à 94,1 % par groupe** et de
 **84,8 % à 94,1 % par mot** (hors nulles). **Baluze 178 est ÉPUISÉ** pour le chiffre non glosé (inventaire du casseur jusqu'à la reliure, v519-528).
 
@@ -72,7 +72,7 @@ ou signature « Colbert »). Aucune ne figure dans les déchiffrements inédits 
 
 ## 3. Lectures (résumés ; [n] = code non résolu, compté non compris)
 
-**n°59, f.130v-131r (Rome, 10/1/1661, à J.-B. Colbert)** :
+**Résultat n°59, f.130v-131r (Rome, 10/1/1661, à J.-B. Colbert)** :
 > « la maladie du pape continue et M. l'abbé Elpidio Benedetti me vient de dire que c'estoit un relaschement d'estomach qui luy cause une espece de dissenterie, qu'il se ressentoit
 > aussy d'une hidropisie venteuse dont il avoit esté cy devant attaqué. Pour moy je vous avoue que je ne me fie point encore assez aux [314] qu'on me donne pour les oser mander a [426].
 > M. Froment a veu icy le [431] l'Avocat qui est a Monsieur le cardinal de Retz. J'ay appris aussy que le [431] Chassebras y estoit et qu'ils voioient assés souvent Monsieur le [324]
@@ -80,43 +80,43 @@ ou signature « Colbert »). Aucune ne figure dans les déchiffrements inédits 
 > audit cardinal de Retz, et qu'il y avoit dans sa lettre ces mots : *aegre patimur quod semper eximia virtus tua persecutionem patiatur*. Jugés par là de la bonne disposition
 > de cette cour pour nos affaires. »
 
-**n°64, f.138r-139v (Rome, 17/1/1661, duplicata à Mazarin)** : le cardinal d'Este juge « plus util a Monsieur le duc de Modene de garder des justes pretentions de **quatre millions
+**Résultat n°64, f.138r-139v (Rome, 17/1/1661, duplicata à Mazarin)** : le cardinal d'Este juge « plus util a Monsieur le duc de Modene de garder des justes pretentions de **quatre millions
 d'escus sur la Chambre** que d'accepter une tres modique satisfaction… au quart de ce qui luy est deu, et que peut estre les petits neveux… trouveroient [quelque] jour un pontificat
 plus favorable » ; « le [418] ayant la [gu]erre du Portugal sur les bras » ; l'indult d'Artois « en vertu du concordat » ; le comte de Brienne.
 **Recoupement externe fort** : les *Mémoires du cardinal Renaud d'Este* (1677), cités par Gérin, prêtent au cardinal la même idée (« avoir ses prétentions en pied que des millions
 en bourse… un prétexte à ses successeurs »).
 
-**n°66, f.135r-137v (Rome, 17/1/1661, à J.-B. Colbert)** : le cardinal Antoine et l'ambassadeur d'Espagne auraient dû renouveler leurs instances à l'arrivée de Croissy, mais la
+**Résultat n°66, f.135r-137v (Rome, 17/1/1661, à J.-B. Colbert)** : le cardinal Antoine et l'ambassadeur d'Espagne auraient dû renouveler leurs instances à l'arrivée de Croissy, mais la
 [lettre] du Roy ne mentionnait pas le cardinal Antoine : « j'ay marché comme un aveugle » ; « la source des [grâces] de cette cour est empoisonnée pour nous », « le changement de
 canal [ne] fera rien » ; seconde audience ; « le mauvais succes de l'affaire de Parme » ; « la [bu]lle d'incameration du duché de Castro n'est pas [en]core publiée »
 (incamération prononcée en consistoire le 20/12/1660, Gérin) ; indult des bénéfices consistoriaux d'Artois.
 
-**n°68, f.166r-169r (Rome, 28/1/1661, à J.-B. Colbert)** : le pape « equitablement asse[z] malintentionné pour la France », son « mespris » pour le cardinal Antoine ; l'[hu]meur
+**Résultat n°68, f.166r-169r (Rome, 28/1/1661, à J.-B. Colbert)** : le pape « equitablement asse[z] malintentionné pour la France », son « mespris » pour le cardinal Antoine ; l'[hu]meur
 d'Antoine : « il veut tout faire et ne fait rien », veut « l'entiere direction des affaires de France », « hormis l'[abbé] **Brachesi** qui l'entretient dans cette humeur » ;
 Antoine « desire passionnement d'aller en France sous le pretexte de devotion et de retraitte » ; « le canal du cardinal Antoine est desagreable au pape » ; M. de Fréjus.
 **Contrôle externe fort** : la chaîne de 5 groupes b-ra-c-he-si, tous PUBLIÉS, redonne « Brachesi », nom écrit en clair dans la même lettre (f.167r) et attesté comme
 « l'abbé Braccese, son secrétaire » (Gérin I ; Mazarin, *Lettres* IX).
 
-**n°61, f.162r-165r (Frascati, 31/1/1661, duplicata à Mazarin)**, extraits :
+**Résultat n°61, f.162r-165r (Frascati, 31/1/1661, duplicata à Mazarin)**, extraits :
 > « Monsieur le [323] m'a aussi fait connoistre qu'il estoit bien persuadé que cette affaire, comme consistoriale, doit estre de sa direction. » — « … je ne devois pas tesmoigner
 > en toutes rencontres estre si fort deppendant de Monsieur le cardinal Antoine, parceque sa personne estant [117]ye du pape, je ne pouvois point [e]sperer de [185] [323] …
 > obtenir de Sa Sainteté [435] ; l'on voiroit que je … n'agirois que par les [394]s et la direction du dit cardinal, mais qu'estant de moy mesme, Sa Sainteté, qui scait que je
 > tiens tout de Vostre Eminence, pourroit plustost se porter a accorder ce que le Roy demande. » — « … qu'il ne vit la santé du pape tout a fait res-ta-[52]-lie et que les
 > affaires du Roy ne fussent en un [350] qui luy permist de s'absenter. »
 
-**n°72, f.213r-217r (Rome, 7/2/1661, à Mazarin)**, propos du résident de Parme rappelé par son maître : l'affaire de Castro « tres mal mesnagée » ; il fallait s'accommoder
+**Résultat n°72, f.213r-217r (Rome, 7/2/1661, à Mazarin)**, propos du résident de Parme rappelé par son maître : l'affaire de Castro « tres mal mesnagée » ; il fallait s'accommoder
 « au genie du Pape », « que Sa Sainteté n'auroit pas moins de passion d'agrandir sa maison que ses predecesseurs », mais qu'il veut que « tout le monde soit persuadé du contraire »,
 et « laisser lieu de croire… » qu'il n'avait « pas mesme eu de connoissance de ce qui se seroit negocié avec ses parens » ; le pape a « declaré au cardinal Pallavicini » être
 disposé à des grâces pour le duc de Parme ; il fallait traiter « sans bruit ». **Recoupement** : Gérin (l. 9623-9640) rapporte que Mazarin proposait secrètement d'attribuer
 Castro et Ronciglione « à ses parents » (les Chigi) ; la lettre du Roi au pape sur Castro est du 6/2/1661, la veille.
 
-**n°73, f.223r-226r (Rome, 7/2/1661, à son frère J.-B. Colbert)** : pour être informé de la conduite du pape « dans son particulier », il faudrait, comme les ambassadeurs
+**Résultat n°73, f.223r-226r (Rome, 7/2/1661, à son frère J.-B. Colbert)** : pour être informé de la conduite du pape « dans son particulier », il faudrait, comme les ambassadeurs
 d'Espagne, « des pensionnaires chez le pape et tous ses parens, che[z] les cardinaux protecteurs des nations, chez les de l'escadron… chez les ambassadeurs », payés « vingt cinq
 ou trante escus » ; religieux et « gens d'ho[n]neur » pour gagner des domestiques ; jugement sévère sur le **P. Duneau** (médisance, vanité « au dernier periode ») ; le P. Leon
 « plus posé » ; la venue de l'évêque de Fréjus (Ondedei). **Recoupements** : Clément I n°275 (Charles à Rome de début décembre 1660 au 4/4/1661) ; Mazarin, *Lettres* IX
 (« plaintes contre le Père Duneau », jésuite correspondant de Mazarin).
 
-**n°69, f.195r-197r (14/2/1661, duplicata à Mazarin)** : on craint que le pape ne vive pas « plus d'un an » ; l'ambassadeur d'Espagne « mettoit desja toute pierre en œuvre pour
+**Résultat n°69, f.195r-197r (14/2/1661, duplicata à Mazarin)** : on craint que le pape ne vive pas « plus d'un an » ; l'ambassadeur d'Espagne « mettoit desja toute pierre en œuvre pour
 gagner quelques uns des principaux cardinaux de l'escadron volant » (Pio…) ; le **duc de Bracciano** « traittoit avec ledi[t] ambassadeur » ; le cardinal Antoine veut que
 Mazarin pourvoie « aux fonds necessaires pour gratiffier sous main des a present les cardinaux » en vue du conclave ; doute de Croissy sur Bracciano, maison « de tout temps
 partiale de la France » ; l'affaire de Modène « prend un chemin assez long pour passer a un au[t]re pontificat ». **Recoupement** : Gérin (l. 10196-10206) sur les Orsini
@@ -139,28 +139,28 @@ personnages codés non identifiés [323] (« connestable ? »), [426], [431], [3
 | 69 | vérificateur f.195 (02:03) | **94,0 % (395/420) / 94,1 % (144/153)** | 93,1 / 92,2 | très sévère 93,1 / 92,2 ; clé publiée seule 91,0 / 86,3 ; indicateur min. 79,9 (combinaison extrême) | 997 chiffres, 5 écarts tranchés à l'image |
 
 Verdict : **toutes CONFIRMÉES, sans réserve « mot »**. Les seules variantes sous 80 % sont des indicateurs (« clé publiée seule + grappes de nulles comptées comme mots »,
-combinaisons extrêmes) : par arbitrage de la coordination (cohérent n°64/66/68), elles ne font pas une réserve.
+combinaisons extrêmes) : par arbitrage de la coordination (cohérent résultat n°64/66/68), elles ne font pas une réserve.
 
-### Addendum n°61 (f.162) — 65 = y devenu PROUVÉ
-- La mesure de référence de n°61 (88,4 % / 84,8 %) comptait 65 = y ×2 (« moy », « luy ») **non compris** (HYP à l'époque).
+### Addendum résultat n°61 (f.162) — 65 = y devenu PROUVÉ
+- La mesure de référence du résultat n°61 (88,4 % / 84,8 %) comptait 65 = y ×2 (« moy », « luy ») **non compris** (HYP à l'époque).
 - Depuis la preuve de 65 = y (vérificateur indépendant, clé v5), l'effet **indicatif** est 213 → **215/241 = 89,2 %** par groupe (journal de clé, l. 42).
  **Non recompté officiellement par un vérificateur** : le chiffre de référence reste **88,4 % / 84,8 %**.
 
-### Addendum n°68 (f.166) — f.167v L4 « 189 » = 183
+### Addendum résultat n°68 (f.166) — f.167v L4 « 189 » = 183
 - vérificateur f.195 a relu au zoom natif f.167v L4 « … 97 34 **18?** 68 … » (« veut tout **faire** ») : la 3ᵉ figure est un 3 (comme « 183 » de L5), pas un 9 → 183 = re, pas une
- faute du chiffreur. n°68 passe de 612 à **613/692 = 88,6 %** par groupe et de 233 à **234/271 = 86,3 %** par mot. Addendum du casseur ; les fichiers figés ne sont pas modifiés. Verdict inchangé.
+ faute du chiffreur. Résultat n°68 passe de 612 à **613/692 = 88,6 %** par groupe et de 233 à **234/271 = 86,3 %** par mot. Addendum du casseur ; les fichiers figés ne sont pas modifiés. Verdict inchangé.
 
 ## 5. Apport et réserves
 
 **Apport** : à notre connaissance, le **premier clair** de ces huit passages chiffrés, obtenu avec la clé publiée de Tomokiyo, dont le mérite lui revient. Notre apport :
-les lectures complètes et mesurées ; des compléments prouvés sur sœurs glosées ; la **correction 57 = m** de la table publiée (à signaler à son auteur) ; deux contrôles externes forts (Mémoires d'Este pour n°64, « Brachesi » pour n°68).
+les lectures complètes et mesurées ; des compléments prouvés sur sœurs glosées ; la **correction 57 = m** de la table publiée (à signaler à son auteur) ; deux contrôles externes forts (Mémoires d'Este pour le résultat n°64, « Brachesi » pour le résultat n°68).
 
 **Réserves** :
-- **Nouveauté** : B pour n°59, 61, 64, 66 (Tomokiyo cite l'ouverture, sans lecture) ; **A provisoire** pour n°68, 69, 72, 73. Éditions locales contrôlées : Gérin I, Moüy I,
- *Lettres de Mazarin* IX, Clément I-VII (vérifié pour n°73 : aucune lettre de Croissy), Chéruel III, Depping IV, *Recueil des instructions* (Rome) : **aucun** de ces passages.
+- **Nouveauté** : B pour les résultats n°59, 61, 64, 66 (Tomokiyo cite l'ouverture, sans lecture) ; **A provisoire** pour les résultats n°68, 69, 72, 73. Éditions locales contrôlées : Gérin I, Moüy I,
+ *Lettres de Mazarin* IX, Clément I-VII (vérifié pour le résultat n°73 : aucune lettre de Croissy), Chéruel III, Depping IV, *Recueil des instructions* (Rome) : **aucun** de ces passages.
 - **Principal risque** : les exemplaires reçus par Mazarin sont probablement aux **AAE, CP Rome 140-141** (série citée par Gérin), peut-être déchiffrés en interligne ou sur feuille
  jointe ; pour les lettres au frère, un déchiffrement a pu être fait chez Colbert (Mélanges Colbert). **Non consultables en ligne** : vérification humaine souhaitable sur place.
-- Codes hors clé non résolus (voir §3) ; le personnage [323] reste inconnu (premier paragraphe de n°61 incomplet sur ce point).
+- Codes hors clé non résolus (voir §3) ; le personnage [323] reste inconnu (premier paragraphe du résultat n°61 incomplet sur ce point).
 - Nulles non acquises (74, 86, 82, 90) comptées non comprises ; fautes du chiffreur relevées (« ce-ti » pour « cette », 192 so pour si, 36 n pour u…).
 - Lettres de 241 à 692 groupes ; lecture sans solveur, mais la clé est **publiée** : ce n'est **pas** une percée cryptanalytique.
 - **Baluze 178 ÉPUISÉ** : plus aucun chiffre non glosé dans le volume (inventaire jusqu'à v528).

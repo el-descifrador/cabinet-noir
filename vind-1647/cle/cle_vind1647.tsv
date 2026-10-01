@@ -1,0 +1,31 @@
+# Clé du chiffre Vind -> Krag (1647), chiffré -> clair. Substitution simple de l'alphabet, RÉCIPROQUE (involution) sur les 22 lettres employées.
+# Cassée À L'AVEUGLE par nous (aucune clé d'époque, glose ni clair parallèle) : solveur par recuit simulé sur quadrigrammes danois du XVIIe siècle, clé gelée
+# le 30/09/2026 21:25:34Z ; reproduite indépendamment par le vérificateur (autre modèle de langue, autre solveur, mode libre NON contraint : 12/12 relances au même
+# optimum ; mode réciproque 8/8) : 22/22 lettres identiques.
+# La réciprocité n'a pas été imposée : la clé libre sort d'elle-même comme une involution (a<->x, c<->z, d<->h, e<->p, f<->o, g<->n, i<->m, k<->l, q<->r, t<->u ;
+# y->b et w->s, partenaires absents du chiffré). Distance d'unicité estimée ≈ 12 (involution) à ≈ 25 lettres (substitution libre), pour 342 lettres de texte.
+# Validation par moitiés : chaque moitié seule redonne la même clé (20/20 lettres) et lit l'autre moitié à 38/39 et 36/37 mots.
+# Ce fichier = clé du vérificateur (utilisée pour la mesure officielle).
+# chiffré	clair
+a	x
+c	z
+d	h
+e	p
+f	o
+g	n
+h	d
+i	m
+k	l
+l	k
+m	i
+n	g
+o	f
+p	e
+q	r
+r	q
+t	u
+u	t
+w	s
+x	a
+y	b
+z	c

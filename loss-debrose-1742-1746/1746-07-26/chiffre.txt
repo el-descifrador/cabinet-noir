@@ -1,0 +1,19 @@
+# Résultat n°87 : Loss -> Debrose, « N°30 », Paris, 26 juillet 1746.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/11, vues 209-211 ; chiffré : v210 d. (7 lignes).
+# Images : vue 209 : https://www.archiv.sachsen.de/digitalisate/52f9aa24-5dfd-486d-a42d-c09c141a6f38/fullsize/0209.jpg ; vue 210 : https://www.archiv.sachsen.de/digitalisate/52f9aa24-5dfd-486d-a42d-c09c141a6f38/fullsize/0210.jpg ; vue 211 : https://www.archiv.sachsen.de/digitalisate/52f9aa24-5dfd-486d-a42d-c09c141a6f38/fullsize/0211.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# Contexte clair : « Toute la Cour de cette Princesse est dans la dernière désolation. » [9 lignes chiffrées] « Mr le Marquis de St Giles m'a chargé… »
+# Conventions : « ? » doute visuel ; « | » autre lecture ; « ~ » 4 à tête fermée (aucun ici) ; capitales + point = nomenclature.
+# notes : L3 « 5074 » écrit SANS point entre 50 et 74 (lu 50 74 ; 5074 n'existe pas dans la clé).
+# L6 dernier jeton (bord de page, encre empâtée, retouche possible) : « 8 » sûr ; 2e chiffre = corps FERMÉ (comme un 0) MAIS trait de base
+# filant à droite (comme les 2 de « 12 » de la même ligne ; aucun 0 de cette main n'a ce trait) → lecture à l'image : 82 plus probable, 80 non exclu → « ? ».
+L1: 25 84 762 41 20 84 41 18 21 84 50 395 25 13 12 96 18 84 72 74 83
+L2: 81 25 25 74 300 75 21 764 41 20 84 72 40 44 791 72 21 24 35 43 69
+L3: 25 74 50 74 72 14 18 83 34 75 10 41 12 364 52 800 74 F. G. 77 33
+L4: 84 47 37 81 25 30 41 262 84 25 51 75 75 74 43 84 35 44 33 40 35
+L5: 463 44 12 84 30 41 192 80 84 44 25 406 44 33 47 74 35 84 12 25
+L6: 17 44 25 17 44 33 51 25 23 41 34 96 35 33 51 35 41 87 300 75 12 82?|80
+L7: 20 31 80 74 291 20 84 72

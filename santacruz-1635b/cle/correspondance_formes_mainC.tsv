@@ -1,0 +1,39 @@
+# Correspondance FORME -> signe de la clé d'époque pour la main C, écrite par le vérificateur de D.215 (résultat n°86) AVANT sa lecture (30/09/2026 23:34:56Z).
+# statut C = compris dans la mesure officielle ; N = non compris. « Variante stricte : N » = forme dont la correspondance repose sur les paires d'époque plus que sur
+# le dessin de la clé (comptée non comprise dans les variantes strictes « empilement »). r14 = notre clé reconstruite (29/09), citée comme appui.
+forme	signe_cle	valeur	statut	base
+Z	L (col N, « L/Z cursif bouclé »)	n	C	forme ; paires main C (r14 PROUVE n)
+L	l / L (col N)	n	C	les deux signes de N = n
+e	℮ (col L, grand e bouclé)	l	C	forme sûre ; séparation e/ε nette (planche sh_e.jpg, 22 cas)
+ε	e (col I)	i	C	forme sûre
+g	g2 (col E)	e	C	g bouclé = e ; paires main C D.172/D.196 ×40
+ƺ	g/9 barré (col A, 1er signe)	a	C	MA décision de forme (étape 4) : tête FERMÉE + barre traversante = 1er signe de A ; le « 5 barré » de V a une tête OUVERTE. Variante stricte : N
+y	y2 (col O, forme y/x incertaine)	o	C	paires main C (30 ctx/6 lettres, 0 contraire) ; col A porte aussi un « y » à tache → variante stricte : N
+v	y (col A, « y précédé d'une tache »)	a	C	paires r14 PROUVE a ; ambiguïté de forme avec la finale ∨ (i) → variante stricte : N
+ꝑ	r barré / y (col A)	a	C	paires r14 PROUVE a (main B ×5, main C) ; correspondance exacte de forme incertaine mais toutes les candidates sont en A → variante stricte : N
+p	idem ꝑ	a	C	idem
+n	n (col H)	h	C	forme identique
+n+	N4v (col V)	u	C	paires r14 PROUVE u ; forme incertaine → variante stricte : N
+h	h (col S)	s	C	identique
+d	d (col S)	s	C	identique
+a	a (col D)	d	C	identique
+t	t (col F)	f	C	identique
+1	1 (col R)	r	C	identique
+6	6 (col R)	r	C	identique
+2	2 (col C)	c	C	identique
+4	4 (col G)	g	C	identique
+10	10 (col M)	m	C	identique
+12	12 (col P)	p	C	identique
+13	13 (col Y)	y	C	identique
+17	17 (col T)	t	C	identique
+16	16 (dernière col., en-tête illisible)	?	N	valeur illisible sur la clé
+T	T	∅	C	nulle
+I	I	∅	C	nulle
+‹	‹ (finales)	a finale	C	identique
+∨?	∨ (finales)	i finale	N	forme douteuse (v barré)
+%	% (finales)	o finale	C	identique
+ᴰ	ơ (Duplices)	redoublement du signe précédent	C	forme comparée (planche sh_m.jpg) ; variante stricte : N
+⁸	Numeros	nombre en clair	-	chiffres clairs : hors mesure officielle
+e⁺ L⁺	(croix suscrite)	absent de la clé	N	non déclaré sur la clé
+ß?	?	?	N	forme douteuse (B de H ?)
+autres jetons	identiques à la clé (nombres 23-277, syllabes, codes littéraux)	valeur de la clé	C

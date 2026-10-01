@@ -1,0 +1,22 @@
+# HAB Cod. Guelf. 252.2 Extrav., fol. 147r bas - 147v haut (vues 00301-00302 : https://diglib.hab.de/mss/252-2-extrav/start.htm?image=00301 ; https://diglib.hab.de/mss/252-2-extrav/start.htm?image=00302).
+# Ritthaler -> duc Rodolphe-Auguste, [Wolfenbüttel, ≈ 28 octobre 1681]. Résultat n°81.
+# Transcription À L'AVEUGLE du vérificateur indépendant, figée le 30/09/2026 21:17:52Z (deux autres transcriptions gelées : équipe et lecteur aveugle sans clé).
+# Conventions : f = f barré (clé : s) ; S ou ſ = s long (clé : f) ; [[...]] = barré par l'auteur (exclu) ; {+...} = ajout interlinéaire ou marginal (inclus à sa place de sens) ;
+# {M:...} = marque de renvoi ou signe non verbal (exclu) ; [a|b] = glyphe douteux entre a et b ; [a?] = glyphe douteux lu a (mot compté NON compris) ;
+# accents copiés tels que vus ; « - » final = coupure de fin de ligne.
+# En clair, EXCLUS : « Serenss Princeps, Dne clementisse. » (147r, tête) ; marge 147v « Guelpherb. d. Sim. et Jud. / Serenit. Vrae » ;
+#   « subjectiss. N. L. » ; chiffres romains M D CL X X XI sous les capitales du chronogramme ; chiffres 1/2 au-dessus de Wurápen/écala (ordre : Wurápen écala).
+# Notes : L2 « foggátomd » en marge gauche au-dessus de « froomd » barré ; L2 « Γ » = renvoi vers l'ajout « ym [taf barré] Wélye » écrit à droite de la tête.
+#   L3 « h[a?]ptúneta » et L5 « nof[a?]on » : a surchargé (tache d'encre) → douteux. L3 « # » après haptúneta renvoie à L5 « # Koe … ymgaby. » (insertion).
+#   L5 « ‡ » entre muWon et nofaon : signe (t à double barre ?) non verbal. L6 : point médian entre Walon et myx non recopié ; « ‡ » au-dessus de W.
+#   L6 « my[x|r] » : 3e glyphe différent des r de la même ligne (Walfýgoron), ressemble à un x cursif → douteux.
+#   L7 « ázblynyd » traversé d'un trait horizontal (barré ou souligné ? je le lis BARRÉ : suivi d'un autre verbe) → exclu ; variante indicative incluse.
+#   L8 = chronogramme (capitales).
+L1	Mum fanbal, gon Wuromd buádea, gélnyme
+L2	[[froomd]] {+foggátomd}. Fbylydof epafd, gon namf {M:Γ} {+ym [[taf]] Wélye} tyfdlégde afd. Hug nyhy
+L3	awámyd heg h[a?]ptúneta {M:#} Buáneda [[clédyef]] erýKou clédyef
+L4	écala Wurápen, [[fad]] blu ferélyu ad hepydedyúma ym elga;
+L5	{M:#} Koe muWon {M:‡} nof[a?]on hepydéla ymgaby.
+L6	{M:‡} Walon my[x|r] è na ynbadléla búdoy, bleadal Walfýgoron
+L7	Koy [[emmoh]] emmon últyma [[ázblynyd]] laſald:
+L8	Namf Te GRele fumuf! am elZ da féZae daZYd.

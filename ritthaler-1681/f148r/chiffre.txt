@@ -1,0 +1,28 @@
+# HAB Cod. Guelf. 252.2 Extrav., fol. 148r (vue 00303 : https://diglib.hab.de/mss/252-2-extrav/start.htm?image=00303 ; pleine résolution https://diglib.hab.de/mss/252-2-extrav/max/00303.jpg).
+# Ritthaler -> duc Rodolphe-Auguste, « Dabam Guelpherbyti ipsis Cal. Novembr. » [1er novembre 1681]. Résultat n°80.
+# Transcription À L'AVEUGLE du vérificateur indépendant (sans ouvrir celle de l'équipe), figée le 30/09/2026 19:10:41Z ; accord de glyphes avec l'équipe ≈ 99 % (3 lettres sur ≈ 435).
+# Conventions : f = f barré (clé : s) ; S ou ſ = s long (clé : f) ; [[...]] = barré par l'auteur (exclu) ; {+...} = ajout interlinéaire ou marginal (inclus à sa place de sens) ;
+# {M:...} = marque de renvoi ou signe non verbal (exclu) ; [a|b] = glyphe douteux entre a et b ; [a?] = glyphe douteux lu a (mot compté NON compris) ;
+# accents copiés tels que vus ; « - » final = coupure de fin de ligne.
+# CLAIR (exclu) : en-tête « Seren. P. Dne clementissime » ; note marginale « (putavi vel consilium mutatum vel verba literarum … alius ad alia quendam spectare.) » ;
+#   fin « Dabam Guelpherbyti ipsis Cal. Novembr. » + « Seren. Vrae » + « humill… » ; marge gauche « Nif. » barré. Sous un trait : autre pièce (M. Johanni Friderico Etelio…, Elegidion allemand) = hors lettre.
+L1	Numfdlédon yfdot ghlumuc[l|S]ébhygum :
+L2	[N|X]uTu GeRul aZ eZa aZYd : {+ydalon} na alázyd , goy
+L3	nylépyraf gucydedyúmaf babalálomd
+L4	rydálea [Ɛ?]yfdea [[nyk beoru emda nyffea c]]
+L5	[[az]] á Xarralſart nyffea . [[Taon dafdul , na topydéffa ,]] {+Topydéwy galda}
+L6	[[Koyt ecamton affad]] , gon hepydédyu ym elga
+L7	[[uff]] ussalládol , em den gydu ymclátalal : [[ad az-]]
+L8	[[bagdéwy ofK K blubdal]] {+men} [[bleanyffea]] rydale[a|f] Falamy-
+L9	dédyf Wafdlea [[bleanyffea]] na ýmdalyn egKoyáfgala
+L10	joffálomd {M:ſ̄} Koye Walu uprédyu grewyon {+gumdymoede ſoyd} [[munyma Falamydédyf Wafdlea]]
+L11	ad hepydedyúmyf [[fegde afd]] bu[[fdae e]] bufd
+L12	eggábdef rýdalef ; uggefyúmen enbrázof fon .
+L13	Honýrryna alcu fuldan KoengómKoa {M:Ŧ} ſalen ,
+L14	ad ton [N|X]ulf ad Nelf nymémdol , blagépul :
+L15	Eh {Nulf/Nelf} Tabef[[g]]Gamf , ſeRZ edluZ , aZaed ulYf !
+# Notes de lecture : « bu » de L11 non barré (trait commence à f) = reste de « bufdae » corrigé en « bufd » : exclu comme fragment barré.
+# L8 : dernière lettre de rydale- : a gras écrit SUR f (petite f sous la ligne) → douteux déclaré.
+# L10 « grewyon » : « on » repassé ; L9 « egKoyáfgala » : á repassé (lu a). L5 « Xarralſart » : 5e lettre a repassée (lu a).
+# L12 « uggefyúmen » : avant-dernière lettre = e net (pas a).
+# L2/L14 : N cursif à boucle, ressemble à X (cf. X net de Xarralſart) → douteux déclarés.

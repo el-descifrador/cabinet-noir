@@ -1,0 +1,16 @@
+# Déchiffrement brut signe à signe avec la clé figée (cle/cle_debrais_v24.tsv), SANS arbitrage ni segmentation en mots :
+# · = nulle (6, 9) ; x* = jeton normalisé (6/9 collés retirés : 359 -> 35) ; <mot> = code de nomenclature ou syllabe longue ; {x} = signe absent de la clé ;
+# (x) = jeton douteux à la transcription (« ? », « ~ », alternative a|b : 1re lecture prise) ; (?) = jeton illisible ; [biffé] = jeton biffé (exclu).
+# 84 = u ou v (écrit u) ; 73 = ü (lu u par convention d'époque), 81 = ä (lu « ai »). La lecture arbitrée et la mesure sévère sont dans lecture.md.
+L01 | lero·y·enestdansune*afli(c)t(i)
+L02 | onindic*ible*onaeutoutela·peine
+L03 | dümonde·delempecherdeluyrendreui*
+L04 | sitele·scourtisan·ssontat·te
+L05 | ntifsac·eteuenementce*u(x)qu
+L06 | iauoientlieuderedoute*rsauenge
+L07 | anceense·rontquitepourlapeurs
+L08 | ielleuient*amoüri·(h)etceux
+L09 | quisetroüuentexilespo*urlamo
+L10 | urdelleseronturaisemb*lablement
+L11 | r(a)pel·lesa<la Cour>immediatementapre
+L12 | s*·samort

@@ -1,0 +1,21 @@
+# Résultat n°100 : copie de la relation de Loss au Roi du 1/4/1744 (jointe à sa lettre à Debrose du 3/4/1744).
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 113-115 ; chiffré : v114 d. (5 lignes).
+# Images : vue 113 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0113.jpg ; vue 114 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0114.jpg ; vue 115 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0115.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# Passage chiffré unique de 5 lignes, après le clair « …si des engagemens l'obligeoient de faire cause commune avec le Roy d'Angl. »
+# et avant le clair « Si, comme vraisemblablement on s'en flatte ici, elles ne produisent pas quelque changement favorable… »
+# Aucune glose interlinéaire ni marginale. Ligne 5 finit par « 25: » puis clair. Bords : chaque ligne finit sur un point avant le bord de la feuille.
+# Doutes notés À L'IMAGE avant tout déchiffrement :
+# D1 L2#13 « F » : capitale F collée à « 12 », point non visible après F (lu comme signe de nomenclature F.)
+# D2 L3#21 « 41 » (après 74.) : tête fermée, pas de queue descendante → 4 par F3 ; [41/91] léger
+# D3 L4#23 [10/18] : second chiffre empâté (ovale plein), indécidable à l'image → « ? » = NC
+# D4 L1#5-6 « 25.6 » ou « 256 » : sans effet (N1)
+# Tous les 9 isolés (L2 ×2, L3 ×1, L4 ×2) ont une longue queue descendante nette.
+L1:53.33.51.25.25.6.20.10.41.24.44.20.84.6.72.21.42.84.44.51.25.21.44.25
+L2:80.9.20.25.44.41.6.44.20.10.25.12.F.12.9.37.72.30.43.35.6.34.25.53
+L3:74.25.74.84.20.44.72.25.6.44.20.10.13.72.74.23.35.9.41.74.41.12.25.20.84
+L4:53.10.44.9.72.33.20.10.83.53.31.9.25.18.83.74.14.6.84.34.43.20.[10/18].41.34
+L5:41.6.30.41.12.10.77.70.25

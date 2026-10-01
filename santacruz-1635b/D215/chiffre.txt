@@ -1,0 +1,51 @@
+# AHNOB, SANTA CRUZ, C.51, D.215 — Philippe IV au marquis de Santa Cruz, Madrid 23/12/1635 (résultat n°86). PARES https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12878378 , images 52-53 (dos : image 54).
+# Transcription du VÉRIFICATEUR indépendant, faite sur les images PARES (non redistribuées), figée le 30/09/2026 23:34:01Z (706 jetons, 44 lignes chiffrées),
+# SANS ouvrir le travail de l'équipe, mais en connaissant la clé. Accord 695/706 (98,4 %) avec la transcription de l'équipe, faite par deux transcripteurs SANS clé + un arbitre.
+# Préfixe = page/ligne (P1L3 = page 1, ligne 3). {…} = texte en CLAIR. Séparateurs « . » du manuscrit omis.
+# Notation (main C) : Z = grand ʗ à panse descendante (seul = n ; Za/Ze/Zi/Zo/Zu = b/v + voyelle) ; L = petit ℓ bouclé ; e = GRAND e bouclé (ℭ) ; ε = PETIT e simple ;
+#  g = g à queue bouclée ; y = γ tête ouverte ; ƺ = g à tête fermée traversé d'une barre ; ꝑ = p à hampe crochetée/barrée ; p = p simple ; v = petit v isolé ;
+#  n+ = n à croix ; ‹ ∨ % = finales de voyelle (a, i, o) ; ⁺ = croix suscrite ; ⁸ = signe « Numeros » suscrit ; ᴰ = signe suscrit en « ơ » ; ß = signe en ß à longue hampe ;
+#  ? = forme douteuse (comptée non comprise) ; T I = nulles.
+# Après comparaison (version 2 du vérificateur, sans effet sur le taux officiel) : P2L11 « 70 » et non « 30 » (« parecido » devient faux) ; P1L18 « bla » douteux (b/6).
+P1L3 {Marques de Santa Cruz primo del mi Cons.o de Estado y Teniente general de la mar. En una carta vra de 31? de Ag.to deste año en que me distes q.ta de los} T men h ne 178 69 13
+P1L4 Za ne h 195% ult ne 30 d der ƺ Zi v ne h g 10 Zi ƺ
+P1L5 no ꝑ no L 44 e 61 6 ne Zo 1 16 ꝑ ƺ 233 38 12 49 53
+P1L6 Za ne h ilt men ∨? g er ꝑ 69 e 146 T {y que bien aver lo he-}
+P1L7 {cho assi}
+P1L8 {Quanto} ꝑ xa 33 e 53 69 n ꝑ 30 ꝑ L en 217 ne Zi e xa
+P1L9 t 48 L 28 13 163 T {no se offrece que dezir os segun el esta-}
+P1L10 {do pressente}
+P1L11 {Avisays en esta misma carta que aunque las Galeras de}
+P1L12 {España} T e xe Ze L 1500⁸ 190 h g? h 220 lo 28 178
+P1L13 13 xa h Zo e Ze 50 ꝑ ne h ƺ g L Zi ƺ 6 209 260 e xe
+P1L14 Ze L 43 h 38 12 52 g Zo xo 69? ne 30 h hac ꝑ g 10 Zi ꝑ
+P1L15 6 186 h der y h g h 53 43 L na no T
+P1L16 T en alt 44 ni y huc ne 244‹ bis sol ne e 45 h 46 ni
+P1L17 ꝑ 31 L 69 g 10 Zi ꝑ h 54 h xa h 69 y h ꝑ Zi ƺ L g h
+P1L18 2 50 56 bla en 217 ne xo h Za e Za er h 39 e Ze g no
+P1L19 6 176 no L Z ε 31 xa h 30 a 13 huc ꝑ xo 69 er ni 29
+P1L20 g L g e xa h ne e 146 69 g L 56 L 29 h 54 L ε ꝑ
+P1L21 xa 43 54 50 e⁺ ƺ ne xa 185 L y er y 12 49 29 31 ar
+P1L22 274 69 6 49 h lo L ne 6ᴰ g h le 2 56 ne n ꝑ e xa 6
+P1L23 er g L en 69 ar Ze ε h T
+P2L1 {Quedo advertido} T ne xu? 69 16 ꝑ 69 g h 2 50 Zi h 55 g
+P2L2 L g en ult ne 69 en 259 ꝑ Zi ꝑ g L at L p no ꝑ er ut 48 L
+P2L3 no xe 69 L y? g L 17 48 50 ꝑ L g Z? 218 156 g h le 51 L y g h
+P2L4 ni h 32 e laᴰ 48 en ban ꝑ Ze 6 2 49 ε no an 259 g L xo 54
+P2L5 L lo 48 e T I
+P2L6 T g L xo 69 31 L 55 g L g xa bis ne e 217 ne xo h Za e Za er h
+P2L7 ne 69 en 43 41 6 ß? lo 69 er lo ni ꝑ L⁺ nel 134 en ꝑ Za 55
+P2L8 45 g L 56 13 ne h dos 53 L 4 48 L ne 69 ꝑ Zi ꝑ g L 17 48
+P2L9 no g L en la ε h 13 69 ꝑ 42 na Za 219 ꝑ g h 56 en Ze 6
+P2L10 xa t xa 69 28 ne 235‹ 178 37 L na L no g L 6 49 lu? 53 30
+P2L11 y L g L Z? y er 6 Zi 6 ur 28 6 ot T n ꝑ la 49 30 no 69
+P2L12 er 48 97 xe ni at ε h 69 lo 6 69 g h 53 L no xa h 31
+P2L13 ar h g L ꝑ 69 e 146 er 46 h 17 48 Za ne h 31 L 54 L L⁺
+P2L14 56 13 L y 46 50 ꝑ g L ur 275 56 13 69 31 L ir ne 49 ir
+P2L15 ne Ze 6 n+ L ꝑ 256 ne nal‹ h la 6 54 h 13 28 xi na̅
+P2L16 ne h der xa ur 38 ne h 31 L 54 L 53 lo ni ꝑ en 146 31 L
+P2L17 29 Zi 6 xa ne h 31 L 35 ꝑ L 28 69 ni 29 ir L 43 h 246 13
+P2L18 69 xo h Zu g L y h g L y Ze ne 29 6 L y li g 6 ne
+P2L19 L 194 L ε g L le 6 ni L er 6 49 lu? 53 30 y L le 6 ni g L
+P2L20 no er 195% xo 69 er xe h 43 L na le 51 38 xa h 31
+P2L21 ar h 55 g L g L ni 34 49 L 54 146 T {De Madrid a 23 de Deziembre de 1635} {Yo el Rey} {contreseing : Pedro de Arze ?}

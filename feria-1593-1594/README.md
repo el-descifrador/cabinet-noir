@@ -4,7 +4,7 @@
 de 1592 de S. Tomokiyo, *Cryptiana*, http://cryptiana.web.fc2.com/code/phelippes.htm, **contrôlée par nous sur la clé d'époque** BnF fr 3995 f.96v-97r, chiffre n°54 de la collection Nevers).
 **Confirmé avec réserves** par des vérificateurs indépendants. Aucune clé n'a été cassée par nous ; le chiffre d'Espagnol 336 avait été identifié par G. Lasry (2023).
 
-| n° | pièce | date | taux sévère (vérificateur) | seuil 80 % | réserves | nouveauté |
+| résultat n° | pièce | date | taux sévère (vérificateur) | seuil 80 % | réserves | nouveauté |
 |---|---|---|---|---|---|---|
 | 37 | fr 3641 n°58, f.124r-125v (≈ 57 l., 1 307 groupes) | 07/04/1593 | **≈ 88,7 %** (extrapolé d'un échantillon de 17 lignes, 364/412 = 88,3 % ; intervalle ≈ 84-92 %) ; taux par mot non mesuré | atteint | « Infanta [Reyna] » : code `to` à un seul contexte (HYP) ; ≈ 68 % du chiffré non relu à l'aveugle | A |
 | 38 | Espagnol 336 n°90, f.179r (12 l., 302 groupes) | 04/01/1594 | **250/302 = 82,8 %** (76,8 % si toute marque ʌ était tenue pour ambiguë, extension non retenue) ; taux par mot non mesuré | atteint, **marge faible** | codes non compris ; 35 = ya et 38 = yo contredits par la clé d'époque | B faible |
@@ -26,7 +26,7 @@ lecture" » visait l'expression sans qualificatif : elle reste valable ; la form
 - **La clé** : la table du chiffre syllabique de 1592 est de **Tomokiyo** (*Cryptiana*, `phelippes.htm`), qui a aussi établi que ce chiffre est **le n°54 de la collection Nevers**
   (« This turned out to be the cipher no.54 of the Nevers collection », cité par l'audit). La **clé d'époque** BnF fr 3995 f.96v-97r est précisément ce chiffre n°54 (reconstruction
   partielle publiée par Tomokiyo) : la « validation par la clé d'époque » confirme une clé déjà rapprochée de ce chiffre.
-- **L'identification du chiffre d'Espagnol 336** (f.164-186, n°83-93, dont nos n°88-90) : **G. Lasry, 2023** (Tomokiyo, `GL.htm` § 2 ; recueil marqué « Solved »).
+- **L'identification du chiffre d'Espagnol 336** (f.164-186, n°83-93, dont les pièces n°88-90 étudiées ici) : **G. Lasry, 2023** (Tomokiyo, `GL.htm` § 2 ; recueil marqué « Solved »).
 - Aucune clé n'a été cassée par nous ; aucune identification de chiffre n'est nouvelle.
 
 ### 0.2 Ce qui l'est
@@ -194,7 +194,7 @@ Deux autres lettres de Feria du même jour, dans le même recueil (n°88 à don 
 (79,3 % et 78,7 %) : **partielles, exclues** de ce dépôt ; leurs lectures ne sont pas publiées.
 
 > **⚠️ Réserve de nouveauté (B), à lire d'abord.** Le recueil BnF **Espagnol 336** est donné comme **« Solved »** par Tomokiyo : en **2023, George Lasry** a identifié le chiffre
-> des f.164-186 (n°83-93, dont nos n°88, 89 et 90) comme **le chiffre n°54 de la collection Nevers**, c'est-à-dire le chiffre syllabique de 1592 dont la **clé d'époque** est BnF fr 3995
+> des f.164-186 (n°83-93, dont les pièces n°88, 89 et 90 étudiées ici) comme **le chiffre n°54 de la collection Nevers**, c'est-à-dire le chiffre syllabique de 1592 dont la **clé d'époque** est BnF fr 3995
 > f.96v-97r (celle qui valide la lecture de la lettre de 1593 ci-dessus) ; la clé est **publiée** (Tomokiyo). Aucun clair publié de ces lettres n'a été trouvé (Tomokiyo, article de Lasry
 Lasry peut détenir le clair sans l'avoir publié.
 > Formule retenue : **au mieux « lecture avec une clé publiée ; premier clair publié à notre connaissance ; chiffre déjà identifié par Lasry (2023) »**.

@@ -1,0 +1,32 @@
+# Sortie du script de mesure du vérificateur indépendant (mesure OFFICIELLE V0 : sa transcription aveugle, sa clé, sa règle gelées avant mesure).
+# Colonnes : ligne <TAB> mot chiffré <TAB> décodage brut par la clé <TAB> forme attendue <TAB> C (compris) / NC (non compris) <TAB> motif.
+# Motifs : ABS = lettre absente de la paire (valeur par réciprocité) ; DOUBLE = signe K à deux valeurs ; glyphe douteux = doute noté à la transcription.
+L1	Fimgálon	Syncerum	syncerum	NC	i=ABS
+L1	az	ex	ex	C	
+L1	medywydéda	nativitate	nativitate	C	
+L1	Jafo	Jesu	Iesu	C	
+L1	ceótyon	gaudium	gaudium	C	
+L1	blagédof	precatus	precatus	C	
+L1	clédyef	gratias	gratias	C	
+L2	ecu	ago	ago	C	
+L2	honyrryna	humillime	humillime	C	
+L2	blu	pro	pro	C	
+L2	halatydéda	hereditate	hereditate	C	
+L2	Hemyfyéme	Hanisiana	Hanisiana	C	
+L3	manba	nempe	nempe	C	
+L3	famyf	senis	senis	C	
+L3	ymtófyyf	indusiis	indusiis	C	
+L3	Kwea	Qvae	quae	NC	K=DOUBLE
+L3	unmýmu	omnino	omnino	C	
+L3	fomd	sunt	sunt	C	
+L3	pume	bona	bona	C	
+L4	Taof	Deus	Deus	C	
+L4	Falamydédan	Serenitatem	Serenitatem	C	
+L4	Wafdle[n?]	Vestram	Vestram	NC	glyphe douteux
+L4	Fdure	Stola	stola	C	
+L4	jofdydyea	justitiae	iustitiae	C	
+L5	ymtóden	indutam	indutam	C	
+L5	unmýcame	omnigena	omnigena	C	
+L5	ſarygydéda	felicitate	felicitate	C	
+L5	paad	beet	beet	C	
+# MOTS : 25/28 = 89.3 %   LETTRES (glyphe sûr, valeur prouvée) : 172/181 = 95.0 %

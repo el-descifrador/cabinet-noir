@@ -2,7 +2,7 @@
 
 **Résultat n°50. Étiquette : « première lecture avec clé publiée »** (clé « Floridor » de S. Tomokiyo + deux valeurs prouvées par une glose d'époque). **Confirmé avec réserves**
 par un vérificateur indépendant : **697/709 = 98,3 % des groupes, 124/134 = 92,5 % des mots chiffrés** (seuil de 80 % atteint). Nouveauté **B fragile** : Tomokiyo en cite l'ouverture (9 mots).
-Voir aussi le [README du dossier](README.md) (mémoire au « grand maistre », n°47, même chiffre).
+Voir aussi le [README du dossier](README.md) (mémoire au « grand maistre », résultat n°47, même chiffre).
 
 Images (Gallica, liens seulement) : https://gallica.bnf.fr/ark:/12148/btv1b10035507b/f228.item , https://gallica.bnf.fr/ark:/12148/btv1b10035507b/f229.item
 

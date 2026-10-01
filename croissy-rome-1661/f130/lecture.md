@@ -14,7 +14,7 @@
 
 ### Lecture résumée (note de synthèse)
 
-**n°59, f.130v-131r (Rome, 10/1/1661, à J.-B. Colbert)** :
+**Résultat n°59, f.130v-131r (Rome, 10/1/1661, à J.-B. Colbert)** :
 > « la maladie du pape continue et M. l'abbé Elpidio Benedetti me vient de dire que c'estoit un relaschement d'estomach qui luy cause une espece de dissenterie, qu'il se ressentoit
 > aussy d'une hidropisie venteuse dont il avoit esté cy devant attaqué. Pour moy je vous avoue que je ne me fie point encore assez aux [314] qu'on me donne pour les oser mander a [426].
 > M. Froment a veu icy le [431] l'Avocat qui est a Monsieur le cardinal de Retz. J'ay appris aussy que le [431] Chassebras y estoit et qu'ils voioient assés souvent Monsieur le [324]

@@ -1,0 +1,38 @@
+# Déchiffrement brut signe à signe avec la clé figée (cle/cle_debrais_v24.tsv), SANS arbitrage ni segmentation en mots :
+# · = nulle (6, 9) ; x* = jeton normalisé (6/9 collés retirés : 359 -> 35) ; <mot> = code de nomenclature ou syllabe longue ; {x} = signe absent de la clé ;
+# (x) = jeton douteux à la transcription (« ? », « ~ », alternative a|b : 1re lecture prise) ; (?) = jeton illisible ; [biffé] = jeton biffé (exclu).
+# 84 = u ou v (écrit u) ; 73 = ü (lu u par convention d'époque), 81 = ä (lu « ai »). La lecture arbitrée et la mesure sévère sont dans lecture.md.
+== P1 v35g (après « avec ses Secretaires d'Etat. »)
+maisc·ommelec
+a·rdina·lapri·s·soindelu·yins
+pilr·unegrandeme·fiance·generalemen
+t·cont·retoutlemo·ndeile·timpe
+netrable·celae·stcauseque·sesmini
+stre·svontbrideen·main(<Votre Majesté|Sa Majesté>)u·ientp·o
+urtan·tdefraperuncou·pquinat
+ure·llementd·oitafermirle·urau
+torite·
+== P2 v35d (après « Les amis du premier enhardis par cette bonne reception, »)
+(e)tse·trompan·tdan·sle
+credit·quilscroy·oientauo·ir
+surl·espritd·u<le Roy>
+(en clair : se presserent de présenter à S.M. ...)
+== P3 v36g (après « ... pour s'assurer d'un meilleur succès. »)
+onrema·rqueun(e)gran·deunionen·treles
+secre·taires·(d)et·atycomprisleco
+nt·roleur·general·parcettehar(m)
+onie·ilssef·latentdepartagerent
+reeuxseu·lslaconfiance·du<le Roy>(e)
+tdop·oserparlauned·igueasse·z
+forteaux··briguesde·ceuxqui
+aspirentau·<le Ministère>
+(en clair : Malgré toutes les apparences qui peuvent faire espérer un)
+== P4 v36g (suite)
+solide
+eta·blissement·delapreente·forme
+== P5 v36d (haut de page, avant « J'ai l'honneur d'être ... »)
+dug·ouvernemen·tiesuisdopin
+ionqu·ilfatlaisser·ec(w)uler
+quel·quesmoi·sauantquonpui·sse
+iuger·auecune·sortedecertitudede
+s·aconsist·ance

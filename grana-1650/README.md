@@ -3,7 +3,7 @@
 **AHNOB (Archivo Histórico de la Nobleza, Tolède), OSUNA, CT.13, D.6 — résultat n°76. Étiquette : « clé reconstruite par nous depuis une paire d'époque »**
 (clé non publiée ; les valeurs viennent d'une autre lettre du même dossier et de son déchiffrement d'époque). **Confirmé avec réserves** par un vérificateur indépendant.
 
-| n° | pièce | date | taux (vérificateur, mesure sévère) | réserves | nouveauté |
+| résultat n° | pièce | date | taux (vérificateur, mesure sévère) | réserves | nouveauté |
 |---|---|---|---|---|---|
 | 76 | OSUNA CT.13 D.6, lettre du 9 avril, 2 pages chiffrées (589 groupes) | 09/04/1650 | **85,8 % par groupe / 59,5 % par mot** (page 1, transcription à l'aveugle du vérificateur) ; lettre entière (transcription de l'équipe) 87,9 % / 68,3 % | test de la clé **à la limite** (81,4 % ; 77,5-79,6 % sur transcription aveugle) ; pas de deuxième paire ; **mot < 80 %** ; signe 18 hors clé | A prov. |
 

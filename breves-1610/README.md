@@ -3,7 +3,7 @@
 **BnF, Français 3789, f.19 (10/11/1610) et f.17 (15/09/1610) — résultat n°3. Étiquette : « clé d'époque retrouvée par nous »** (BnF Français 3462, vue 112),
 complétée par des gloses d'époque (fr 18005). **Confirmé avec réserves** par des vérificateurs indépendants.
 
-| n° | pièce | date | taux (vérificateur) | réserves | nouveauté |
+| résultat n° | pièce | date | taux (vérificateur) | réserves | nouveauté |
 |---|---|---|---|---|---|
 | 3 | fr 3789 f.19r, l.5-6 | 10/11/1610 | 38/38 signes lus (1 faute de chiffreur supposée) ; mots « arogance », « sentant », « timidite » tirés de la seule clé relue par le vérificateur | b → c (faute supposée) ; 7̄9 = re sur une seule glose | A prov. |
 | 3 | fr 3789 f.17r (3 passages) | 15/09/1610 | 59/59 signes, dont 53 par la seule clé | 9̄0 = tion et y = a tirés du contexte | A prov. |

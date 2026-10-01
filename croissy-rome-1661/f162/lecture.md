@@ -14,7 +14,7 @@
 
 ### Lecture résumée (note de synthèse)
 
-**n°61, f.162r-165r (Frascati, 31/1/1661, duplicata à Mazarin)**, extraits :
+**Résultat n°61, f.162r-165r (Frascati, 31/1/1661, duplicata à Mazarin)**, extraits :
 > « Monsieur le [323] m'a aussi fait connoistre qu'il estoit bien persuadé que cette affaire, comme consistoriale, doit estre de sa direction. » — « … je ne devois pas tesmoigner
 > en toutes rencontres estre si fort deppendant de Monsieur le cardinal Antoine, parceque sa personne estant [117]ye du pape, je ne pouvois point [e]sperer de [185] [323] …
 > obtenir de Sa Sainteté [435] ; l'on voiroit que je … n'agirois que par les [394]s et la direction du dit cardinal, mais qu'estant de moy mesme, Sa Sainteté, qui scait que je

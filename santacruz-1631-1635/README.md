@@ -4,7 +4,7 @@
 Résultats n°54, 56, 58, 62, 63, 70, 71, 74. Étiquette : « clé reconstruite par nous depuis des paires chiffré / déchiffrement d'époque » (pas une cassure à l'aveugle,
 pas une clé publiée). Sept lettres sur huit sont « avec réserves » (taux par mot < 80 %) ; D.6 passe au mot avec une marge d'un seul mot.**
 
-| n° | pièce | date | clé | groupe / mot (vérificateur) | dossier |
+| résultat n° | pièce | date | clé | groupe / mot (vérificateur) | dossier |
 |---|---|---|---|---|---|
 | 54 | D.74 | 16/7/1632 | 1632 r3 | 84,6 % / 71,7 % | [D074](D074/) |
 | 56 | D.75 | juillet 1632 | 1632 r3 | 84,2 % / 62,4 % | [D075](D075/) |
@@ -44,7 +44,7 @@ copies de ce qui s'écrit à Necolalde au sujet de **Gaston d'Orléans** (D.6) ;
 
 ### 1. Les documents
 
-| n° | pièce | date | description | images |
+| résultat n° | pièce | date | description | images |
 |---|---|---|---|---|
 | **54** | AHNOB, SANTA CRUZ, C.51, **D.74** | Madrid, 16/7/1632 | Philippe IV → Santa Cruz ; 8 lignes chiffrées (130 groupes) entre clair d'adresse et « De Madrid a 16 de Julio 1632 / Yo el Rey » ; **duplicado** (« Dupp.do ») ; D.73 = l'autre exemplaire, mêmes homophones | PARES 12877458, img 34-35 (D.73 : img 32-33) |
 | **56** | AHNOB, SANTA CRUZ, C.51, **D.75** | Madrid, [jour en blanc] juillet 1632 | Philippe IV → fray Diego de Quiroga : **copie** annoncée dans D.74 (« la carta cuya copia se os imbia ») ; 54 lignes, ≈ 1 019 groupes ; pas de « Yo el Rey » (normal pour une copie) | PARES 12877458, img 36-38 |
@@ -82,7 +82,7 @@ Statut avant ce travail : PARES « Sin descifrar » ; les concurrents (cipher-la
 
 ### 3. Résultats (taux de référence = vérificateurs)
 
-| n° | lettre | clé | groupe strict | pessimiste (groupe) | mot | transcription aveugle | verdict |
+| résultat n° | lettre | clé | groupe strict | pessimiste (groupe) | mot | transcription aveugle | verdict |
 |---|---|---|---|---|---|---|---|
 | **54** | D.74 | 1632 r3 | **84,6 %** (110/130) | 82,3 % | **71,7 %** (38/53) | 130/130 | confirmé avec réserves |
 | **56** | D.75 | 1632 r3 | **84,2 %** (858/1019) | 80,9 % (80,3 % avec les signes suscrits) | **62,4 %** (287/460) | P1 L1-10 : 94,3 % brut, 96,9 % tolérant | confirmé avec **réserve forte au mot** |
@@ -171,7 +171,7 @@ de **tests de généralisation** : à chaque test, clé figée, chiffré d'une p
 
 Trois lettres ont ainsi été lues à l'aveugle, puis confirmées par trois vérificateurs frais :
 
-| n° | pièce | date | sujet | groupe strict | mot |
+| résultat n° | pièce | date | sujet | groupe strict | mot |
 |---|---|---|---|---|---|
 | **70** | D.113 | Madrid, 8/9/1634 | Albornoz : le Milanais dégarni après le départ du cardinal-infant ; passage des levées | **85,7 %** (186/217) | **68,1 %** (64/94) |
 | **71** | D.99 | Madrid, 24/7/1634 | des 1 500 Espagnols levés pour Naples, 500 seulement partiront ; le reste garnit le Milanais | **87,5 %** (231/264) | **76,6 %** (105/137) |
@@ -224,13 +224,13 @@ seulement de **conditionner** l'ouverture des cibles (règle de la coordination 
 | n°2 | D.103 ↔ D.104 | serrée sans points | r23 (55e83589) | 76,9 % | 53,5 % | 17 (notation ∓/≠) | < 80 % |
 | n°3 | D.101 ↔ D.102 | à points | r24 (e6b67a9b) | 78,9 % | 61,3 % | 0 / 105 | < 80 % : D.113 reste fermée |
 | n°4 | D.121 ↔ D.122 (3/10/1634) | à points | r25 | **80,2 %** (154/192) ; or v1 79,7 %, pessimiste 78,6 % | 62,5 % | 1 | **≥ 80 % (marge 1 groupe, après correction documentée d'un alignement de l'or) → feu vert D.113 (01:41)** |
-| — | **D.113 (aveugle)** | à points | r26 | 84,8 % (casseur) | 67,0 % | | → n°70 |
+| — | **D.113 (aveugle)** | à points | r26 | 84,8 % (casseur) | 67,0 % | | → résultat n°70 |
 | n°5 | D.126 ↔ D.127 | **main neuve** | r26 | 69,2 % | 50,0 % | 2 | baisse : ≈ 15 formes absentes |
 | n°6 | D.128 ↔ D.129 (16/11/1634) | à points | r27 | 79,5 % | 62,2 % | 4 | main à points déjà validée par n°4 → **feu vert D.99 (02:31)** |
-| — | **D.99 (aveugle)** | à points | r28 | 84,1 % (casseur) | 69,9 % | | → n°71 |
+| — | **D.99 (aveugle)** | à points | r28 | 84,1 % (casseur) | 69,9 % | | → résultat n°71 |
 | n°7 | D.134 ↔ D.135 (18/1/1635) | penchée | r29 | 74,9 % | 59,7 % | 23 | < 80 % : aucune cible 1635 ouverte |
 | n°8 | D.148 ↔ D.149 (20/6/1635) | sans points, type D.134 | r30 | **85,4 %** (819/959) | 71,3 % | 17 | **≥ 80 % → feu vert D.145** |
-| — | **D.145 (aveugle)** | à points | r31 | 84,1 % (casseur) | 68,6 % | | → n°74 |
+| — | **D.145 (aveugle)** | à points | r31 | 84,1 % (casseur) | 68,6 % | | → résultat n°74 |
 | n°9 | D.150 ↔ D.151 (4/1635) | **serrée sans points** (= main de D.143) | r32 | 73,4 % | 54,4 % | 5 | < 80 % : **D.143 reste FERMÉE** |
 
 Lecture de la série : dans une main **connue**, la clé généralise à ≈ 80-85 % strict avec une **précision élevée** (0 à 4 valeurs fausses sur des centaines) ; une main neuve
@@ -239,7 +239,7 @@ chiffrée, 29/9/1634) 67,9 %.
 
 ### 3. Les trois lectures à l'aveugle
 
-#### n°70 — D.113, Madrid 8/9/1634 (PARES 12877594 img 29 ; « [Sin descifrar] » ; ENTIÈRE : date, Yo el Rey, refrendo ; 217 groupes)
+#### Résultat n°70 — D.113, Madrid 8/9/1634 (PARES 12877594 img 29 ; « [Sin descifrar] » ; ENTIÈRE : date, Yo el Rey, refrendo ; 217 groupes)
 - **Chronologie** (mtimes vérifiés) : clé r26 figée 01:39:10 → premiers crops 01:41:55 → transcription figée 01:46:43 → rendu 01:47:04 → mesure 01:48:42.
  Exposition antérieure : une vignette illisible (planche de 20 pages) le 28/09 23:35.
 - **Lecture (segmentation du vérificateur ; [ ] = non compris strict)** :
@@ -253,7 +253,7 @@ chiffrée, 29/9/1634) 67,9 %.
 - Cohérence : le cardinal Gil Carrillo de Albornoz gouverne le Milanais par intérim après le départ du cardinal-infant (été 1634, vers Nördlingen, 6/9/1634) ; même formule
  « serenisimo Infante don Fernando mi hermano » dans D.121/D.122.
 
-#### n°71 — D.99, Madrid 24/7/1634 (PARES **12877555** img 45, dos img 46 ; « [Sin descifrar] » ; ENTIÈRE ; main à points ; 264 groupes)
+#### Résultat n°71 — D.99, Madrid 24/7/1634 (PARES **12877555** img 45, dos img 46 ; « [Sin descifrar] » ; ENTIÈRE ; main à points ; 264 groupes)
 - **Chronologie** : clé r28 figée 02:29:40 → note « avant ouverture » 02:32:44 → 1er crop pleine résolution 02:32:49 → transcription figée 02:36:38. La règle « 9 = y dans la main
  à points » a été **refusée avant ouverture** (9 compté DOUBLE partout). Expositions antérieures : vignettes illisibles (01:07, 02:28).
 - **Lecture (vérificateur)** :
@@ -268,7 +268,7 @@ chiffrée, 29/9/1634) 67,9 %.
 - **Réserve de fond** : « 1500 / 500 / 1500 » sont des **nombres marqués** (signes suscrits), lus comme nombres et **non décodés par la clé** (comptés N) ; plausible (« seis mil »,
  lui, est déchiffré), non prouvé.
 
-#### n°74 — D.145, Madrid 26/5/1635 (PARES 12878118 img 41-42, dos img 43 ; ENTIÈRE : Yo el Rey + Geronimo Villanueva ; main à points ; 377 groupes)
+#### Résultat n°74 — D.145, Madrid 26/5/1635 (PARES 12878118 img 41-42, dos img 43 ; ENTIÈRE : Yo el Rey + Geronimo Villanueva ; main à points ; 377 groupes)
 - **Chronologie** : clé r31 figée 04:01:06Z → première vue lisible 04:01:17Z (11 s après) → transcription figée 04:10:10Z → proposition de solution 04:13. Le diff r30 → r31 ne contient que des
  valeurs issues de D.148 ; aucune valeur de D.145.
 - **Lecture (vérificateur, début)** :

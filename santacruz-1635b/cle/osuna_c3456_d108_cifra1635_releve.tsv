@@ -1,0 +1,556 @@
+# Clé d'époque « Cifra general del año 1635 » : AHNOB (Archivo Histórico de la Nobleza, Tolède), OSUNA, C.3456, D.108 ; PARES https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/6449391
+# (image 1 = la clé, une page ; image 2 = dos « Cifra gen.l del año 1635 / Para embiar al S.r Card.l Borja »). Image non redistribuée.
+# NOTRE RELEVÉ, consolidé de deux relevés INDÉPENDANTS faits depuis l'image seule (sans ouvrir aucun chiffré Santa Cruz), 30/09/2026 :
+# relevé 1 (« r1 ») et relevé 2 (« r2 ») concordent sur 533/539 entrées (98,9 %) ; désaccords arbitrés par la forme (zooms), le reste marqué « incertain ».
+# Empreinte de la version consolidée (sha256, début) : 68071e34.
+# Système : alphabet à 2-4 homophones (chiffres 0-22 + lettres/symboles) ; syllabaire (23-72 et codes-syllabes littéraux : Za = ba, na = da, at = ga, xa = la, la = pa,
+# ar = sa…) ; que ×3 (68-70), de ×2 (71-72) ; « finales de vocales » suscrites ; nomenclateur 73-277 + codes de 3 lettres (ult, bla…) + lettres encadrées (□A…□Z) ;
+# nulles T, I, & ; « Duplices » (redoublement) ; « Numeros » (nombre en clair marqué).
+# Contrôle interne : les nombres 0-277 figurent chacun une fois dans les deux relevés. Ambiguïtés de FORME restantes : g(a)/9(i), y2(o)/x(e), 4e signe éventuel de A ;
+# □I = alias de □L. Toute valeur « incertain » ou « ? » est comptée NON comprise si elle se présente dans un chiffré.
+# Conventions : jeton = forme lue sur la clé ; □X = majuscule encadrée ; g2, y2, m2 = glyphes vus sous E/O distincts (ou non) de g, y, m ; N4 = signe « point + N4 » (P),
+# N4v = « N4 » sans point (V) : ce ne sont PAS les nombres 24/14 ; Jas…Jul = initiale J cursive ; DUPL = signe de redoublement ; ∅ = nulle ; ? = valeur illisible.
+# Colonnes : jeton <TAB> valeur <TAB> statut (accord_2_releves | arbitre | incertain) <TAB> certitude relevé 1 <TAB> certitude relevé 2 <TAB> zone <TAB> note.
+# Licence : notre relevé est sous CC BY 4.0 ; la clé elle-même est un document d'archives (AHNOB).
+jeton	valeur	statut	certitude_r1	certitude_r2	zone	note
+g	a	incertain	douteux	-	img1 alphabet col.A	A pile 1/4 : R1 « g », R2 « 9 » ; zoom ×3,6 contrasté (z_arb1) : tête fermée + hampe qui crochète à gauche, très proche du « 9 » de I (pile 2) et différente du g2 de E ; forme g/9 NON tranchée. Valeur a sûre (colonne A). Si un chiffré montre ce signe : a ou i.
+r	a	accord_2_releves	douteux	douteux	img1 alphabet col.A	2e, r surmonté d'un trait (r barré ?)
+y	a	accord_2_releves	douteux	douteux	img1 alphabet col.A	rangée 2, y précédé d'une tache/boucle (R ?)
+7	b	accord_2_releves	sûr	sûr	img1 alphabet col.B
+m	b	accord_2_releves	sûr	sûr	img1 alphabet col.B
+5	c	accord_2_releves	sûr	sûr	img1 alphabet col.C
+2	c	accord_2_releves	sûr	sûr	img1 alphabet col.C
+3	d	accord_2_releves	sûr	sûr	img1 alphabet col.D
+a	d	accord_2_releves	sûr	sûr	img1 alphabet col.D
+ↄ	e	accord_2_releves	sûr	sûr	img1 alphabet col.E	c retourné pointé
+g2	e	accord_2_releves	douteux	sûr	img1 alphabet col.E	« g » boucle ouverte, distinct du g de A ? noté g2
+x	e	accord_2_releves	sûr	sûr	img1 alphabet col.E
+0	e	accord_2_releves	sûr	sûr	img1 alphabet col.E	zéro
+Є	f	accord_2_releves	sûr	sûr	img1 alphabet col.F	epsilon / E rond
+t	f	accord_2_releves	sûr	sûr	img1 alphabet col.F
+Δ	g	accord_2_releves	sûr	sûr	img1 alphabet col.G
+4	g	accord_2_releves	sûr	sûr	img1 alphabet col.G
+n	h	accord_2_releves	sûr	sûr	img1 alphabet col.H
+B	h	accord_2_releves	sûr	sûr	img1 alphabet col.H
+e	i	accord_2_releves	sûr	sûr	img1 alphabet col.I
+9	i	accord_2_releves	sûr	douteux	img1 alphabet col.I
+f	i	accord_2_releves	sûr	douteux	img1 alphabet col.I	f barré (ſ à barre)
+8	i	accord_2_releves	sûr	sûr	img1 alphabet col.I
+tt	l	accord_2_releves	sûr	douteux	img1 alphabet col.L
+℮	l	accord_2_releves	sûr	douteux	img1 alphabet col.L	grand e bouclé
+ff	m	accord_2_releves	douteux	douteux	img1 alphabet col.M	« ff » liés à barre (H pointé ?)
+10	m	accord_2_releves	sûr	sûr	img1 alphabet col.M
+L	n	accord_2_releves	douteux	douteux	img1 alphabet col.N	L/Z cursif bouclé (forme voisine du Z cursif des codes Za…Zu)
+l	n	accord_2_releves	sûr	douteux	img1 alphabet col.N	l / I majuscule cursif
+c	o	accord_2_releves	sûr	sûr	img1 alphabet col.O	petit, au-dessus
+y2	o	incertain	douteux	-	img1 alphabet col.O	O pile 2/4 : R1 « y » (touché par la queue du signe de N), R2 « x » à boucle initiale ; zoom (z_arb1) : deux traits croisés + pâté en bas à gauche, x/y NON tranché. Valeur o sûre (colonne O). Attention : x = e (E pile 3).
+m2	o	accord_2_releves	douteux	douteux	img1 alphabet col.O	m à 1er jambage crocheté (w ?) ; forme distincte du m = b ?
+J	o	accord_2_releves	sûr	douteux	img1 alphabet col.O	J majuscule pointé
+12	p	accord_2_releves	sûr	sûr	img1 alphabet col.P
+N4	p	accord_2_releves	douteux	douteux	img1 alphabet col.P	point + signe « N4 » (24 ? mais 24 = eb)
+11	q	accord_2_releves	sûr	sûr	img1 alphabet col.Q
+K	q	accord_2_releves	sûr	sûr	img1 alphabet col.Q
+1	r	accord_2_releves	sûr	sûr	img1 alphabet col.R
+6	r	accord_2_releves	sûr	sûr	img1 alphabet col.R
+h	s	accord_2_releves	sûr	sûr	img1 alphabet col.S
+d	s	accord_2_releves	sûr	sûr	img1 alphabet col.S
+17	t	accord_2_releves	sûr	sûr	img1 alphabet col.T
+18	t	accord_2_releves	sûr	sûr	img1 alphabet col.T
+ʒ	u	accord_2_releves	douteux	douteux	img1 alphabet col.V	5 barré / ʒ
+N4v	u	accord_2_releves	douteux	douteux	img1 alphabet col.V	« N4 » (14 ?) sans point ; peut-être même signe que N4 (P)
+19	u	accord_2_releves	sûr	sûr	img1 alphabet col.V
+20	u	accord_2_releves	sûr	sûr	img1 alphabet col.V
+21	x	accord_2_releves	sûr	sûr	img1 alphabet col.X
+22	x	accord_2_releves	sûr	sûr	img1 alphabet col.X
+13	y	accord_2_releves	sûr	sûr	img1 alphabet col.Y
+15	y	accord_2_releves	sûr	sûr	img1 alphabet col.Y
+Đ	z	accord_2_releves	sûr	douteux	img1 alphabet col.Z	D barré
+Ꝗ	z	accord_2_releves	sûr	douteux	img1 alphabet col.Z	a/Q barré à queue
+14	?	accord_2_releves	sûr	douteux	img1 alphabet dernière col.	en-tête illisible (trait à crochet : & ? ç ? suite de Z ?)
+16	?	accord_2_releves	sûr	douteux	img1 alphabet dernière col.	idem
+23	ab	accord_2_releves	sûr	sûr	img1 syllabaire L1C1
+24	eb	accord_2_releves	sûr	sûr	img1 syllabaire L1C1
+25	ib	accord_2_releves	sûr	sûr	img1 syllabaire L1C1
+26	ob	accord_2_releves	sûr	sûr	img1 syllabaire L1C1
+27	ub	accord_2_releves	sûr	sûr	img1 syllabaire L1C1
+Za	ba	accord_2_releves	sûr	douteux	img1 syllabaire L1C2	Z cursif à longue queue sous la voyelle (même forme que l'en-tête Z de l'alphabet ; proche du 1er signe de N)
+Ze	be	accord_2_releves	sûr	douteux	img1 syllabaire L1C2	Z cursif à longue queue sous la voyelle (même forme que l'en-tête Z de l'alphabet ; proche du 1er signe de N)
+Zi	bi	accord_2_releves	sûr	douteux	img1 syllabaire L1C2	Z cursif à longue queue sous la voyelle (même forme que l'en-tête Z de l'alphabet ; proche du 1er signe de N)
+Zo	bo	accord_2_releves	sûr	douteux	img1 syllabaire L1C2	Z cursif à longue queue sous la voyelle (même forme que l'en-tête Z de l'alphabet ; proche du 1er signe de N)
+Zu	bu	accord_2_releves	sûr	douteux	img1 syllabaire L1C2	Z cursif à longue queue sous la voyelle (même forme que l'en-tête Z de l'alphabet ; proche du 1er signe de N)
+28	ca	accord_2_releves	sûr	sûr	img1 syllabaire L1C3
+29	ce	accord_2_releves	sûr	sûr	img1 syllabaire L1C3
+30	ci	accord_2_releves	sûr	sûr	img1 syllabaire L1C3
+31	co	accord_2_releves	sûr	sûr	img1 syllabaire L1C3
+32	cu	accord_2_releves	sûr	sûr	img1 syllabaire L1C3
+na	da	accord_2_releves	sûr	sûr	img1 syllabaire L1C4
+ne	de	accord_2_releves	sûr	sûr	img1 syllabaire L1C4
+ni	di	accord_2_releves	sûr	sûr	img1 syllabaire L1C4
+no	do	accord_2_releves	sûr	sûr	img1 syllabaire L1C4
+nu	du	accord_2_releves	sûr	sûr	img1 syllabaire L1C4
+33	fa	accord_2_releves	douteux	sûr	img1 syllabaire L1C5	initiale f (barre visible) ; ſ non exclu à cette résolution
+34	fe	accord_2_releves	douteux	sûr	img1 syllabaire L1C5	initiale f (barre visible) ; ſ non exclu à cette résolution
+35	fi	accord_2_releves	douteux	sûr	img1 syllabaire L1C5	initiale f (barre visible) ; ſ non exclu à cette résolution
+36	fo	accord_2_releves	douteux	sûr	img1 syllabaire L1C5	initiale f (barre visible) ; ſ non exclu à cette résolution
+37	fu	accord_2_releves	douteux	sûr	img1 syllabaire L1C5	initiale f (barre visible) ; ſ non exclu à cette résolution
+at	ga	accord_2_releves	sûr	sûr	img1 syllabaire L1C6
+et	ge	accord_2_releves	sûr	sûr	img1 syllabaire L1C6
+it	gi	accord_2_releves	sûr	sûr	img1 syllabaire L1C6
+ot	go	accord_2_releves	sûr	sûr	img1 syllabaire L1C6
+ut	gu	accord_2_releves	sûr	sûr	img1 syllabaire L1C6
+38	ya	accord_2_releves	sûr	sûr	img1 syllabaire L2C1	ya ye yi yo yu
+39	ye	accord_2_releves	sûr	sûr	img1 syllabaire L2C1	ya ye yi yo yu
+40	yi	accord_2_releves	sûr	sûr	img1 syllabaire L2C1	ya ye yi yo yu
+41	yo	accord_2_releves	sûr	sûr	img1 syllabaire L2C1	ya ye yi yo yu
+42	yu	accord_2_releves	sûr	sûr	img1 syllabaire L2C1	ya ye yi yo yu
+xa	la	accord_2_releves	sûr	sûr	img1 syllabaire L2C2
+xe	le	accord_2_releves	sûr	sûr	img1 syllabaire L2C2
+xi	li	accord_2_releves	sûr	sûr	img1 syllabaire L2C2
+xo	lo	accord_2_releves	sûr	sûr	img1 syllabaire L2C2
+xu	lu	accord_2_releves	sûr	sûr	img1 syllabaire L2C2
+43	ma	accord_2_releves	sûr	sûr	img1 syllabaire L2C3
+44	me	accord_2_releves	sûr	sûr	img1 syllabaire L2C3
+45	mi	accord_2_releves	sûr	sûr	img1 syllabaire L2C3
+46	mo	accord_2_releves	sûr	sûr	img1 syllabaire L2C3
+47	mu	accord_2_releves	sûr	sûr	img1 syllabaire L2C3
+la	pa	accord_2_releves	sûr	sûr	img1 syllabaire L2C4
+le	pe	accord_2_releves	sûr	sûr	img1 syllabaire L2C4
+li	pi	accord_2_releves	sûr	sûr	img1 syllabaire L2C4
+lo	po	accord_2_releves	sûr	sûr	img1 syllabaire L2C4
+lu	pu	accord_2_releves	sûr	sûr	img1 syllabaire L2C4
+48	ra	accord_2_releves	sûr	sûr	img1 syllabaire L2C5
+49	re	accord_2_releves	sûr	sûr	img1 syllabaire L2C5
+50	ri	accord_2_releves	sûr	sûr	img1 syllabaire L2C5
+51	ro	accord_2_releves	sûr	sûr	img1 syllabaire L2C5
+52	ru	accord_2_releves	sûr	sûr	img1 syllabaire L2C5
+ar	sa	accord_2_releves	sûr	sûr	img1 syllabaire L2C6
+er	se	accord_2_releves	sûr	sûr	img1 syllabaire L2C6
+ir	si	accord_2_releves	sûr	sûr	img1 syllabaire L2C6
+or	so	accord_2_releves	sûr	sûr	img1 syllabaire L2C6
+ur	su	accord_2_releves	sûr	sûr	img1 syllabaire L2C6
+53	ta	accord_2_releves	sûr	sûr	img1 syllabaire L3C1
+54	te	accord_2_releves	sûr	sûr	img1 syllabaire L3C1
+55	ti	accord_2_releves	sûr	sûr	img1 syllabaire L3C1
+56	to	accord_2_releves	sûr	sûr	img1 syllabaire L3C1
+57	tu	accord_2_releves	sûr	sûr	img1 syllabaire L3C1
+an	al	accord_2_releves	sûr	sûr	img1 syllabaire L3C2
+en	el	accord_2_releves	sûr	sûr	img1 syllabaire L3C2
+in	il	accord_2_releves	sûr	sûr	img1 syllabaire L3C2
+on	ol	accord_2_releves	sûr	sûr	img1 syllabaire L3C2
+un	ul	accord_2_releves	sûr	sûr	img1 syllabaire L3C2
+58	cha	accord_2_releves	sûr	sûr	img1 syllabaire L3C3
+59	che	accord_2_releves	sûr	sûr	img1 syllabaire L3C3
+60	chi	accord_2_releves	sûr	sûr	img1 syllabaire L3C3
+61	cho	accord_2_releves	sûr	sûr	img1 syllabaire L3C3
+62	chu	accord_2_releves	sûr	sûr	img1 syllabaire L3C3
+ra	fan	accord_2_releves	douteux	sûr	img1 syllabaire L3C4	fan fen fin fon fun (f barré ; ſan non exclu)
+re	fen	accord_2_releves	douteux	sûr	img1 syllabaire L3C4	fan fen fin fon fun (f barré ; ſan non exclu)
+ri	fin	accord_2_releves	douteux	sûr	img1 syllabaire L3C4	fan fen fin fon fun (f barré ; ſan non exclu)
+ro	fon	accord_2_releves	douteux	sûr	img1 syllabaire L3C4	fan fen fin fon fun (f barré ; ſan non exclu)
+ru	fun	accord_2_releves	douteux	sûr	img1 syllabaire L3C4	fan fen fin fon fun (f barré ; ſan non exclu)
+63	xar	accord_2_releves	douteux	sûr	img1 syllabaire L3C5	xar xer xir xor xur (x net mais syllabe inhabituelle)
+64	xer	accord_2_releves	douteux	sûr	img1 syllabaire L3C5	xar xer xir xor xur (x net mais syllabe inhabituelle)
+65	xir	accord_2_releves	douteux	sûr	img1 syllabaire L3C5	xar xer xir xor xur (x net mais syllabe inhabituelle)
+66	xor	accord_2_releves	douteux	sûr	img1 syllabaire L3C5	xar xer xir xor xur (x net mais syllabe inhabituelle)
+67	xur	accord_2_releves	douteux	sûr	img1 syllabaire L3C5	xar xer xir xor xur (x net mais syllabe inhabituelle)
+ac	tar	accord_2_releves	sûr	sûr	img1 syllabaire L3C6
+ec	ter	accord_2_releves	sûr	sûr	img1 syllabaire L3C6
+ic	tir	accord_2_releves	sûr	sûr	img1 syllabaire L3C6
+oc	tor	accord_2_releves	sûr	sûr	img1 syllabaire L3C6
+uc	tur	accord_2_releves	sûr	sûr	img1 syllabaire L3C6
+68	que	accord_2_releves	sûr	sûr	img1 syllabaire L4C1
+69	que	accord_2_releves	sûr	sûr	img1 syllabaire L4C1
+70	que	accord_2_releves	sûr	sûr	img1 syllabaire L4C1
+71	de	accord_2_releves	sûr	sûr	img1 syllabaire L4C1
+72	de	accord_2_releves	sûr	sûr	img1 syllabaire L4C1
+<	a	accord_2_releves	douteux	douteux	img1 syllabaire L4C2 « finales de vocales »	signe suivant la voyelle finale ; formes : a‹ e∧ i∨ o% (÷ ?) v:
+∧	e	accord_2_releves	douteux	douteux	img1 syllabaire L4C2 « finales de vocales »	signe suivant la voyelle finale ; formes : a‹ e∧ i∨ o% (÷ ?) v:
+∨	i	accord_2_releves	douteux	douteux	img1 syllabaire L4C2 « finales de vocales »	signe suivant la voyelle finale ; formes : a‹ e∧ i∨ o% (÷ ?) v:
+%	o	accord_2_releves	douteux	douteux	img1 syllabaire L4C2 « finales de vocales »	signe suivant la voyelle finale ; formes : a‹ e∧ i∨ o% (÷ ?) v:
+:	u	accord_2_releves	douteux	douteux	img1 syllabaire L4C2 « finales de vocales »	signe suivant la voyelle finale ; formes : a‹ e∧ i∨ o% (÷ ?) v:
+8̶	100	accord_2_releves	douteux	douteux	img1 syllabaire L4C3 « Numeros »	8 barré au-dessus de 100 ; H/X barré au-dessus de 200 (sens exact : chiffres ?)
+Ӿ	200	accord_2_releves	douteux	douteux	img1 syllabaire L4C3 « Numeros »	8 barré au-dessus de 100 ; H/X barré au-dessus de 200 (sens exact : chiffres ?)
+ơ	DUPL	accord_2_releves	douteux	douteux	img1 syllabaire L4C4 « Duplices »	o à queue pointé ; s/ø barré
+ꞩ	DUPL	accord_2_releves	douteux	douteux	img1 syllabaire L4C4 « Duplices »	o à queue pointé ; s/ø barré
+T	∅	accord_2_releves	sûr	sûr	img1 syllabaire L4C5 « Nullas »
+I	∅	accord_2_releves	sûr	sûr	img1 syllabaire L4C5 « Nullas »
+&	∅	accord_2_releves	sûr	sûr	img1 syllabaire L4C5 « Nullas »
+73	Archiduque	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+74	Audiencia	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+75	aunque	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+76	antes	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+77	aviso	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+78	año	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+79	año pasado	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+80	así	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+81	asistencia	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+82	Artillería	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+83	apariencia	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+84	avisando	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+85	Armada	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+86	aquello	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+87	amigo	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+88	allá	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+89	alguno	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+90	adelante	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+91	advertencia	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+92	Alemania	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+93	amistad	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+94	Argel	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (A)
+95	Batalla	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+96	beneficio	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+97	bien	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+98	bueno	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+99	Baxa	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+ans	Barcelona	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+ens	Baxel	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+ins	Borgoña	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+ons	brevedad	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+uns	berbería	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+art	Bruselas	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+ert	bondad	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+irt	Baviera	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+ort	Brandemburg	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)
+urt	Brabante	accord_2_releves	sûr	sûr	img1 nomencl. col.1 (B)	R2 : « Bravante » (développement/orthographe seulement)
+alt	Conde Duque	accord_2_releves	sûr	sûr	img1 nomencl. col.1-2 (C)
+elt	Conde de Oñate	accord_2_releves	sûr	sûr	img1 nomencl. col.1-2 (C)
+ilt	Conde de Monterrey	accord_2_releves	sûr	sûr	img1 nomencl. col.1-2 (C)
+olt	Car. Borja	accord_2_releves	sûr	sûr	img1 nomencl. col.1-2 (C)	R2 : « Cardenal Borja » (développement/orthographe seulement)
+ult	Car. Albornoz	accord_2_releves	sûr	sûr	img1 nomencl. col.1-2 (C)	R2 : « Cardenal Albornoz » (développement/orthographe seulement)
+bla	D. Car. Coloma	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)	R2 : « D. Carlos Coloma » (développement/orthographe seulement)
+ble	D. Christoval Benavente	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)	R2 : « D. Cristobal Benavente » (développement/orthographe seulement)
+bli	Conde de la Roca	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+blo	Conde Enrique	arbitre	sûr	douteux	img1 nomencl. col.2 (C)	écrit « C.de Enrriq³ » : R1 « Enríquez », R2 « Enrique » ; le signe suscrit après q a la même forme que dans Archiduq³ et Dunquerq³ (= -ue) → Enrrique ; réserve : un ʒ (= z) suscrit a une forme voisine.
+blu	Conde Palatino	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+bas	Condestable	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+bes	Capítulo	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+bis	carta	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+bos	Capitán	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+bus	Cathólico	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+ban	Cardenal	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+ben	Christo	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+bin	Cavallería	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+bon	Cavallo	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+bun	Castellano	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+cra	Conde	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+cre	Castillo	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+cri	Casamiento	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+cro	Camino	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+cru	Cavallero	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+cla	constancia	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+cle	consentimiento	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+cli	Christiandad	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+clo	Ciudad	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+clu	correspondencia	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+dar	comisión	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+der	como	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+dir	cumplimiento	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+dor	compañía	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+dur	concierto	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+das	consideración	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+des	Conclave	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+dis	confederación	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+dos	confianza	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+dus	conducción	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)	R2 : « conducion » (développement/orthographe seulement)
+fla	consejo	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+fle	confusión	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+fli	conformidad	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+flo	cuydado	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+flu	confidente	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+fan	conviene	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+fen	conveniente	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+fin	creencia	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+fon	castigo	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+fun	crédito	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+gra	criado	accord_2_releves	sûr	sûr	img1 nomencl. col.2 (C)
+gre	Campo	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (C-D)
+gri	común	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (C-D)
+gro	costa	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (C-D)
+gru	Duque de Florencia	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (C-D)
+gla	Duque de Nibers	accord_2_releves	douteux	sûr	img1 nomencl. col.3 (C-D)	écrit « Du.e de Nibers » (Nevers) ; R2 avait développé en Nevers
+gle	Duque de Bav[ie]ra	accord_2_releves	douteux	sûr	img1 nomencl. col.3 (C-D)	écrit « Du.e de Bam » + « ra » suscrit ; lecture Baviera incertaine
+gli	D. de Roan	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (C-D)
+glo	D. de Guisa	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (C-D)
+glu	D. de Lorena	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (C-D)
+100	D. de Módena	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+101	D. de Saboya	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+102	D. de Urbino	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+103	D. de Mantua	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+104	D. de Parma	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+105	D. de Alcalá	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+106	disgusto	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+107	desengaño	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+108	desconfianza	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+109	Duque	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+110	Dios	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+111	diligencia	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+112	dilación	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+113	daño	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+114	demostración	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+115	descuydo	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+116	despacho	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+117	después	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+118	disimulación	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+119	ducado	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+120	discurso	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+121	dificultad	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+122	dicho	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+123	disimular	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+124	diversión	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+125	Dunquerque	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+126	Dinamarca	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+127	Dieta	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+128	Embaxador	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+129	Embaxada	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+130	Empresa	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+131	elección	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)	R2 : « Election » (développement/orthographe seulement)
+132	electo	accord_2_releves	sûr	sûr	img1 nomencl. col.3 (D-E)
+133	efecto	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+134	era	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+135	Emperador	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+136	Enemigo	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+137	Enemistad	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+138	Execución	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+139	ello	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+140	Engaño	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+141	Esguízaros	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+142	Esfuerzo	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+143	escudo	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+144	España	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+145	espera	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+146	Estado	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+147	Exército	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+148	Experiencia	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+149	Estimación	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+150	forma	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+151	fuerte	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+152	flota	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+153	facultad	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+154	flandes	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+155	flamenco	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+156	francés	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+157	francia	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+158	flaqueza	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+159	favorecer	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+160	fortificación	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+161	frontera	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+162	fortuna	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+163	D. Fr.co Melo	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)	R2 : « D. Francisco de Melo » (développement/orthographe seulement)
+164	ferrara	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+165	florencia	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+166	fábrica	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+167	favor	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+168	fundamento	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+169	firmeza	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+170	frisia	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+171	fregelingas	accord_2_releves	douteux	douteux	img1 nomencl. col.4 (E-F)	lecture incertaine (Flexelingas = Flessingue ?)
+172	forzoso	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+173	fomentar	accord_2_releves	sûr	sûr	img1 nomencl. col.4 (E-F)
+174	D. G.o de Córdova	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)	R2 : « D. Gonzalo de Cordoba » (développement/orthographe seulement)
+175	gracia	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+176	general	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+177	Governador	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+178	gente	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+179	gasto	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+180	Ginebra	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+181	Génova	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+182	Grisones	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+183	Govierno	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+184	Ginoveses	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+185	Guerra	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+186	Galer[as]	accord_2_releves	douteux	douteux	img1 nomencl. col.5 (G-H)	fin du mot masquée par une tache
+187	Galeón	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+188	Gueldres	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+189	Giena	accord_2_releves	douteux	douteux	img1 nomencl. col.5 (G-H)	initiale G/Q incertaine
+190	Hombre	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+191	hermano	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+192	Hijo	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+193	Hereje	accord_2_releves	sûr	douteux	img1 nomencl. col.5 (G-H)	R2 : « Herege » (développement/orthographe seulement)
+194	honra	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+195	hacienda	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+196	hecho	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+197	hacer	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+198	haviendo	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+199	hallado	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (G-H)
+□A	Importancia	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□B	Imperio	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□C	Juramento	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□D	Justo	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□E	Juycio	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□F	Indias	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□G	Joya	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□H	Justicia	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□J	Inteligencia	arbitre	douteux	-	img1 nomencl. col.5 (I, lettres encadrées)	9e lettre encadrée ; R1 □J, R2 □I (même glyphe, même valeur) ; forme = J bouclé (comme l’initiale de Juramento, Jas…) → □J.
+□I	Instrucción	arbitre	douteux	douteux	img1 nomencl. col.5 (I, lettres encadrées)	ALIAS de □L (notation R1) : 10e lettre encadrée ; R1 □I, R2 □L ; forme (z_arb1) = hampe à pied gauche identique à l’en-tête L de l’alphabet et au 2e signe de N → □L ; valeur identique dans les 2 relevés. ATTENTION : dans la notation R2 « □I » désignait la 9e (Inteligencia).
+□M	Jamás	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□N	Inglaterra	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□O	Junta	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□P	Inglés	accord_2_releves	sûr	sûr	img1 nomencl. col.5 (I, lettres encadrées)
+□Q	Infanta	accord_2_releves	douteux	sûr	img1 nomencl. col.6 (I)	glyphe encadré en forme de ℮/C, attendu Q (série Q R S T…)
+□R	Infante Cardenal	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (I)
+□S	inconveniente	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (I)
+□T	Italia	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (I)
+□V	Impedimento	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (I)
+□X	Industria	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (I)
+□Y	Imbierno	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (I)
+□Z	Interés	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (I)
+200	Instrumento	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (I)
+201	Instancia	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (I)
+202	Londres	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+203	Lombardía	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+204	libertad	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+205	lugar	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+206	liga	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+207	legado	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+208	licencia	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+209	luego	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+210	Lorena	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+211	Levante	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (L)
+212	M.s de S.ta Cruz	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)	R2 : « Marques de Santa Cruz » (développement/orthographe seulement)
+213	M.s de Leganés	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)	R2 : « Marques de Leganes » (développement/orthographe seulement)
+214	M.s de Aytona	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)	R2 : « Marques de Aytona » (développement/orthographe seulement)
+215	M.s de Castel R.o	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)	R2 : « Marques de Castel Rodrigo » (développement/orthographe seulement)
+216	M.s de Castañ.da	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)	R2 : « Marques de Castañeda » (développement/orthographe seulement)
+217	Marqués	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+218	Milán	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+219	mucho	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+220	muy	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+221	merced	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+222	Mecina	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+223	muestra	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+224	mudanza	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+225	monte	accord_2_releves	sûr	douteux	img1 nomencl. col.6 (M-N)
+226	ministro	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+227	mente	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+228	navío	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+229	nueva	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+230	ninguno	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+231	necesario	accord_2_releves	sûr	sûr	img1 nomencl. col.6 (M-N)
+232	necesidad	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+233	Nápoles	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+234	Nuncio	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+235	nuestro	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+236	negocio	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+237	negociación	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+238	nación	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+239	natural	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+240	novedad	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+241	obligación	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+242	oficio	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+243	orden	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+244	otro	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+245	ofrecimiento	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+246	ocasión	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+247	opinión	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+248	ofender	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+249	ofrecer	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+250	Olanda	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+251	Olandés	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+252	obra	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+253	ocupación	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+254	Pr.e de Orange	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)	R2 : « Principe de Orange » (développement/orthographe seulement)
+255	Príncipe	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+256	persona	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+257	pal	accord_2_releves	douteux	douteux	img1 nomencl. col.7 (N-O-P)	« pal » suivi d'un long trait (abréviation ? palabra ?)
+258	Palermo	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+259	Papa	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+260	para que	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+261	Puerto	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+262	prudencia	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+263	propósito	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+264	prevenir	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+265	procurar	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+266	precedencia	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+267	Potentado	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+268	posible	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+269	Pontífice	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+270	poder	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+271	Pontificado	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+272	Plático	accord_2_releves	sûr	sûr	img1 nomencl. col.7 (N-O-P)
+273	Piemonte	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (P)
+274	particular	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (P)
+275	pues	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (P)
+276	provincia	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (P)
+277	propósito	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (P)	2e homophone de propósito (cf. 263)
+hac	quanto	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (Q)
+hec	qual	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (Q)
+hic	qualquier	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (Q)
+hoc	quando	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (Q)
+huc	quenta	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (Q)
+ham	Rey	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	abréviations R.y de Sp.a, Rom.os, Boem.a, fran.a
+hem	Rey de España	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	abréviations R.y de Sp.a, Rom.os, Boem.a, fran.a
+him	Rey de Romanos	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	abréviations R.y de Sp.a, Rom.os, Boem.a, fran.a
+hom	Rey de Bohemia	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	abréviations R.y de Sp.a, Rom.os, Boem.a, fran.a
+hum	Rey de Francia	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	abréviations R.y de Sp.a, Rom.os, Boem.a, fran.a
+Jas	Rey de Inglaterra	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+Jes	Reyna	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+Jis	Roma	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+Jos	República	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+Jus	respuesta	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+Jal	rompimiento	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+Jel	resolución	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+Jil	relación	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+Jol	remedio	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+Jul	religión	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)	initiale J/I cursive (même forme que le J de Juramento), DISTINCTE du s rond de sal/sel (col.10)
+lac	recompensa	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)
+lec	razón	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)
+lic	rebelde	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (R)
+loc	su Santidad	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+luc	su Beatitud	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+lam	su Magestad	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+lem	su Alteza	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+lim	sede Apostólica	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+lom	successo	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+lum	sospecha	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+man	soldado	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+men	socorro	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+min	siempre	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+mon	servicio	accord_2_releves	sûr	sûr	img1 nomencl. col.8 (S)
+mun	Saboya	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+mah	Sicilia	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+meh	suspensión	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+mih	Señor	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+moh	seguridad	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+muh	secreto	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+nay	satisfacción	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)	R2 : « satisfacion » (développement/orthographe seulement)
+ney	secretario	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+niy	satisfecho	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+noy	sobre	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+nuy	sede vacante	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (S)
+nal	tanto	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+nel	tener	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+nil	tiempo	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+nol	tampoco	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+nul	término	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+pax	también	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+pex	tregua	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+pix	trauasso	arbitre	douteux	sûr	img1 nomencl. col.9 (T)	R1 « trauasso », R2 « travajo » (normalisation par le sens = erreur R2) ; zoom ×4 (z_arb2) : « trauaſſo » net → forme R1 retenue (sens probable trabajo, non utilisé pour trancher).
+pox	trato	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+pux	Turco	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+pan	tenga	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+pen	teniendo	accord_2_releves	sûr	sûr	img1 nomencl. col.9 (T)
+pin	Villa	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+pon	Virrey	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+pun	V. Mag.d	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)	R2 : « V. Magestad » (développement/orthographe seulement)
+sam	V. Alteza	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+sem	V. Ex.a	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)	R2 : « V. Excelencia » (développement/orthographe seulement)
+sim	V. S. I.	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)	R2 : « V. S. Ilustrisima » (développement/orthographe seulement)
+som	V. S.	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+sum	V. Em.a	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)	R2 : « V. Eminencia » (développement/orthographe seulement)
+sal	V.m	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)	R2 : « V. merced » (développement/orthographe seulement)
+sel	Vos	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+sil	Valor	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+sol	V.ra	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)	R2 : « Vuestra » (développement/orthographe seulement)
+sul	Ungría	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+tar	Vassallo	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+ter	Venecia	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+tir	Victoria	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+tor	Verdad	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+tur	Valtolina	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)	R2 avait normalisé en Valtelina (erreur R2) ; forme « Valtolina » nette (z_arb2)
+tac	Voluntad	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+tec	Viena	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+tic	Vista	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+toc	Vida	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+tuc	Virtud	accord_2_releves	sûr	sûr	img1 nomencl. col.9-10 (V)
+□L	Instrucción	arbitre	douteux(□I)	douteux	img1 nomenclateur lettres encadrées	10e lettre encadrée, forme L (= en-tête L) ; notation R2 ; R1 la notait □I (alias conservé)
+P	?	incertain	absent	douteux	img1 alphabet col.A	R2 seul : boucle très encrée (P/b/ℓ) juste avant le y de A (pile 3/4) ; R1 y voit une tache/boucle faisant partie du y ; signe distinct ou ligature/pâté NON tranché → valeur inconnue

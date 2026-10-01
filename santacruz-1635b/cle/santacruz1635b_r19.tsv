@@ -1,0 +1,608 @@
+# Clé « 1635b » dans NOTRE notation des formes (version r19, figée le 30/09/2026 23:45:41Z ; empreinte sha1 0040fed5), employée pour lire D.164 (résultat n°89).
+# = valeurs de la clé d'époque AHNOB OSUNA C.3456 D.108 (cle/osuna_c3456_d108_cifra1635_releve.tsv), ramenées à la notation des transcriptions de la main C,
+#   avec les règles de forme r17-r19 tirées de l'image de la clé et des seules paires chiffré / déchiffrement d'époque lues AVANT D.215 (jamais le sens d'une cible) :
+#   ƺ (tête fermée, barre traversante) = a (col. A) ; ʒb (tête ouverte) = u (col. V) ; 16 = j (hypothèse) ; Xơ = X redoublé ; B en main C = non compris (règle suspendue).
+# Colonnes : jeton <TAB> valeur <TAB> statut (PROUVE = forme identique ou sûre sur la clé d'époque, ou forme + paires ; HYP = hypothèse, comptée non comprise)
+#   <TAB> mains où le signe n'est pas compris <TAB> valeur et statut de notre clé reconstruite r14 (29/09, AVANT la découverte de la clé d'époque) <TAB> source.
+# Comparaison : sur les 102 valeurs que la clé r14 tenait pour prouvées et que la clé d'époque permet de comparer, 102 concordent.
+jeton	valeur	statut	mains_N	valeur_r14	statut_r14	source
+1	r	PROUVE	-	r	PROUVE	EPOQUE forme identique
+109	Duque	PROUVE	-	Duque	PROUVE	EPOQUE forme identique
+116	despacho	PROUVE	-	despacho	PROUVE	EPOQUE forme identique
+12	p	PROUVE	-	p	PROUVE	EPOQUE forme identique
+13	y	PROUVE	-	i	PROUVE	EPOQUE forme identique
+146	Estado	PROUVE	-	estado	PROUVE	EPOQUE forme identique
+15	y	PROUVE	-	i	PROUVE	EPOQUE forme identique
+156	francés	PROUVE	-	frances	PROUVE	EPOQUE forme identique
+17	t	PROUVE	-	t	PROUVE	EPOQUE forme identique
+178	gente	PROUVE	-	gente	PROUVE	EPOQUE forme identique
+186	galera	PROUVE	-	galera	PROUVE	EPOQUE (Galer…, fin illisible) + PAIRES 8/8 (R16-1)
+197	hacer	PROUVE	-	hazer	PROUVE	EPOQUE forme identique
+2	c	PROUVE	-	c	PROUVE	EPOQUE forme identique
+217	Marqués	PROUVE	-	Marques	PROUVE	EPOQUE forme identique
+218	Milán	PROUVE	-	Milan	PROUVE	EPOQUE forme identique
+22	x	PROUVE	-	x	PROUVE	EPOQUE forme identique
+228	navío	PROUVE	-	navio	PROUVE	EPOQUE forme identique
+233	Nápoles	PROUVE	-	Napoles	PROUVE	EPOQUE forme identique
+243	orden	PROUVE	-	orden	PROUVE	EPOQUE forme identique
+260	para que	PROUVE	-	para que	PROUVE	EPOQUE forme identique
+28	ca	PROUVE	-	ca	PROUVE	EPOQUE forme identique
+30	ci	PROUVE	-	ci	PROUVE	EPOQUE forme identique
+31	co	PROUVE	-	co	PROUVE	EPOQUE forme identique
+32	cu	PROUVE	-	cu	PROUVE	EPOQUE forme identique
+34	fe	PROUVE	-	fe	PROUVE	EPOQUE forme identique
+37	fu	PROUVE	-	fu	PROUVE	EPOQUE forme identique
+38	ya	PROUVE	-	ya	PROUVE	EPOQUE forme identique
+3⁸	3	PROUVE	-	3	PROUVE	EPOQUE Numeros (8 au-dessus)
+43	ma	PROUVE	-	ma	PROUVE	EPOQUE forme identique
+44	me	PROUVE	-	me	PROUVE	EPOQUE forme identique
+45	mi	PROUVE	-	mi	PROUVE	EPOQUE forme identique
+46	mo	PROUVE	-	mo	PROUVE	EPOQUE forme identique
+48	ra	PROUVE	-	ra	PROUVE	EPOQUE forme identique
+49	re	PROUVE	-	re	PROUVE	EPOQUE forme identique
+50	ri	PROUVE	-	ri	PROUVE	EPOQUE forme identique
+51	ro	PROUVE	A	ro	PROUVE	EPOQUE forme identique
+53	ta	PROUVE	-	ta	PROUVE	EPOQUE forme identique
+54	te	PROUVE	-	te	PROUVE	EPOQUE forme identique
+55	ti	PROUVE	-	ti	PROUVE	EPOQUE forme identique
+56	to	PROUVE	-	to	PROUVE	EPOQUE forme identique
+57	tu	PROUVE	-	tu	PROUVE	EPOQUE forme identique
+6	r	PROUVE	-	r	PROUVE	EPOQUE forme identique
+68	que	PROUVE	-	que	PROUVE	EPOQUE forme identique
+69	que	PROUVE	-	que	PROUVE	EPOQUE forme identique
+7	b	PROUVE	-	b	PROUVE	EPOQUE forme identique
+70	que	PROUVE	A2	que	PROUVE	EPOQUE forme identique
+72	de	PROUVE	-	de	PROUVE	EPOQUE forme identique
+77c?	[?]	ABSENT	-	avisa	PROUVE	forme douteuse à la transcription
+78	año	PROUVE	-	año	PROUVE	EPOQUE forme identique
+80	así	PROUVE	-	assi	PROUVE	EPOQUE forme identique
+85	Armada	PROUVE	-	armada	PROUVE	EPOQUE forme identique
+G	a	PROUVE	-	a	PROUVE	EPOQUE+PAIRES (forme incertaine, entrée incertain, r14 PROUVE a)
+L	n	PROUVE	A	n	PROUVE	EPOQUE+PAIRES (forme incertaine, entrée accord_2_releves, r14 PROUVE n)
+Z	n	PROUVE	-	n	PROUVE	EPOQUE+PAIRES (forme incertaine, entrée accord_2_releves, r14 PROUVE n)
+Za	ba	PROUVE	-	va	PROUVE	EPOQUE forme identique
+Ze	be	PROUVE	-	ve	PROUVE	EPOQUE forme identique
+Zi	bi	PROUVE	-	vi	PROUVE	EPOQUE forme identique
+Zo	bo	PROUVE	-	vo	PROUVE	EPOQUE forme identique
+Zu	bu	PROUVE	-	bu	PROUVE	EPOQUE forme identique
+a	d	PROUVE	-	d	PROUVE	EPOQUE forme identique
+an	al	PROUVE	-	al	PROUVE	EPOQUE forme identique
+ar	sa	PROUVE	-	sa	PROUVE	EPOQUE forme identique
+at	ga	PROUVE	-	ga	PROUVE	EPOQUE forme identique
+bis	carta	PROUVE	-	carta	PROUVE	EPOQUE forme identique
+c	o	PROUVE	-	o	PROUVE	EPOQUE forme identique
+d	s	PROUVE	-	s	PROUVE	EPOQUE forme identique
+der	como	PROUVE	-	como	PROUVE	EPOQUE forme identique
+e	l	PROUVE	A,A2	l	PROUVE	EPOQUE forme sûre
+en	el	PROUVE	-	el	PROUVE	EPOQUE forme identique
+er	se	PROUVE	A	se	PROUVE	EPOQUE forme identique
+g	e	PROUVE	A2	e	PROUVE	EPOQUE forme sûre
+h	s	PROUVE	-	s	PROUVE	EPOQUE forme identique
+ir	si	PROUVE	-	si	PROUVE	EPOQUE forme identique
+la	pa	PROUVE	-	pa	PROUVE	EPOQUE forme identique
+le	pe	PROUVE	-	pe	PROUVE	EPOQUE forme identique
+li	pi	PROUVE	-	pi	PROUVE	EPOQUE forme identique
+lo	po	PROUVE	-	po	PROUVE	EPOQUE forme identique
+lu	pu	PROUVE	-	pu	PROUVE	EPOQUE forme identique
+m	b	PROUVE	A	b	PROUVE	EPOQUE forme identique
+mi	[?]	N_ABSENT	-	di	PROUVE	absent de la clé d'époque
+n	h	PROUVE	A2	h	PROUVE	EPOQUE forme identique
+n+	u	PROUVE	-	u	PROUVE	EPOQUE+PAIRES (forme incertaine, entrée accord_2_releves, r14 PROUVE u)
+na	da	PROUVE	-	da	PROUVE	EPOQUE forme identique
+ne	de	PROUVE	-	de	PROUVE	EPOQUE forme identique
+ni	di	PROUVE	-	di	PROUVE	EPOQUE forme identique
+no	do	PROUVE	-	do	PROUVE	EPOQUE forme identique
+or	so	PROUVE	-	so	PROUVE	EPOQUE forme identique
+ot	go	PROUVE	-	go	PROUVE	EPOQUE forme identique
+p	a	PROUVE	-	a	PROUVE	EPOQUE+PAIRES (forme incertaine, entrée accord_2_releves, r14 PROUVE a)
+q	i	PROUVE	A2	i	PROUVE	EPOQUE+PAIRES (forme incertaine, entrée accord_2_releves, r14 PROUVE i)
+t	f	PROUVE	-	f	PROUVE	EPOQUE forme identique
+ult	Car. Albornoz	PROUVE	-	Cardenal Albornoz	PROUVE	EPOQUE forme identique
+ur	su	PROUVE	-	su	PROUVE	EPOQUE forme identique
+v	a	PROUVE	-	a	PROUVE	EPOQUE+PAIRES (forme incertaine, entrée accord_2_releves, r14 PROUVE a)
+x	e	PROUVE	-	e	PROUVE	EPOQUE forme identique
+xa	la	PROUVE	-	la	PROUVE	EPOQUE forme identique
+xe	le	PROUVE	-	le	PROUVE	EPOQUE forme identique
+xi	li	PROUVE	-	li	PROUVE	EPOQUE forme identique
+xo	lo	PROUVE	-	lo	PROUVE	EPOQUE forme identique
+xu	lu	PROUVE	-	lu	PROUVE	EPOQUE forme identique
+y	o	PROUVE	-	o	PROUVE	EPOQUE+PAIRES (forme incertaine, entrée incertain, r14 PROUVE o)
+ɔ	e	PROUVE	-	e	PROUVE	EPOQUE forme sûre
+ε	i	PROUVE	-	i	PROUVE	EPOQUE forme sûre
+144%	Españo	PROUVE	-	españo	PROUVE_1L	EPOQUE forme identique ; finale %
+286	car	HYP	-	car	PROUVE_1L	découpe 28+6 inférée (R15-6)
+3	d	PROUVE	-	d	PROUVE_1L	EPOQUE forme identique
+600⁸	600	PROUVE	-	600	PROUVE_1L	EPOQUE Numeros (8 au-dessus)
+69v	qui	PROUVE	-	qui	PROUVE_1L	EPOQUE forme identique ; finale v
+71	de	PROUVE	-	de	PROUVE_1L	EPOQUE forme identique
+J	o	PROUVE	-	o	PROUVE_1L	EPOQUE forme identique
+Jel	resolución	PROUVE	-	resolucion	PROUVE_1L	EPOQUE forme identique
+si?	[?]	ABSENT	-	ro	PROUVE_1L	forme douteuse à la transcription
+ut	gu	PROUVE	-	gu	PROUVE_1L	EPOQUE forme identique
+Ɖ	z	PROUVE	-	z	PROUVE_1L	EPOQUE forme sûre
+ɔ?	[?]	ABSENT	-	e	PROUVE_1L	forme douteuse à la transcription
+101	D. de Saboya	PROUVE	-	Duque de Savoya	HYP	EPOQUE forme identique
+113	daño	PROUVE	-	daño	HYP	EPOQUE forme identique
+117	después	PROUVE	-	despues	HYP	EPOQUE forme identique
+133	efecto	PROUVE	-	efecto	HYP	EPOQUE forme identique
+134	era	PROUVE	-	ere	HYP	EPOQUE forme identique
+136	Enemigo	PROUVE	-	enemigo	HYP	EPOQUE forme identique
+139	ello	PROUVE	-	ello	HYP	EPOQUE forme identique
+13✱	13	N_FORME	-	13	HYP	✱ ≈ Ӿ (forme incertaine) ou correction
+144	España	PROUVE	-	español	HYP	EPOQUE forme identique
+144✗	[?]	N_ABSENT	-	España	HYP	absent de la clé d'époque
+151	fuerte	PROUVE	-	fuerte	HYP	EPOQUE forme identique
+157	francia	PROUVE	-	Francia	HYP	EPOQUE forme identique
+160	fortificación	PROUVE	-	fortificacion	HYP	EPOQUE forme identique
+163	D. Fr.co Melo	PROUVE	-	Don Francisco de Melo	HYP	EPOQUE forme identique
+176	general	PROUVE	-	general	HYP	EPOQUE forme identique
+177	Governador	PROUVE	-	governador	HYP	EPOQUE forme identique
+185	Guerra	PROUVE	-	guerra	HYP	EPOQUE forme identique
+186ʰ	[?]	N_ABSENT	-	galeras	HYP	absent de la clé d'époque
+190	Hombre	PROUVE	-	hombre	HYP	EPOQUE forme identique
+195	hacienda	PROUVE	-	acienda	HYP	EPOQUE forme identique
+196	hecho	PROUVE	-	hecho	HYP	EPOQUE forme identique
+198	haviendo	PROUVE	-	haviendo	HYP	EPOQUE forme identique
+1?	[?]	ABSENT	-	r	HYP	forme douteuse à la transcription
+200⁸	200	PROUVE	-	200	HYP	EPOQUE Numeros (8 au-dessus)
+206	liga	PROUVE	-	Liga	HYP	EPOQUE forme identique
+211	Levante	PROUVE	-	Levante	HYP	EPOQUE forme identique
+219	mucho	PROUVE	-	mucha	HYP	EPOQUE forme identique
+227	mente	PROUVE	-	mente	HYP	EPOQUE forme identique
+229	nueva	PROUVE	-	llanueva	HYP	EPOQUE forme identique
+232	necesidad	PROUVE	-	necesidad	HYP	EPOQUE forme identique
+244	otro	PROUVE	-	otro	HYP	EPOQUE forme identique
+29	ce	PROUVE	-	ce	HYP	EPOQUE forme identique
+297	ceb	HYP	-	hazer	HYP	découpe 29+7 inférée (R15-6)
+300✱	300	N_FORME	-	300	HYP	✱ ≈ Ӿ (forme incertaine) ou correction
+33	fa	PROUVE	-	fa	HYP	EPOQUE forme identique
+36	fo	PROUVE	-	fo	HYP	EPOQUE forme identique
+3✱	3	N_FORME	-	3	HYP	✱ ≈ Ӿ (forme incertaine) ou correction
+41	yo	PROUVE	-	yo	HYP	EPOQUE forme identique
+436	mar	HYP	-	mar	HYP	découpe 43+6 inférée (R15-6)
+44✗	[?]	N_ABSENT	-	me	HYP	absent de la clé d'époque
+44✱?	[?]	ABSENT	-	me	HYP	forme douteuse à la transcription
+47	mu	PROUVE	-	mu	HYP	EPOQUE forme identique
+4⁸	4	PROUVE	-	4	HYP	EPOQUE Numeros (8 au-dessus)
+4✱	4	N_FORME	-	p	HYP	✱ ≈ Ӿ (forme incertaine) ou correction
+500ᴬᴱ	[?]	N_ABSENT	-	500	HYP	absent de la clé d'époque
+500⁸	500	PROUVE	-	500	HYP	EPOQUE Numeros (8 au-dessus)
+51●	[?]	N_ABSENT	-	ro	HYP	absent de la clé d'époque
+576	tur	HYP	-	Tur	HYP	découpe 57+6 inférée (R15-6)
+586	char	HYP	-	char	HYP	découpe 58+6 inférée (R15-6)
+60	chi	PROUVE	-	ch	HYP	EPOQUE forme identique
+70v	qui	PROUVE	-	qui	HYP	EPOQUE forme identique ; finale v
+77c	avisa	N_FORME	-	avia	HYP	c ≈ ‹ incertain
+7⁸	7	PROUVE	-	siete	HYP	EPOQUE Numeros (8 au-dessus)
+8	i	PROUVE	-	i	HYP	EPOQUE forme identique
+88	allá	PROUVE	-	alla	HYP	EPOQUE forme identique
+8✱?	[?]	ABSENT	-	ci	HYP	forme douteuse à la transcription
+92	Alemania	PROUVE	-	Aleman	HYP	EPOQUE forme identique
+97	bien	PROUVE	-	bien	HYP	EPOQUE forme identique
+98	bueno	PROUVE	-	bueno	HYP	EPOQUE forme identique
+B	h	PROUVE	C	h	HYP	EPOQUE forme identique ; R17-3 B en main C = h (retrait C de mains_N) ; r17b : R17-3 suspendue (forme ß, réserve du vérificateur) -> C en mains_N
+G?	[?]	ABSENT	-	a	HYP	forme douteuse à la transcription
+Helo	[?]	N_ABSENT	-	helo	HYP	absent de la clé d'époque
+I̲	Italia	N_FORME	-	Italia	HYP	forme incertaine / entrée accord_2_releves, non confirmée par r14 PROUVE
+L?	[?]	ABSENT	-	empo	HYP	forme douteuse à la transcription
+Lˣᵒ	[?]	N_ABSENT	-	no	HYP	absent de la clé d'époque
+Zue?	[?]	ABSENT	-	no	HYP	forme douteuse à la transcription
+Z̈	n	N_FORME	-	n	HYP	forme incertaine / entrée accord_2_releves, non confirmée par r14 PROUVE
+ban	Cardenal	PROUVE	-	Cardenal	HYP	EPOQUE forme identique
+bla	D. Car. Coloma	PROUVE	-	Carlos Coloma	HYP	EPOQUE forme identique
+cro‹	Camina	PROUVE	-	camina	HYP	EPOQUE forme identique ; finale ‹
+del	[?]	N_ABSENT	-	vos	HYP	absent de la clé d'époque
+d§	ss	PROUVE	-	s	HYP	EPOQUE forme identique ; § = Duplices
+dᴵ	s	PROUVE	-	s	HYP	EPOQUE forme identique ; suscrit T/I nul
+e1h̲?	[?]	ABSENT	-	ynfantes	HYP	forme douteuse à la transcription
+e̲	Infanta	N_FORME	-	infante	HYP	forme incertaine / entrée accord_2_releves, non confirmée par r14 PROUVE
+eᴵ	l	PROUVE	-	l	HYP	EPOQUE forme sûre ; suscrit T/I nul
+fen	conveniente	PROUVE	-	conbiniente	HYP	EPOQUE forme identique
+fli	conformidad	PROUVE	-	conformidad	HYP	EPOQUE forme identique
+flo	cuydado	PROUVE	-	cuydado	HYP	EPOQUE forme identique
+flo✗	[?]	N_ABSENT	-	cuydado	HYP	absent de la clé d'époque
+gre	Campo	PROUVE	-	campo	HYP	EPOQUE forme identique
+gˡᵒ	[?]	N_ABSENT	-	cuydado	HYP	absent de la clé d'époque
+hac	quanto	PROUVE	-	quanto	HYP	EPOQUE forme identique
+he	[?]	N_ABSENT	-	be	HYP	absent de la clé d'époque
+hic	qualquier	PROUVE	-	qualquiera	HYP	EPOQUE forme identique
+h§	ss	PROUVE	-	es	HYP	EPOQUE forme identique ; § = Duplices
+lio?	[?]	ABSENT	-	li	HYP	forme douteuse à la transcription
+men	socorro	PROUVE	-	socorro	HYP	EPOQUE forme identique
+menv	socorri	PROUVE	-	socorri	HYP	EPOQUE forme identique ; finale v
+non?	[?]	ABSENT	-	ol	HYP	forme douteuse à la transcription
+no₊	[?]	N_ABSENT	-	do	HYP	absent de la clé d'époque
+n✝	[?]	N_ABSENT	-	h	HYP	absent de la clé d'époque
+ons	brevedad	PROUVE	-	brevedad	HYP	EPOQUE forme identique
+or̲	[?]	N_ABSENT	-	infante	HYP	absent de la clé d'époque
+ovᵀ	[?]	N_ABSENT	-	conde	HYP	absent de la clé d'époque ; suscrit T/I nul
+o̲	Junta	PROUVE	-	junta	HYP	EPOQUE forme sûre
+p?	[?]	ABSENT	-	a	HYP	forme douteuse à la transcription
+pax	también	PROUVE	-	tanbien	HYP	EPOQUE forme identique
+pᵀ	a	PROUVE	-	a	HYP	EPOQUE+PAIRES (forme incertaine, entrée accord_2_releves, r14 PROUVE a) ; suscrit T/I nul
+qᴵ	i	PROUVE	-	i	HYP	EPOQUE+PAIRES (forme incertaine, entrée accord_2_releves, r14 PROUVE i) ; suscrit T/I nul
+re	fen	PROUVE	-	fen	HYP	EPOQUE forme identique
+s?	[?]	ABSENT	-	c	HYP	forme douteuse à la transcription
+ta	[?]	N_ABSENT	-	pa	HYP	absent de la clé d'époque
+tac	Voluntad	PROUVE	-	boluntad	HYP	EPOQUE forme identique
+to?	[?]	ABSENT	-	m	HYP	forme douteuse à la transcription
+tt?	[?]	ABSENT	-	l	HYP	forme douteuse à la transcription
+tu	[?]	N_ABSENT	-	gu	HYP	absent de la clé d'époque
+ve	[?]	N_ABSENT	-	fen	HYP	absent de la clé d'époque
+xaᴵ	la	PROUVE	-	la	HYP	EPOQUE forme identique ; suscrit T/I nul
+yˣᵒ	[?]	N_ABSENT	-	lo	HYP	absent de la clé d'époque
+y‡	[?]	N_ABSENT	-	o	HYP	absent de la clé d'époque
+ç	[?]	N_ABSENT	-	c	HYP	absent de la clé d'époque
+ço	[?]	N_ABSENT	-	ri	HYP	absent de la clé d'époque
+Ɛ?	[?]	ABSENT	-	f	HYP	forme douteuse à la transcription
+ʒ	c	N_FORME	-	c	HYP	forme incertaine / entrée accord_2_releves, non confirmée par r14 PROUVE
+ʒ4	[?]	N_ABSENT	-	te	HYP	absent de la clé d'époque
+ʒ4?	[?]	ABSENT	-	nte	HYP	forme douteuse à la transcription
+ʒ?	[?]	ABSENT	-	que	HYP	forme douteuse à la transcription
+∆	g	PROUVE	-	g	HYP	EPOQUE forme sûre
+ƒ	u	N_FORME	-	u|a|o	DOUBLE	forme incertaine / entrée accord_2_releves, non confirmée par r14 PROUVE
+10	m	PROUVE	-	n|m|mp	CONTRADICTION	EPOQUE forme identique
+14	?	N_FORME	-	i|jo|x	CONTRADICTION	en-tête colonne illisible
+et	ge	PROUVE	-	ge|gi|je	CONTRADICTION	EPOQUE forme identique
+g?	[?]	ABSENT	-	e|i|a	CONTRADICTION	forme douteuse à la transcription
+26	ob	PROUVE	-	ar|r	HYP_CONTRA	EPOQUE forme identique
+4	g	PROUVE	-	f|quatro?	HYP_CONTRA	EPOQUE forme identique
+63	xar	PROUVE	-	ja|xa	HYP_CONTRA	EPOQUE forme identique
+6§	rr	PROUVE	-	r|rr	HYP_CONTRA	EPOQUE forme identique ; § = Duplices
+ilt	Conde de Monterrey	PROUVE	-	conde de Monterrey|de Monterrey	HYP_CONTRA	EPOQUE forme identique
+nal	tanto	PROUVE	-	an|tanto	HYP_CONTRA	EPOQUE forme identique
+pin	Villa	PROUVE	-	Villa|vi	HYP_CONTRA	EPOQUE forme identique
+ss	[?]	N_ABSENT	-	b|ti	HYP_CONTRA	absent de la clé d'époque
+ʃ?	[?]	ABSENT	-	v|c|ca|u	HYP_CONTRA	forme douteuse à la transcription
+ↄ	e	PROUVE	-	-	-	EPOQUE forme identique
+0	e	PROUVE	-	-	-	EPOQUE forme identique
+Є	f	PROUVE	-	-	-	EPOQUE forme identique
+Δ	g	PROUVE	-	-	-	EPOQUE forme identique
+tt	l	PROUVE	-	-	-	EPOQUE forme sûre
+℮	l	PROUVE	-	-	-	EPOQUE forme identique
+ff	m	PROUVE	-	-	-	EPOQUE forme identique
+11	q	PROUVE	-	-	-	EPOQUE forme identique
+K	q	PROUVE	-	-	-	EPOQUE forme identique
+18	t	PROUVE	-	-	-	EPOQUE forme identique
+19	u	PROUVE	-	-	-	EPOQUE forme identique
+20	u	PROUVE	-	-	-	EPOQUE forme identique
+21	x	PROUVE	-	-	-	EPOQUE forme identique
+Đ	z	PROUVE	-	-	-	EPOQUE forme identique
+Ꝗ	z	PROUVE	-	-	-	EPOQUE forme identique
+16	j	HYP	-	-	-	R19-3 non attesté (en-tête col. 14/16 illisible ; 16 absent des paires pré-D.215) : HYP
+23	ab	PROUVE	-	-	-	EPOQUE forme identique
+24	eb	PROUVE	-	-	-	EPOQUE forme identique
+25	ib	PROUVE	-	-	-	EPOQUE forme identique
+27	ub	PROUVE	-	-	-	EPOQUE forme identique
+nu	du	PROUVE	-	-	-	EPOQUE forme identique
+35	fi	PROUVE	-	-	-	EPOQUE forme identique
+it	gi	PROUVE	-	-	-	EPOQUE forme identique
+39	ye	PROUVE	-	-	-	EPOQUE forme identique
+40	yi	PROUVE	-	-	-	EPOQUE forme identique
+42	yu	PROUVE	-	-	-	EPOQUE forme identique
+52	ru	PROUVE	-	-	-	EPOQUE forme identique
+in	il	PROUVE	-	-	-	EPOQUE forme identique
+on	ol	PROUVE	-	-	-	EPOQUE forme identique
+un	ul	PROUVE	-	-	-	EPOQUE forme identique
+58	cha	PROUVE	-	-	-	EPOQUE forme identique
+59	che	PROUVE	-	-	-	EPOQUE forme identique
+61	cho	PROUVE	-	-	-	EPOQUE forme identique
+62	chu	PROUVE	-	-	-	EPOQUE forme identique
+ra	fan	PROUVE	-	-	-	EPOQUE forme identique
+ri	fin	PROUVE	-	-	-	EPOQUE forme identique
+ro	fon	PROUVE	-	-	-	EPOQUE forme identique
+ru	fun	PROUVE	-	-	-	EPOQUE forme identique
+64	xer	PROUVE	-	-	-	EPOQUE forme identique
+65	xir	PROUVE	-	-	-	EPOQUE forme identique
+66	xor	PROUVE	-	-	-	EPOQUE forme identique
+67	xur	PROUVE	-	-	-	EPOQUE forme identique
+ac	tar	PROUVE	-	-	-	EPOQUE forme identique
+ec	ter	PROUVE	-	-	-	EPOQUE forme identique
+ic	tir	PROUVE	-	-	-	EPOQUE forme identique
+oc	tor	PROUVE	-	-	-	EPOQUE forme identique
+uc	tur	PROUVE	-	-	-	EPOQUE forme identique
+<	a	PROUVE	-	-	-	EPOQUE forme identique
+∧	e	PROUVE	-	-	-	EPOQUE forme identique
+∨	i	PROUVE	-	-	-	EPOQUE forme identique
+%	o	PROUVE	-	-	-	EPOQUE forme identique
+:	u	PROUVE	-	-	-	EPOQUE forme identique
+8̶	100	PROUVE	-	-	-	EPOQUE forme identique
+Ӿ	200	PROUVE	-	-	-	EPOQUE forme identique
+ơ	DUPL	PROUVE	-	-	-	EPOQUE forme identique
+ꞩ	DUPL	PROUVE	-	-	-	EPOQUE forme identique
+T	∅	PROUVE	-	-	-	EPOQUE nulle
+I	∅	PROUVE	-	-	-	EPOQUE nulle
+&	∅	PROUVE	-	-	-	EPOQUE nulle
+73	Archiduque	PROUVE	-	-	-	EPOQUE forme identique
+74	Audiencia	PROUVE	-	-	-	EPOQUE forme identique
+75	aunque	PROUVE	-	-	-	EPOQUE forme identique
+76	antes	PROUVE	-	-	-	EPOQUE forme identique
+77	aviso	PROUVE	-	-	-	EPOQUE forme identique
+79	año pasado	PROUVE	-	-	-	EPOQUE forme identique
+81	asistencia	PROUVE	-	-	-	EPOQUE forme identique
+82	Artillería	PROUVE	-	-	-	EPOQUE forme identique
+83	apariencia	PROUVE	-	-	-	EPOQUE forme identique
+84	avisando	PROUVE	-	-	-	EPOQUE forme identique
+86	aquello	PROUVE	-	-	-	EPOQUE forme identique
+87	amigo	PROUVE	-	-	-	EPOQUE forme identique
+89	alguno	PROUVE	-	-	-	EPOQUE forme identique
+90	adelante	PROUVE	-	-	-	EPOQUE forme identique
+91	advertencia	PROUVE	-	-	-	EPOQUE forme identique
+93	amistad	PROUVE	-	-	-	EPOQUE forme identique
+94	Argel	PROUVE	-	-	-	EPOQUE forme identique
+95	Batalla	PROUVE	-	-	-	EPOQUE forme identique
+96	beneficio	PROUVE	-	-	-	EPOQUE forme identique
+99	Baxa	PROUVE	-	-	-	EPOQUE forme identique
+ans	Barcelona	PROUVE	-	-	-	EPOQUE forme identique
+ens	Baxel	PROUVE	-	-	-	EPOQUE forme identique
+ins	Borgoña	PROUVE	-	-	-	EPOQUE forme identique
+uns	berbería	PROUVE	-	-	-	EPOQUE forme identique
+art	Bruselas	PROUVE	-	-	-	EPOQUE forme identique
+ert	bondad	PROUVE	-	-	-	EPOQUE forme identique
+irt	Baviera	PROUVE	-	-	-	EPOQUE forme identique
+ort	Brandemburg	PROUVE	-	-	-	EPOQUE forme identique
+urt	Brabante	PROUVE	-	-	-	EPOQUE forme identique
+alt	Conde Duque	PROUVE	-	-	-	EPOQUE forme identique
+elt	Conde de Oñate	PROUVE	-	-	-	EPOQUE forme identique
+olt	Car. Borja	PROUVE	-	-	-	EPOQUE forme identique
+ble	D. Christoval Benavente	PROUVE	-	-	-	EPOQUE forme identique
+bli	Conde de la Roca	PROUVE	-	-	-	EPOQUE forme identique
+blo	Conde Enrique	PROUVE	-	-	-	EPOQUE forme identique
+blu	Conde Palatino	PROUVE	-	-	-	EPOQUE forme identique
+bas	Condestable	PROUVE	-	-	-	EPOQUE forme identique
+bes	Capítulo	PROUVE	-	-	-	EPOQUE forme identique
+bos	Capitán	PROUVE	-	-	-	EPOQUE forme identique
+bus	Cathólico	PROUVE	-	-	-	EPOQUE forme identique
+ben	Christo	PROUVE	-	-	-	EPOQUE forme identique
+bin	Cavallería	PROUVE	-	-	-	EPOQUE forme identique
+bon	Cavallo	PROUVE	-	-	-	EPOQUE forme identique
+bun	Castellano	PROUVE	-	-	-	EPOQUE forme identique
+cra	Conde	PROUVE	-	-	-	EPOQUE forme identique
+cre	Castillo	PROUVE	-	-	-	EPOQUE forme identique
+cri	Casamiento	PROUVE	-	-	-	EPOQUE forme identique
+cro	Camino	PROUVE	-	-	-	EPOQUE forme identique
+cru	Cavallero	PROUVE	-	-	-	EPOQUE forme identique
+cla	constancia	PROUVE	-	-	-	EPOQUE forme identique
+cle	consentimiento	PROUVE	-	-	-	EPOQUE forme identique
+cli	Christiandad	PROUVE	-	-	-	EPOQUE forme identique
+clo	Ciudad	PROUVE	-	-	-	EPOQUE forme identique
+clu	correspondencia	PROUVE	-	-	-	EPOQUE forme identique
+dar	comisión	PROUVE	-	-	-	EPOQUE forme identique
+dir	cumplimiento	PROUVE	-	-	-	EPOQUE forme identique
+dor	compañía	PROUVE	-	-	-	EPOQUE forme identique
+dur	concierto	PROUVE	-	-	-	EPOQUE forme identique
+das	consideración	PROUVE	-	-	-	EPOQUE forme identique
+des	Conclave	PROUVE	-	-	-	EPOQUE forme identique
+dis	confederación	PROUVE	-	-	-	EPOQUE forme identique
+dos	confianza	PROUVE	-	-	-	EPOQUE forme identique
+dus	conducción	PROUVE	-	-	-	EPOQUE forme identique
+fla	consejo	PROUVE	-	-	-	EPOQUE forme identique
+fle	confusión	PROUVE	-	-	-	EPOQUE forme identique
+flu	confidente	PROUVE	-	-	-	EPOQUE forme identique
+fan	conviene	PROUVE	-	-	-	EPOQUE forme identique
+fin	creencia	PROUVE	-	-	-	EPOQUE forme identique
+fon	castigo	PROUVE	-	-	-	EPOQUE forme identique
+fun	crédito	PROUVE	-	-	-	EPOQUE forme identique
+gra	criado	PROUVE	-	-	-	EPOQUE forme identique
+gri	común	PROUVE	-	-	-	EPOQUE forme identique
+gro	costa	PROUVE	-	-	-	EPOQUE forme identique
+gru	Duque de Florencia	PROUVE	-	-	-	EPOQUE forme identique
+gla	Duque de Nibers	PROUVE	-	-	-	EPOQUE forme identique
+gle	Duque de Bav[ie]ra	PROUVE	-	-	-	EPOQUE forme identique
+gli	D. de Roan	PROUVE	-	-	-	EPOQUE forme identique
+glo	D. de Guisa	PROUVE	-	-	-	EPOQUE forme identique
+glu	D. de Lorena	PROUVE	-	-	-	EPOQUE forme identique
+100	D. de Módena	PROUVE	-	-	-	EPOQUE forme identique
+102	D. de Urbino	PROUVE	-	-	-	EPOQUE forme identique
+103	D. de Mantua	PROUVE	-	-	-	EPOQUE forme identique
+104	D. de Parma	PROUVE	-	-	-	EPOQUE forme identique
+105	D. de Alcalá	PROUVE	-	-	-	EPOQUE forme identique
+106	disgusto	PROUVE	-	-	-	EPOQUE forme identique
+107	desengaño	PROUVE	-	-	-	EPOQUE forme identique
+108	desconfianza	PROUVE	-	-	-	EPOQUE forme identique
+110	Dios	PROUVE	-	-	-	EPOQUE forme identique
+111	diligencia	PROUVE	-	-	-	EPOQUE forme identique
+112	dilación	PROUVE	-	-	-	EPOQUE forme identique
+114	demostración	PROUVE	-	-	-	EPOQUE forme identique
+115	descuydo	PROUVE	-	-	-	EPOQUE forme identique
+118	disimulación	PROUVE	-	-	-	EPOQUE forme identique
+119	ducado	PROUVE	-	-	-	EPOQUE forme identique
+120	discurso	PROUVE	-	-	-	EPOQUE forme identique
+121	dificultad	PROUVE	-	-	-	EPOQUE forme identique
+122	dicho	PROUVE	-	-	-	EPOQUE forme identique
+123	disimular	PROUVE	-	-	-	EPOQUE forme identique
+124	diversión	PROUVE	-	-	-	EPOQUE forme identique
+125	Dunquerque	PROUVE	-	-	-	EPOQUE forme identique
+126	Dinamarca	PROUVE	-	-	-	EPOQUE forme identique
+127	Dieta	PROUVE	-	-	-	EPOQUE forme identique
+128	Embaxador	PROUVE	-	-	-	EPOQUE forme identique
+129	Embaxada	PROUVE	-	-	-	EPOQUE forme identique
+130	Empresa	PROUVE	-	-	-	EPOQUE forme identique
+131	elección	PROUVE	-	-	-	EPOQUE forme identique
+132	electo	PROUVE	-	-	-	EPOQUE forme identique
+135	Emperador	PROUVE	-	-	-	EPOQUE forme identique
+137	Enemistad	PROUVE	-	-	-	EPOQUE forme identique
+138	Execución	PROUVE	-	-	-	EPOQUE forme identique
+140	Engaño	PROUVE	-	-	-	EPOQUE forme identique
+141	Esguízaros	PROUVE	-	-	-	EPOQUE forme identique
+142	Esfuerzo	PROUVE	-	-	-	EPOQUE forme identique
+143	escudo	PROUVE	-	-	-	EPOQUE forme identique
+145	espera	PROUVE	-	-	-	EPOQUE forme identique
+147	Exército	PROUVE	-	-	-	EPOQUE forme identique
+148	Experiencia	PROUVE	-	-	-	EPOQUE forme identique
+149	Estimación	PROUVE	-	-	-	EPOQUE forme identique
+150	forma	PROUVE	-	-	-	EPOQUE forme identique
+152	flota	PROUVE	-	-	-	EPOQUE forme identique
+153	facultad	PROUVE	-	-	-	EPOQUE forme identique
+154	flandes	PROUVE	-	-	-	EPOQUE forme identique
+155	flamenco	PROUVE	-	-	-	EPOQUE forme identique
+158	flaqueza	PROUVE	-	-	-	EPOQUE forme identique
+159	favorecer	PROUVE	-	-	-	EPOQUE forme identique
+161	frontera	PROUVE	-	-	-	EPOQUE forme identique
+162	fortuna	PROUVE	-	-	-	EPOQUE forme identique
+164	ferrara	PROUVE	-	-	-	EPOQUE forme identique
+165	florencia	PROUVE	-	-	-	EPOQUE forme identique
+166	fábrica	PROUVE	-	-	-	EPOQUE forme identique
+167	favor	PROUVE	-	-	-	EPOQUE forme identique
+168	fundamento	PROUVE	-	-	-	EPOQUE forme identique
+169	firmeza	PROUVE	-	-	-	EPOQUE forme identique
+170	frisia	PROUVE	-	-	-	EPOQUE forme identique
+171	fregelingas	PROUVE	-	-	-	EPOQUE forme identique
+172	forzoso	PROUVE	-	-	-	EPOQUE forme identique
+173	fomentar	PROUVE	-	-	-	EPOQUE forme identique
+174	D. G.o de Córdova	PROUVE	-	-	-	EPOQUE forme identique
+175	gracia	PROUVE	-	-	-	EPOQUE forme identique
+179	gasto	PROUVE	-	-	-	EPOQUE forme identique
+180	Ginebra	PROUVE	-	-	-	EPOQUE forme identique
+181	Génova	PROUVE	-	-	-	EPOQUE forme identique
+182	Grisones	PROUVE	-	-	-	EPOQUE forme identique
+183	Govierno	PROUVE	-	-	-	EPOQUE forme identique
+184	Ginoveses	PROUVE	-	-	-	EPOQUE forme identique
+187	Galeón	PROUVE	-	-	-	EPOQUE forme identique
+188	Gueldres	PROUVE	-	-	-	EPOQUE forme identique
+189	Giena	PROUVE	-	-	-	EPOQUE forme identique
+191	hermano	PROUVE	-	-	-	EPOQUE forme identique
+192	Hijo	PROUVE	-	-	-	EPOQUE forme identique
+193	Hereje	PROUVE	-	-	-	EPOQUE forme identique
+194	honra	PROUVE	-	-	-	EPOQUE forme identique
+199	hallado	PROUVE	-	-	-	EPOQUE forme identique
+200	Instrumento	PROUVE	-	-	-	EPOQUE forme identique
+201	Instancia	PROUVE	-	-	-	EPOQUE forme identique
+202	Londres	PROUVE	-	-	-	EPOQUE forme identique
+203	Lombardía	PROUVE	-	-	-	EPOQUE forme identique
+204	libertad	PROUVE	-	-	-	EPOQUE forme identique
+205	lugar	PROUVE	-	-	-	EPOQUE forme identique
+207	legado	PROUVE	-	-	-	EPOQUE forme identique
+208	licencia	PROUVE	-	-	-	EPOQUE forme identique
+209	luego	PROUVE	-	-	-	EPOQUE forme identique
+210	Lorena	PROUVE	-	-	-	EPOQUE forme identique
+212	M.s de S.ta Cruz	PROUVE	-	-	-	EPOQUE forme identique
+213	M.s de Leganés	PROUVE	-	-	-	EPOQUE forme identique
+214	M.s de Aytona	PROUVE	-	-	-	EPOQUE forme identique
+215	M.s de Castel R.o	PROUVE	-	-	-	EPOQUE forme identique
+216	M.s de Castañ.da	PROUVE	-	-	-	EPOQUE forme identique
+220	muy	PROUVE	-	-	-	EPOQUE forme identique
+221	merced	PROUVE	-	-	-	EPOQUE forme identique
+222	Mecina	PROUVE	-	-	-	EPOQUE forme identique
+223	muestra	PROUVE	-	-	-	EPOQUE forme identique
+224	mudanza	PROUVE	-	-	-	EPOQUE forme identique
+225	monte	PROUVE	-	-	-	EPOQUE forme identique
+226	ministro	PROUVE	-	-	-	EPOQUE forme identique
+230	ninguno	PROUVE	-	-	-	EPOQUE forme identique
+231	necesario	PROUVE	-	-	-	EPOQUE forme identique
+234	Nuncio	PROUVE	-	-	-	EPOQUE forme identique
+235	nuestro	PROUVE	-	-	-	EPOQUE forme identique
+236	negocio	PROUVE	-	-	-	EPOQUE forme identique
+237	negociación	PROUVE	-	-	-	EPOQUE forme identique
+238	nación	PROUVE	-	-	-	EPOQUE forme identique
+239	natural	PROUVE	-	-	-	EPOQUE forme identique
+240	novedad	PROUVE	-	-	-	EPOQUE forme identique
+241	obligación	PROUVE	-	-	-	EPOQUE forme identique
+242	oficio	PROUVE	-	-	-	EPOQUE forme identique
+245	ofrecimiento	PROUVE	-	-	-	EPOQUE forme identique
+246	ocasión	PROUVE	-	-	-	EPOQUE forme identique
+247	opinión	PROUVE	-	-	-	EPOQUE forme identique
+248	ofender	PROUVE	-	-	-	EPOQUE forme identique
+249	ofrecer	PROUVE	-	-	-	EPOQUE forme identique
+250	Olanda	PROUVE	-	-	-	EPOQUE forme identique
+251	Olandés	PROUVE	-	-	-	EPOQUE forme identique
+252	obra	PROUVE	-	-	-	EPOQUE forme identique
+253	ocupación	PROUVE	-	-	-	EPOQUE forme identique
+254	Pr.e de Orange	PROUVE	-	-	-	EPOQUE forme identique
+255	Príncipe	PROUVE	-	-	-	EPOQUE forme identique
+256	persona	PROUVE	-	-	-	EPOQUE forme identique
+257	pal	PROUVE	-	-	-	EPOQUE forme identique
+258	Palermo	PROUVE	-	-	-	EPOQUE forme identique
+259	Papa	PROUVE	-	-	-	EPOQUE forme identique
+261	Puerto	PROUVE	-	-	-	EPOQUE forme identique
+262	prudencia	PROUVE	-	-	-	EPOQUE forme identique
+263	propósito	PROUVE	-	-	-	EPOQUE forme identique
+264	prevenir	PROUVE	-	-	-	EPOQUE forme identique
+265	procurar	PROUVE	-	-	-	EPOQUE forme identique
+266	precedencia	PROUVE	-	-	-	EPOQUE forme identique
+267	Potentado	PROUVE	-	-	-	EPOQUE forme identique
+268	posible	PROUVE	-	-	-	EPOQUE forme identique
+269	Pontífice	PROUVE	-	-	-	EPOQUE forme identique
+270	poder	PROUVE	-	-	-	EPOQUE forme identique
+271	Pontificado	PROUVE	-	-	-	EPOQUE forme identique
+272	Plático	PROUVE	-	-	-	EPOQUE forme identique
+273	Piemonte	PROUVE	-	-	-	EPOQUE forme identique
+274	particular	PROUVE	-	-	-	EPOQUE forme identique
+275	pues	PROUVE	-	-	-	EPOQUE forme identique
+276	provincia	PROUVE	-	-	-	EPOQUE forme identique
+277	propósito	PROUVE	-	-	-	EPOQUE forme identique
+hec	qual	PROUVE	-	-	-	EPOQUE forme identique
+hoc	quando	PROUVE	-	-	-	EPOQUE forme identique
+huc	quenta	PROUVE	-	-	-	EPOQUE forme identique
+ham	Rey	PROUVE	-	-	-	EPOQUE forme identique
+hem	Rey de España	PROUVE	-	-	-	EPOQUE forme identique
+him	Rey de Romanos	PROUVE	-	-	-	EPOQUE forme identique
+hom	Rey de Bohemia	PROUVE	-	-	-	EPOQUE forme identique
+hum	Rey de Francia	PROUVE	-	-	-	EPOQUE forme identique
+Jas	Rey de Inglaterra	PROUVE	-	-	-	EPOQUE forme identique
+Jes	Reyna	PROUVE	-	-	-	EPOQUE forme identique
+Jis	Roma	PROUVE	-	-	-	EPOQUE forme identique
+Jos	República	PROUVE	-	-	-	EPOQUE forme identique
+Jus	respuesta	PROUVE	-	-	-	EPOQUE forme identique
+Jal	rompimiento	PROUVE	-	-	-	EPOQUE forme identique
+Jil	relación	PROUVE	-	-	-	EPOQUE forme identique
+Jol	remedio	PROUVE	-	-	-	EPOQUE forme identique
+Jul	religión	PROUVE	-	-	-	EPOQUE forme identique
+lac	recompensa	PROUVE	-	-	-	EPOQUE forme identique
+lec	razón	PROUVE	-	-	-	EPOQUE forme identique
+lic	rebelde	PROUVE	-	-	-	EPOQUE forme identique
+loc	su Santidad	PROUVE	-	-	-	EPOQUE forme identique
+luc	su Beatitud	PROUVE	-	-	-	EPOQUE forme identique
+lam	su Magestad	PROUVE	-	-	-	EPOQUE forme identique
+lem	su Alteza	PROUVE	-	-	-	EPOQUE forme identique
+lim	sede Apostólica	PROUVE	-	-	-	EPOQUE forme identique
+lom	successo	PROUVE	-	-	-	EPOQUE forme identique
+lum	sospecha	PROUVE	-	-	-	EPOQUE forme identique
+man	soldado	PROUVE	-	-	-	EPOQUE forme identique
+min	siempre	PROUVE	-	-	-	EPOQUE forme identique
+mon	servicio	PROUVE	-	-	-	EPOQUE forme identique
+mun	Saboya	PROUVE	-	-	-	EPOQUE forme identique
+mah	Sicilia	PROUVE	-	-	-	EPOQUE forme identique
+meh	suspensión	PROUVE	-	-	-	EPOQUE forme identique
+mih	Señor	PROUVE	-	-	-	EPOQUE forme identique
+moh	seguridad	PROUVE	-	-	-	EPOQUE forme identique
+muh	secreto	PROUVE	-	-	-	EPOQUE forme identique
+nay	satisfacción	PROUVE	-	-	-	EPOQUE forme identique
+ney	secretario	PROUVE	-	-	-	EPOQUE forme identique
+niy	satisfecho	PROUVE	-	-	-	EPOQUE forme identique
+noy	sobre	PROUVE	-	-	-	EPOQUE forme identique
+nuy	sede vacante	PROUVE	-	-	-	EPOQUE forme identique
+nel	tener	PROUVE	-	-	-	EPOQUE forme identique
+nil	tiempo	PROUVE	-	-	-	EPOQUE forme identique
+nol	tampoco	PROUVE	-	-	-	EPOQUE forme identique
+nul	término	PROUVE	-	-	-	EPOQUE forme identique
+pex	tregua	PROUVE	-	-	-	EPOQUE forme identique
+pix	trauasso	PROUVE	-	-	-	EPOQUE forme identique
+pox	trato	PROUVE	-	-	-	EPOQUE forme identique
+pux	Turco	PROUVE	-	-	-	EPOQUE forme identique
+pan	tenga	PROUVE	-	-	-	EPOQUE forme identique
+pen	teniendo	PROUVE	-	-	-	EPOQUE forme identique
+pon	Virrey	PROUVE	-	-	-	EPOQUE forme identique
+pun	V. Mag.d	PROUVE	-	-	-	EPOQUE forme identique
+sam	V. Alteza	PROUVE	-	-	-	EPOQUE forme identique
+sem	V. Ex.a	PROUVE	-	-	-	EPOQUE forme identique
+sim	V. S. I.	PROUVE	-	-	-	EPOQUE forme identique
+som	V. S.	PROUVE	-	-	-	EPOQUE forme identique
+sum	V. Em.a	PROUVE	-	-	-	EPOQUE forme identique
+sal	V.m	PROUVE	-	-	-	EPOQUE forme identique
+sel	Vos	PROUVE	-	-	-	EPOQUE forme identique
+sil	Valor	PROUVE	-	-	-	EPOQUE forme identique
+sol	V.ra	PROUVE	-	-	-	EPOQUE forme identique
+sul	Ungría	PROUVE	-	-	-	EPOQUE forme identique
+tar	Vassallo	PROUVE	-	-	-	EPOQUE forme identique
+ter	Venecia	PROUVE	-	-	-	EPOQUE forme identique
+tir	Victoria	PROUVE	-	-	-	EPOQUE forme identique
+tor	Verdad	PROUVE	-	-	-	EPOQUE forme identique
+tur	Valtolina	PROUVE	-	-	-	EPOQUE forme identique
+tec	Viena	PROUVE	-	-	-	EPOQUE forme identique
+tic	Vista	PROUVE	-	-	-	EPOQUE forme identique
+toc	Vida	PROUVE	-	-	-	EPOQUE forme identique
+tuc	Virtud	PROUVE	-	-	-	EPOQUE forme identique
+ƺ	a	PROUVE	-	-	-	R19-1 clé d'époque col. A 1er homophone (g tête fermée barré) ; remplace R17-1 (u) = erreur de correspondance
+5	c	PROUVE	-	-	-	R17-2 clé d'époque col. C « 5 » sûr (forme identique)
+ʒb	u	PROUVE	-	-	-	R19-2 clé d'époque col. V 1er homophone (tête ouverte) + paire D.172p2↔D.173 4/4 u (ƺ de la transcription r16)

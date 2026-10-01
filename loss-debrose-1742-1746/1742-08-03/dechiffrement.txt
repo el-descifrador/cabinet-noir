@@ -1,0 +1,21 @@
+# Déchiffrement brut signe à signe avec la clé figée (cle/cle_debrais_v24.tsv), SANS arbitrage ni segmentation en mots :
+# · = nulle (6, 9) ; x* = jeton normalisé (6/9 collés retirés : 359 -> 35) ; <mot> = code de nomenclature ou syllabe longue ; {x} = signe absent de la clé ;
+# (x) = jeton douteux à la transcription (« ? », « ~ », alternative a|b : 1re lecture prise) ; (?) = jeton illisible ; [biffé] = jeton biffé (exclu).
+# 84 = u ou v (écrit u) ; 73 = ü (lu u par convention d'époque), 81 = ä (lu « ai »). La lecture arbitrée et la mesure sévère sont dans lecture.md.
+A-L1 | bien
+A-L2 | queles·sentimensp·acifi··ques
+A-L3 | duc·ardinal·preualen·t·
+B-L1 | ilne·serapas·siaise·depa·r
+B-L2 | uenir·aunaco·modement··
+C-L1 | quel·quespr·ouince
+C-L2 | sch·ezuous
+D-L1 | o
+D-L2 | n·tfait·insinuerau·cardin·a
+D-L3 | lqu·iletoittem·sdeprop·oserun
+D-L4 | ·proietdep·acificatione·t
+D-L5 | quellesetoient·pretesain·terpo
+D-L6 | serle··ursbonsofic·es
+E-L1 | lec·ardina·lyauoitre·po
+E-L2 | nduau··ecempres·sement(w)(s)unema·ni
+E-L3 | ereconf·o(r)(r)meauxse·ntimensqu·eu
+E-L4 | ousluyconnoi·sse·z

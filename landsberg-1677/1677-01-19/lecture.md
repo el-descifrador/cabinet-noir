@@ -1,4 +1,4 @@
-# n°79 — Landsberg → Schmidtman, Arnsberg 19 janvier 1677 (LAV NRW W 004 (Msc. VI) Nr. 119, vues 050-053)
+# Résultat n°79 — Landsberg → Schmidtman, Arnsberg 19 janvier 1677 (LAV NRW W 004 (Msc. VI) Nr. 119, vues 050-053)
 
 **Étiquette : première lecture avec clé d'époque retrouvée** (clé du même volume, vue 133). **Confirmé avec réserves** (vérificateur indépendant ; réserve principale : passage court).
 

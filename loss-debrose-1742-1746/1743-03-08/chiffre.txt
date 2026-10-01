@@ -1,0 +1,22 @@
+# Résultat n°90 : Loss -> Debrose, Paris, 8 mars 1743.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 41-42 ; chiffré : v42 g. (8 lignes).
+# Images : vue 41 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0041.jpg ; vue 42 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0042.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# une ligne manuscrite = une ligne ; « ~ » = doute de glyphe léger (voir notes) ; aucune glose interlinéaire visible
+# NOTES (doutes visuels, posés AVANT déchiffrement scripté)
+# L3 G. : capitale à boucle FERMÉE en haut (comme le G de « Général » dans l'adresse v41), différente du S de « Saxe », « S. M. », « Sa » (sans boucle haute) ; la queue du 9 de L2 effleure le haut → G retenu, doute LÉGER [G/S].
+# L4 87~ : petite tache entre 8 et 7 (plus petite que les points séparateurs) → lu 87 ; doute léger [87/8.7].
+# L4 34~ : 2e chiffre à tête fermée, hampe courte, même forme que les 4 de 74 voisin → 4 (F3) ; doute léger [34/39].
+# L6 439 : pas de point net entre 3 et 9 (43.9 ou 439 → 43 après N1 dans les deux cas).
+# L7 74~ : dernier chiffre en partie caché par le trait de marge/pli ; tête fermée → 4 probable ; doute [74/72].
+L1	25.74.34.43.35
+L2	80.6.41.44.20.10.9.74.35.53.17.44.23.9.21.44.37.800.23.53.6.12.43.35
+L3	33.51.40.35.9.G.74.37.74.44.53.24.9.43.20.31.53.9.12.M.35.41.51.25.74.6
+L4	43.41.44.20.10.25.12.6.43.35.87~.34~.50.74.9.33.20.10.41.35.57.6.41.34.75
+L5	75.10.41.17.74.44.25.13.6.20.10.77.32.23.21.72.74.22.84.25.12.13.25.9
+L6	74.33.87.58.50.25.35.41.20.10.439.72.20.44.41.40.44.33.13.9.34.10.21.72
+L7	74.24.32.35.31.44.800.44.20.84.72.25.9.25.84.72.13.6.25.53.72.34.25.74~
+L8	17.44.6.25.25.47

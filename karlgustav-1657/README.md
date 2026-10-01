@@ -3,7 +3,7 @@
 **Niedersächsisches Landesarchiv, Abt. Stade, Rep. 5a Nr. 636 — résultat n°77. Étiquette : « clé cassée par nous à l'aveugle, validée par un original en clair d'époque »**
 (aucune clé, aucune glose, aucun texte parallèle n'a servi au cassage). **Confirmé avec réserves** par un vérificateur indépendant.
 
-| n° | pièce | date | taux (vérificateur, mesure sévère) | réserves | nouveauté |
+| résultat n° | pièce | date | taux (vérificateur, mesure sévère) | réserves | nouveauté |
 |---|---|---|---|---|---|
 | 77 | Rep. 5a Nr. 636, fol. 115r (L2), passages chiffrés, 140 groupes | 04/07/1657 | **85,7 % par groupe / 31,6 % par mot** (transcription à l'aveugle du vérificateur ; 90,0 % / 42,1 % avec ses lectures alternatives notées avant le gel) | **mot < 80 %** (mots du répertoire > 99 non établis) ; 27 et 64 contredits par le sens ; clair de L2 inconnu | A prov. |
 

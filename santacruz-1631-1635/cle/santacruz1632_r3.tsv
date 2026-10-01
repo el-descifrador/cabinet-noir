@@ -1,4 +1,4 @@
-# Clé 1632, version figée r3 (sha256 du fichier d'origine bdd6dcc7…), paires D.66↔D.67, D.68↔D.69, D.70↔D.71 ; sert à D.74 (n°54) et D.75 (n°56).
+# Clé 1632, version figée r3 (sha256 du fichier d'origine bdd6dcc7…), paires D.66↔D.67, D.68↔D.69, D.70↔D.71 ; sert à D.74 (résultat n°54) et D.75 (résultat n°56).
 # Clé reconstruite par nous depuis des paires chiffré / déchiffrement d'époque (AHNOB, SANTA CRUZ, C.51). Licence CC BY 4.0.
 # Statuts : PROUVÉ / PROUVE = ≥ 2 contextes dans ≥ 2 lettres (seul compté compris dans les taux officiels) ; PROUVÉ-1lettre / PROUVE_1L = ≥ 2 contextes dans une lettre ;
 # HYP = 1 contexte ; DOUBLE / CONTRADICTION = signe à deux valeurs (NON compris partout) ; NUL? = nul probable. Contextes = pièce:ligne (et, pour 1634, n° de groupe) + mot du descifrado.

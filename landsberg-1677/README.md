@@ -4,7 +4,7 @@
 (la clé « Dechiffrierschlüssel » est reliée dans le même volume, vue 133 ; nous l'avons repérée, relevée et appliquée ; ce n'est **pas** une clé cassée).
 **Confirmées avec réserves** par deux vérificateurs indépendants (un par lettre).
 
-| n° | pièce | date | taux (vérificateur, mesure sévère) | réserves | nouveauté |
+| résultat n° | pièce | date | taux (vérificateur, mesure sévère) | réserves | nouveauté |
 |---|---|---|---|---|---|
 | 78 | [1677-02-23](1677-02-23/) : vues 110-113, passages chiffrés en 111r et 113r (101 jetons) | 23/02/1677 | **83,2 % par groupe / 62,5 % par mot** (transcription à l'aveugle du vérificateur) ; 78,2 % en variante très stricte | **passage court** ; **mot < 80 %** ; codes 111 et 112 incertains sur la clé ; lectures disputées (47/97, 15/5) | A prov. |
 | 79 | [1677-01-19](1677-01-19/) : vues 050-053, passages chiffrés en 52r et 53r (82 groupes, dont 70 hors mots glosés) | 19/01/1677 | **85,7 % par groupe / 81,2 % par mot** (chiffre prudent, hors les 2 mots glosés d'époque) ; mesure du vérificateur groupe par groupe 97,1 % / 87,5 % | **passage court** (16 mots, dont 5 codes de noms) ; « Neubourq » (q pour g) | A prov. |
@@ -47,8 +47,8 @@ Fichier : [cle/cle_v133.tsv](cle/cle_v133.tsv) (clé figée ; statut de chaque e
 
 ## 3. Lettres
 
-- [1677-01-19/lecture.md](1677-01-19/lecture.md) — n°79 : séquestre des revenus des Fürstenberg, coadjutorerie de Cologne, « Guillaume de Fürstenberg est-il vivant ou mort ? ».
-- [1677-02-23/lecture.md](1677-02-23/lecture.md) — n°78 : démarches à Vienne (Bade, Caplirs/Caprara, de Grana, vice-chancelier d'Empire, Montecuccoli) ; « le prince Guillaume de Fürstenberg est à plaindre ».
+- [1677-01-19/lecture.md](1677-01-19/lecture.md) — résultat n°79 : séquestre des revenus des Fürstenberg, coadjutorerie de Cologne, « Guillaume de Fürstenberg est-il vivant ou mort ? ».
+- [1677-02-23/lecture.md](1677-02-23/lecture.md) — résultat n°78 : démarches à Vienne (Bade, Caplirs/Caprara, de Grana, vice-chancelier d'Empire, Montecuccoli) ; « le prince Guillaume de Fürstenberg est à plaindre ».
 
 Chaque dossier contient `chiffre.txt` (transcription à l'aveugle du vérificateur), `dechiffrement.txt` (décodage brut signe à signe avec la clé figée) et `lecture.md`.
 

@@ -3,7 +3,7 @@
 **BnF, Français 3575, pièce 36, f.56r — résultat n°8. Étiquette : « clé cassée par nous »** (homophone à deux alphabets contigus, 18-39 et 40-61, trouvé par la structure
 des fréquences, sans clé d'époque). **Confirmé avec réserves** par un vérificateur indépendant.
 
-| n° | pièce | date | taux (vérificateur) | réserves | nouveauté |
+| résultat n° | pièce | date | taux (vérificateur) | réserves | nouveauté |
 |---|---|---|---|---|---|
 | 8 | fr 3575 p.36 f.56r (22 lignes, 1 561 chiffres) | fin 1595 - 1596 (non datée) | ≈ 96 % des lettres justes sans retouche ; transcription aveugle 211/212 chiffres ; clé à 2 paramètres pour 44 valeurs, (18, 40) meilleur de 1,25 nat/lettre sur 141 couples testés | « Mondon » non identifié ; date par la place dans le recueil ; fautes du chiffreur | A prov. |
 

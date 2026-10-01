@@ -1,0 +1,22 @@
+# Résultat n°98 : Loss -> Debrose, Paris, 16 août 1743.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 68-70 ; chiffré : v70 d. (6 lignes, main de secrétaire).
+# Images : vue 68 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0068.jpg ; vue 69 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0069.jpg ; vue 70 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0070.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# Graphie de CETTE main (établie sur la page) : 9 (nulle isolée) = longue queue descendante, toujours nette ; 4 = tête ouverte + barre horizontale longue ; aucun 4/9 ambigu → F3 non requis.
+# ? = illisible (tache ou bord) ; {barré:x} = jeton barré (A1) ; 6/9 collés notés tels quels (N1 mécanique)
+# Doutes :
+# D1 L1#19 : jeton entièrement sous tache ; forme visible évoquant « 44 » (préférence visuelle 44, non tranché) → ?
+# D2 L2#22 (dernier) : « 3 » net, second chiffre coupé par le bord de la feuille (amorce compatible 4) → ? ; jetons perdus au-delà du bord possibles (non vérifiable)
+# D3 L3#23 (dernier) « 41 » : complet, touche le bord ; retenu 41
+# D4 L4#19 : « 4 » net puis tache (2e chiffre caché) → ? ; L4#20 : premier chiffre sous la tache (trait 1 ou 7), « 2 » net → ? (préférences 1 2 / 7 2)
+# D5 L6#3 : « 84 » barré d'un trait horizontal (rature du chiffreur, A1 → exclu) ; incertitude : le trait pourrait être la barre prolongée du 4 suivant
+# Bas : rien entre L6 et le clair autographe ; rien au-dessus de L1 (seulement « 2/ » en marge haute gauche). L1, L4, L5, L6 finissent avant le bord.
+L1: 43.35.25.75.6.58.14.31.23.25.42.20.72.25.12.9.25.74.?.25.20.106
+L2: 37.20.10.41.9.84.20.44.72.40.35.33.209.10.25.84.44.41.236.43.20.?
+L3: 51.25.87.57.44.6.75.25.21.84.43.74.72.21.200.74.33.9.71.10.300.10.41
+L4: 40.35.51.25.924.41.72.44.50.44.23.25.13.6.31.20.40.23.?.?.186
+L5: 37.20.44.17.51.25.13.12.25.9.37.72.30.43.20.44.25.35.6.41.500.41
+L6: 41.20.{barré:84}.44.6.20.84.72.25.51.84.9.72.41.72.74.6.200

@@ -1,0 +1,19 @@
+# Déchiffrement brut signe à signe avec la clé figée (cle/cle_debrais_v24.tsv), SANS arbitrage ni segmentation en mots :
+# · = nulle (6, 9) ; x* = jeton normalisé (6/9 collés retirés : 359 -> 35) ; <mot> = code de nomenclature ou syllabe longue ; {x} = signe absent de la clé ;
+# (x) = jeton douteux à la transcription (« ? », « ~ », alternative a|b : 1re lecture prise) ; (?) = jeton illisible ; [biffé] = jeton biffé (exclu).
+# 84 = u ou v (écrit u) ; 73 = ü (lu u par convention d'époque), 81 = ä (lu « ai »). La lecture arbitrée et la mesure sévère sont dans lecture.md.
+S1-L1 | on·y·decouuredessentimens·qu
+S1-L2 | ideuroient·ouurir·lesyeüx
+S1-L3 | au·<le Roy><l'Angleterre>sür·le·sconseilsqu·on
+S1-L4 | luyadonnes·denuoyerses···
+S1-R1 | troupeshorsdü·royau·me
+S2-R2 | ce·
+S2-R3 | nestpas·aucomte··d·orford·
+S2-R4 | uniquementqu·onenueutmaisqu·e
+S2-R5 | silesesprits·delanationuenoi
+S2-R6 | entas··echaufer<le Roy><l'Angleterre>ioueroit·
+S2-R7 | unmauuäsrolese·uoyantsanstr
+S2-R8 | oupesdansunmomentou·ilsagir
+S2-R9 | oitdaporterdespromts(?)remedesa
+S2-R10 | des·maux·uiolensetdesoutenir
+S2-R11 | l·autoriteroyale

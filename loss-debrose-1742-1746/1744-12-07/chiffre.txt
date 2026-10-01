@@ -1,0 +1,27 @@
+# Résultat n°91 : Loss -> Debrose, Paris, 7 décembre 1744.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 206-208 ; chiffré : v207 d. (10 lignes) + v208 g. (2 lignes).
+# Images : vue 206 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0206.jpg ; vue 207 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0207.jpg ; vue 208 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0208.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# Loc. 746/8 guid 3a407631 : v207 d. (10 lignes après « qu'elle n'en réchappe. ») + v208 g. (2 lignes avant « J'ai eu l'honneur »)
+# ~ = doute visuel léger (compté C en officiel si tranché à l'image, NC en V3) ; voir doutes ci-dessous
+# D1 L01#21 « 43~ » : tête fermée, hampe courte → 4 par F3 (aspect « 93 »)
+# D2 L01#24 « 44~ » : 2e glyphe tête fermée (pas 47)
+# D3 L05#21 « 57~ » : 1er glyphe à drapeau + boucle = 5 de L08 « 57 » (pas 6)
+# D4 L08#15 « 42~ » : tête empâtée fermée, hampe courte ; NI 7 net NI 9 net → [72/42/92] NON TRANCHÉ À L'IMAGE → NC officiel
+# D5 P2L1#2 « 74~ » : 1er glyphe à barre/crochet de 7, pas la tête fermée du 4 voisin (pas 44)
+# Capitale F sans point visible (P2L1#9).
+L01	51.72.20.6.47.6.35.10.35.52.300.10.25.15.935.74.37.33.44.43~.41.44~
+L02	20.10.200.21.44.943.44.17.516.20.10.74.35.84.41.20.84.53.18.9.71.200.35
+L03	21.73.31.20.10.12.96.12.51.31.71.50.800.12.33.84.47.34.10.21.34.84.446
+L04	25.44.53.51.6.25.43.20.84.72.41.44.25.30.9.25.25.20.10.41.74.41.9.53
+L05	10.41.44.37.25.74.43.69.35.41.35.84.23.35.75.10.41.43.356.84.57~.40
+L06	44.24.20.44.23.41.33.44.35.84.12.34.21.20.84.563.72.25.74.84.23.14
+L07	30.43.35.23.13.9.72.20.10.41.40.44.53.80.20.84.72.18.71.84.72.25
+L08	44.35.33.51.84.44.23.491.74.31.20.73.72.44.9.42~.35.41.43.35.84.57
+L09	40.44.13.41.72.20.73.84.23.41.35.57.44.51.25.80.209.84.72.18.31.20
+L10	84.72.12.33.51.13.72.20.10.41.84.72.74.44.13.31.167.18.17.51.75.10.41
+L11	72.74~.71.33.9.51.25.74.F.44.31.75.21.44.74.53.75.10.41.74.32.35
+L12	256.9.25.74.31.20.72.41

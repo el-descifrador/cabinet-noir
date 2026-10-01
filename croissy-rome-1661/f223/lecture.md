@@ -14,7 +14,7 @@
 
 ### Lecture résumée (note de synthèse)
 
-**n°73, f.223r-226r (Rome, 7/2/1661, à son frère J.-B. Colbert)** : pour être informé de la conduite du pape « dans son particulier », il faudrait, comme les ambassadeurs
+**Résultat n°73, f.223r-226r (Rome, 7/2/1661, à son frère J.-B. Colbert)** : pour être informé de la conduite du pape « dans son particulier », il faudrait, comme les ambassadeurs
 d'Espagne, « des pensionnaires chez le pape et tous ses parens, che[z] les cardinaux protecteurs des nations, chez les de l'escadron… chez les ambassadeurs », payés « vingt cinq
 ou trante escus » ; religieux et « gens d'ho[n]neur » pour gagner des domestiques ; jugement sévère sur le **P. Duneau** (médisance, vanité « au dernier periode ») ; le P. Leon
 « plus posé » ; la venue de l'évêque de Fréjus (Ondedei). **Recoupements** : Clément I n°275 (Charles à Rome de début décembre 1660 au 4/4/1661) ; Mazarin, *Lettres* IX

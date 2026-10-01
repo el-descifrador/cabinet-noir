@@ -1,0 +1,32 @@
+# Résultat n°93 : Loss -> Debrose, Paris, 25 mars 1743.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 43-45 ; chiffré : v44 g., v44 d., v45 g. (4 passages).
+# Images : vue 43 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0043.jpg ; vue 44 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0044.jpg ; vue 45 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0045.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# P1 = v44 g., 4 lignes après « …que les Anglois prétoient à cette Couronne. »
+# P2 = v44 g., 2 lignes après « …mauvais usage de leur Cordialité. »
+# P3 = v44 d., 7 lignes après « …dans le moment présent. » (bas de vue : rien sous L7 ; L7 finit au bord droit sur « 44 »)
+# P4 = v45 g., 3 lignes en tête de page, avant « Mr de Belleisle m'a dit… » ; signature « J.A. de Loss » plus bas sur la même page
+# DOUTES visuels (tranchés à l'image) :
+# D1 P3-L7 capitale « T. » : barre horizontale détachée + hampe recourbée à gauche, comme le T de « Traité » (v44 d. l.2) ; alternative J. (I.) faible.
+# D2 P4-L3 « 77 » et « 54 » : tache d'encre/papier entre les deux jetons, 2e 7 et le 5 partiellement sous la tache ; pas de jeton supplémentaire visible.
+# D3 F3 (tête fermée sans queue = 4) appliqué : P1-L3 #2 « 74 », P1-L2 « 34 », P2-L1 « 31.74 » et « 74.84 », P4 « 57.74 », « 9.74.33 ».
+# D4 P1-L1 dernier « 200 » au ras de la pliure (gouttière) : rien de caché visible.
+P1-L1 44.24.20.6.84.35.40.35.44.74.44.6.12.18.71.200.35.9.74.31.44.87.83.200
+P1-L2 800.9.40.35.B.35.84.41.20.13.9.6.37.74.44.34.43.35.25.6.200.25.200
+P1-L3 84.74.41.44.20.10.25.25.30.6.25.18.80.74.72.41.44.43.44.9.80.74.41.44.20
+P1-L4 10.12.18.37.72.30.9.43.35
+P2-L1 31.20.6.10.25.44.35.84.72.74.9.75.33.20.41.31.74.9.74.84.20.84.35
+P2-L2 40.6.35
+P3-L1 17.44.23.40.35.9.43.35.13.43.34.41.74.44.34.6.21.35.41.74.6.41.77.13.25
+P3-L2 20.44.41.80.74.25.35.6.57.22.44.40.35.43.18.44.34.75.10.41.25.44.9.33.200
+P3-L3 53.10.41.44.20.10.9.12.18.37.72.30.43.35.6.35.41.20.44.41.12.9.84.20.84.33.20
+P3-L4 44.72.25.9.47.53.10.44.72.23.43.9.20.34.74.43.41.84.35.33.51.75.10.41.6
+P3-L5 20.84.10.6.20.10.44.35.25.84.44.25.80.20.84.6.72.41.30.9.41.21.20.80
+P3-L6 200.44.20.10.40.9.20.10.77.87.72.50.30.12.72.20.44.41.6.80.74.25.33
+P3-L7 20.10.83.53.31.25.6.21.84.43.20.53.21.6.84.T.12.37.72.30.43.9.35.25.44
+P4-L1 20.10.80.20.84.9.6.84.20.44.41.24.20.44.72.18.80.74.44.57.74.9.43.35
+P4-L2 32.44.57.6.51.25.74.43.41.44.20.6.10.25.21.84.87.34.50.9.74.33.12.11
+P4-L3 33.51.44.25.9.51.77.54.84.25.13.10.9.41.80.74.25

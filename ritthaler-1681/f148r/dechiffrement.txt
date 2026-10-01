@@ -1,0 +1,77 @@
+# Sortie du script de mesure du vérificateur indépendant (mesure OFFICIELLE V0 : sa transcription aveugle, sa clé, sa règle gelées avant mesure).
+# Colonnes : ligne <TAB> mot chiffré <TAB> décodage brut par la clé <TAB> forme attendue <TAB> C (compris) / NC (non compris) <TAB> motif.
+# Motifs : ABS = lettre absente de la paire (valeur par réciprocité) ; DOUBLE = signe K à deux valeurs ; glyphe douteux = doute noté à la transcription.
+L1	Numfdlédon	Monstratum	Monstratum	C	
+L1	yfdot	istud	istud	C	
+L1	ghlumuc[l|S]ébhygum	chronographicon	chronographicon	NC	glyphe douteux
+L2	[N|X]uTu	MoDo	Modo	NC	glyphe douteux
+L2	GeRul	CaLor	Calor	C	
+L2	aZ	eX	ex	C	
+L2	eZa	aXe	axe	C	
+L2	aZYd	eXIt	exit	C	
+L2	ydalon	iterum	iterum	C	
+L2	na	me	me	C	
+L2	alázyd	erexit	erexit	C	
+L2	goy	cui	cui	C	
+L3	nylépyraf	mirabiles	mirabiles	C	
+L3	gucydedyúmaf	cogitationes	cogitationes	C	
+L3	babalálomd	pepererunt	pepererunt	C	
+L4	rydálea	literae	literae	C	
+L4	[Ɛ?]yfdea	?istae	istae	NC	glyphe douteux;Ɛ=inconnu;ne donne pas istae
+L5	á	e	e	C	
+L5	Xarralſart	Zellerfeld	Zellerfeld	NC	x=ABS
+L5	nyffea	missae	missae	C	
+L5	Topydéwy	Dubitavi	Dubitavi	C	
+L5	galda	certe	certe	C	
+L6	gon	cum	cum	C	
+L6	hepydédyu	habitatio	habitatio	C	
+L6	ym	in	in	C	
+L6	elga	arce	arce	C	
+L7	ussalládol	offerretur	offerretur	NC	s=ABS
+L7	em	an	an	C	
+L7	den	tam	tam	C	
+L7	gydu	cito	cito	C	
+L7	ymclátalal	ingrederer	ingrederer	C	
+L8	men	nam	nam	C	
+L8	rydale[a|f]	literae	literae	NC	glyphe douteux
+L9	Falamydédyf	Serenitatis	Serenitatis	C	
+L9	Wafdlea	Vestrae	Vestrae	C	
+L9	na	me	me	C	
+L9	ýmdalyn	interim	interim	C	
+L9	egKoyáfgala	acQuiescere	acquiescere	NC	K=DOUBLE
+L10	joffálomd	jusserunt	jusserunt	C	
+L10	Koye	Quia	quia	NC	K=DOUBLE
+L10	Walu	Vero	vero	C	
+L10	uprédyu	oblatio	oblatio	C	
+L10	grewyon	clavium	clavium	C	
+L10	gumdymoede	continuata	continuata	C	
+L10	ſoyd	fuit	fuit	C	
+L11	ad	et	et	C	
+L11	hepydedyúmyf	habitationis	habitationis	C	
+L11	bufd	post	post	C	
+L12	eggábdef	acceptas	acceptas	C	
+L12	rýdalef	literas	literas	C	
+L12	uggefyúmen	occasionam	occasionem	NC	NC graphie contraire à la clé (occasionam)
+L12	enbrázof	amplexus	amplexus	C	
+L12	fon	sum	sum	C	
+L13	Honýrryna	Humillime	Humillime	C	
+L13	alcu	ergo	ergo	C	
+L13	fuldan	sortem	sortem	C	
+L13	KoengómKoa	QuamcunQue	quamcunque	NC	K=DOUBLE
+L13	ſalen	feram	feram	C	
+L14	ad	et	et	C	
+L14	ton	dum	dum	C	
+L14	[N|X]ulf	Mors	Mors	NC	glyphe douteux
+L14	ad	et	et	C	
+L14	Nelf	Mars	Mars	C	
+L14	nymémdol	minantur	minantur	C	
+L14	blagépul	precabor	precabor	C	
+L15	Eh	Ah	Ah	C	
+L15	Nulf	Mors	Mors	C	
+L15	Nelf	Mars	Mars	C	
+L15	TabefGamf	DepasCens	Depascens	C	
+L15	ſeRZ	faLX	falx	C	
+L15	edluZ	atroX	atrox	C	
+L15	aZaed	eXeat	exeat	C	
+L15	ulYf	orIs	oris	C	
+# MOTS : 62/73 = 84.9 %   LETTRES (glyphe sûr, valeur prouvée) : 392/435 = 90.1 %

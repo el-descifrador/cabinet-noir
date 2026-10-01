@@ -14,7 +14,7 @@
 
 ### Lecture résumée (note de synthèse)
 
-**n°64, f.138r-139v (Rome, 17/1/1661, duplicata à Mazarin)** : le cardinal d'Este juge « plus util a Monsieur le duc de Modene de garder des justes pretentions de **quatre millions
+**Résultat n°64, f.138r-139v (Rome, 17/1/1661, duplicata à Mazarin)** : le cardinal d'Este juge « plus util a Monsieur le duc de Modene de garder des justes pretentions de **quatre millions
 d'escus sur la Chambre** que d'accepter une tres modique satisfaction… au quart de ce qui luy est deu, et que peut estre les petits neveux… trouveroient [quelque] jour un pontificat
 plus favorable » ; « le [418] ayant la [gu]erre du Portugal sur les bras » ; l'indult d'Artois « en vertu du concordat » ; le comte de Brienne.
 **Recoupement externe fort** : les *Mémoires du cardinal Renaud d'Este* (1677), cités par Gérin, prêtent au cardinal la même idée (« avoir ses prétentions en pied que des millions

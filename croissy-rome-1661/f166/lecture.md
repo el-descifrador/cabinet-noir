@@ -14,7 +14,7 @@
 
 ### Lecture résumée (note de synthèse)
 
-**n°68, f.166r-169r (Rome, 28/1/1661, à J.-B. Colbert)** : le pape « equitablement asse[z] malintentionné pour la France », son « mespris » pour le cardinal Antoine ; l'[hu]meur
+**Résultat n°68, f.166r-169r (Rome, 28/1/1661, à J.-B. Colbert)** : le pape « equitablement asse[z] malintentionné pour la France », son « mespris » pour le cardinal Antoine ; l'[hu]meur
 d'Antoine : « il veut tout faire et ne fait rien », veut « l'entiere direction des affaires de France », « hormis l'[abbé] **Brachesi** qui l'entretient dans cette humeur » ;
 Antoine « desire passionnement d'aller en France sous le pretexte de devotion et de retraitte » ; « le canal du cardinal Antoine est desagreable au pape » ; M. de Fréjus.
 **Contrôle externe fort** : la chaîne de 5 groupes b-ra-c-he-si, tous PUBLIÉS, redonne « Brachesi », nom écrit en clair dans la même lettre (f.167r) et attesté comme

@@ -14,7 +14,7 @@
 
 ### Lecture résumée (note de synthèse)
 
-**n°69, f.195r-197r (14/2/1661, duplicata à Mazarin)** : on craint que le pape ne vive pas « plus d'un an » ; l'ambassadeur d'Espagne « mettoit desja toute pierre en œuvre pour
+**Résultat n°69, f.195r-197r (14/2/1661, duplicata à Mazarin)** : on craint que le pape ne vive pas « plus d'un an » ; l'ambassadeur d'Espagne « mettoit desja toute pierre en œuvre pour
 gagner quelques uns des principaux cardinaux de l'escadron volant » (Pio…) ; le **duc de Bracciano** « traittoit avec ledi[t] ambassadeur » ; le cardinal Antoine veut que
 Mazarin pourvoie « aux fonds necessaires pour gratiffier sous main des a present les cardinaux » en vue du conclave ; doute de Croissy sur Bracciano, maison « de tout temps
 partiale de la France » ; l'affaire de Modène « prend un chemin assez long pour passer a un au[t]re pontificat ». **Recoupement** : Gérin (l. 10196-10206) sur les Orsini
@@ -31,7 +31,7 @@ personnages codés non identifiés [323] (« connestable ? »), [426], [431], [3
 
 ### Cohérence historique (dossier du casseur)
 
-Fin du pontificat d'Alexandre VII redoutée (santé fragile), manœuvres espagnoles auprès de l'**escadron volant** ; maison **Orsini** (Flavio Orsini, duc de Bracciano ; cardinal Virginio Orsini, protecteur de France) « de tout temps partiale de la France » ; cardinal **Antoine** Barberini ; cardinal Pio (Carlo Pio di Savoia) ; affaire du duc de Modène (card. d'Este, Bernardi), Trinité-des-Monts (Sacchetti, Spada), bénéfices d'Artois : mêmes affaires que n°59/n°64/n°66/n°68.
+Fin du pontificat d'Alexandre VII redoutée (santé fragile), manœuvres espagnoles auprès de l'**escadron volant** ; maison **Orsini** (Flavio Orsini, duc de Bracciano ; cardinal Virginio Orsini, protecteur de France) « de tout temps partiale de la France » ; cardinal **Antoine** Barberini ; cardinal Pio (Carlo Pio di Savoia) ; affaire du duc de Modène (card. d'Este, Bernardi), Trinité-des-Monts (Sacchetti, Spada), bénéfices d'Artois : mêmes affaires que le résultat n°59/résultat n°64/résultat n°66/résultat n°68.
 
 ## Fichiers
 

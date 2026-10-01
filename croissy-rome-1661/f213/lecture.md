@@ -14,7 +14,7 @@
 
 ### Lecture résumée (note de synthèse)
 
-**n°72, f.213r-217r (Rome, 7/2/1661, à Mazarin)**, propos du résident de Parme rappelé par son maître : l'affaire de Castro « tres mal mesnagée » ; il fallait s'accommoder
+**Résultat n°72, f.213r-217r (Rome, 7/2/1661, à Mazarin)**, propos du résident de Parme rappelé par son maître : l'affaire de Castro « tres mal mesnagée » ; il fallait s'accommoder
 « au genie du Pape », « que Sa Sainteté n'auroit pas moins de passion d'agrandir sa maison que ses predecesseurs », mais qu'il veut que « tout le monde soit persuadé du contraire »,
 et « laisser lieu de croire… » qu'il n'avait « pas mesme eu de connoissance de ce qui se seroit negocié avec ses parens » ; le pape a « declaré au cardinal Pallavicini » être
 disposé à des grâces pour le duc de Parme ; il fallait traiter « sans bruit ». **Recoupement** : Gérin (l. 9623-9640) rapporte que Mazarin proposait secrètement d'attribuer

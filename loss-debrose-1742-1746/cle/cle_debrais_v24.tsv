@@ -1,0 +1,100 @@
+# Clé d'époque « Chiffren von Debrais am französischen Hofe » : Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 00675/10
+# (« Chiffres Bd. 15 »), vue 0024 (paquet des vues 20-24). Image : https://www.archiv.sachsen.de/digitalisate/2eec5579-58d6-4abf-bbba-790e9478fa6d/fullsize/0024.jpg
+# Correspondance : Johann Adolph von Loss (envoyé saxon à Paris) <-> général de Debrose (envoyé saxon à La Haye), 1742-1746 ; clé « indiquée » par Debrose,
+# gardée à Paris chez Debrais (lettre de Loss du 30/4/1742, Loc. 746/8 vue 26).
+# Relevé par nous sur l'image (table « pour chiffrer » et table « pour déchiffrer » relevées séparément, 63/63 accords), figé le 30/09/2026 22:12:17Z
+# (sha256 1b897d170ea211465d9a8663118e674fe6834e14a04e0332aa341bb508a89926) AVANT toute lecture des lettres ; jamais modifié. Un relevé indépendant d'un vérificateur (fait seul sur l'image) donne 0 divergence de valeur.
+# Type : substitution à deux chiffres (56 codes, sans les chiffres 6 et 9) + 7 syllabes en centaines (100-800) + nomenclature en capitales suivies d'un point (A.-X.).
+# « Les No 6 et 9 sont de faux Chiffres, qui ne signifient rien » : 6 et 9 = nulles, isolées ou collées à un nombre (normalisation : on les retire).
+# Table ALLEMANDE (ä, ö, ü, ck, tz, syllabes allemandes) employée par Loss pour écrire du FRANÇAIS (500 « von » pour « vont », 300 « da » pour « dans »…).
+# Usages du chiffreur établis par des gloses d'époque du même fonds : 73 = ü lu u, 81 = ä lu « ai » ; J. = I. (même case) ; u et v = 84.
+# A. = « Votre Majesté » OU « Sa Majesté » (deux valeurs : toujours compté non compris). 24 = « au » seulement (employé pour « av » = non compris).
+# Colonnes : chiffre <TAB> valeur <TAB> note ; ∅ = nulle.
+jeton	valeur	note
+10	n	
+11	be	
+12	de	
+13	se	
+14	ge	
+15	un	
+17	b	
+18	la	
+20	o	
+21	d	
+22	pl	
+23	en	
+24	au	
+25	s	
+27	ke	
+28	w	
+30	an	
+31	m	
+32	pr	
+33	l	
+34	re	
+35	e	
+37	f	
+38	zu	
+40	qu	
+41	t	
+42	h	
+43	c	
+44	i	
+45	we	
+47	y	
+48	he	
+50	ch	
+51	le	
+52	st	
+53	te	
+54	ha	
+55	ö	
+57	x	
+58	na	
+70	mi	
+71	pe	
+72	r	
+73	ü	
+74	a	
+75	me	
+77	ne	
+78	k	
+80	p	
+81	ä	
+82	tz	
+83	g	
+84	u|v	
+85	z	
+87	ma	
+88	ck	
+100	die	
+200	in	
+300	da	
+400	ein	
+500	von	
+700	ver	
+800	er	
+6	∅	faux chiffre (table)
+9	∅	faux chiffre (table)
+A.	Votre Majesté|Sa Majesté	« Votre ou Sa Majesté »
+B.	l'Empereur	
+C.	l'Impératrice	
+D.	l'Empire	
+E.	la Russie	
+F.	la Cour	
+G.	le Roy	
+H.	l'Angleterre	
+I.	la Suède	case « J. »
+K.	le Danemarc	
+L.	la Prusse	
+M.	l'Électorat de Saxe	
+N.	l'Hannovre	
+O.	le Palatinat	
+P.	la Bavière	
+Q.	la Cologne	
+R.	la Hesse	« L'Hesse »
+S.	la Hollande	« L'Hollande »
+T.	le Ministère	
+U.	Juliers	
+W.	la Succession	
+X.	le Traitté d'alliance

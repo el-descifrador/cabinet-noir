@@ -4,7 +4,7 @@
 la lettre a été interceptée et déchiffrée à l'époque par George Scovell (TNA, WO 37/2/21, copie déchiffrée de 11 pages).** Notre apport : l'identification du
 cryptogramme de Vilcoq (tenu pour non résolu et attribué à Berthier) avec cette lettre de Joseph, et la lecture de l'exemplaire français. **Ne pas écrire « première lecture ».**
 
-| n° | pièce | date | taux / contrôles (vérificateur) | réserves | nouveauté |
+| résultat n° | pièce | date | taux / contrôles (vérificateur) | réserves | nouveauté |
 |---|---|---|---|---|---|
 | 1 | chiffré publié par J. Vilcoq, *Revue historique de l'Armée*, 1969, n° 4, planche p. 24 (325 groupes) ; exemplaire déchiffré d'époque : TNA, WO 37/2/21 | 22/12/1812 | extrait publié lu en entier ; ≈ 310 groupes sur 325 prennent directement leur valeur de table ; ≈ 150 des 207 valeurs relues sur les photos, toutes confirmées ; 7 corrections prédites par le sens retrouvées sur une transcription aveugle indépendante de la planche | copie de Scovell non consultée ; 2 entrées de table illisibles au pli ; une restitution | **C (réduite)** |
 

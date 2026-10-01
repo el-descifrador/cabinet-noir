@@ -1,0 +1,20 @@
+# Déchiffrement brut signe à signe avec la clé figée (cle/cle_debrais_v24.tsv), SANS arbitrage ni segmentation en mots :
+# · = nulle (6, 9) ; x* = jeton normalisé (6/9 collés retirés : 359 -> 35) ; <mot> = code de nomenclature ou syllabe longue ; {x} = signe absent de la clé ;
+# (x) = jeton douteux à la transcription (« ? », « ~ », alternative a|b : 1re lecture prise) ; (?) = jeton illisible ; [biffé] = jeton biffé (exclu).
+# 84 = u ou v (écrit u) ; 73 = ü (lu u par convention d'époque), 81 = ä (lu « ai »). La lecture arbitrée et la mesure sévère sont dans lecture.md.
+P1-L1 | iauo·uequeiai·delapeine·amimagin
+P1-L2 | er·que<l'Empereur>eutose··faireces·insin
+P1-L3 | uationssan·slapartici·patio
+P1-L4 | ndelafran·ce
+P2-L1 | mo·nsieura·melotma·auoue
+P2-L2 | qu·e
+P3-L1 | bienque·cesecretaire·deta·tneses
+P3-L2 | oitpase·xpliqueclairementsi·lin
+P3-L3 | tention·delafrance·etoitde·uoulo
+P3-L4 | irs·ytenirenc·oreactuellement·
+P3-L5 | oun·oniesuispou·rtan·tdop
+P3-L6 | inionqu·onnemarchanderoit·pasl
+P3-L7 | ongtems·ducoted·u<le Ministère>defranc·esi
+P4-L1 | onpou··uoitauoirlapaixa·ce
+P4-L2 | prix·lesactio·nsdumarech·aldebe
+P4-L3 | lleis·lenehaussen·tpas

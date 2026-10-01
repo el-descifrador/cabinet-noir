@@ -9,7 +9,7 @@
 ## Verdict du vérificateur : CONFIRMÉ AVEC RÉSERVES
 
 **CONFIRMÉE AVEC RÉSERVES : lettre ENTIÈRE (fin vue : date, Yo el Rey, Çayas), sévère scripté 677/731 = 92,6 % ({Ta} N ; 91,6 % avec #G×2 ; borne extrême 85,7 %), DEVOS seule 87,1 % reproduit.** Relecture aveugle ≈ 97 % des groupes : même texte, tous les désaccords de signe tranchés au zoom en faveur du casseur sauf 1. Réserves : sans duplicata ; {Ta} = Duque reste HYP-fort (Mos. non exclu) ; codes HYP (66+, xal, 67+, 113+, vel, gil, Ham, yil, 79+/143+) non compris ; 8 fins de ligne dans le pli au verso ; minute AGS non vérifiée.
-Corrections à reporter (le casseur) : L13 « 24+@n 7o@n,s » (tan cons-) ; V14 16+ : marque (barre / ~) à relire ; {ta} dans la clé : revenir à HYP (fort) ou noter « valeur = titre ducal, mot Duque non prouvé ».
+Corrections à reporter (le casseur) : L13 « 24+@n 7o@n,s » (tan cons-) [reportée dans chiffre.txt en version 1.2.0] ; V14 16+ : marque (barre / ~) à relire [non tranchée, forme gardée] ; {ta} dans la clé : revenir à HYP (fort) ou noter « valeur = titre ducal, mot Duque non prouvé ».
 
 ## Lecture (note de synthèse de l'équipe)
 

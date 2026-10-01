@@ -1,4 +1,4 @@
-# HStAM 4 h Nr. 1411, f.14 — déchiffrement brut signe à signe avec la clé figée (n°60)
+# HStAM 4 h Nr. 1411, f.14 — déchiffrement brut signe à signe avec la clé figée (résultat n°60)
 # Formes brutes de la clé : minuscules = lettres ; {X} = majuscule (polygramme) ; <n> = code non résolu ; * devant un mot = mot NON compris ;
 # ! devant un groupe = groupe non compris ; ? = hypothèse. Orthographe du XVIIe s. conservée (u/v, i/j). Texte normalisé et traduction : lecture.md.
 f14.0: so

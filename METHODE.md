@@ -18,7 +18,7 @@ d'un agent : elles servent seulement à dater la provenance d'une valeur ou d'un
 
 ## 2. Transcription
 
-- Transcription sur les images en pleine résolution (Gallica IIIF, PARES, HCPortal, Arcinsys, Landesarchiv NRW) ; aucune image n'est redistribuée.
+- Transcription sur les images en pleine résolution (Gallica IIIF, PARES, HCPortal, Arcinsys, Landesarchiv NRW, Archives de Saxe à Dresde, bibliothèque numérique de la HAB Wolfenbüttel, Arkivalieronline du Rigsarkivet) ; aucune image n'est redistribuée.
 - Conventions communes (détails dans chaque `chiffre.txt`) : `[texte]` = clair dans la lettre ; `?` = lecture douteuse (alternative après `/`) ;
   `#` = groupe caché ou perdu (reliure, pli, déchirure), compté **non compris** ; `{…}` = majuscule / signe spécial / forme barrée selon le corpus ;
   `<n>` = code de nomenclateur.
@@ -37,6 +37,15 @@ et qui s'insère dans un mot compris. Est compté **non compris** :
 Le **taux par mot** (mots entièrement compris / mots) est toujours donné à côté du taux par groupe. Critère d'acceptation du projet :
 **≥ 80 % par groupe** ; une **réserve** est posée si le taux par mot est < 80 % ou si la variante pessimiste passe sous 80 %.
 Des variantes (« pessimiste », « très dur », « clé publiée seule ») sont données dans les dossiers pour montrer la sensibilité aux conventions.
+
+**Mesure par mot.** Quand le chiffre garde les mots (substitutions simples de Ritthaler 1681 et de Vind 1647) ou quand beaucoup de mots sont épelés lettre à lettre
+à côté de codes isolés (correspondance Loss → Debrose 1742-1746), l'unité de mesure est le **mot** : critère ≥ 80 % des mots chiffrés compris, et ≥ 80 % des
+**mots épelés** (pour qu'une poignée de codes faciles ne gonfle pas le taux). Pour Loss, la lettre doit en outre compter **au moins 20 mots chiffrés**
+(passages d'une même lettre additionnés) ; les mots sont comptés comme en français ; un jeton biffé, taché ou noté douteux par un lecteur aveugle rend son mot non compris
+(« union des doutes réels »).
+
+**Numérotation.** Nos résultats sont cités « résultat n°NN », dans l'ordre de leur confirmation par un vérificateur. Les numéros de pièces des manuscrits
+(« Espagnol 132 n°88 », « fr 4715 n°48 »…) gardent leur forme d'origine et ne désignent jamais nos résultats.
 
 ## 4. Établir la clé
 

@@ -3,7 +3,7 @@
 **AHNOB (Archivo Histórico de la Nobleza, Tolède), OSUNA, C.3456, D.107 — résultat n°75. Étiquette : « clé cassée par nous à l'aveugle »**
 (clé non publiée ; aucune clé d'époque, aucun déchiffrement d'époque, aucune paire clair/chiffré n'a servi). **Confirmé avec réserves** par un vérificateur indépendant.
 
-| n° | pièce | date | taux (vérificateur, mesure sévère) | réserves | nouveauté |
+| résultat n° | pièce | date | taux (vérificateur, mesure sévère) | réserves | nouveauté |
 |---|---|---|---|---|---|
 | 75 | OSUNA C.3456 D.107, 5 pages chiffrées (1 412 jetons) | 08/05/1646 | **89,6 % par jeton / 89,9 % par mot** (pessimiste) ; très pessimiste (14 formes rares ou noms propres aussi rejetés) **84,6 % / 86,3 %** | lettre unique de ce chiffre (pas de test de généralisation) ; valeurs rares à 1-2 contextes ; 12 codes de noms non prouvés | A prov. |
 

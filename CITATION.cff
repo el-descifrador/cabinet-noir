@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Si vous utilisez ces lectures ou ces clés, merci de citer ce dépôt. / If you use these readings or keys, please cite this repository."
 title: "Cabinet Noir : lectures vérifiées de lettres chiffrées historiques (XVIe-XIXe siècle)"
 type: dataset
-version: "1.1.0"
-date-released: "2026-09-29"
+version: "1.2.0"
+date-released: "2026-10-01"
 authors:
   - name: "Descifrado"
 license: CC-BY-4.0
@@ -15,11 +15,16 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.23039567"
     description: "Version 1.0"
+  - type: doi
+    value: "10.5281/zenodo.23069237"
+    description: "Version 1.1.0"
 repository-code: "https://github.com/el-descifrador/cabinet-noir"
 abstract: >-
-  79 lectures de lettres chiffrées (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg, NLA Stade, Landesarchiv NRW), 1568-1824 : 76 confirmées
+  102 lectures de lettres chiffrées (BnF, AHNOB/PARES, Hessisches Staatsarchiv Marburg, NLA Stade, Landesarchiv NRW, HStA Dresden, HAB Wolfenbüttel,
+  Rigsarkivet), 1568-1824 : 99 confirmées
   par un vérificateur indépendant (+ 3 lectures partielles sous le seuil de 80 %) avec un taux sévère par groupe et par mot. Comprend des clés cassées à l'aveugle
-  (Malsburg 1637, Ridolfi 1646, Charles X Gustave 1657), reconstruites depuis des déchiffrements d'époque (Santa Cruz 1631-1635, Grana 1650) ou retrouvées (Brèves 1610 ; clé d'époque de Montholon 1589, identifiée par nous ; clé d'époque de Landsberg 1677, retrouvée dans le même volume),
+  (Malsburg 1637, Ridolfi 1646, Charles X Gustave 1657 ; Vind 1647, chiffre trivial), reconstruites depuis des déchiffrements d'époque (Santa Cruz 1631-1635, Grana 1650 ; Ritthaler 1681, chiffre trivial)
+  ou retrouvées (clés d'époque Santa Cruz 1635 et Loss → Debrose 1742-1746, retrouvées par nous dans un autre fonds ou volume ; Brèves 1610 ; clé d'époque de Montholon 1589, identifiée par nous ; clé d'époque de Landsberg 1677, retrouvée dans le même volume),
   et des premières lectures avec des clés publiées par des tiers (citées, non redistribuées). Travail réalisé avec
   une équipe d'agents d'IA (Claude, Anthropic).
 keywords:

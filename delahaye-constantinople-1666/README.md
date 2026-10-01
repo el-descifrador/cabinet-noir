@@ -4,7 +4,7 @@
 table reconstruite et publiée par S. Tomokiyo, *Cryptiana*, http://cryptiana.web.fc2.com/code/louisxiv0.htm, contrôlée par nous sur les gloses d'époque de Colbert 144 f.483v-484r).
 **Confirmé avec réserves** par deux vérificateurs indépendants. **Réserve au mot pour les deux lettres (< 80 %).** Nouveauté **B faible** (Tomokiyo en cite l'ouverture).
 
-| n° | pièce | date | taux sévère groupe / mot (vérificateur) | seuil 80 % | réserves | nouveauté |
+| résultat n° | pièce | date | taux sévère groupe / mot (vérificateur) | seuil 80 % | réserves | nouveauté |
 |---|---|---|---|---|---|---|
 | 48 | Colbert 138 f.437r-439v, bloc chiffré f.438r (8 l., 159 groupes) | 11/06/1666 | **142/159 = 89,3 %** / **44/58 = 75,9 %** | atteint au groupe ; **mot < 80 % (réserve)** | 99t à double valeur compté non compris ; code 52 non résolu | B faible |
 | 49 | Colbert 138 f.441r-442r (23 l. mêlées de clair, 404 groupes) | 27/05/1666 | **345/404 = 85,4 %** (83,3 % en borne pessimiste de gouttière) / **106/156 = 67,9 %** | atteint au groupe ; **mot < 80 % (réserve forte)** | « Vizir », « Candie », « Venise », « armée » = codes hors clé lus au sens, non comptés | B faible |
@@ -38,7 +38,7 @@ ou hypothèses hors table (99t, glyphe b, 83, 52), dont aucune n'est comptée co
 
 ## 1. Les documents
 
-| | **Lettre du 27 mai 1666** (n°49) | **Lettre du 11 juin 1666** (n°48) |
+| | **Lettre du 27 mai 1666** (résultat n°49) | **Lettre du 11 juin 1666** (résultat n°48) |
 |---|---|---|
 | **Cote** | BnF, Mélanges de Colbert 138, **f.441r-442r** | BnF, Mélanges de Colbert 138, **f.437r-439v** ; bloc chiffré **f.438r** |
 | **Gallica** | ark:/12148/btv1b10035618k ; **vue = folio + 5** : v446 (f.441r), v447 (f.441v / f.442r) | même ark : v442 (f.437r), **v443 (f.438r, bloc chiffré)**, v444, v445 (f.439v / f.440r blanc) |
@@ -151,7 +151,7 @@ puisse avoir de plus avantageuses.
 **Compris** : groupe dont la valeur est **imprimée par Tomokiyo hors crochets** ou **glosée d'époque**, sans contradiction avec le sens ni double valeur ; **mot compris** =
 tous ses groupes compris **et** aucune erreur du chiffreur.
 
-### 5.1 Lettre du 11 juin (n°48)
+### 5.1 Lettre du 11 juin (résultat n°48)
 | Variante | Groupes (159) | Mots (58) |
 |---|---|---|
 | **RÉFÉRENCE après arbitrage** (99t non compris partout ; 83t prouvé par la glose) | **142 = 89,3 %** | **44 = 75,9 %** (< 80 %) |
@@ -162,7 +162,7 @@ tous ses groupes compris **et** aucune erreur du chiffreur.
 Recalcul scripté de la référence : transcription du casseur = aveugle arbitrée du
 vérificateur (0 écart sur 159), mêmes N que le vérificateur + 99t ; contre-vérifié par (variante V1) : identique.
 
-### 5.2 Lettre du 27 mai (n°49)
+### 5.2 Lettre du 27 mai (résultat n°49)
 | Variante | Groupes (404) | Borne pessimiste de gouttière (+10) | Mots (156) |
 |---|---|---|---|
 | **SÉVÈRE — RÉFÉRENCE** | **345 = 85,4 %** | **345/414 = 83,3 %** | **106 = 67,9 %** (< 80 %) |

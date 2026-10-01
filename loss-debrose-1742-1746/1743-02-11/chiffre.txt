@@ -1,0 +1,43 @@
+# Résultat n°84 : Loss -> Debrose, Paris, 11 février 1743.
+# Sächsisches Hauptstaatsarchiv Dresden, 10026 Geheimes Kabinett, Loc. 746/8, vues 34-36 ; chiffré : v35 g.-36 d. (5 passages).
+# Images : vue 34 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0034.jpg ; vue 35 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0035.jpg ; vue 36 : https://www.archiv.sachsen.de/digitalisate/3a407631-3c62-47f1-9ee0-d22260e6a690/fullsize/0036.jpg
+# Transcription INDÉPENDANTE du vérificateur (figée avant tout déchiffrement et avant ouverture du travail de l'équipe ; il connaissait la clé, pas le clair).
+# Conventions générales : jetons séparés par « . » ou par des espaces ; capitale + point = nomenclature ; « ? » ou « ~ » = doute visuel ;
+# a|b ou [a|b] = lecture alternative (1re = préférée) ; 6 et 9 = nulles (isolées ou collées) ; libellé de ligne = passage/ligne du vérificateur.
+# Notes du vérificateur (reprises telles quelles) :
+# Notation : groupes séparés par '.', [a|b] = glyphe douteux (a = lecture préférée), lettres majuscules = nomenclature A.-X.
+# (en clair) = texte en clair entre passages, non compté.
+== P1 v35g (après « avec ses Secretaires d'Etat. »)
+87.44.25.43.6.20.31.75.51.43.
+74.9.72.21.200.74.6.33.74.32.44.6.25.9.25.20.200.12.33.84.9.47.200.25.
+80.44.33.72.6.84.77.83.72.30.12.75.9.37.44.30.43.35.6.14.77.72.74.51.75.10.
+41.9.43.20.10.41.6.34.41.20.84.41.51.31.20.6.10.12.44.33.35.6.41.44.31.71.
+77.41.72.74.17.51.9.43.35.18.35.9.52.43.24.13.40.35.6.13.25.70.10.44.
+52.34.9.25.500.41.17.72.44.12.23.6.87.200.A.84.9.44.23.41.80.6.20.
+84.72.41.30.6.41.12.37.72.74.71.72.15.43.20.84.6.80.40.44.58.41.
+84.34.9.33.51.75.10.41.21.6.20.44.41.74.37.800.70.72.51.6.84.72.24.
+41.20.72.44.53.9.
+== P2 v35d (après « Les amis du premier enhardis par cette bonne reception, »)
+[35|25].41.13.6.41.72.20.31.80.30.6.41.300.10.9.25.51.
+43.34.21.44.41.9.40.44.33.25.43.72.20.47.6.20.44.23.41.24.20.6.44.72.
+25.84.72.33.6.35.25.32.44.41.21.9.84.G.
+(en clair : se presserent de présenter à S.M. ...)
+== P3 v36g (après « ... pour s'assurer d'un meilleur succès. »)
+20.10.34.87.6.72.40.35.15.[35|05].83.72.30.6.12.15.44.20.10.23.9.41.34.51.25.
+13.43.34.9.41.74.44.34.25.9.[21|41].35.41.6.74.41.47.43.20.31.32.44.25.51.43.20.
+10.41.9.72.20.51.84.72.6.14.77.72.74.33.9.80.74.72.43.35.41.53.54.72.[31|81|01].
+20.10.44.35.9.44.33.25.13.37.6.18.53.10.41.12.80.74.72.41.74.14.72.23.41.
+34.35.84.57.13.84.6.33.25.18.43.20.10.37.44.30.43.35.6.21.84.G.[35|05].
+41.21.20.80.9.20.13.72.80.74.72.18.15.35.21.6.44.83.84.35.74.25.13.6.85.
+37.20.72.53.24.57.6.9.17.72.44.83.84.35.25.12.9.43.35.84.57.40.44.
+74.25.80.44.34.10.41.24.9.T.
+(en clair : Malgré toutes les apparences qui peuvent faire espérer un)
+== P4 v36g (suite)
+25.20.33.44.12.
+35.41.74.6.17.33.44.25.13.75.10.41.6.12.18.32.35.23.53.9.37.20.72.75.
+== P5 v36d (haut de page, avant « J'ai l'honneur d'être ... »)
+21.84.83.6.20.84.700.77.75.10.9.41.44.35.25.84.44.25.21.20.80.200.
+44.20.10.40.9.44.33.37.74.41.18.44.25.13.72.6.35.43.[28|20].84.51.72.
+40.35.33.6.40.35.25.31.20.44.9.25.24.30.41.40.20.10.80.84.44.6.25.13.
+44.84.14.72.6.24.35.43.15.35.6.25.20.72.53.12.43.800.41.44.41.84.12.12.
+25.9.74.43.20.10.25.44.25.41.9.30.43.35.

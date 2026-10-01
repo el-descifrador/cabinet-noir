@@ -1,0 +1,22 @@
+# Rigsarkivet (Copenhague), Tyske Kancelli, Udenrigske Afdeling, Almindelig Del 3, volume « Chiffer » ; Arkivalieronline epid 19852193, vue 126, page droite.
+# Image (pleine résolution, 4704 x 3436 px) : https://api.rigsarkivet.dk/ao/v1/images/48691601 ; visionneuse : https://arkivalieronline.rigsarkivet.dk/ (epid 19852193).
+# Holger Vind -> Erik Krag, « Hafn. raptim 17 Martij 1647 ». Résultat n°82.
+# Transcription À L'AVEUGLE du vérificateur indépendant (sans ouvrir la transcription de l'équipe), figée avant mesure.
+# Notation : lettres = glyphes du scripteur (italique latine) ; W et w = même lettre ; ſ/f non distingués (f) ; [a|b] = glyphe douteux entre a et b ;
+# [a?] = glyphe douteux lu a (mot NON compris) ; (n) = lettre ajoutée en interligne ; '=' = coupure de fin de ligne (mot continué) ;
+# séparateurs = virgules et espaces nets du scripteur ; « mzl p » (l.11) joint en un mot (même mot qu'en l.8 « mzlp »).
+# En-tête en clair (latin, non mesuré) : Mitto tibi nauem sine prora puppique
+# Fin en clair (latin, non mesurée) : quare etiam resolutio tanto citius facta est ... Vale. Hafn. raptim 17 Martij 1647 Holger Vind
+# Lettre ENTIÈRE vue : en-tête latin -> 12 lignes chiffrées -> fin latine -> date et signature.
+L01: lmpqp y[q|g]fhpq mpn omzl hmu yqpoo
+L02: oqx img ifhpq thm xoou pg ofqwu fzd
+L03: wfi hpu wlxk tpqp [n?]mfqu imu mgnpgmti
+L04: xu papqzpq rtxwm wxx pq hpuup xkh ofq
+L05: qmgnp hpq umk [i?]pg oxxq xu kpnnp xghpq=
+L06: kphmw hm[u?] dfootph thm ykfh ofqpgh
+L07: hmg tmkkp hpq thm lxgh wlpp mpn ofq=
+L08: tghqpq im(n)g e[x?][x|f] xu hpu mzlp t[x|p]q wtyumkpq
+L09: poou pqwfi hpq dxootpq tpqmu nqpghp zxgu=
+L10: cpkmwupq hpq footpq fzh dxoopq dtpqzlpg
+L11: wuxootpd qpu mzlp dpkkpq xhkp yfnwux=
+L12: eotpq mgofqh
