@@ -3,6 +3,8 @@
 Système (reconstruit) : tableau de Vigenère, alphabet 25 lettres sans j (a..z), prolongé par les chiffres 1,2,3,4...
 (indices 25,26,27,28...) ; clé périodique « bcdefg » (clé de la note d'époque) ; décalage = rang(clé)+1 (b=2 ... g=7) ;
 clé continue sur tout le texte, chaque caractère chiffré (lettre ou chiffre) consomme une lettre de clé.
+Confirmé ensuite (01/10/2026) par le tableau de Vigenère d'époque du même dossier (fol. 237) : alphabet cyclique de 35 signes
+« 0 a b ... x ÿ z 1 ... 9 », période 35 ; pour un clair en lettres, aucun bouclage n'intervient (indice max z + g = 32 < 35).
 chiffre = alphabet[rang(clair)+décalage] ; clair = rang(chiffre) - décalage.
 Usage : python3 dechiffre.py [transcription]  (défaut f249/chiffre.txt ; G = glyphe ambigu, forcé g)."""
 import sys

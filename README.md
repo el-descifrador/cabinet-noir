@@ -18,7 +18,7 @@
 > Documentation is in French; the table below is self-explanatory (result no., shelfmark, date, key origin, verified rates per cipher group / per word).
 > Our results are cited as « résultat n°NN » (result no. NN), to avoid any confusion with the item numbers of the manuscripts (e.g. BnF « Espagnol 132 n°88 »).
 
-**Statut / status : version 1.2.0 (01/10/2026 ; voir le « Journal des versions » en fin de fichier). Auteur : Descifrado. Dépôt : https://github.com/el-descifrador/cabinet-noir.**
+**Statut / status : version 1.2.1 (02/10/2026 ; voir le « Journal des versions » en fin de fichier). Auteur : Descifrado. Dépôt : https://github.com/el-descifrador/cabinet-noir.**
 
 ---
 
@@ -34,6 +34,10 @@
    - **première lecture avec une clé publiée ou d'époque** (Tomokiyo, Devos 1950, table du Grand Chiffre, clé notée par le déchiffreur d'époque, clé d'époque de Landsberg 1677 retrouvée dans le même volume…) : le mérite de la clé revient à son auteur.
 4. **Malsburg 1637 et Hesse 1824** ont été lus **indépendamment et en parallèle** d'un autre projet public, qui les a **publiés le premier** (dbourdeau/cyphersolver, 29/09/2026).
    Nous ne revendiquons **aucune priorité** : nos lectures valent confirmation indépendante (pour Malsburg, les deux clés cassées à l'aveugle concordent sur 81 des 88 valeurs communes).
+   **Validations d'époque trouvées après coup (01/10/2026).** Pour Malsburg, le dossier complet (Arcinsys Hessen) contient les **mises en clair d'époque** de f.18 et de f.28-29
+   (résultats n°55 et n°65) : elles confirment la clé cassée à l'aveugle (f.18 : 92,8 % des mots épelés et 97,6 % des lettres), mais le contenu de ces deux lettres **n'est pas inédit**
+   (étiquette : « clé cassée à l'aveugle, validée a posteriori par la mise en clair d'époque du même dossier »). Pour Hesse 1824 (résultat n°51), le **tableau de Vigenère d'époque**
+   conservé dans le même dossier (fol. 237) confirme le système reconstruit. Les taux officiels ne changent pas.
 5. Les lectures n'ont pas été relues par un paléographe ou un historien spécialiste. Les identifications de personnes et de lieux marquées HYP sont des hypothèses.
 6. **Aucune image** n'est reproduite ici : suivre les liens vers Gallica, PARES, HCPortal, Arcinsys, le Landesarchiv NRW, les Archives de Saxe (archiv.sachsen.de), la bibliothèque numérique de la HAB ou Arkivalieronline (Rigsarkivet). Les transcriptions sont les nôtres, faites sur ces images.
 
@@ -132,11 +136,11 @@ Pour Loss → Debrose, la colonne donne groupe / mot (et mots épelés) ; le cri
 | 48 | La Haye-Vantelet → Colbert | BnF Mél. Colbert 138 f.437-439 | 11/06/1666 | P (Tomokiyo) | 89,3 % / **75,9 %** | atteint au groupe ; **mot < 80 %** (réserve) | réserve au mot | B faible | [delahaye-constantinople-1666](delahaye-constantinople-1666/) |
 | 49 | La Haye-Vantelet → Colbert | BnF Mél. Colbert 138 f.441-442 | 27/05/1666 | P (Tomokiyo) | 85,4 % / **67,9 %** | atteint au groupe ; **mot < 80 %** (réserve) | réserve forte au mot | B faible | [delahaye-constantinople-1666](delahaye-constantinople-1666/) |
 | 50 | Nuchèze, « Scituation de l'isle d'Alboran » | BnF Mél. Colbert 108 f.222-223 | 1662 | P (Tomokiyo) | 98,3 % / 92,5 % | atteint | 31 = z HYP | B fragile | [nuchese-1662](nuchese-1662/) |
-| 51 | « Snell an St.. » (Demagogenverfolgung) | HStAM 9 a Nr. 259 f.249 | 20/02/1824 | D (clé du déchiffreur d'époque) | 92,4 % (lettres) / **68,8 %** | atteint au groupe ; **mot < 80 %** (réserve) | fautes de copie ; **lu en parallèle, publié d'abord par un tiers** | publié d'abord par un tiers | [hesse-1824](hesse-1824/) |
+| 51 | « Snell an St.. » (Demagogenverfolgung) | HStAM 9 a Nr. 259 f.249 | 20/02/1824 | D (clé du déchiffreur d'époque ; système confirmé par le tableau d'époque fol. 237) | 92,4 % (lettres) / **68,8 %** | atteint au groupe ; **mot < 80 %** (réserve) | fautes de copie ; **lu en parallèle, publié d'abord par un tiers** | publié d'abord par un tiers | [hesse-1824](hesse-1824/) |
 | 52 | Bonzi, évêque de Béziers → Colbert | BnF Mél. Colbert 155 f.132-133 | 13/08/1670 | P (Tomokiyo) | 91,7 % / **75,8 %** | atteint au groupe ; **mot < 80 %** (réserve) | codes à accent non compris | B | [beziers-1670](beziers-1670/) |
 | 53 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.3 | 15/01/1637 | **C** | 86,8 % / **72,2 %** | atteint au groupe ; **mot < 80 %** (réserve) | lettre ayant servi au cassage ; codes non résolus ; **publié d'abord par un tiers** | publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
 | 54 | Philippe IV → marqués de Santa Cruz | AHNOB Santa Cruz C.51 D.74 | 16/07/1632 | **R** | 84,6 % / **71,7 %** | atteint au groupe ; **mot < 80 %** (réserve) | codes non prouvés | B | [santacruz-1631-1635](santacruz-1631-1635/) |
-| 55 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.18 | 14/24.02.1637 | **C** (test de généralisation) | 93,6 % / 82,6 % | atteint | codes non résolus | publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
+| 55 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.18 | 14/24.02.1637 | **C** (test de généralisation ; validée a posteriori par la mise en clair d'époque du même dossier) | 93,6 % / 82,6 % | atteint | codes non résolus | C (mise en clair d'époque dans le dossier) ; publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
 | 56 | Philippe IV → fray Diego de Quiroga | AHNOB Santa Cruz C.51 D.75 | 07/1632 | **R** | 84,2 % / **62,4 %** | atteint au groupe ; **mot < 80 %** (réserve) | réserve forte au mot | non établie | [santacruz-1631-1635](santacruz-1631-1635/) |
 | 57 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.25 | 23.02/05.03.1637 | **C** (généralisation) | 94,1 % / 83,5 % | atteint ; mot 83,5 % (pessimiste 77,7 %) | pess. 77,7 % au mot | publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
 | 58 | Philippe IV → marqués de Santa Cruz | AHNOB Santa Cruz C.51 D.80 | 30/09/1632 | **R** (généralisation) | 81,2 % / **68,7 %** | atteint, **marge mince** ; **mot < 80 %** (réserve) | **marge mince** | A prov. | [santacruz-1631-1635](santacruz-1631-1635/) |
@@ -146,7 +150,7 @@ Pour Loss → Debrose, la colonne donne groupe / mot (et mots épelés) ; le cri
 | 62 | Philippe IV → marqués de Santa Cruz | AHNOB Santa Cruz C.51 D.6 | 29/06/1631 | **R** | 90,3 % / 80,8 % (3ᵉ examen) | atteint | réserve levée, marge d'un mot | A prov. | [santacruz-1631-1635](santacruz-1631-1635/) |
 | 63 | Philippe IV → Infante Isabel (copie chiffrée) | AHNOB Santa Cruz C.51 D.60 | 04/06/1632 | **R** (généralisation) | 85,1 % / **67,6 %** | atteint au groupe ; **mot < 80 %** (réserve) | réserve au mot | C (résumé imprimé) | [santacruz-1631-1635](santacruz-1631-1635/) |
 | 64 | Croissy → Mazarin (duplicata) | BnF Baluze 178 f.138-139 | 17/01/1661 | P (Tomokiyo) + compléments | 86,5 % / 89,7 % | atteint | | B | [croissy-rome-1661](croissy-rome-1661/) |
-| 65 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.28-29 | 28.03 (v. st.) 1637 | **C** (généralisation) | 88,4 % / **76,1 %** | atteint au groupe ; **mot < 80 %** (réserve) | codes non résolus | publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
+| 65 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.28-29 | 28.03 (v. st.) 1637 | **C** (généralisation ; validée a posteriori par la mise en clair d'époque du même dossier) | 88,4 % / **76,1 %** | atteint au groupe ; **mot < 80 %** (réserve) | codes non résolus | C (mise en clair d'époque dans le dossier) ; publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
 | 66 | Croissy → J.-B. Colbert | BnF Baluze 178 f.135-137 | 17/01/1661 | P (Tomokiyo) + compléments | 86,7 % / 85,4 % | atteint | | B | [croissy-rome-1661](croissy-rome-1661/) |
 | 67 | Malsburg → Hesse-Cassel | HStAM 4 h Nr. 1411 f.23-24 | 07/02/1637 | **C** | 89,2 % / 80,4 % | atteint | lettre ayant servi au cassage | publié d'abord par un tiers | [malsburg-1637](malsburg-1637/) |
 | 68 | Croissy → J.-B. Colbert | BnF Baluze 178 f.166-169 | 28/01/1661 | P (Tomokiyo) + compléments | 88,6 % / 86,3 % (addendum vérificateur) | atteint | | A prov. | [croissy-rome-1661](croissy-rome-1661/) |
@@ -209,6 +213,12 @@ LICENSE, LICENSE-DONNEES.md, CITATION.cff, .zenodo.json
 
 ## Journal des versions / Changelog
 
+- **1.2.1 (02/10/2026)** : aucune nouvelle lecture (toujours 102 = 99 confirmées + 3 partielles) ; taux officiels inchangés. DOI de la version 1.2.0 ajouté.
+  **Malsburg 1637** : le dossier complet (Arcinsys Hessen, 44 p.) contient les mises en clair d'époque de f.18 et de f.28-29, trouvées après nos lectures ; comparées à l'aveugle,
+  elles valident la clé cassée à l'aveugle (f.18 : 92,8 % des mots épelés, 97,6 % des lettres ; une valeur rare fausse, 12 = p) ; **nouveauté des résultats n°55 et n°65 révisée** :
+  « clé cassée à l'aveugle, validée a posteriori par la mise en clair d'époque du même dossier » (contenu non inédit). **Hesse 1824** (résultat n°51) : système confirmé par le
+  tableau de Vigenère d'époque du même dossier (fol. 237 ; alphabet cyclique de 35 signes ; modulo 29 réfuté). Santa Cruz 1631-1635 : tests de généralisation notés « test n°NN ».
+  Dossier Malsburg : renvois de fichiers manquants rétablis.
 - **1.2.0 (01/10/2026)** : 102 lectures = 99 confirmées + 3 partielles (résultats n°10, 16, 22). Ajouts depuis la 1.1.0 (résultats n°80 à n°102) :
   résultats n°80, 81 et 83 Ritthaler 1681 (HAB Wolfenbüttel ; clé reconstruite depuis une paire glosée du même volume ; chiffre trivial) ;
   résultat n°82 Vind → Krag 1647 (Rigsarkivet ; clé cassée à l'aveugle ; chiffre trivial) ;
@@ -225,4 +235,4 @@ LICENSE, LICENSE-DONNEES.md, CITATION.cff, .zenodo.json
 
 ## Citer / How to cite
 
-Descifrado, *Cabinet Noir : lectures vérifiées de lettres chiffrées historiques (XVIe-XIXe siècle)*, Zenodo, 2026. DOI (toutes versions / all versions) : [10.5281/zenodo.23039566](https://doi.org/10.5281/zenodo.23039566) ; version 1.0 : [10.5281/zenodo.23039567](https://doi.org/10.5281/zenodo.23039567) ; version 1.1.0 : [10.5281/zenodo.23069237](https://doi.org/10.5281/zenodo.23069237). Voir aussi [CITATION.cff](CITATION.cff).
+Descifrado, *Cabinet Noir : lectures vérifiées de lettres chiffrées historiques (XVIe-XIXe siècle)*, Zenodo, 2026. DOI (toutes versions / all versions) : [10.5281/zenodo.23039566](https://doi.org/10.5281/zenodo.23039566) ; version 1.0 : [10.5281/zenodo.23039567](https://doi.org/10.5281/zenodo.23039567) ; version 1.1.0 : [10.5281/zenodo.23069237](https://doi.org/10.5281/zenodo.23069237) ; version 1.2.0 : [10.5281/zenodo.23088750](https://doi.org/10.5281/zenodo.23088750). Voir aussi [CITATION.cff](CITATION.cff).

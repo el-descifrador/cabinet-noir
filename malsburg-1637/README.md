@@ -1,6 +1,7 @@
 # Otto von der Malsburg au landgrave de Hesse-Cassel (janvier-avril 1637) : six lettres chiffrées lues
 
-**HStAM 4 h Nr. 1411 (f.3, f.14, f.18, f.23-24, f.25, f.28-29). Étiquette : « clé cassée à l'aveugle par nous », lue en parallèle d'un autre projet qui a publié le premier.**
+**HStAM 4 h Nr. 1411 (f.3, f.14, f.18, f.23-24, f.25, f.28-29). Étiquette : « clé cassée à l'aveugle par nous » ; pour les résultats n°55 (f.18) et n°65 (f.28-29) : « clé cassée à l'aveugle, validée a posteriori par la mise en clair
+d'époque du même dossier » (§ 3 bis). Lue en parallèle d'un autre projet qui a publié le premier.**
 
 ## Antériorité et lecture parallèle (à lire d'abord)
 
@@ -26,6 +27,14 @@ résultats n°53, 60, 67, 55, 57 et 65 du projet, **tous « confirmés avec rés
 La principale réserve est commune : **aucun code à trois chiffres n'est résolu**, si bien que les noms de personnes et de lieux les plus importants restent cachés,
 et le taux par mot reste sous 80 % pour f.3, f.14 et f.28-29 (f.23-24 : 80,4 % en morceaux, 79,7 % en mots fusionnés). **Le front est ÉPUISÉ** (voir § 6).
 
+**Validation externe (01/10/2026, § 3 bis).** Le dossier complet, publié sur Arcinsys Hessen (44 pages contre 18 sur HCPortal), contient deux textes d'époque en clair
+qui correspondent à nos lettres chiffrées : p.19-20, mise en clair des passages chiffrés de **f.18** (résultat n°55), et p.36-38, version en clair complète de **f.28-29**
+(résultat n°65). Comparée à ces textes par un vérificateur qui a transcrit les clairs à l'aveugle et gelé ses transcriptions avant toute comparaison, notre lecture de f.18
+est confirmée pour **92,8 % des mots épelés et 97,6 % des lettres** ; celle de f.28-29 pour **au moins 88,3 % des mots que notre mesure comptait compris** (borne basse,
+limitée par la transcription aveugle du Kurrent). Une seule erreur de valeur est apparue (**signe 12 = p**, et non c). Les clairs révèlent aussi plus de 20 codes à trois chiffres.
+Conséquence : la clé cassée à l'aveugle est **validée par une source d'époque indépendante** ; en revanche, le contenu de f.18 et de f.28-29 **n'est pas inédit**
+(nouveauté révisée pour les résultats n°55 et n°65). Les taux officiels du § 3 ne changent pas.
+
 Le contenu relève de l'intendance et de la guerre en Westphalie : entretien des garnisons, sauf-conduit pour des envoyés aux pourparlers de paix,
 soldats gelés et amputés, convoi de ravitaillement vers « Hermanstein » (Ehrenbreitstein), rançons de prisonniers et lettres de change ; au printemps 1637,
 le transport du train d'artillerie et la préparation du repli vers la Frise orientale (Leerort, Stickhausen, Reiderland, pays de Hadeln).
@@ -35,7 +44,7 @@ le transport du train d'artillerie et la préparation du repli vers la Frise ori
 | | |
 |---|---|
 | **Cote** | Hessisches Staatsarchiv Marburg (HStAM), **4 h Nr. 1411**, f.3-33 |
-| **Images** | HCPortal, notices 496-509, images libres ; liste et SHA-1 : |
+| **Images** | HCPortal, notices 496-509, images libres (liens dans chaque `fXXX/lecture.md`) ; **dossier complet** (44 p., dont les mises en clair d'époque du § 3 bis), images libres sur Arcinsys Hessen : https://digitalisate-he.arcinsys.de/hstam/4_h/1411/hstam_4_h_nr_1411_0001.jpg à …_0044.jpg ; la notice d'archive annonce « z.T. mit beiliegenden Umschreibungen in Klartext » |
 | **Auteur / destinataire** | Otto von der Malsburg → landgrave Guillaume V de Hesse-Cassel (« Durchlauchtiger Hochgeborner Gnädiger Fürst und Herr », « E. F. G. ») |
 | **Lieu, dates** | janvier-mars 1637 ; Wesel (place tenue par les Provinces-Unies) pour f.12, f.14, f.16 et f.25 (lieu de f.3 et f.18 non relevé dans nos fichiers) ; double datation ancien/nouveau style |
 | **Forme** | lettres mêlant clair et chiffre ; le chiffre = nombres 10-99, majuscules isolées, codes à 3 chiffres, quelques signes (#, ∇, ¤, j) |
@@ -43,12 +52,12 @@ le transport du train d'artillerie et la préparation du repli vers la Frise ori
 
 ## 2. Méthode
 
-1. **Transcription** des nombres sur les images natives (tuiles sans réduction) →.
- Le flux soumis au solveur (, 2 196 nombres de 10 à 99, avec coupures) vient de f.3, f.23-24 et des 5 lignes chiffrées de f.15 ;
+1. **Transcription** des nombres sur les images natives (tuiles sans réduction) → `fXXX/chiffre.txt`.
+ Le flux soumis au solveur (`outils/flux_r2.txt`, 2 196 nombres de 10 à 99, avec coupures) vient de f.3, f.23-24 et des 5 lignes chiffrées de f.15 ;
  il ne contient **aucune** valeur injectée.
-2. **Solveur** : recuit homophone, 5-grammes lissés sur un corpus allemand du XVIIᵉ siècle
+2. **Solveur** `outils/hs2.c` : recuit homophone, 5-grammes lissés sur un corpus allemand du XVIIᵉ siècle
  (Simplicissimus), terme KL et plancher par fenêtre (`-f -5`) pour résister aux fautes de transcription. L'option `-F` (valeurs imposées) n'est **pas** utilisée.
- Commande exacte dans (§ Méthode).
+ Commande exacte au § 7 (Reproduire).
 3. **Résultat** : un **homophone à lettres**, 86 nombres → 22 lettres. Les **majuscules** isolées sont des homophones de polygrammes
  (N/D = ch, Y/G = ei, O/Z = st, S/F = au, X = sch, R/E = mm, P/W = ss, L = tt, T = ff, H = ll, signe « 1/j » = sch ; A = t et M = nn ajoutés en v6),
  établies en contexte (≥ 2 contextes clairs = PROUVÉ), puisqu'elles ne sont pas dans le flux du solveur.
@@ -106,6 +115,53 @@ et réseau de lieux géographiquement juste. Nuance déclarée : le brouillon de
 sans qu'aucune valeur en soit tirée : la clé a donc été figée avant la transcription et la lecture, plutôt qu'« avant ouverture ». f.30-31 = copie du même chiffré, témoin de
 transcription seulement.
 
+## 3 bis. Validation externe : les mises en clair d'époque du dossier (01/10/2026)
+
+**Découverte.** Le portail Arcinsys Hessen publie le dossier HStAM 4 h Nr. 1411 **complet** (44 pages ; HCPortal n'en donne que 18). Son inventaire n'a révélé **aucune
+nouvelle lettre chiffrée**, mais deux pièces en clair qui recouvrent nos lettres chiffrées ; la notice d'archive l'annonçait (« z.T. mit beiliegenden Umschreibungen in Klartext »).
+**Chronologie** : la clé a été cassée le 28/09/2026 ; toutes nos lectures étaient gelées et vérifiées avant le téléchargement de ce dossier (01/10/2026) ; **aucune valeur
+de la clé ne vient de ces clairs**.
+
+**Protocole.** Un vérificateur indépendant, en contexte frais, n'a lu ni nos lectures ni nos rapports avant ses gels. Quatre transcriptions aveugles indépendantes des clairs
+(deux pour p.19-20, deux pour p.36-38) ; arbitrage visuel des 7 écarts de p.19-20 ; transcriptions gelées et horodatées (01/10/2026, 20:31 et 20:35 UTC) avant toute comparaison ;
+normalisations déclarées d'avance (N1 stricte, N2 orthographique) ; comparaison scriptée.
+
+| pièce d'époque | notre lettre | nature | mots épelés confirmés | lettres confirmées | mots comptés compris confirmés |
+|---|---|---|---|---|---|
+| **p.19-20** (Wesel, 14/24 févr. 1637, Kurrent du secrétaire, signée, P.-S.) | **f.18**, résultat n°55 | passages chiffrés de f.18 écrits en clair **dans une autre main, en écriture latine** (barres « / », ratures, coupures : feuille de travail de déchiffreur probable ; passages autographes non exclus) | **129/139 = 92,8 %** (N2) ; 128/139 = 92,1 % (N1) | **683/700 = 97,6 %** (N1) ; 97,8 % (N2) | 128/137 ; tous les mots marqués « pessimistes » sont confirmés |
+| **p.36-38** (Wesel, 28/3/1637 v. st., une seule main, signée, P.-S.) | **f.28-29**, résultat n°65 | **version en clair complète** de la lettre (même date, même ouverture, mêmes sujets dans le même ordre) : duplicata en clair ou *Umschreibung* de chancellerie | 506/644 = 78,6 % (union des deux transcriptions aveugles) | 91,3-91,9 % | **485/549 = 88,3 %** (union ; chaque transcription seule : 85,2 % et 83,4 %) — **borne basse** |
+
+Images : https://digitalisate-he.arcinsys.de/hstam/4_h/1411/hstam_4_h_nr_1411_0019.jpg, …_0020.jpg ; https://digitalisate-he.arcinsys.de/hstam/4_h/1411/hstam_4_h_nr_1411_0036.jpg à …_0038.jpg.
+
+- **f.18.** Les 10 mots épelés non confirmés : **1 erreur de notre clé** (« discutiret » pour « disputiret » : le signe **12**, noté c dans la clé v8, vaut **p** à deux
+ reprises dans le clair d'époque, *disputiret* et *kröppeln*) ; 2 fautes du chiffreur déjà comptées non comprises (*ser* → der, *uerherren* → verharren) ; 5 variantes
+ orthographiques ou normalisations du déchiffreur (glidder/gelitter, reiterei/reuterei, nach/naher, uorbringet/forbringet, gegeben) ; 1 paraphrase en Kurrent (« wie inliegendt
+ zu sehen ») ; 1 ajout du déchiffreur (« gott geb »).
+- **f.28-29.** Les taux sont des bornes basses : le clair de référence est une transcription aveugle d'un Kurrent dense (accord des deux transcriptions ≈ 65 % mot à mot, non
+ arbitré visuellement ; les fragments de fin de ligne fusionnés donnent 722 mots au lieu de 800). Sur 64 mots comptés compris mais non confirmés, 49 sont des variantes
+ orthographiques probables (score automatique) et 15 des divergences, surtout là où les transcriptions aveugles échouent ; **aucune erreur de clé nette**. À examiner :
+ « dan » contre « das » (6 fois). Valeurs confirmées par le clair : 53 = p (6 fois), 14 = w (HYP chez nous), Q = ai, B = ff, V = ll, K = 4.
+- **La mesure sévère était conservatrice** : seuls 22 % des mots qu'elle déclarait non compris sont confirmés par le clair ; elle n'a donc pas gonflé nos taux.
+- **Codes à trois chiffres attestés par l'époque** (plus de 20 ; aucune de nos hypothèses de codes n'est contredite) : **122** = General Lieutenant (et ses homophones
+ probables **∇** et 160) ; **120** = Marquis de St. Chaumont ; **123** = (s')Gravenhagen, La Haye ; **148** et **215** = Cassel ; **260** = Hessenland ; **273** = Compagnien ;
+ **188** et **129** = E. F. G. (le prince destinataire) ; 193/213 = zu Fuß ; 212/200 = Reuter, zu Pferd ; 253/191 = Regiment ; 235 Ostfriesland ; 149 Weser ; 168 (Herren)
+ Staaden ; 197/208 Munition ; 194 proviant ; 220 Amsterdam ; 181 Hamm ; 174 Embs ; 147 Bremen ; 251/216 Meppen ; le signe barré de f.18 = Pferd(t). Ces valeurs viennent
+ d'un clair d'époque : elles **ne sont pas « cassées par nous »**, ne figurent pas dans nos fichiers de clé et n'entrent pas dans nos taux. L'identification historique du
+ General-Lieutenant n'est pas tirée du document.
+- **Taux officiels inchangés** : aucune lettre n'a été remesurée ; les chiffres du § 3 restent ceux des vérificateurs (28-29/09/2026).
+
+**Ce que cela change.**
+1. **La percée est renforcée.** Une clé cassée sans aucun clair, puis confrontée à un texte d'époque indépendant, retrouve 92-93 % des mots épelés et 97-98 % des lettres
+ de f.18 : c'est la meilleure preuve possible que le cassage à l'aveugle est juste. Une seule valeur rare était fausse (12 = p).
+2. **La nouveauté des résultats n°55 et n°65 est révisée** : leur contenu existe en clair dans le dossier même. Étiquette : « clé cassée à l'aveugle, validée a posteriori par la
+ mise en clair d'époque du même dossier » ; jamais « première lecture ». « HCPortal Not solved » signifiait seulement qu'aucune solution du chiffré n'était publiée.
+3. **Résultats n°53 (f.3), n°57 (f.25), n°60 (f.14) et n°67 (f.23-24)** : l'inventaire du dossier complet ne leur signale aucun clair d'époque (d'autres pièces en clair du dossier,
+ distinctes, n'ont pas été lues en entier). **Non trouvé ≠ inexistant** : leur nouveauté reste provisoire.
+4. **Hors de nos lettres** : le P.-S. de p.20 (main latine, « hermansteinische Sache… ») n'a aucun équivalent dans notre lecture de f.18 : un autre passage chiffré du dossier a
+ été déchiffré à l'époque ; son chiffré n'est pas localisé (f.15, f.32-33 ou pièce perdue).
+5. **Fichiers de clé non modifiés dans cette version** (ils restent la référence des mesures publiées). Points signalés pour une passe de clé ultérieure : 12 = p ; en f.29 le
+ « 122 » d'un passage est probablement le groupe 22 (= n : « ein zu nehmen ») ; « dan »/« das » ; Y/G = ei alors que l'époque écrit « eu » dans *Reuter* et *schleunig*.
+
 ## 4. Contenu (lectures ; [n] = code non résolu, … = non compris, (?) = douteux)
 
 - **f.3 (15/1/1637)** : Malsburg ne sait plus d'où tirer l'entretien des garnisons hessoises, puisque les contributions du « plat pays » prennent fin ; rations (*Commiß*)
@@ -134,13 +190,14 @@ transcription seulement.
  au **Vegesack** ; quartier dans le **pays de Hadeln, « so Sachsen-Lauenburg zuständig ist »** — détail exact (exclave de Saxe-Lauenbourg) qu'un faux déchiffrement ne produirait pas.
  P.-S. en clair (1 000 Rthlr pour Brême, 3 500 ducats).
 
-Les lectures complètes (allemand normalisé et traduction) sont dans (f.3, f.18),,,
-,.
+Les lectures complètes (allemand normalisé et traduction) sont dans `f003/lecture.md`, `f014/lecture.md`, `f018/lecture.md`, `f023-024/lecture.md`, `f025/lecture.md`
+et `f028-029/lecture.md`.
 
 ## 5. Réserves
 
 1. **Aucun code à trois chiffres résolu** (201, 239, 273, 120, 122, 123, 128, 140, 148, 176, 191, 253…), ni les signes #, ∇, ¤, j : les personnes et lieux clés restent inconnus.
  Hypothèses non prouvées : 128 = Köln ? (congrès de Cologne 1636-37), 130 = Hamburg ?, 140 = (Krone) Schweden ? ; « Frankreich » n'est pas exclu pour 140.
+ Les mises en clair d'époque (§ 3 bis) attestent plus de 20 codes (122, 120, 123, 148, 188…) : ce sont des valeurs **d'époque**, non cassées par nous, non comptées dans nos taux.
 2. **Taux par mot sous 80 %** pour f.3 (72,2 %), f.14 (70,1 %) et f.28-29 (76,1 %), pour f.23-24 en mots fusionnés (79,7 %), et pour f.25 en mode pessimiste (77,7 %). Passages opaques en f.3 (« so in flucht … bestehet », « wigemzugste »),
  deux mots opaques en f.18, *la{D}en* en f.25 (= *lachen* avec D = ch, compté non compris : probable faute du chiffreur pour *lassen*).
 3. **Valeurs rares fragiles** (1 à 4 occurrences), sous-déterminées malgré la marge globale d'unicité.
@@ -148,11 +205,13 @@ Les lectures complètes (allemand normalisé et traduction) sont dans (f.3, f.18
 5. **f.3, L7** : 41 ou 71 non tranché sur l'image (compté non compris).
 6. **Les deux premières versions de la clé contenaient deux erreurs** (78, 40), trouvées par un vérificateur et corrigées par une passe de clé documentée ; les mesures de référence
  de f.3 et f.18 ont été faites en comptant ces groupes comme non compris.
-7. **Nouveauté A provisoire** : « non trouvé » ≠ « inédit ». Un déchiffrement ou une glose d'époque peut exister à Marbourg (glose marginale de f.15 à examiner) ;
- aucune édition n'a été consultée (Rommel, *Geschichte von Hessen*, t. VIII ; recueils d'*Urkunden*).
+7. **Nouveauté** : **révisée le 01/10/2026 pour les résultats n°55 (f.18) et n°65 (f.28-29)** : le dossier même contient leur mise en clair d'époque (§ 3 bis) ; contenu non inédit,
+ étiquette « clé cassée à l'aveugle, validée a posteriori par la mise en clair d'époque du même dossier ». Pour f.3, f.14, f.23-24 et f.25 : **A provisoire** (« non trouvé » ≠ « inédit ») ;
+ un déchiffrement ou une glose d'époque peut exister ailleurs (glose marginale de f.15 à examiner) ; aucune édition n'a été consultée (Rommel, *Geschichte von Hessen*, t. VIII ;
+ recueils d'*Urkunden*).
 8. **Contexte historique non contrôlé** dans une source imprimée (fonction exacte de Malsburg, traité de Wesel de 1636, officiers nommés, Ehrenbreitstein, Gallas) :
  seuls les passages en clair et la cohérence de date ont été vérifiés. Aucune anachronie relevée.
-9. Travail sur les **images HCPortal**, non sur l'original.
+9. Travail sur les **images HCPortal** (et, pour le § 3 bis, sur celles d'Arcinsys Hessen), non sur l'original.
 10. **f.3 et f.23-24 ont servi au cassage** : leurs taux ne prouvent pas la clé (ce sont f.14, f.18, f.25 et f.28-29 qui la valident). Codes non résolus de f.23-24 :
  120, 122, 128, 137, 140, 163, 177, 188, 189, 191, 200, 202, 212, 231, 269 ; Q = ai et B = ff HYP. f.28-29 : ≈ 40 codes, j = sch, ‡, majuscules HYP B, Q, C, V, K ;
  8 sites de l'aveugle du vérificateur non tranchés à l'image (comptés N en pessimiste) ; officiers (Uffel, Karpf, Hohendorf) et « Mansfelder » non vérifiés en édition.
@@ -174,4 +233,5 @@ f.32-33 (second système). Aucun code à trois chiffres n'est proposé comme ré
 ## Sources
 
 - Hessisches Staatsarchiv Marburg, 4 h Nr. 1411 ; images et notices HCPortal 496-509 (https://api.hcportal.eu/api/cryptograms/496 … 509).
+- Dossier complet (44 p.) sur Arcinsys Hessen : https://digitalisate-he.arcinsys.de/hstam/4_h/1411/hstam_4_h_nr_1411_0001.jpg … _0044.jpg ; mises en clair d'époque p.19-20 (f.18) et p.36-38 (f.28-29).
 - Projet parallèle : dbourdeau/cyphersolver, `targets/malsburg1637` (publié le 29/09/2026).

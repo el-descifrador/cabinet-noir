@@ -8,6 +8,10 @@
   - copie du même chiffré (HCPortal 508) : https://api.hcportal.eu/media/1426/23311677519840.jpg, https://api.hcportal.eu/media/1427/99171677519840.jpg
 - **Clé** : cassée à l'aveugle par nous (voir `../cle/` et `../README.md`).
 - **Lu en parallèle** d'un autre projet public qui a publié ce fonds le premier (voir `../README.md`, § Antériorité) : pas de revendication de priorité.
+- **Mise en clair d'époque** (trouvée le 01/10/2026, après le cassage et la vérification) : dossier complet Arcinsys Hessen, p.36-38 (https://digitalisate-he.arcinsys.de/hstam/4_h/1411/hstam_4_h_nr_1411_0036.jpg à …_0038.jpg),
+  version en clair complète de la lettre. Comparée par un vérificateur qui l'a transcrite à l'aveugle, elle confirme **au moins 88,3 %** (485/549) des mots que notre mesure
+  comptait compris (borne basse : Kurrent dense) ; aucune erreur de clé nette. **Nouveauté révisée** : « clé cassée à l'aveugle, validée a posteriori par la mise en clair
+  d'époque du même dossier » ; le contenu n'est pas inédit. Taux officiels inchangés. Voir `../README.md` § 3 bis.
 
 ## Verdict du vérificateur indépendant : CONFIRMÉ AVEC RÉSERVES
 

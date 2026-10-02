@@ -1,7 +1,8 @@
 # « Snell an St.. », HStAM 9 a Nr. 259 f.249, 20/2/1824 (résultat n°51)
 
 - Image (lien seulement) : https://api.hcportal.eu/media/1439/17901677521692.jpg — notice HCPortal 513.
-- Clé : *bcdefg* (note d'époque), Vigenère sur alphabet de 25 lettres sans j, prolongé par les chiffres ; voir `../README.md` § 2.
+- Clé : *bcdefg* (note d'époque), Vigenère sur alphabet de 25 lettres sans j, prolongé par les chiffres ; voir `../README.md` § 2. Système confirmé par le tableau
+  de Vigenère d'époque du même dossier (fol. 237 ; alphabet cyclique de 35 signes commençant par 0) : voir `../README.md` § 2 bis ; taux inchangés.
 - **Lu en parallèle d'un autre projet qui a publié le premier** (voir `../README.md`).
 
 ## Verdict du vérificateur : CONFIRMÉ AVEC RÉSERVES

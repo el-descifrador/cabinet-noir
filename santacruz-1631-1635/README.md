@@ -220,18 +220,18 @@ seulement de **conditionner** l'ouverture des cibles (règle de la coordination 
 
 | test | paire | main | clé | groupe strict | mot | faux | décision |
 |---|---|---|---|---|---|---|---|
-| n°1 | D.114 ↔ D.115 | serrée sans points | r22 (d6449e5e) | 73,2 % | 50,0 % | 3 | < 80 % : cibles fermées |
-| n°2 | D.103 ↔ D.104 | serrée sans points | r23 (55e83589) | 76,9 % | 53,5 % | 17 (notation ∓/≠) | < 80 % |
-| n°3 | D.101 ↔ D.102 | à points | r24 (e6b67a9b) | 78,9 % | 61,3 % | 0 / 105 | < 80 % : D.113 reste fermée |
-| n°4 | D.121 ↔ D.122 (3/10/1634) | à points | r25 | **80,2 %** (154/192) ; or v1 79,7 %, pessimiste 78,6 % | 62,5 % | 1 | **≥ 80 % (marge 1 groupe, après correction documentée d'un alignement de l'or) → feu vert D.113 (01:41)** |
+| test n°1 | D.114 ↔ D.115 | serrée sans points | r22 (d6449e5e) | 73,2 % | 50,0 % | 3 | < 80 % : cibles fermées |
+| test n°2 | D.103 ↔ D.104 | serrée sans points | r23 (55e83589) | 76,9 % | 53,5 % | 17 (notation ∓/≠) | < 80 % |
+| test n°3 | D.101 ↔ D.102 | à points | r24 (e6b67a9b) | 78,9 % | 61,3 % | 0 / 105 | < 80 % : D.113 reste fermée |
+| test n°4 | D.121 ↔ D.122 (3/10/1634) | à points | r25 | **80,2 %** (154/192) ; or v1 79,7 %, pessimiste 78,6 % | 62,5 % | 1 | **≥ 80 % (marge 1 groupe, après correction documentée d'un alignement de l'or) → feu vert D.113 (01:41)** |
 | — | **D.113 (aveugle)** | à points | r26 | 84,8 % (casseur) | 67,0 % | | → résultat n°70 |
-| n°5 | D.126 ↔ D.127 | **main neuve** | r26 | 69,2 % | 50,0 % | 2 | baisse : ≈ 15 formes absentes |
-| n°6 | D.128 ↔ D.129 (16/11/1634) | à points | r27 | 79,5 % | 62,2 % | 4 | main à points déjà validée par n°4 → **feu vert D.99 (02:31)** |
+| test n°5 | D.126 ↔ D.127 | **main neuve** | r26 | 69,2 % | 50,0 % | 2 | baisse : ≈ 15 formes absentes |
+| test n°6 | D.128 ↔ D.129 (16/11/1634) | à points | r27 | 79,5 % | 62,2 % | 4 | main à points déjà validée par le test n°4 → **feu vert D.99 (02:31)** |
 | — | **D.99 (aveugle)** | à points | r28 | 84,1 % (casseur) | 69,9 % | | → résultat n°71 |
-| n°7 | D.134 ↔ D.135 (18/1/1635) | penchée | r29 | 74,9 % | 59,7 % | 23 | < 80 % : aucune cible 1635 ouverte |
-| n°8 | D.148 ↔ D.149 (20/6/1635) | sans points, type D.134 | r30 | **85,4 %** (819/959) | 71,3 % | 17 | **≥ 80 % → feu vert D.145** |
+| test n°7 | D.134 ↔ D.135 (18/1/1635) | penchée | r29 | 74,9 % | 59,7 % | 23 | < 80 % : aucune cible 1635 ouverte |
+| test n°8 | D.148 ↔ D.149 (20/6/1635) | sans points, type D.134 | r30 | **85,4 %** (819/959) | 71,3 % | 17 | **≥ 80 % → feu vert D.145** |
 | — | **D.145 (aveugle)** | à points | r31 | 84,1 % (casseur) | 68,6 % | | → résultat n°74 |
-| n°9 | D.150 ↔ D.151 (4/1635) | **serrée sans points** (= main de D.143) | r32 | 73,4 % | 54,4 % | 5 | < 80 % : **D.143 reste FERMÉE** |
+| test n°9 | D.150 ↔ D.151 (4/1635) | **serrée sans points** (= main de D.143) | r32 | 73,4 % | 54,4 % | 5 | < 80 % : **D.143 reste FERMÉE** |
 
 Lecture de la série : dans une main **connue**, la clé généralise à ≈ 80-85 % strict avec une **précision élevée** (0 à 4 valeurs fausses sur des centaines) ; une main neuve
 coûte ≈ 10 points ; la main serrée sans points plafonne (nuls ♀/∝/ν́ ≈ 7 % des groupes, codes propres à chaque lettre). Info non comptée : D.117 (real cédula partiellement

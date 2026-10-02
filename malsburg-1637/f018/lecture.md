@@ -6,6 +6,10 @@
   - https://api.hcportal.eu/media/1416/49641677516954.jpg
 - **Clé** : cassée à l'aveugle par nous (voir `../cle/` et `../README.md`).
 - **Lu en parallèle** d'un autre projet public qui a publié ce fonds le premier (voir `../README.md`, § Antériorité) : pas de revendication de priorité.
+- **Mise en clair d'époque** (trouvée le 01/10/2026, après le cassage et la vérification) : dossier complet Arcinsys Hessen, p.19-20 (https://digitalisate-he.arcinsys.de/hstam/4_h/1411/hstam_4_h_nr_1411_0019.jpg, …_0020.jpg).
+  Comparée par un vérificateur qui l'a transcrite à l'aveugle, elle confirme **92,8 % des mots épelés (129/139) et 97,6 % des lettres** de notre lecture ; une erreur de clé :
+  le signe 12 vaut p, et non c (« disputiret » et non « discutiret » : « a disputé » plutôt que « a discuté » ci-dessous). **Nouveauté révisée** : « clé cassée à l'aveugle,
+  validée a posteriori par la mise en clair d'époque du même dossier » ; le contenu n'est pas inédit. Taux officiels inchangés. Voir `../README.md` § 3 bis.
 
 ## Verdict du vérificateur indépendant : CONFIRMÉ AVEC RÉSERVES
 

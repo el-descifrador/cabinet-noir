@@ -1,7 +1,8 @@
 # « Snell an St.. » (1824) : message chiffré de la Demagogenverfolgung
 
 **Hessisches Staatsarchiv Marburg, 9 a Nr. 259, f.249 (20/2/1824) — résultat n°51. Étiquette : « lecture avec clé d'époque » (clé et règle données par la note du déchiffreur de 1824).
-Confirmé avec réserves par un vérificateur indépendant : 157/170 = 92,4 % des lettres, 22/32 = 68,8 % des mots (réserve : fautes de copie).**
+Confirmé avec réserves par un vérificateur indépendant : 157/170 = 92,4 % des lettres, 22/32 = 68,8 % des mots (réserve : fautes de copie).
+Système confirmé (01/10/2026) par le tableau de Vigenère d'époque conservé dans le même dossier, fol. 237 (§ 2 bis) ; taux inchangés.**
 
 ## Antériorité et lecture parallèle (à lire d'abord)
 
@@ -36,7 +37,7 @@ Ludwig Snell à Wetzlar le 9/1/1820.
 | **En-tête** | « Snell an St.. » (destinataire mal lisible) |
 | **Chiffre** | 6 lignes, **170 lettres de clair** (32 mots) ; lettres latines cursives + chiffres 1, 3, 4 ; ponctuation «. » et « ? » |
 | **Note d'époque** | « Anmerkung » en Kurrent sous le chiffre : mode d'écriture (encre sympathique « No. 1 », entre les lignes d'un « ganz gleichgültigen Brief »), clé *bcdefg*, règle, exemple |
-| **Tableau** | le « untenstehender Schlüssel » dont parle la note **n'est pas sur l'image** |
+| **Tableau** | le « untenstehender Schlüssel » dont parle la note n'est pas sur l'image de f.249 ; il est conservé dans le **même dossier, fol. 237** (Arcinsys Hessen, image 248 : https://digitalisate-he.arcinsys.de/hstam/9_a/259/hstam_9_a_nr_259_0248.jpg), repéré le 01/10/2026, après la lecture : voir § 2 bis |
 | **Étendue** | **complétude NON prouvée** : la note dit « Auf diese Art sind **zwey Seiten voll** » et le texte parle de « **dieses** Plans » comme d'une chose déjà nommée ; f.249 est une copie du « Concept », **peut-être un extrait** |
 | **Pièces voisines** | sur HCPortal, seules 9 a Nr. 258 f.16 et f.25 (notices 511-512, chiffre télégraphique monoalphabétique, « Solved ») : sans rapport. f.249v-250 non publiés |
 
@@ -52,7 +53,28 @@ Ludwig Snell à Wetzlar le 9/1/1820.
 - **Alternatives testées par le vérificateur** (score trigramme allemand, ) : même système sans l'omission (−5,85), chiffres ne consommant pas de clé (−5,51),
  alphabet de 26 lettres (−5,14), Beaufort (−6,39), décalage = rang sans + 1 (−6,32), contre **−3,77** pour le système annoncé ; balayage complet (25/26 lettres ×
  Vigenère/Beaufort/variante × décalages × traitement des chiffres) : **seul le système annoncé donne de l'allemand**. Bouclage modulo 29 ou non : indécidable (un seul
- signe fautif concerné), sans effet sur la lecture.
+ signe fautif concerné), sans effet sur la lecture. *Question tranchée depuis par le tableau d'époque (§ 2 bis) : alphabet cyclique de 35 signes, modulo 29 réfuté.*
+
+## 2 bis. Le tableau d'époque (fol. 237) : une prédiction vérifiée (01/10/2026)
+
+- **Trouvaille** : le dossier HStAM 9 a Nr. 259 complet (322 images sur Arcinsys Hessen) a été parcouru le 01/10/2026. L'image 248 = **fol. 237**, un **tableau de Vigenère**
+ intitulé « Zero » : c'est le « untenstehender Schlüssel » dont parle la note de f.249 (https://digitalisate-he.arcinsys.de/hstam/9_a/259/hstam_9_a_nr_259_0248.jpg). L'image 250 = **fol. 238**, « Rezepte zu
+ sympathetischen Tinten » (n°1 « Extracti Saturni », qui répond à l'encre « No. 1 (extr. Sat.) » de la note ; relevé lors du repérage, non contrôlé par le vérificateur).
+- **Contrôle** (vérificateur indépendant, contexte frais) : relevé de la grille et nouveau déchiffrement de f.249 par **recherche littérale dans la grille**, sans rien modifier
+ à la lecture.
+  - Grille de **36 × 36**, alphabet cyclique de **35 signes** : `0 a b c d e f g h i k l m n o p q r s t u v w x ÿ z 1 2 3 4 5 6 7 8 9` (25 lettres, **sans j**, y écrit ÿ
+ entre x et z), **période 35** ; chaque ligne décalée d'un cran ; colonnes 0 à g (celles de la clé bcdefg) et coins vérifiés au zoom, sans faute de copie (les autres cases,
+ inutiles avec cette clé, n'ont été vues qu'à 800 px).
+  - Le **décalage « rang + 1 »**, déduit de l'exemple d'époque, s'explique : la ligne du haut **commence par 0**, donc b est en colonne 2, …, g en 7.
+  - L'**ordre du débordement** (z, 1, 2, …) est celui du tableau ; l'alphabet sans j et la place de ÿ sont confirmés.
+  - **Bouclage** : pour un clair en lettres, l'indice maximal est z + g = 32 < 35 : le chiffreur n'a jamais eu à boucler. Partout où notre système donne une lettre, le tableau
+ donne la même ; les seules divergences (54 couples sur 35 × 6) sont des cas où notre système donne « # » et le tableau un chiffre, possibles seulement pour un clair en chiffres
+ (aucun dans f.249). **Modulo 29 réfuté.**
+- **Nouveau déchiffrement de f.249** : 1 seule position divergente sur la transcription de référence (« fragen » : tableau `frh0en`, notre système `frh#en`, déjà compté fautif ;
+ l'interversion ld/dl reste la seule explication) ; la confusion **2/z** de « wegen » est confirmée ; aucune anomalie ne vient d'une confusion 1/i. **Taux inchangés** :
+ 157/170 = 92,4 % des lettres, 22/32 = 68,8 % des mots (aveugle 91,2 / 62,5 ; casseur 91,8 / 65,6).
+- **Portée** : la reconstruction du 28/09/2026 a été faite **sans voir** ce tableau ; un document indépendant la confirme point par point. Cela **renforce la confiance dans la
+ lecture** ; cela retire en revanche « la reconstruction du tableau » de notre apport propre. L'étiquette ne change pas : **lecture avec clé et méthode d'époque**, pas une percée.
 
 ## 3. Transcription et contrôles
 
@@ -124,7 +146,9 @@ dieses (q pour g) ; Plans (u pour w) ; Folgen (**qg pour gq**, interversion).
 ## 7. Nouveauté : apport FAIBLE ; lecture publiée d'abord par un tiers (voir « Antériorité ») ; « non trouvé » ≠ « inédit »
 
 - **Ce n'est pas une percée** : la page porte la clé, la règle, un exemple déchiffré (7 premiers signes, dont 6 justes selon notre modèle) et l'aveu du déchiffreur de 1824
- qu'il y est parvenu. **Un déchiffrement complet d'époque existe presque certainement** dans le dossier (f.249v-250 et suivants, non vus) ou dans les rapports d'enquête.
+ qu'il y est parvenu ; le tableau qu'il cite est conservé dans le même dossier (fol. 237, § 2 bis). **Un déchiffrement complet d'époque a très probablement existé** ;
+ le parcours du dossier complet (01/10/2026, sur vignettes ; les pages de tables n'ont pas toutes été vues en pleine taille) n'en a pas repéré, ni aucun autre message chiffré :
+ il peut se trouver dans les rapports d'enquête.
 - **Rien trouvé imprimé** : Internet Archive plein texte (« Lisching oder einen andern », « schicket Lisching », « beantworte diese Fragen » + Snell, « zwischen die Linien
  eines ganz », « Snell » + « sympathetische Tinte ») : 0 ; Spindler, *Karl Follen* (1917) : aucun passage sur un chiffre ; Arcinsys / Archivportal-D : description du
  dossier non obtenue.
@@ -133,13 +157,15 @@ dieses (q pour g) ; Plans (u pour w) ; Folgen (**qg pour gq**, interversion).
 - **Concurrents** : cipher-lab (transcription du 26/09, note vue mais non appliquée, essais aveugles négatifs, cible « partial ») ; cyphersolver et
  unsolved-ciphers : catalogues.
 - **Formule** : « première lecture moderne connue de nous, avec la clé et la méthode d'époque données sur la page ». Jamais « découverte » ni « clé cassée ».
+ Depuis le 01/10/2026, la reconstruction du tableau n'est plus un apport propre : le tableau d'époque existe (fol. 237).
 
 ## 8. Réserves
 
 1. **Clé d'époque** : pas une percée ; le mérite de la clé revient au déchiffreur de 1824.
 2. **Taux au mot 68,8 % < 80 %** : 10 mots portent une faute de copie (dont deux interversions et une confusion 2/z).
 3. **Complétude non prouvée** : « zwey Seiten voll » ; f.249 peut n'être qu'un extrait.
-4. Tableau d'époque non vu : sa reconstruction (25 lettres + débordement en chiffres) est déduite de l'exemple et de la lisibilité, non d'une source.
+4. Tableau d'époque : vu **après** la lecture (fol. 237, § 2 bis) ; il confirme point par point la reconstruction (25 lettres sans j + débordement en chiffres, décalage rang + 1),
+ contrôlée au zoom sur les colonnes utiles (0 à g).
 5. La transcription de référence intègre la correction du vérificateur (L3 « erlÿlfe », et non « crlÿlfe »).
 6. Identifications (Lisching, Snell expéditeur, destinataire) = HYP ; aucune relecture humaine de l'image ni de la note en Kurrent.
 
@@ -152,5 +178,6 @@ python3 outils/dechiffre.py f249/chiffre.txt   # clé bcdefg, alphabet 25 lettre
 
 ## Sources
 
+- Hessisches Staatsarchiv Marburg, 9 a Nr. 259, fol. 237 (tableau de Vigenère d'époque) : Arcinsys Hessen, image 248, https://digitalisate-he.arcinsys.de/hstam/9_a/259/hstam_9_a_nr_259_0248.jpg
 - Hessisches Staatsarchiv Marburg, 9 a Nr. 259, f.249 ; HCPortal notice 513 (https://api.hcportal.eu/api/cryptograms/513), image https://api.hcportal.eu/media/1439/17901677521692.jpg
 - Lecture parallèle : dbourdeau/cyphersolver, `targets/hesse1824` (publiée le 29/09/2026).
